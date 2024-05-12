@@ -29,5 +29,7 @@ headers = {**headers, **{'Authorization': f"bearer {TOKEN}"}}
 
 # # while the token is valid (~2 hours) we just add headers=headers to our requests
 
-res = requests.get("https://oauth.reddit.com/r/python/hot",
+res = requests.get("https://oauth.reddit.com/r/ArsenalFC/new",
                    headers=headers)
+for post in res.json()['data']['children']:
+    print(post)
