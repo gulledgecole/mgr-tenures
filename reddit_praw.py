@@ -1,6 +1,7 @@
 import praw
 import pandas as pd
 import os 
+from time import sleep 
 
 reddit_client = os.environ.get("reddit_client")
 reddit_app_pass = os.environ.get("reddit_app_pass")
@@ -20,7 +21,7 @@ subreddit = reddit.subreddit('ArsenalFC')
 data = []
 
 # Scraping posts & Comments
-for post in subreddit.top(limit= 25): 
+for post in subreddit.new(limit= 1000): 
     data.append({
         'Type': 'Post',
         'Post_id': post.id,
@@ -37,6 +38,7 @@ for post in subreddit.top(limit= 25):
     if post.num_comments > 0:
         # Scraping comments for each post
         post.comments.replace_more(limit= None)
+        sleep(2)
         for comment in post.comments.list():
             data.append({
                 'Type': 'Comment',
