@@ -23,7 +23,7 @@ subreddit = reddit.subreddit("ArsenalFC")
 data = []
 
 # Scraping posts & Comments
-for post in subreddit.new(limit=1000):
+for post in subreddit.new(limit=10000):
     data.append(
         {
             "Type": "Post",
@@ -37,12 +37,13 @@ for post in subreddit.new(limit=1000):
             "Post_URL": post.url,
         }
     )
+    sleep(1)
+
 
     # Check if the post has comments
     if post.num_comments > 0:
         # Scraping comments for each post
         post.comments.replace_more(limit=None)
-        sleep(2)
         for comment in post.comments.list():
             data.append(
                 {
@@ -60,4 +61,4 @@ for post in subreddit.new(limit=1000):
 
 # Create pandas DataFrame for posts and comments
 data = pd.DataFrame(data)
-data.to_csv("arsenalFC.csv")
+data.to_csv("arsenalFC_june_9th.csv")
