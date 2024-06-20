@@ -9,6 +9,7 @@ pandas = "*"
 black = "*"
 pytz = "*"
 zstandard = "*"
+bs4 = "*"
 
 [dev-packages]
 
