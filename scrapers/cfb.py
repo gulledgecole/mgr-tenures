@@ -61,9 +61,39 @@ def scrape_school_info(school_urls):
     df = pd.DataFrame(table_data, columns=columns)
     df.replace('', pd.NA, inplace=True)  # Replace empty strings with NaN
     df.dropna(how='all', inplace=True)
-    df.to_csv("../data/school_info.csv")
+    df.to_csv("../data/school_info_old.csv")
         # with open('output.html', 'w', encoding='utf-8') as file:
         #     file.write(str(soup.prettify()))
+def scrape_schools_info(school_urls):
+    agent = generate_user_agent()
+    data = requests.get(school_urls, headers={"User-Agent": agent})
+    if data.status_code == 200:
+        html_content = data.text
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+# Extract the table
+    table = soup.find('table')
+
+    # Extract column names
+    columns = [th.get_text(strip=True) for th in table.find('thead').find_all('th')]
+
+    # Extract rows
+    rows = []
+    for tr in table.find('tbody').find_all('tr'):
+        cells = [td.get_text(strip=True) for td in tr.find_all('td')]
+        rows.append(cells)
+
+    # Ensuring all rows have the same length as the column count by adding None to missing values
+    adjusted_rows = []
+    for row in rows:
+        while len(row) < len(columns):
+            row.append(None)
+        adjusted_rows.append(row)
+
+    # Create the DataFrame with adjusted rows
+    df_adjusted = pd.DataFrame(adjusted_rows, columns=columns)
+    df_adjusted.to_csv("../data/school_info.csv")
+
 
 def scrape_coaches(school_url):
     agent = generate_user_agent()
