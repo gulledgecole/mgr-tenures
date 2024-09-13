@@ -11,6 +11,8 @@ pytz = "*"
 zstandard = "*"
 bs4 = "*"
 pylint = "*"
+cfbd = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
