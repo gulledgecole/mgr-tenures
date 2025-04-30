@@ -1,0 +1,29 @@
+Key Point in using the Leagues API:
+2010 to 2013: Coverage for fixtures events and lineups is available, but there is no coverage for statistics (both for fixtures and players).
+
+2014 and onwards: Starting from the 2014 season, statistics for fixtures and players are available, and the overall coverage expands significantly, offering more detailed stats and coverage across all aspects, including injuries, predictions, and odds.
+
+When Coverage is Available or Not:
+Available Coverage (2014 to 2024): Starting from the 2014 season, full coverage for fixtures, lineups, statistics (fixtures and players), players, standings, top scorers, top assists, and top cards is available across all seasons up to 2024. This is the period where the API provides the most comprehensive coverage for the league.
+
+Limited Coverage (2010 to 2013): For the earlier seasons (2010 to 2013), the API provided limited coverage, primarily for fixtures and lineups, but lacked detailed statistics such as statistics_fixtures and statistics_players, as well as other aspects like injuries, predictions, and odds.
+
+Key Points for Coverage in 2024 (Current Season):
+In 2024, you can see the most extensive coverage with fixtures events, lineups, statistics fixtures, statistics players, injuries, predictions, and odds all being available. This indicates that the API provides detailed data for every fixture and player, including statistics and betting odds for the ongoing season.
+
+Conclusion:
+From 2010 to 2013, coverage was limited, primarily covering fixtures and lineups, with no statistics available for fixtures or players.
+
+From 2014 onwards, coverage improved, adding more statistics and detailed data, such as fixtures statistics, player statistics, injuries, and predictions.
+
+2024 provides the most comprehensive coverage, with all the detailed statistics and data available, including odds.
+
+This detailed coverage ensures that the API can be used to access detailed historical and current season data, especially for modern seasons starting from 2014 onward.
+
+Let me know if you need further details or a more specific breakdown!
+
+Notes on Subscription: 
+
+To access data older than 2021, you would need to subscribe to one of the paid plans, as the free plan is limited to data from 2021 to 2023. 
+You can choose from the Pro, Ultra, or Mega plans, depending on your needs for the number of requests per day. 
+Each of these plans provides access to all features and data of the APIs without restrictions on the seasons. If you need further assistance, feel free to reach out!
