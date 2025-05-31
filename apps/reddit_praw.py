@@ -39,7 +39,6 @@ for post in subreddit.new(limit=10000):
     )
     sleep(1)
 
-
     # Check if the post has comments
     if post.num_comments > 0:
         # Scraping comments for each post

@@ -6,8 +6,8 @@ load_dotenv()
 
 # Configure API key authorization: ApiKeyAuth
 configuration = Configuration()
-configuration.api_key['Authorization'] = os.getenv('CFBD_API_KEY')
-configuration.api_key_prefix['Authorization'] = 'Bearer'
+configuration.api_key["Authorization"] = os.getenv("CFBD_API_KEY")
+configuration.api_key_prefix["Authorization"] = "Bearer"
 
 api_instance = CoachesApi(ApiClient(configuration))
 

@@ -15,7 +15,7 @@ def generate_user_agent():
     agent = random.choice(user_agents_list)
 
     return agent
-    
+
 
 def scrape_schools(base_url):
     agent = generate_user_agent()
@@ -24,25 +24,47 @@ def scrape_schools(base_url):
         html_content = data.text
         soup = BeautifulSoup(html_content, "html.parser")
         table_data = []
-        table = soup.find('table')
+        table = soup.find("table")
         if table:
-            rows = table.find_all('tr')
+            rows = table.find_all("tr")
             for row in rows:
-                columns = row.find_all('td')
+                columns = row.find_all("td")
                 row_data = [col.get_text(strip=True) for col in columns]
                 table_data.append(row_data)
-    columns = ["School", "From", "To", "Yrs", "G", "W", "L", "T", "Pct", 
-           "G", "W", "L", "T", "Pct", "SRS", "SOS", "AP", "CC", "Notes"]
+    columns = [
+        "School",
+        "From",
+        "To",
+        "Yrs",
+        "G",
+        "W",
+        "L",
+        "T",
+        "Pct",
+        "G",
+        "W",
+        "L",
+        "T",
+        "Pct",
+        "SRS",
+        "SOS",
+        "AP",
+        "CC",
+        "Notes",
+    ]
     df = pd.DataFrame(table_data, columns=columns)
-    df.replace('', pd.NA, inplace=True)  # Replace empty strings with NaN
-    df.dropna(how='all', inplace=True)
-    df['School_URL'] = df['School'].str.replace(' ', '-').apply(lambda x: f"{base_url}{x.lower()}/")
-    school_urls = df['School_URL'].tolist()
+    df.replace("", pd.NA, inplace=True)  # Replace empty strings with NaN
+    df.dropna(how="all", inplace=True)
+    df["School_URL"] = (
+        df["School"].str.replace(" ", "-").apply(lambda x: f"{base_url}{x.lower()}/")
+    )
+    school_urls = df["School_URL"].tolist()
 
     return school_urls
 
-        # with open('output.html', 'w', encoding='utf-8') as file:
-        #     file.write(str(soup.prettify()))
+    # with open('output.html', 'w', encoding='utf-8') as file:
+    #     file.write(str(soup.prettify()))
+
 
 def scrape_school_info(school_urls):
     agent = generate_user_agent()
@@ -51,36 +73,38 @@ def scrape_school_info(school_urls):
         html_content = data.text
         soup = BeautifulSoup(html_content, "html.parser")
         table_data = []
-        table = soup.find('table')
+        table = soup.find("table")
         if table:
-            rows = table.find_all('tr')
+            rows = table.find_all("tr")
             for row in rows:
-                columns = row.find_all('td')
+                columns = row.find_all("td")
                 row_data = [col.get_text(strip=True) for col in columns]
                 table_data.append(row_data)
     df = pd.DataFrame(table_data, columns=columns)
-    df.replace('', pd.NA, inplace=True)  # Replace empty strings with NaN
-    df.dropna(how='all', inplace=True)
+    df.replace("", pd.NA, inplace=True)  # Replace empty strings with NaN
+    df.dropna(how="all", inplace=True)
     df.to_csv("../data/school_info_old.csv")
-        # with open('output.html', 'w', encoding='utf-8') as file:
-        #     file.write(str(soup.prettify()))
+    # with open('output.html', 'w', encoding='utf-8') as file:
+    #     file.write(str(soup.prettify()))
+
+
 def scrape_schools_info(school_urls):
     agent = generate_user_agent()
     data = requests.get(school_urls, headers={"User-Agent": agent})
     if data.status_code == 200:
         html_content = data.text
-    soup = BeautifulSoup(html_content, 'html.parser')
+    soup = BeautifulSoup(html_content, "html.parser")
 
-# Extract the table
-    table = soup.find('table')
+    # Extract the table
+    table = soup.find("table")
 
     # Extract column names
-    columns = [th.get_text(strip=True) for th in table.find('thead').find_all('th')]
+    columns = [th.get_text(strip=True) for th in table.find("thead").find_all("th")]
 
     # Extract rows
     rows = []
-    for tr in table.find('tbody').find_all('tr'):
-        cells = [td.get_text(strip=True) for td in tr.find_all('td')]
+    for tr in table.find("tbody").find_all("tr"):
+        cells = [td.get_text(strip=True) for td in tr.find_all("td")]
         rows.append(cells)
 
     # Ensuring all rows have the same length as the column count by adding None to missing values
@@ -115,6 +139,6 @@ def scrape_coaches(school_url):
 
 
 if __name__ == "__main__":
-    #school_list = scrape_schools("https://www.sports-reference.com/cfb/schools/")
+    # school_list = scrape_schools("https://www.sports-reference.com/cfb/schools/")
     scrape_school_info("https://www.sports-reference.com/cfb/schools/akron/")
-    #scrape_coaches("https://www.sports-reference.com/cfb/schools/air-force/coaches.html")
+    # scrape_coaches("https://www.sports-reference.com/cfb/schools/air-force/coaches.html")

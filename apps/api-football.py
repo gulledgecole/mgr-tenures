@@ -56,19 +56,21 @@ class FixturesAPI(FootballAPI):
             return fixtures_data["response"]
         else:
             return []
-        
-class CoachsAPI(FootballAPI): 
+
+
+class CoachsAPI(FootballAPI):
     def __init__(self, api_key):
         super().__init__(api_key)
-    
-    def get_coachs(self, team_id): 
-        params =  {"team" : team_id}
+
+    def get_coachs(self, team_id):
+        params = {"team": team_id}
         coach_data = self._get_request("coachs", params)
-        if coach_data: 
+        if coach_data:
             return coach_data
-        else: 
+        else:
             return "No coach data here!"
-        
+
+
 def split_iso_datetime(iso_str: str) -> tuple[str, str]:
     """
     Given an ISO timestamp like "2021-08-14T11:30:00+00:00",
@@ -78,13 +80,16 @@ def split_iso_datetime(iso_str: str) -> tuple[str, str]:
     return dt.date().isoformat(), dt.time().isoformat()
 
 
-
 def return_results(api_key):
     leagues_api = LeaguesAPI(api_key)
     fixtures_api = FixturesAPI(api_key)
     premier_league_id = "39"
     print(f"Fetching Fixtures for Premier League (ID {premier_league_id})...")
-    seasons = ["2021", "2022", "2023",]
+    seasons = [
+        "2021",
+        "2022",
+        "2023",
+    ]
     fixture_data = []
     for season in seasons:
         fixtures = fixtures_api.get_fixtures_by_league(premier_league_id, season)
@@ -116,7 +121,7 @@ def return_results(api_key):
                         "Away_Team_Name": fixture["teams"]["away"]["name"],
                         "Away_Team_ID": fixture["teams"]["away"]["id"],
                         "Date": date,
-                        "Time" : time,
+                        "Time": time,
                         "Home_Winner": home_winner,
                         "Away_Winner": away_winner,
                         "Home_Tie": home_tie,
@@ -138,52 +143,57 @@ def return_results(api_key):
     df.to_csv("fixtures_premier_league.csv", index=False)
     print("Fixture data saved to 'fixtures_premier_league.csv'")
 
-def return_coachs(api_key): 
+
+def return_coachs(api_key):
     coachs_api = CoachsAPI(api_key)
-    results_df = pd.read_csv("/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv")
+    results_df = pd.read_csv(
+        "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
+    )
     team_ids = results_df["Home_Team_ID"].unique().tolist()
     print(len(team_ids))
     rows = []
-    for team in team_ids: 
+    for team in team_ids:
         coachs = coachs_api.get_coachs(team)
-        for coach in coachs['response']:
+        for coach in coachs["response"]:
             coach_id = coach["id"]
-            coach_name = coach['name']
-            nationality = coach.get('nationality')
-            birthdate = coach.get('birth', {}).get('date')
-            for tenure in coach.get('career', []):
-                team_id = tenure['team']['id']
-                team_name = tenure['team']['name']
-                start_date = tenure['start']
-                end_date = tenure['end']
-                if not end_date: 
+            coach_name = coach["name"]
+            nationality = coach.get("nationality")
+            birthdate = coach.get("birth", {}).get("date")
+            for tenure in coach.get("career", []):
+                team_id = tenure["team"]["id"]
+                team_name = tenure["team"]["name"]
+                start_date = tenure["start"]
+                end_date = tenure["end"]
+                if not end_date:
                     end_date = "Current"
-                rows.append({
-                    'coach_id' : coach_id,
-                    'coach_name': coach_name,
-                    'nationality': nationality,
-                    'birthdate': birthdate,
-                    'team_id': team_id,
-                    'team_name': team_name,
-                    'start_date': start_date,
-                    'end_date': end_date
-                })
+                rows.append(
+                    {
+                        "coach_id": coach_id,
+                        "coach_name": coach_name,
+                        "nationality": nationality,
+                        "birthdate": birthdate,
+                        "team_id": team_id,
+                        "team_name": team_name,
+                        "start_date": start_date,
+                        "end_date": end_date,
+                    }
+                )
     df = pd.DataFrame(rows)
 
-    df.to_csv('coaches_tenures_extended.csv', index=False)
-
-def merge_coach_team(): 
-
-
+    df.to_csv("coaches_tenures_extended.csv", index=False)
 
 
 if __name__ == "__main__":
     # Replace with your API key
     api_key = os.getenv("API_FOOTBALL_KEY")
-    #return_coachs(api_key)
-    #return_results(api_key)
-    results_df = pd.read_csv("/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv")
+    # return_coachs(api_key)
+    # return_results(api_key)
+    results_df = pd.read_csv(
+        "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
+    )
     team_ids = len(results_df["Home_Team_ID"].unique().tolist())
     print(team_ids)
-    df = pd.read_csv("/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv")
+    df = pd.read_csv(
+        "/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv"
+    )
     print(len(df["coach_id"].unique().tolist()))
