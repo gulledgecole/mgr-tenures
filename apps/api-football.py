@@ -62,7 +62,7 @@ def main(api_key):
     fixtures_api = FixturesAPI(api_key)
     premier_league_id = "39"
     print(f"Fetching Fixtures for Premier League (ID {premier_league_id})...")
-    seasons = ["2021", "2022", "2023"]
+    seasons = ["2021", "2022", "2023",]
     fixture_data = []
     for season in seasons:
         fixtures = fixtures_api.get_fixtures_by_league(premier_league_id, season)

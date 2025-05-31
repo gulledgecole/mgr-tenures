@@ -27,3 +27,9 @@ Notes on Subscription:
 To access data older than 2021, you would need to subscribe to one of the paid plans, as the free plan is limited to data from 2021 to 2023. 
 You can choose from the Pro, Ultra, or Mega plans, depending on your needs for the number of requests per day. 
 Each of these plans provides access to all features and data of the APIs without restrictions on the seasons. If you need further assistance, feel free to reach out!
+
+________
+
+05/31 Notes: 
+
+Now have a structure to gather results, would like to build a mapping to coaches and ensure they line up at time of match. 
