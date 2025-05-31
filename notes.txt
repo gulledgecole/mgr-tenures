@@ -48,3 +48,18 @@ FA Cup: 45
 Community Shield: 528
 Championship: 40
 League Cup: 48
+
+Now I have the leagues of interest, it would be nice to pull the unique team IDs, and gather the coaches for each.
+Once we have the coaches of interest, would be fun to pull the trophies per coach, then have a table for that. 
+As of now, in my mind, the BQ tables would look: 
+
+Dataset: football
+Tables for league per season, with team ids: 
+Table for coaches
+table for trophies
+gather sentiment on reddit and pair back to teams and coaches in seperate table.
+dunno, rambling on.
+Then, maybe use: https://docs.sportmonks.com/football/endpoints-and-entities/endpoints/standings/get-standings-by-round-id?utm_source=chatgpt.com to gather the standings.
+
+A change in position / loss in a cup could be worth more imppct on sentinment than just a league loss.
+

@@ -42,7 +42,6 @@ class LeaguesAPI(FootballAPI):
             return leagues_data["response"]
         else:
             return []
-    
 
 
 class FixturesAPI(FootballAPI):
@@ -57,7 +56,7 @@ class FixturesAPI(FootballAPI):
             return fixtures_data["response"]
         else:
             return []
-        
+
 
 class CoachsAPI(FootballAPI):
     def __init__(self, api_key):
@@ -138,15 +137,19 @@ def return_results(api_key, league_id):
                 )
 
         else:
-            print(f"No fixtures data found for {fixture['league']['name']} {season} season!.")
+            print(
+                f"No fixtures data found for {fixture['league']['name']} {season} season!."
+            )
 
         df = pd.DataFrame(fixture_data)
-        print(df.head()) 
+        print(df.head())
         file_name = f"data/fixtures_{fixture['league']['name']}_{fixture['league']['season']}.csv"
 
         # Save to CSV
         df.to_csv(file_name, index=False)
-        print(f"Fixture data saved for:{fixture['league']['name']} for {fixture['league']['season']} season! ")
+        print(
+            f"Fixture data saved for:{fixture['league']['name']} for {fixture['league']['season']} season! "
+        )
 
 
 def return_coachs(api_key):
@@ -177,8 +180,8 @@ def return_coachs(api_key):
                     {
                         "coach_id": coach_id,
                         "coach_name": coach_name,
-                        "first_name" : first_name,
-                        "last_name" : last_name,
+                        "first_name": first_name,
+                        "last_name": last_name,
                         "nationality": nationality,
                         "birthdate": birthdate,
                         "team_id": team_id,
@@ -195,13 +198,13 @@ def return_coachs(api_key):
 if __name__ == "__main__":
     # Replace with your API key
     api_key = os.getenv("API_FOOTBALL_KEY")
-    #league_api = LeaguesAPI(api_key)
-    #league_data = league_api.get_leagues_by_country("45")
-    #print(league_data)
-    #return_coachs(api_key)
+    # league_api = LeaguesAPI(api_key)
+    # league_data = league_api.get_leagues_by_country("45")
+    # print(league_data)
+    # return_coachs(api_key)
     # leagues =  ["3", "45", "528", "40", "48"]
-    return_results(api_key,"48" )
-    # for league in leagues: 
+    return_results(api_key, "48")
+    # for league in leagues:
     #     return_results(api_key, league)
     # results_df = pd.read_csv(
     #     "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
