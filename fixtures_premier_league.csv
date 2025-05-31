@@ -1,4 +1,4 @@
-Fixture_ID,Home_Team,Home_Team_ID,Away_Team_Name,Away_Team_ID,Date,Time,Home_Winner,Away_Winner,Home_Tie,Away_Tie,Home_Goals,Away_Goals,League_ID,League_Season
+fixture_id,home_team,home_team_id,away_team_name,away_team_id,date,time,home_winner,away_winner,home_tie,away_tie,home_goals,away_goals,league_id,league_season
 710556,Brentford,55,Arsenal,42,2021-08-13,19:00:00,True,False,False,False,2,0,39,2021
 710561,Manchester United,33,Leeds,63,2021-08-14,11:30:00,True,False,False,False,5,1,39,2021
 710565,Watford,38,Aston Villa,66,2021-08-14,14:00:00,True,False,False,False,3,2,39,2021

@@ -75,6 +75,7 @@ def split_iso_datetime(iso_str: str) -> tuple[str, str]:
     """
     Given an ISO timestamp like "2021-08-14T11:30:00+00:00",
     return (date_str, time_str) → ("2021-08-14", "11:30:00").
+    GPT as hell but works lol
     """
     dt = datetime.fromisoformat(iso_str)
     return dt.date().isoformat(), dt.time().isoformat()
@@ -115,21 +116,21 @@ def return_results(api_key):
 
                 fixture_data.append(
                     {
-                        "Fixture_ID": fixture["fixture"]["id"],
-                        "Home_Team": fixture["teams"]["home"]["name"],
-                        "Home_Team_ID": fixture["teams"]["home"]["id"],
-                        "Away_Team_Name": fixture["teams"]["away"]["name"],
-                        "Away_Team_ID": fixture["teams"]["away"]["id"],
-                        "Date": date,
-                        "Time": time,
-                        "Home_Winner": home_winner,
-                        "Away_Winner": away_winner,
-                        "Home_Tie": home_tie,
-                        "Away_Tie": away_tie,
-                        "Home_Goals": fixture["goals"]["home"],
-                        "Away_Goals": fixture["goals"]["away"],
-                        "League_ID": fixture["league"]["id"],
-                        "League_Season": fixture["league"]["season"],
+                        "fixture_id": fixture["fixture"]["id"],
+                        "home_team": fixture["teams"]["home"]["name"],
+                        "home_team_id": fixture["teams"]["home"]["id"],
+                        "away_team_name": fixture["teams"]["away"]["name"],
+                        "away_team_id": fixture["teams"]["away"]["id"],
+                        "date": date,
+                        "time": time,
+                        "home_winner": home_winner,
+                        "away_winner": away_winner,
+                        "home_tie": home_tie,
+                        "away_tie": away_tie,
+                        "home_goals": fixture["goals"]["home"],
+                        "away_goals": fixture["goals"]["away"],
+                        "league_id": fixture["league"]["id"],
+                        "league_season": fixture["league"]["season"],
                     }
                 )
 
@@ -187,11 +188,11 @@ if __name__ == "__main__":
     # Replace with your API key
     api_key = os.getenv("API_FOOTBALL_KEY")
     # return_coachs(api_key)
-    # return_results(api_key)
+    return_results(api_key)
     results_df = pd.read_csv(
         "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
     )
-    team_ids = len(results_df["Home_Team_ID"].unique().tolist())
+    team_ids = len(results_df["home_team_id"].unique().tolist())
     print(team_ids)
     df = pd.read_csv(
         "/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv"
