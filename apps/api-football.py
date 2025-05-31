@@ -1,5 +1,6 @@
 import os
 import http.client
+import glob
 import pandas as pd
 import requests
 from dotenv import load_dotenv
@@ -203,7 +204,7 @@ if __name__ == "__main__":
     # print(league_data)
     # return_coachs(api_key)
     # leagues =  ["3", "45", "528", "40", "48"]
-    return_results(api_key, "48")
+    #return_results(api_key, "48")
     # for league in leagues:
     #     return_results(api_key, league)
     # results_df = pd.read_csv(
@@ -215,3 +216,20 @@ if __name__ == "__main__":
     #     "/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv"
     # )
     # print(len(df["coach_id"].unique().tolist()))
+
+    csv_files = glob.glob("data/*.csv")
+
+    # 2. Initialize an empty set to collect unique home_team_id values
+    unique_ids = set()
+
+    # 3. Loop through each file, read it, and update the set
+    for file in csv_files:
+        df = pd.read_csv(file)
+        if "home_team_id" in df.columns:
+            # .dropna() in case there are missing values
+            unique_ids.update(df["home_team_id"].dropna().unique())
+
+    # 4. Convert back to a list (if you need ordering, you can sort here)
+    unique_home_team_ids = list(unique_ids)
+
+    print((unique_home_team_ids))
