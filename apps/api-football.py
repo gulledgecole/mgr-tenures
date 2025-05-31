@@ -34,14 +34,15 @@ class LeaguesAPI(FootballAPI):
     def __init__(self, api_key):
         super().__init__(api_key)
 
-    def get_leagues_by_country(self, country_code, league):
+    def get_leagues_by_country(self, country_code):
         """Retrieve leagues for a specific country"""
-        params = {"country": country_code}
+        params = {"id": country_code}
         leagues_data = self._get_request("leagues", params)
         if leagues_data:
             return leagues_data["response"]
         else:
             return []
+    
 
 
 class FixturesAPI(FootballAPI):
@@ -56,7 +57,7 @@ class FixturesAPI(FootballAPI):
             return fixtures_data["response"]
         else:
             return []
-
+        
 
 class CoachsAPI(FootballAPI):
     def __init__(self, api_key):
@@ -81,19 +82,19 @@ def split_iso_datetime(iso_str: str) -> tuple[str, str]:
     return dt.date().isoformat(), dt.time().isoformat()
 
 
-def return_results(api_key):
+def return_results(api_key, league_id):
     leagues_api = LeaguesAPI(api_key)
     fixtures_api = FixturesAPI(api_key)
-    premier_league_id = "39"
-    print(f"Fetching Fixtures for Premier League (ID {premier_league_id})...")
+    print(f"Fetching Fixtures (ID {league_id})...")
     seasons = [
+        # Only supported seasons for free trial..
         "2021",
         "2022",
         "2023",
     ]
     fixture_data = []
     for season in seasons:
-        fixtures = fixtures_api.get_fixtures_by_league(premier_league_id, season)
+        fixtures = fixtures_api.get_fixtures_by_league(league_id, season)
         if fixtures:
             for fixture in fixtures:
                 home_winner = fixture["teams"]["home"]["winner"]
@@ -130,19 +131,22 @@ def return_results(api_key):
                         "home_goals": fixture["goals"]["home"],
                         "away_goals": fixture["goals"]["away"],
                         "league_id": fixture["league"]["id"],
+                        "league_name": fixture["league"]["name"],
                         "league_season": fixture["league"]["season"],
+                        "round": fixture["league"]["round"],
                     }
                 )
 
         else:
-            print(f"No fixtures data found for {season}.")
-        # Create a DataFrame and display or save the data
-    df = pd.DataFrame(fixture_data)
-    print(df.head())  # Display first few fixtures
+            print(f"No fixtures data found for {fixture['league']['name']} {season} season!.")
 
-    # Save to CSV
-    df.to_csv("fixtures_premier_league.csv", index=False)
-    print("Fixture data saved to 'fixtures_premier_league.csv'")
+        df = pd.DataFrame(fixture_data)
+        print(df.head()) 
+        file_name = f"data/fixtures_{fixture['league']['name']}_{fixture['league']['season']}.csv"
+
+        # Save to CSV
+        df.to_csv(file_name, index=False)
+        print(f"Fixture data saved for:{fixture['league']['name']} for {fixture['league']['season']} season! ")
 
 
 def return_coachs(api_key):
@@ -191,14 +195,20 @@ def return_coachs(api_key):
 if __name__ == "__main__":
     # Replace with your API key
     api_key = os.getenv("API_FOOTBALL_KEY")
-    return_coachs(api_key)
-    #return_results(api_key)
-    results_df = pd.read_csv(
-        "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
-    )
-    team_ids = len(results_df["home_team_id"].unique().tolist())
-    print(team_ids)
-    df = pd.read_csv(
-        "/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv"
-    )
-    print(len(df["coach_id"].unique().tolist()))
+    #league_api = LeaguesAPI(api_key)
+    #league_data = league_api.get_leagues_by_country("45")
+    #print(league_data)
+    #return_coachs(api_key)
+    # leagues =  ["3", "45", "528", "40", "48"]
+    return_results(api_key,"48" )
+    # for league in leagues: 
+    #     return_results(api_key, league)
+    # results_df = pd.read_csv(
+    #     "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
+    # )
+    # team_ids = len(results_df["home_team_id"].unique().tolist())
+    # print(team_ids)
+    # df = pd.read_csv(
+    #     "/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv"
+    # )
+    # print(len(df["coach_id"].unique().tolist()))

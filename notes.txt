@@ -38,3 +38,13 @@ Now have a structure to gather results, would like to build a mapping to coaches
 Now wrote a script to grab the coaches, and their history, for each of the prem teams in the 2021-2023 season.
 The unique coaches are 49, whereas the unqiue teams are 25, bc the coaches API returns more current data. I.E its shown 2025 dates.
 Need to filter down the coaches list to ensure the number matches up with the unqiue amount of teams. And if it doesn't that implies a coach was sacked. 
+
+________
+5/31 Night: 
+Premier League ID: 39
+UEFA Champtions League: 2
+Europa: 3
+FA Cup: 45
+Community Shield: 528
+Championship: 40
+League Cup: 48
