@@ -150,7 +150,7 @@ def return_coachs(api_key):
     results_df = pd.read_csv(
         "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
     )
-    team_ids = results_df["Home_Team_ID"].unique().tolist()
+    team_ids = results_df["home_team_id"].unique().tolist()
     print(len(team_ids))
     rows = []
     for team in team_ids:
@@ -158,6 +158,8 @@ def return_coachs(api_key):
         for coach in coachs["response"]:
             coach_id = coach["id"]
             coach_name = coach["name"]
+            first_name = coach["firstname"]
+            last_name = coach["lastname"]
             nationality = coach.get("nationality")
             birthdate = coach.get("birth", {}).get("date")
             for tenure in coach.get("career", []):
@@ -171,6 +173,8 @@ def return_coachs(api_key):
                     {
                         "coach_id": coach_id,
                         "coach_name": coach_name,
+                        "first_name" : first_name,
+                        "last_name" : last_name,
                         "nationality": nationality,
                         "birthdate": birthdate,
                         "team_id": team_id,
@@ -187,8 +191,8 @@ def return_coachs(api_key):
 if __name__ == "__main__":
     # Replace with your API key
     api_key = os.getenv("API_FOOTBALL_KEY")
-    # return_coachs(api_key)
-    return_results(api_key)
+    return_coachs(api_key)
+    #return_results(api_key)
     results_df = pd.read_csv(
         "/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv"
     )
