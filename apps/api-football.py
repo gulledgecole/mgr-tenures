@@ -3,6 +3,7 @@ import http.client
 import pandas as pd
 import requests
 from dotenv import load_dotenv
+from datetime import datetime
 
 load_dotenv()
 
@@ -55,9 +56,30 @@ class FixturesAPI(FootballAPI):
             return fixtures_data["response"]
         else:
             return []
+        
+class CoachsAPI(FootballAPI): 
+    def __init__(self, api_key):
+        super().__init__(api_key)
+    
+    def get_coachs(self, team_id): 
+        params =  {"team" : team_id}
+        coach_data = self._get_request("coachs", params)
+        if coach_data: 
+            return coach_data
+        else: 
+            return "No coach data here!"
+        
+def split_iso_datetime(iso_str: str) -> tuple[str, str]:
+    """
+    Given an ISO timestamp like "2021-08-14T11:30:00+00:00",
+    return (date_str, time_str) → ("2021-08-14", "11:30:00").
+    """
+    dt = datetime.fromisoformat(iso_str)
+    return dt.date().isoformat(), dt.time().isoformat()
 
 
-def main(api_key):
+
+def return_results(api_key):
     leagues_api = LeaguesAPI(api_key)
     fixtures_api = FixturesAPI(api_key)
     premier_league_id = "39"
@@ -70,6 +92,7 @@ def main(api_key):
             for fixture in fixtures:
                 home_winner = fixture["teams"]["home"]["winner"]
                 away_winner = fixture["teams"]["away"]["winner"]
+                date, time = split_iso_datetime(fixture["fixture"]["date"])
                 if not home_winner and not away_winner:
                     # Both teams did not win, so it's a tie
                     home_tie = True
@@ -92,7 +115,8 @@ def main(api_key):
                         "Home_Team_ID": fixture["teams"]["home"]["id"],
                         "Away_Team_Name": fixture["teams"]["away"]["name"],
                         "Away_Team_ID": fixture["teams"]["away"]["id"],
-                        "Date": fixture["fixture"]["date"],
+                        "Date": date,
+                        "Time" : time,
                         "Home_Winner": home_winner,
                         "Away_Winner": away_winner,
                         "Home_Tie": home_tie,
@@ -114,8 +138,52 @@ def main(api_key):
     df.to_csv("fixtures_premier_league.csv", index=False)
     print("Fixture data saved to 'fixtures_premier_league.csv'")
 
+def return_coachs(api_key): 
+    coachs_api = CoachsAPI(api_key)
+    results_df = pd.read_csv("/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv")
+    team_ids = results_df["Home_Team_ID"].unique().tolist()
+    print(len(team_ids))
+    rows = []
+    for team in team_ids: 
+        coachs = coachs_api.get_coachs(team)
+        for coach in coachs['response']:
+            coach_id = coach["id"]
+            coach_name = coach['name']
+            nationality = coach.get('nationality')
+            birthdate = coach.get('birth', {}).get('date')
+            for tenure in coach.get('career', []):
+                team_id = tenure['team']['id']
+                team_name = tenure['team']['name']
+                start_date = tenure['start']
+                end_date = tenure['end']
+                if not end_date: 
+                    end_date = "Current"
+                rows.append({
+                    'coach_id' : coach_id,
+                    'coach_name': coach_name,
+                    'nationality': nationality,
+                    'birthdate': birthdate,
+                    'team_id': team_id,
+                    'team_name': team_name,
+                    'start_date': start_date,
+                    'end_date': end_date
+                })
+    df = pd.DataFrame(rows)
+
+    df.to_csv('coaches_tenures_extended.csv', index=False)
+
+def merge_coach_team(): 
+
+
+
 
 if __name__ == "__main__":
     # Replace with your API key
     api_key = os.getenv("API_FOOTBALL_KEY")
-    main(api_key)
+    #return_coachs(api_key)
+    #return_results(api_key)
+    results_df = pd.read_csv("/Users/colegulledge/code/mgr-tenures/fixtures_premier_league.csv")
+    team_ids = len(results_df["Home_Team_ID"].unique().tolist())
+    print(team_ids)
+    df = pd.read_csv("/Users/colegulledge/code/mgr-tenures/coaches_tenures_extended.csv")
+    print(len(df["coach_id"].unique().tolist()))
