@@ -63,3 +63,19 @@ Then, maybe use: https://docs.sportmonks.com/football/endpoints-and-entities/end
 
 A change in position / loss in a cup could be worth more imppct on sentinment than just a league loss.
 
+________
+6/1 Morning: 
+Had some thoughts last night. Now since I have a structure to pair coaches to teams, I think the next piece of data that'd be interesting would be the live standings at the time of the match. 
+API Football doesn't provide the week by week standings of historical seasons, which sucks, so going to have to pull it from somewhere else. 
+Woof, SportsMonk is 39 euros a month. Looks like im going to have to scrape lol.
+
+Okay, so scrapped the premier league website. They inject with Javascript so wasn't to hard to find the source (gpt lol, thanks), and call that directly. 
+The URL didn't change, so went to the network tab on dev tools for XHR.: Because the HTML you get from requests.get("https://www.premierleague.com/tables?...") does not contain the matchweek‑specific table (it’s injected later), you must call that JSON endpoint directly.
+
+There are some oddities in a few years that ill need to double check, and not sure if the amt of games / teams have changed in the league over the years.
+
+Note: If i webscrape the fixtures from premierlague.com, that contains match attedence, which will be a good indicator of sentinment. 
+However, I still need the api-football for the coach / trophy data, so its not a total loss. 
+I won't have to pay for historical data, for now though! 
+
+________

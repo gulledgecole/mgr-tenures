@@ -13,6 +13,7 @@ bs4 = "*"
 pylint = "*"
 cfbd = "*"
 python-dotenv = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
