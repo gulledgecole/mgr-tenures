@@ -1,0 +1,837 @@
+season,match_week,team_id,team_name,position,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,home_played,home_won,home_drawn,home_lost,home_goals_for,home_goals_against,home_goal_difference,home_points,away_played,away_won,away_drawn,away_lost,away_goals_for,away_goals_against,away_goal_difference,away_points,annotation_types,annotation_destinations,stadium_name,stadium_city
+1993/94,1,12,Manchester United,1,2,2,0,0,5,0,5,6,1,1,0,0,3,0,3,3,1,1,0,0,2,0,2,3,Q,EU_CL,Old Trafford,Manchester
+1993/94,1,5,Coventry City,2,2,2,0,0,5,1,4,6,1,1,0,0,2,1,1,3,1,1,0,0,3,0,3,3,Q,EU_UC,Highfield Road,Coventry
+1993/94,1,10,Liverpool,3,2,2,0,0,5,1,4,6,1,1,0,0,2,0,2,3,1,1,0,0,3,1,2,3,Q,EU_UC,Anfield,Liverpool
+1993/94,1,8,Ipswich Town,4,2,2,0,0,4,0,4,6,1,1,0,0,1,0,1,3,1,1,0,0,3,0,3,3,,,Portman Road,Ipswich
+1993/94,1,7,Everton,5,2,2,0,0,3,0,3,6,1,1,0,0,1,0,1,3,1,1,0,0,2,0,2,3,,,Goodison Park,Liverpool
+1993/94,1,2,Aston Villa,6,2,1,1,0,4,1,3,4,1,1,0,0,4,1,3,3,1,0,1,0,0,0,0,1,Q,EU_UC,Villa Park,Birmingham
+1993/94,1,22,Wimbledon,7,2,1,1,0,3,1,2,4,1,0,1,0,1,1,0,1,1,1,0,0,2,0,2,3,,,Selhurst Park,London
+1993/94,1,9,Leeds United,8,2,1,1,0,2,1,1,4,1,1,0,0,1,0,1,3,1,0,1,0,1,1,0,1,,,Elland Road,Leeds
+1993/94,1,3,Blackburn Rovers,9,2,1,0,1,4,4,0,3,1,0,0,1,2,3,-1,0,1,1,0,0,2,1,1,3,,,Ewood Park,Blackburn
+1993/94,1,21,Tottenham Hotspur,10,2,1,0,1,1,1,0,3,1,0,0,1,0,1,-1,0,1,1,0,0,1,0,1,3,,,White Hart Lane,London
+1993/94,1,14,Norwich City,11,2,1,0,1,3,4,-1,3,1,0,0,1,0,2,-2,0,1,1,0,0,3,2,1,3,,,Carrow Road,Norwich
+1993/94,1,18,Sheffield United,12,2,1,0,1,3,4,-1,3,1,1,0,0,3,1,2,3,1,0,0,1,0,3,-3,0,,,Bramall Lane,Sheffield
+1993/94,1,1,Arsenal,13,2,1,0,1,1,3,-2,3,1,0,0,1,0,3,-3,0,1,1,0,0,1,0,1,3,Q,EU_CWC,Highbury,London
+1993/94,1,16,Oldham Athletic,14,2,1,0,1,1,3,-2,3,1,0,0,1,0,3,-3,0,1,1,0,0,1,0,1,3,,,Boundary Park,Oldham
+1993/94,1,4,Chelsea,15,2,0,1,1,2,3,-1,1,1,0,0,1,1,2,-1,0,1,0,1,0,1,1,0,1,Q,EU_CWC,Stamford Bridge,London
+1993/94,1,11,Manchester City,16,2,0,1,1,1,2,-1,1,1,0,1,0,1,1,0,1,1,0,0,1,0,1,-1,0,,,Maine Road,Manchester
+1993/94,1,19,Sheffield Wednesday,17,2,0,1,1,0,2,-2,1,1,0,1,0,0,0,0,1,1,0,0,1,0,2,-2,0,,,Hillsborough,Sheffield
+1993/94,1,23,Newcastle United,18,2,0,0,2,1,3,-2,0,1,0,0,1,0,1,-1,0,1,0,0,1,1,2,-1,0,,,St. James' Park,Newcastle
+1993/94,1,24,Swindon Town,19,2,0,0,2,1,4,-3,0,1,0,0,1,0,1,-1,0,1,0,0,1,1,3,-2,0,,,County Ground,Swindon
+1993/94,1,20,Southampton,20,2,0,0,2,0,3,-3,0,1,0,0,1,0,2,-2,0,1,0,0,1,0,1,-1,0,R,EN_D1,The Dell,Southampton
+1993/94,1,25,West Ham United,21,2,0,0,2,0,3,-3,0,1,0,0,1,0,2,-2,0,1,0,0,1,0,1,-1,0,R,EN_D1,Boleyn Ground,London
+1993/94,1,17,Queens Park Rangers,22,2,0,0,2,2,7,-5,0,1,0,0,1,1,3,-2,0,1,0,0,1,1,4,-3,0,R,EN_D1,Loftus Road,London
+1993/94,2,12,Manchester United,1,4,3,1,0,8,2,6,10,2,1,1,0,4,1,3,4,2,2,0,0,4,1,3,6,Q,EU_CL,Old Trafford,Manchester
+1993/94,2,10,Liverpool,2,4,3,0,1,11,3,8,9,2,1,0,1,3,2,1,3,2,2,0,0,8,1,7,6,Q,EU_UC,Anfield,Liverpool
+1993/94,2,14,Norwich City,3,4,3,0,1,8,4,4,9,2,1,0,1,1,2,-1,3,2,2,0,0,7,2,5,6,Q,EU_UC,Carrow Road,Norwich
+1993/94,2,7,Everton,4,4,3,0,1,7,3,4,9,2,2,0,0,5,2,3,6,2,1,0,1,2,1,1,3,,,Goodison Park,Liverpool
+1993/94,2,8,Ipswich Town,5,4,3,0,1,5,1,4,9,2,2,0,0,2,0,2,6,2,1,0,1,3,1,2,3,,,Portman Road,Ipswich
+1993/94,2,3,Blackburn Rovers,6,4,3,0,1,7,4,3,9,2,1,0,1,3,3,0,3,2,2,0,0,4,1,3,6,,,Ewood Park,Blackburn
+1993/94,2,21,Tottenham Hotspur,7,4,3,0,1,4,2,2,9,2,1,0,1,1,1,0,3,2,2,0,0,3,1,2,6,,,White Hart Lane,London
+1993/94,2,1,Arsenal,8,4,3,0,1,4,4,0,9,2,1,0,1,2,4,-2,3,2,2,0,0,2,0,2,6,Q,EU_CWC,Highbury,London
+1993/94,2,5,Coventry City,9,4,2,2,0,9,5,4,8,2,1,1,0,3,2,1,4,2,1,1,0,6,3,3,4,,,Highfield Road,Coventry
+1993/94,2,18,Sheffield United,10,4,2,0,2,7,9,-2,6,2,2,0,0,5,2,3,6,2,0,0,2,2,7,-5,0,,,Bramall Lane,Sheffield
+1993/94,2,2,Aston Villa,11,4,1,2,1,7,5,2,5,2,1,0,1,5,3,2,3,2,0,2,0,2,2,0,2,Q,EU_UC,Villa Park,Birmingham
+1993/94,2,22,Wimbledon,12,4,1,2,1,6,5,1,5,2,0,2,0,3,3,0,2,2,1,0,1,3,2,1,3,,,Selhurst Park,London
+1993/94,2,4,Chelsea,13,4,1,1,2,4,4,0,4,2,1,0,1,3,2,1,3,2,0,1,1,1,2,-1,1,Q,EU_CWC,Stamford Bridge,London
+1993/94,2,23,Newcastle United,14,4,1,1,2,3,4,-1,4,2,1,0,1,1,1,0,3,2,0,1,1,2,3,-1,1,,,St. James' Park,Newcastle
+1993/94,2,25,West Ham United,15,4,1,1,2,3,4,-1,4,2,1,0,1,2,2,0,3,2,0,1,1,1,2,-1,1,,,Boleyn Ground,London
+1993/94,2,16,Oldham Athletic,16,4,1,1,2,4,7,-3,4,2,0,1,1,3,6,-3,1,2,1,0,1,1,1,0,3,,,Boundary Park,Oldham
+1993/94,2,9,Leeds United,17,4,1,1,2,3,7,-4,4,2,1,0,1,1,4,-3,3,2,0,1,1,2,3,-1,1,,,Elland Road,Leeds
+1993/94,2,20,Southampton,18,4,1,0,3,6,6,0,3,2,1,0,1,5,3,2,3,2,0,0,2,1,3,-2,0,,,The Dell,Southampton
+1993/94,2,17,Queens Park Rangers,19,4,1,0,3,4,10,-6,3,2,1,0,1,3,4,-1,3,2,0,0,2,1,6,-5,0,,,Loftus Road,London
+1993/94,2,11,Manchester City,20,4,0,1,3,1,5,-4,1,2,0,1,1,1,3,-2,1,2,0,0,2,0,2,-2,0,R,EN_D1,Maine Road,Manchester
+1993/94,2,19,Sheffield Wednesday,21,4,0,1,3,0,5,-5,1,2,0,1,1,0,1,-1,1,2,0,0,2,0,4,-4,0,R,EN_D1,Hillsborough,Sheffield
+1993/94,2,24,Swindon Town,22,4,0,0,4,2,14,-12,0,2,0,0,2,0,6,-6,0,2,0,0,2,2,8,-6,0,R,EN_D1,County Ground,Swindon
+1993/94,3,12,Manchester United,1,6,5,1,0,14,3,11,16,3,2,1,0,7,1,6,7,3,3,0,0,7,2,5,9,Q,EU_CL,Old Trafford,Manchester
+1993/94,3,1,Arsenal,2,6,4,1,1,7,5,2,13,3,2,0,1,4,4,0,6,3,2,1,0,3,1,2,7,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,3,10,Liverpool,3,6,4,0,2,13,4,9,12,3,2,0,1,5,2,3,6,3,2,0,1,8,2,6,6,Q,EU_UC,Anfield,Liverpool
+1993/94,3,5,Coventry City,4,6,3,3,0,11,6,5,12,3,2,1,0,4,2,2,7,3,1,2,0,7,4,3,5,,,Highfield Road,Coventry
+1993/94,3,14,Norwich City,5,6,3,2,1,11,7,4,11,3,1,1,1,1,2,-1,4,3,2,1,0,10,5,5,7,,,Carrow Road,Norwich
+1993/94,3,2,Aston Villa,6,6,3,2,1,9,5,4,11,3,2,0,1,6,3,3,6,3,1,2,0,3,2,1,5,Q,EU_UC,Villa Park,Birmingham
+1993/94,3,8,Ipswich Town,7,6,3,2,1,7,3,4,11,3,2,1,0,3,1,2,7,3,1,1,1,4,2,2,4,,,Portman Road,Ipswich
+1993/94,3,3,Blackburn Rovers,8,6,3,2,1,9,6,3,11,3,1,1,1,4,4,0,4,3,2,1,0,5,2,3,7,,,Ewood Park,Blackburn
+1993/94,3,21,Tottenham Hotspur,9,6,3,1,2,5,4,1,10,3,1,1,1,2,2,0,4,3,2,0,1,3,2,1,6,,,White Hart Lane,London
+1993/94,3,22,Wimbledon,10,6,2,3,1,8,6,2,9,3,1,2,0,4,3,1,5,3,1,1,1,4,3,1,4,,,Selhurst Park,London
+1993/94,3,7,Everton,11,6,3,0,3,7,6,1,9,3,2,0,1,5,3,2,6,3,1,0,2,2,3,-1,3,,,Goodison Park,Liverpool
+1993/94,3,17,Queens Park Rangers,12,6,3,0,3,10,11,-1,9,3,2,0,1,5,5,0,6,3,1,0,2,5,6,-1,3,,,Loftus Road,London
+1993/94,3,18,Sheffield United,13,6,2,1,3,9,12,-3,7,3,2,1,0,6,3,3,7,3,0,0,3,3,9,-6,0,,,Bramall Lane,Sheffield
+1993/94,3,9,Leeds United,14,6,2,1,3,4,9,-5,7,3,2,0,1,2,4,-2,6,3,0,1,2,2,5,-3,1,,,Elland Road,Leeds
+1993/94,3,4,Chelsea,15,6,1,3,2,6,6,0,6,3,1,1,1,4,3,1,4,3,0,2,1,2,3,-1,2,Q,EU_CWC,Stamford Bridge,London
+1993/94,3,23,Newcastle United,16,6,1,3,2,5,6,-1,6,3,1,1,1,2,2,0,4,3,0,2,1,3,4,-1,2,,,St. James' Park,Newcastle
+1993/94,3,11,Manchester City,17,6,1,2,3,5,7,-2,5,3,0,2,1,2,4,-2,2,3,1,0,2,3,3,0,3,,,Maine Road,Manchester
+1993/94,3,16,Oldham Athletic,18,6,1,2,3,5,9,-4,5,3,0,2,1,4,7,-3,2,3,1,0,2,1,2,-1,3,,,Boundary Park,Oldham
+1993/94,3,25,West Ham United,19,6,1,1,4,3,11,-8,4,3,1,0,2,2,6,-4,3,3,0,1,2,1,5,-4,1,,,Boleyn Ground,London
+1993/94,3,20,Southampton,20,6,1,0,5,7,10,-3,3,3,1,0,2,6,6,0,3,3,0,0,3,1,4,-3,0,R,EN_D1,The Dell,Southampton
+1993/94,3,19,Sheffield Wednesday,21,6,0,3,3,4,9,-5,3,3,0,2,1,3,4,-1,2,3,0,1,2,1,5,-4,1,R,EN_D1,Hillsborough,Sheffield
+1993/94,3,24,Swindon Town,22,6,0,1,5,3,17,-14,1,3,0,0,3,1,9,-8,0,3,0,1,2,2,8,-6,1,R,EN_D1,County Ground,Swindon
+1993/94,4,12,Manchester United,1,7,5,1,1,14,4,10,16,3,2,1,0,7,1,6,7,4,3,0,1,7,3,4,9,Q,EU_CL,Old Trafford,Manchester
+1993/94,4,1,Arsenal,2,7,5,1,1,11,5,6,16,4,3,0,1,8,4,4,9,3,2,1,0,3,1,2,7,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,4,3,Blackburn Rovers,3,7,4,2,1,10,6,4,14,3,1,1,1,4,4,0,4,4,3,1,0,6,2,4,10,Q,EU_UC,Ewood Park,Blackburn
+1993/94,4,5,Coventry City,4,7,3,4,0,11,6,5,13,3,2,1,0,4,2,2,7,4,1,3,0,7,4,3,6,,,Highfield Road,Coventry
+1993/94,4,10,Liverpool,5,7,4,0,3,13,5,8,12,4,2,0,2,5,3,2,6,3,2,0,1,8,2,6,6,,,Anfield,Liverpool
+1993/94,4,2,Aston Villa,6,7,3,3,1,9,5,4,12,4,2,1,1,6,3,3,7,3,1,2,0,3,2,1,5,Q,EU_UC,Villa Park,Birmingham
+1993/94,4,22,Wimbledon,7,7,3,3,1,9,6,3,12,3,1,2,0,4,3,1,5,4,2,1,1,5,3,2,7,,,Selhurst Park,London
+1993/94,4,7,Everton,8,7,4,0,3,8,6,2,12,3,2,0,1,5,3,2,6,4,2,0,2,3,3,0,6,,,Goodison Park,Liverpool
+1993/94,4,14,Norwich City,9,7,3,2,2,11,8,3,11,4,1,1,2,1,3,-2,4,3,2,1,0,10,5,5,7,,,Carrow Road,Norwich
+1993/94,4,21,Tottenham Hotspur,10,7,3,2,2,7,6,1,11,3,1,1,1,2,2,0,4,4,2,1,1,5,4,1,7,,,White Hart Lane,London
+1993/94,4,8,Ipswich Town,11,7,3,2,2,7,7,0,11,3,2,1,0,3,1,2,7,4,1,1,2,4,6,-2,4,,,Portman Road,Ipswich
+1993/94,4,9,Leeds United,12,7,3,1,3,6,9,-3,10,3,2,0,1,2,4,-2,6,4,1,1,2,4,5,-1,4,,,Elland Road,Leeds
+1993/94,4,23,Newcastle United,13,7,2,3,2,9,8,1,9,4,2,1,1,6,4,2,7,3,0,2,1,3,4,-1,2,,,St. James' Park,Newcastle
+1993/94,4,4,Chelsea,14,7,2,3,2,7,6,1,9,4,2,1,1,5,3,2,7,3,0,2,1,2,3,-1,2,Q,EU_CWC,Stamford Bridge,London
+1993/94,4,17,Queens Park Rangers,15,7,3,0,4,10,14,-4,9,3,2,0,1,5,5,0,6,4,1,0,3,5,9,-4,3,,,Loftus Road,London
+1993/94,4,11,Manchester City,16,7,2,2,3,8,7,1,8,4,1,2,1,5,4,1,5,3,1,0,2,3,3,0,3,,,Maine Road,Manchester
+1993/94,4,18,Sheffield United,17,7,2,2,3,11,14,-3,8,4,2,2,0,8,5,3,8,3,0,0,3,3,9,-6,0,,,Bramall Lane,Sheffield
+1993/94,4,16,Oldham Athletic,18,7,1,2,4,5,10,-5,5,4,0,2,2,4,8,-4,2,3,1,0,2,1,2,-1,3,,,Boundary Park,Oldham
+1993/94,4,25,West Ham United,19,7,1,2,4,3,11,-8,5,4,1,1,2,2,6,-4,4,3,0,1,2,1,5,-4,1,,,Boleyn Ground,London
+1993/94,4,20,Southampton,20,7,1,0,6,7,12,-5,3,4,1,0,3,6,8,-2,3,3,0,0,3,1,4,-3,0,R,EN_D1,The Dell,Southampton
+1993/94,4,19,Sheffield Wednesday,21,7,0,3,4,6,13,-7,3,3,0,2,1,3,4,-1,2,4,0,1,3,3,9,-6,1,R,EN_D1,Hillsborough,Sheffield
+1993/94,4,24,Swindon Town,22,7,0,2,5,3,17,-14,2,3,0,0,3,1,9,-8,0,4,0,2,2,2,8,-6,2,R,EN_D1,County Ground,Swindon
+1993/94,5,12,Manchester United,1,8,6,1,1,15,4,11,19,4,3,1,0,8,1,7,10,4,3,0,1,7,3,4,9,Q,EU_CL,Old Trafford,Manchester
+1993/94,5,1,Arsenal,2,8,5,1,2,11,6,5,16,4,3,0,1,8,4,4,9,4,2,1,1,3,2,1,7,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,5,2,Aston Villa,3,8,4,3,1,11,6,5,15,4,2,1,1,6,3,3,7,4,2,2,0,5,3,2,8,"Q,Q","EU_UC,EU_UC",Villa Park,Birmingham
+1993/94,5,7,Everton,4,8,5,0,3,10,6,4,15,4,3,0,1,7,3,4,9,4,2,0,2,3,3,0,6,,,Goodison Park,Liverpool
+1993/94,5,22,Wimbledon,5,8,4,3,1,10,6,4,15,4,2,2,0,5,3,2,8,4,2,1,1,5,3,2,7,,,Selhurst Park,London
+1993/94,5,21,Tottenham Hotspur,6,8,4,2,2,12,6,6,14,4,2,1,1,7,2,5,7,4,2,1,1,5,4,1,7,,,White Hart Lane,London
+1993/94,5,5,Coventry City,7,8,3,5,0,12,7,5,14,4,2,2,0,5,3,2,8,4,1,3,0,7,4,3,6,,,Highfield Road,Coventry
+1993/94,5,3,Blackburn Rovers,8,8,4,2,2,10,8,2,14,4,1,1,2,4,6,-2,4,4,3,1,0,6,2,4,10,,,Ewood Park,Blackburn
+1993/94,5,9,Leeds United,9,8,4,1,3,8,10,-2,13,4,3,0,1,4,5,-1,9,4,1,1,2,4,5,-1,4,,,Elland Road,Leeds
+1993/94,5,10,Liverpool,10,8,4,0,4,13,7,6,12,4,2,0,2,5,3,2,6,4,2,0,2,8,4,4,6,,,Anfield,Liverpool
+1993/94,5,14,Norwich City,11,8,3,3,2,13,10,3,12,4,1,1,2,1,3,-2,4,4,2,2,0,12,7,5,8,,,Carrow Road,Norwich
+1993/94,5,8,Ipswich Town,12,8,3,2,3,8,9,-1,11,4,2,1,1,4,3,1,7,4,1,1,2,4,6,-2,4,,,Portman Road,Ipswich
+1993/94,5,23,Newcastle United,13,8,2,4,2,11,10,1,10,4,2,1,1,6,4,2,7,4,0,3,1,5,6,-1,3,,,St. James' Park,Newcastle
+1993/94,5,4,Chelsea,14,8,2,4,2,8,7,1,10,4,2,1,1,5,3,2,7,4,0,3,1,3,4,-1,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,5,17,Queens Park Rangers,15,8,3,1,4,12,16,-4,10,4,2,1,1,7,7,0,7,4,1,0,3,5,9,-4,3,,,Loftus Road,London
+1993/94,5,11,Manchester City,16,8,2,2,4,8,8,0,8,4,1,2,1,5,4,1,5,4,1,0,3,3,4,-1,3,,,Maine Road,Manchester
+1993/94,5,18,Sheffield United,17,8,2,2,4,12,16,-4,8,4,2,2,0,8,5,3,8,4,0,0,4,4,11,-7,0,,,Bramall Lane,Sheffield
+1993/94,5,25,West Ham United,18,8,2,2,4,5,11,-6,8,4,1,1,2,2,6,-4,4,4,1,1,2,3,5,-2,4,,,Boleyn Ground,London
+1993/94,5,19,Sheffield Wednesday,19,8,1,3,4,8,13,-5,6,4,1,2,1,5,4,1,5,4,0,1,3,3,9,-6,1,,,Hillsborough,Sheffield
+1993/94,5,16,Oldham Athletic,20,8,1,2,5,5,15,-10,5,4,0,2,2,4,8,-4,2,4,1,0,3,1,7,-6,3,R,EN_D1,Boundary Park,Oldham
+1993/94,5,20,Southampton,21,8,1,0,7,7,14,-7,3,4,1,0,3,6,8,-2,3,4,0,0,4,1,6,-5,0,R,EN_D1,The Dell,Southampton
+1993/94,5,24,Swindon Town,22,8,0,3,5,5,19,-14,3,4,0,1,3,3,11,-8,1,4,0,2,2,2,8,-6,2,R,EN_D1,County Ground,Swindon
+1993/94,6,12,Manchester United,1,9,7,1,1,19,6,13,22,5,4,1,0,12,3,9,13,4,3,0,1,7,3,4,9,Q,EU_CL,Old Trafford,Manchester
+1993/94,6,1,Arsenal,2,9,6,1,2,12,6,6,19,5,4,0,1,9,4,5,12,4,2,1,1,3,2,1,7,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,6,2,Aston Villa,3,9,4,4,1,12,7,5,16,4,2,1,1,6,3,3,7,5,2,3,0,6,4,2,9,"Q,Q","EU_UC,EU_UC",Villa Park,Birmingham
+1993/94,6,22,Wimbledon,4,9,4,4,1,11,7,4,16,5,2,3,0,6,4,2,9,4,2,1,1,5,3,2,7,,,Selhurst Park,London
+1993/94,6,9,Leeds United,5,9,5,1,3,10,10,0,16,4,3,0,1,4,5,-1,9,5,2,1,2,6,5,1,7,,,Elland Road,Leeds
+1993/94,6,14,Norwich City,6,9,4,3,2,18,11,7,15,4,1,1,2,1,3,-2,4,5,3,2,0,17,8,9,11,,,Carrow Road,Norwich
+1993/94,6,21,Tottenham Hotspur,7,9,4,3,2,14,8,6,15,4,2,1,1,7,2,5,7,5,2,2,1,7,6,1,8,,,White Hart Lane,London
+1993/94,6,3,Blackburn Rovers,8,9,4,3,2,11,9,2,15,5,1,2,2,5,7,-2,5,4,3,1,0,6,2,4,10,,,Ewood Park,Blackburn
+1993/94,6,7,Everton,9,9,5,0,4,11,11,0,15,5,3,0,2,8,8,0,9,4,2,0,2,3,3,0,6,,,Goodison Park,Liverpool
+1993/94,6,5,Coventry City,10,9,3,5,1,12,9,3,14,5,2,2,1,5,5,0,8,4,1,3,0,7,4,3,6,,,Highfield Road,Coventry
+1993/94,6,23,Newcastle United,11,9,3,4,2,13,10,3,13,5,3,1,1,8,4,4,10,4,0,3,1,5,6,-1,3,,,St. James' Park,Newcastle
+1993/94,6,4,Chelsea,12,9,3,4,2,9,7,2,13,5,3,1,1,6,3,3,10,4,0,3,1,3,4,-1,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,6,10,Liverpool,13,9,4,0,5,13,8,5,12,4,2,0,2,5,3,2,6,5,2,0,3,8,5,3,6,,,Anfield,Liverpool
+1993/94,6,8,Ipswich Town,14,9,3,3,3,10,11,-1,12,5,2,2,1,6,5,1,8,4,1,1,2,4,6,-2,4,,,Portman Road,Ipswich
+1993/94,6,11,Manchester City,15,9,3,2,4,9,8,1,11,4,1,2,1,5,4,1,5,5,2,0,3,4,4,0,6,,,Maine Road,Manchester
+1993/94,6,17,Queens Park Rangers,16,9,3,2,4,13,17,-4,11,4,2,1,1,7,7,0,7,5,1,1,3,6,10,-4,4,,,Loftus Road,London
+1993/94,6,18,Sheffield United,17,9,2,2,5,12,17,-5,8,5,2,2,1,8,6,2,8,4,0,0,4,4,11,-7,0,,,Bramall Lane,Sheffield
+1993/94,6,25,West Ham United,18,9,2,2,5,5,13,-8,8,4,1,1,2,2,6,-4,4,5,1,1,3,3,7,-4,4,,,Boleyn Ground,London
+1993/94,6,19,Sheffield Wednesday,19,9,1,4,4,9,14,-5,7,4,1,2,1,5,4,1,5,5,0,2,3,4,10,-6,2,,,Hillsborough,Sheffield
+1993/94,6,16,Oldham Athletic,20,9,1,3,5,6,16,-10,6,5,0,3,2,5,9,-4,3,4,1,0,3,1,7,-6,3,R,EN_D1,Boundary Park,Oldham
+1993/94,6,20,Southampton,21,9,1,0,8,7,15,-8,3,4,1,0,3,6,8,-2,3,5,0,0,5,1,7,-6,0,R,EN_D1,The Dell,Southampton
+1993/94,6,24,Swindon Town,22,9,0,3,6,7,23,-16,3,4,0,1,3,3,11,-8,1,5,0,2,3,4,12,-8,2,R,EN_D1,County Ground,Swindon
+1993/94,7,12,Manchester United,1,10,8,1,1,22,8,14,25,5,4,1,0,12,3,9,13,5,4,0,1,10,5,5,12,Q,EU_CL,Old Trafford,Manchester
+1993/94,7,1,Arsenal,2,10,6,2,2,12,6,6,20,5,4,0,1,9,4,5,12,5,2,2,1,3,2,1,8,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,7,9,Leeds United,3,10,6,1,3,14,10,4,19,5,4,0,1,8,5,3,12,5,2,1,2,6,5,1,7,Q,EU_UC,Elland Road,Leeds
+1993/94,7,14,Norwich City,4,10,5,3,2,19,11,8,18,5,2,1,2,2,3,-1,7,5,3,2,0,17,8,9,11,,,Carrow Road,Norwich
+1993/94,7,21,Tottenham Hotspur,5,10,5,3,2,17,10,7,18,5,3,1,1,10,4,6,10,5,2,2,1,7,6,1,8,,,White Hart Lane,London
+1993/94,7,3,Blackburn Rovers,6,10,5,3,2,14,10,4,18,5,1,2,2,5,7,-2,5,5,4,1,0,9,3,6,13,,,Ewood Park,Blackburn
+1993/94,7,23,Newcastle United,7,10,4,4,2,15,10,5,16,5,3,1,1,8,4,4,10,5,1,3,1,7,6,1,6,,,St. James' Park,Newcastle
+1993/94,7,2,Aston Villa,8,10,4,4,2,12,9,3,16,5,2,1,2,6,5,1,7,5,2,3,0,6,4,2,9,Q,EU_UC,Villa Park,Birmingham
+1993/94,7,22,Wimbledon,9,10,4,4,2,11,11,0,16,5,2,3,0,6,4,2,9,5,2,1,2,5,7,-2,7,,,Selhurst Park,London
+1993/94,7,7,Everton,10,10,5,0,5,13,14,-1,15,5,3,0,2,8,8,0,9,5,2,0,3,5,6,-1,6,,,Goodison Park,Liverpool
+1993/94,7,5,Coventry City,11,10,3,5,2,12,10,2,14,5,2,2,1,5,5,0,8,5,1,3,1,7,5,2,6,,,Highfield Road,Coventry
+1993/94,7,17,Queens Park Rangers,12,10,4,2,4,16,17,-1,14,5,3,1,1,10,7,3,10,5,1,1,3,6,10,-4,4,,,Loftus Road,London
+1993/94,7,10,Liverpool,13,10,4,1,5,13,8,5,13,5,2,1,2,5,3,2,7,5,2,0,3,8,5,3,6,,,Anfield,Liverpool
+1993/94,7,4,Chelsea,14,10,3,4,3,9,8,1,13,5,3,1,1,6,3,3,10,5,0,3,2,3,5,-2,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,7,11,Manchester City,15,10,3,3,4,10,9,1,12,5,1,3,1,6,5,1,6,5,2,0,3,4,4,0,6,,,Maine Road,Manchester
+1993/94,7,8,Ipswich Town,16,10,3,3,4,10,14,-4,12,5,2,2,1,6,5,1,8,5,1,1,3,4,9,-5,4,,,Portman Road,Ipswich
+1993/94,7,25,West Ham United,17,10,3,2,5,6,13,-7,11,5,2,1,2,3,6,-3,7,5,1,1,3,3,7,-4,4,,,Boleyn Ground,London
+1993/94,7,18,Sheffield United,18,10,2,3,5,15,20,-5,9,5,2,2,1,8,6,2,8,5,0,1,4,7,14,-7,1,,,Bramall Lane,Sheffield
+1993/94,7,19,Sheffield Wednesday,19,10,1,4,5,11,17,-6,7,5,1,2,2,7,7,0,5,5,0,2,3,4,10,-6,2,,,Hillsborough,Sheffield
+1993/94,7,16,Oldham Athletic,20,10,1,4,5,7,17,-10,7,5,0,3,2,5,9,-4,3,5,1,1,3,2,8,-6,4,R,EN_D1,Boundary Park,Oldham
+1993/94,7,20,Southampton,21,10,1,1,8,10,18,-8,4,5,1,1,3,9,11,-2,4,5,0,0,5,1,7,-6,0,R,EN_D1,The Dell,Southampton
+1993/94,7,24,Swindon Town,22,10,0,3,7,8,26,-18,3,5,0,1,4,4,14,-10,1,5,0,2,3,4,12,-8,2,R,EN_D1,County Ground,Swindon
+1993/94,8,12,Manchester United,1,11,9,1,1,24,9,15,28,6,5,1,0,14,4,10,16,5,4,0,1,10,5,5,12,Q,EU_CL,Old Trafford,Manchester
+1993/94,8,14,Norwich City,2,11,6,3,2,21,12,9,21,5,2,1,2,2,3,-1,7,6,4,2,0,19,9,10,14,Q,EU_UC,Carrow Road,Norwich
+1993/94,8,1,Arsenal,3,11,6,3,2,12,6,6,21,6,4,1,1,9,4,5,13,5,2,2,1,3,2,1,8,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,8,9,Leeds United,4,11,6,2,3,14,10,4,20,5,4,0,1,8,5,3,12,6,2,2,2,6,5,1,8,,,Elland Road,Leeds
+1993/94,8,3,Blackburn Rovers,5,11,5,4,2,14,10,4,19,6,1,3,2,5,7,-2,6,5,4,1,0,9,3,6,13,,,Ewood Park,Blackburn
+1993/94,8,21,Tottenham Hotspur,6,11,5,3,3,18,12,6,18,5,3,1,1,10,4,6,10,6,2,2,2,8,8,0,8,,,White Hart Lane,London
+1993/94,8,2,Aston Villa,7,11,4,5,2,12,9,3,17,5,2,1,2,6,5,1,7,6,2,4,0,6,4,2,10,Q,EU_UC,Villa Park,Birmingham
+1993/94,8,17,Queens Park Rangers,8,11,5,2,4,18,18,0,17,5,3,1,1,10,7,3,10,6,2,1,3,8,11,-3,7,,,Loftus Road,London
+1993/94,8,22,Wimbledon,9,11,4,5,2,13,13,0,17,5,2,3,0,6,4,2,9,6,2,2,2,7,9,-2,8,,,Selhurst Park,London
+1993/94,8,10,Liverpool,10,11,5,1,5,15,9,6,16,6,3,1,2,7,4,3,10,5,2,0,3,8,5,3,6,,,Anfield,Liverpool
+1993/94,8,23,Newcastle United,11,11,4,4,3,16,12,4,16,6,3,1,2,9,6,3,10,5,1,3,1,7,6,1,6,,,St. James' Park,Newcastle
+1993/94,8,7,Everton,12,11,5,1,5,14,15,-1,16,5,3,0,2,8,8,0,9,6,2,1,3,6,7,-1,7,,,Goodison Park,Liverpool
+1993/94,8,5,Coventry City,13,11,3,6,2,13,11,2,15,6,2,3,1,6,6,0,9,5,1,3,1,7,5,2,6,,,Highfield Road,Coventry
+1993/94,8,11,Manchester City,14,11,3,4,4,10,9,1,13,5,1,3,1,6,5,1,6,6,2,1,3,4,4,0,7,,,Maine Road,Manchester
+1993/94,8,4,Chelsea,15,11,3,4,4,10,10,0,13,6,3,1,2,7,5,2,10,5,0,3,2,3,5,-2,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,8,8,Ipswich Town,16,11,3,4,4,10,14,-4,13,6,2,3,1,6,5,1,9,5,1,1,3,4,9,-5,4,,,Portman Road,Ipswich
+1993/94,8,25,West Ham United,17,11,3,3,5,6,13,-7,12,6,2,2,2,3,6,-3,8,5,1,1,3,3,7,-4,4,,,Boleyn Ground,London
+1993/94,8,18,Sheffield United,18,11,2,4,5,15,20,-5,10,5,2,2,1,8,6,2,8,6,0,2,4,7,14,-7,2,,,Bramall Lane,Sheffield
+1993/94,8,19,Sheffield Wednesday,19,11,1,5,5,13,19,-6,8,6,1,3,2,9,9,0,6,5,0,2,3,4,10,-6,2,,,Hillsborough,Sheffield
+1993/94,8,16,Oldham Athletic,20,11,1,4,6,8,19,-11,7,5,0,3,2,5,9,-4,3,6,1,1,4,3,10,-7,4,R,EN_D1,Boundary Park,Oldham
+1993/94,8,20,Southampton,21,11,1,2,8,11,19,-8,5,5,1,1,3,9,11,-2,4,6,0,1,5,2,8,-6,1,R,EN_D1,The Dell,Southampton
+1993/94,8,24,Swindon Town,22,11,0,4,7,9,27,-18,4,6,0,2,4,5,15,-10,2,5,0,2,3,4,12,-8,2,R,EN_D1,County Ground,Swindon
+1993/94,9,12,Manchester United,1,12,10,1,1,25,9,16,31,6,5,1,0,14,4,10,16,6,5,0,1,11,5,6,15,Q,EU_CL,Old Trafford,Manchester
+1993/94,9,14,Norwich City,2,12,6,4,2,21,12,9,22,6,2,2,2,2,3,-1,8,6,4,2,0,19,9,10,14,Q,EU_UC,Carrow Road,Norwich
+1993/94,9,1,Arsenal,3,12,6,4,2,12,6,6,22,6,4,1,1,9,4,5,13,6,2,3,1,3,2,1,9,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,9,9,Leeds United,4,12,6,3,3,17,13,4,21,6,4,1,1,11,8,3,13,6,2,2,2,6,5,1,8,,,Elland Road,Leeds
+1993/94,9,17,Queens Park Rangers,5,12,6,2,4,23,19,4,20,6,4,1,1,15,8,7,13,6,2,1,3,8,11,-3,7,,,Loftus Road,London
+1993/94,9,3,Blackburn Rovers,6,12,5,5,2,17,13,4,20,6,1,3,2,5,7,-2,6,6,4,2,0,12,6,6,14,,,Ewood Park,Blackburn
+1993/94,9,2,Aston Villa,7,12,5,5,2,13,9,4,20,6,3,1,2,7,5,2,10,6,2,4,0,6,4,2,10,Q,EU_UC,Villa Park,Birmingham
+1993/94,9,21,Tottenham Hotspur,8,12,5,4,3,19,13,6,19,6,3,2,1,11,5,6,11,6,2,2,2,8,8,0,8,,,White Hart Lane,London
+1993/94,9,10,Liverpool,9,12,5,2,5,16,10,6,17,6,3,1,2,7,4,3,10,6,2,1,3,9,6,3,7,,,Anfield,Liverpool
+1993/94,9,22,Wimbledon,10,12,4,5,3,13,15,-2,17,6,2,3,1,6,6,0,9,6,2,2,2,7,9,-2,8,,,Selhurst Park,London
+1993/94,9,23,Newcastle United,11,12,4,4,4,17,14,3,16,6,3,1,2,9,6,3,10,6,1,3,2,8,8,0,6,,,St. James' Park,Newcastle
+1993/94,9,7,Everton,12,12,5,1,6,14,16,-2,16,6,3,0,3,8,9,-1,9,6,2,1,3,6,7,-1,7,,,Goodison Park,Liverpool
+1993/94,9,8,Ipswich Town,13,12,4,4,4,12,14,-2,16,6,2,3,1,6,5,1,9,6,2,1,3,6,9,-3,7,,,Portman Road,Ipswich
+1993/94,9,5,Coventry City,14,12,3,6,3,14,16,-2,15,6,2,3,1,6,6,0,9,6,1,3,2,8,10,-2,6,,,Highfield Road,Coventry
+1993/94,9,11,Manchester City,15,12,3,5,4,11,10,1,14,6,1,4,1,7,6,1,7,6,2,1,3,4,4,0,7,,,Maine Road,Manchester
+1993/94,9,4,Chelsea,16,12,3,4,5,10,11,-1,13,6,3,1,2,7,5,2,10,6,0,3,3,3,6,-3,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,9,25,West Ham United,17,12,3,4,5,6,13,-7,13,6,2,2,2,3,6,-3,8,6,1,2,3,3,7,-4,5,,,Boleyn Ground,London
+1993/94,9,18,Sheffield United,18,12,2,5,5,16,21,-5,11,6,2,3,1,9,7,2,9,6,0,2,4,7,14,-7,2,,,Bramall Lane,Sheffield
+1993/94,9,19,Sheffield Wednesday,19,12,1,6,5,14,20,-6,9,6,1,3,2,9,9,0,6,6,0,3,3,5,11,-6,3,,,Hillsborough,Sheffield
+1993/94,9,20,Southampton,20,12,2,2,8,13,20,-7,8,6,2,1,3,11,12,-1,7,6,0,1,5,2,8,-6,1,R,EN_D1,The Dell,Southampton
+1993/94,9,16,Oldham Athletic,21,12,1,5,6,8,19,-11,8,6,0,4,2,5,9,-4,4,6,1,1,4,3,10,-7,4,R,EN_D1,Boundary Park,Oldham
+1993/94,9,24,Swindon Town,22,12,0,5,7,10,28,-18,5,6,0,2,4,5,15,-10,2,6,0,3,3,5,13,-8,3,R,EN_D1,County Ground,Swindon
+1993/94,10,12,Manchester United,1,13,11,1,1,27,10,17,34,7,6,1,0,16,5,11,19,6,5,0,1,11,5,6,15,Q,EU_CL,Old Trafford,Manchester
+1993/94,10,14,Norwich City,2,13,6,5,2,21,12,9,23,6,2,2,2,2,3,-1,8,7,4,3,0,19,9,10,15,Q,EU_UC,Carrow Road,Norwich
+1993/94,10,1,Arsenal,3,13,6,5,2,12,6,6,23,7,4,2,1,9,4,5,14,6,2,3,1,3,2,1,9,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,10,3,Blackburn Rovers,4,13,6,5,2,18,13,5,23,7,2,3,2,6,7,-1,9,6,4,2,0,12,6,6,14,,,Ewood Park,Blackburn
+1993/94,10,2,Aston Villa,5,13,6,5,2,15,10,5,23,6,3,1,2,7,5,2,10,7,3,4,0,8,5,3,13,Q,EU_UC,Villa Park,Birmingham
+1993/94,10,9,Leeds United,6,13,6,4,3,20,16,4,22,6,4,1,1,11,8,3,13,7,2,3,2,9,8,1,9,,,Elland Road,Leeds
+1993/94,10,10,Liverpool,7,13,6,2,5,20,12,8,20,7,4,1,2,11,6,5,13,6,2,1,3,9,6,3,7,,,Anfield,Liverpool
+1993/94,10,17,Queens Park Rangers,8,13,6,2,5,24,21,3,20,6,4,1,1,15,8,7,13,7,2,1,4,9,13,-4,7,,,Loftus Road,London
+1993/94,10,23,Newcastle United,9,13,5,4,4,21,14,7,19,7,4,1,2,13,6,7,13,6,1,3,2,8,8,0,6,,,St. James' Park,Newcastle
+1993/94,10,21,Tottenham Hotspur,10,13,5,4,4,19,14,5,19,6,3,2,1,11,5,6,11,7,2,2,3,8,9,-1,8,,,White Hart Lane,London
+1993/94,10,7,Everton,11,13,6,1,6,16,16,0,19,6,3,0,3,8,9,-1,9,7,3,1,3,8,7,1,10,,,Goodison Park,Liverpool
+1993/94,10,22,Wimbledon,12,13,4,5,4,13,19,-6,17,6,2,3,1,6,6,0,9,7,2,2,3,7,13,-6,8,,,Selhurst Park,London
+1993/94,10,5,Coventry City,13,13,3,7,3,14,16,-2,16,7,2,4,1,6,6,0,10,6,1,3,2,8,10,-2,6,,,Highfield Road,Coventry
+1993/94,10,8,Ipswich Town,14,13,4,4,5,12,16,-4,16,7,2,3,2,6,7,-1,9,6,2,1,3,6,9,-3,7,,,Portman Road,Ipswich
+1993/94,10,25,West Ham United,15,13,4,4,5,9,14,-5,16,7,3,2,2,6,7,-1,11,6,1,2,3,3,7,-4,5,,,Boleyn Ground,London
+1993/94,10,11,Manchester City,16,13,3,5,5,12,13,-1,14,6,1,4,1,7,6,1,7,7,2,1,4,5,7,-2,7,,,Maine Road,Manchester
+1993/94,10,4,Chelsea,17,13,3,4,6,10,12,-2,13,7,3,1,3,7,6,1,10,6,0,3,3,3,6,-3,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,10,18,Sheffield United,18,13,2,6,5,16,21,-5,12,6,2,3,1,9,7,2,9,7,0,3,4,7,14,-7,3,,,Bramall Lane,Sheffield
+1993/94,10,16,Oldham Athletic,19,13,2,5,6,9,19,-10,11,6,0,4,2,5,9,-4,4,7,2,1,4,4,10,-6,7,,,Boundary Park,Oldham
+1993/94,10,19,Sheffield Wednesday,20,13,1,7,5,17,23,-6,10,7,1,4,2,12,12,0,7,6,0,3,3,5,11,-6,3,R,EN_D1,Hillsborough,Sheffield
+1993/94,10,20,Southampton,21,13,2,2,9,15,24,-9,8,6,2,1,3,11,12,-1,7,7,0,1,6,4,12,-8,1,R,EN_D1,The Dell,Southampton
+1993/94,10,24,Swindon Town,22,13,0,5,8,11,30,-19,5,7,0,2,5,6,17,-11,2,6,0,3,3,5,13,-8,3,R,EN_D1,County Ground,Swindon
+1993/94,11,12,Manchester United,1,14,12,1,1,30,12,18,37,7,6,1,0,16,5,11,19,7,6,0,1,14,7,7,18,Q,EU_CL,Old Trafford,Manchester
+1993/94,11,14,Norwich City,2,14,7,5,2,23,13,10,26,6,2,2,2,2,3,-1,8,8,5,3,0,21,10,11,18,Q,EU_UC,Carrow Road,Norwich
+1993/94,11,2,Aston Villa,3,14,7,5,2,17,11,6,26,6,3,1,2,7,5,2,10,8,4,4,0,10,6,4,16,"Q,Q","EU_UC,EU_UC",Villa Park,Birmingham
+1993/94,11,9,Leeds United,4,14,7,4,3,24,17,7,25,7,5,1,1,15,9,6,16,7,2,3,2,9,8,1,9,,,Elland Road,Leeds
+1993/94,11,10,Liverpool,5,14,7,2,5,22,12,10,23,8,5,1,2,13,6,7,16,6,2,1,3,9,6,3,7,,,Anfield,Liverpool
+1993/94,11,1,Arsenal,6,14,6,5,3,13,8,5,23,8,4,2,2,10,6,4,14,6,2,3,1,3,2,1,9,Q,EU_CWC,Highbury,London
+1993/94,11,17,Queens Park Rangers,7,14,7,2,5,25,21,4,23,7,5,1,1,16,8,8,16,7,2,1,4,9,13,-4,7,,,Loftus Road,London
+1993/94,11,3,Blackburn Rovers,8,14,6,5,3,18,14,4,23,7,2,3,2,6,7,-1,9,7,4,2,1,12,7,5,14,,,Ewood Park,Blackburn
+1993/94,11,23,Newcastle United,9,14,6,4,4,24,15,9,22,7,4,1,2,13,6,7,13,7,2,3,2,11,9,2,9,,,St. James' Park,Newcastle
+1993/94,11,22,Wimbledon,10,14,5,5,4,16,19,-3,20,7,3,3,1,9,6,3,12,7,2,2,3,7,13,-6,8,,,Selhurst Park,London
+1993/94,11,21,Tottenham Hotspur,11,14,5,4,5,19,15,4,19,6,3,2,1,11,5,6,11,8,2,2,4,8,10,-2,8,,,White Hart Lane,London
+1993/94,11,7,Everton,12,14,6,1,7,17,18,-1,19,6,3,0,3,8,9,-1,9,8,3,1,4,9,9,0,10,,,Goodison Park,Liverpool
+1993/94,11,5,Coventry City,13,14,4,7,3,16,17,-1,19,8,3,4,1,8,7,1,13,6,1,3,2,8,10,-2,6,,,Highfield Road,Coventry
+1993/94,11,8,Ipswich Town,14,14,4,4,6,13,20,-7,16,8,2,3,3,7,11,-4,9,6,2,1,3,6,9,-3,7,,,Portman Road,Ipswich
+1993/94,11,25,West Ham United,15,14,4,4,6,9,16,-7,16,7,3,2,2,6,7,-1,11,7,1,2,4,3,9,-6,5,,,Boleyn Ground,London
+1993/94,11,11,Manchester City,16,14,3,5,6,14,16,-2,14,7,1,4,2,9,9,0,7,7,2,1,4,5,7,-2,7,,,Maine Road,Manchester
+1993/94,11,19,Sheffield Wednesday,17,14,2,7,5,21,24,-3,13,7,1,4,2,12,12,0,7,7,1,3,3,9,12,-3,6,,,Hillsborough,Sheffield
+1993/94,11,4,Chelsea,18,14,3,4,7,11,16,-5,13,7,3,1,3,7,6,1,10,7,0,3,4,4,10,-6,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,11,18,Sheffield United,19,14,2,6,6,17,23,-6,12,7,2,3,2,10,9,1,9,7,0,3,4,7,14,-7,3,,,Bramall Lane,Sheffield
+1993/94,11,20,Southampton,20,14,3,2,9,16,24,-8,11,7,3,1,3,12,12,0,10,7,0,1,6,4,12,-8,1,R,EN_D1,The Dell,Southampton
+1993/94,11,16,Oldham Athletic,21,14,2,5,7,10,22,-12,11,7,0,4,3,6,12,-6,4,7,2,1,4,4,10,-6,7,R,EN_D1,Boundary Park,Oldham
+1993/94,11,24,Swindon Town,22,14,0,5,9,11,33,-22,5,7,0,2,5,6,17,-11,2,7,0,3,4,5,16,-11,3,R,EN_D1,County Ground,Swindon
+1993/94,12,12,Manchester United,1,16,13,2,1,33,13,20,41,9,7,2,0,19,6,13,23,7,6,0,1,14,7,7,18,Q,EU_CL,Old Trafford,Manchester
+1993/94,12,3,Blackburn Rovers,2,16,8,5,3,22,15,7,29,9,4,3,2,10,8,2,15,7,4,2,1,12,7,5,14,Q,EU_UC,Ewood Park,Blackburn
+1993/94,12,2,Aston Villa,3,16,8,5,3,18,13,5,29,8,4,1,3,8,7,1,13,8,4,4,0,10,6,4,16,"Q,Q","EU_UC,EU_UC",Villa Park,Birmingham
+1993/94,12,23,Newcastle United,4,16,8,4,4,31,15,16,28,9,6,1,2,20,6,14,19,7,2,3,2,11,9,2,9,,,St. James' Park,Newcastle
+1993/94,12,14,Norwich City,5,15,7,6,2,24,14,10,27,7,2,3,2,3,4,-1,9,8,5,3,0,21,10,11,18,,,Carrow Road,Norwich
+1993/94,12,9,Leeds United,6,16,7,6,3,26,19,7,27,7,5,1,1,15,9,6,16,9,2,5,2,11,10,1,11,,,Elland Road,Leeds
+1993/94,12,1,Arsenal,7,16,7,6,3,15,8,7,27,8,4,2,2,10,6,4,14,8,3,4,1,5,2,3,13,Q,EU_CWC,Highbury,London
+1993/94,12,17,Queens Park Rangers,8,16,8,2,6,28,22,6,26,7,5,1,1,16,8,8,16,9,3,1,5,12,14,-2,10,,,Loftus Road,London
+1993/94,12,10,Liverpool,9,15,7,2,6,22,15,7,23,8,5,1,2,13,6,7,16,7,2,1,4,9,9,0,7,,,Anfield,Liverpool
+1993/94,12,21,Tottenham Hotspur,10,16,5,6,5,21,17,4,21,8,3,4,1,13,7,6,13,8,2,2,4,8,10,-2,8,,,White Hart Lane,London
+1993/94,12,22,Wimbledon,11,16,5,6,5,18,23,-5,21,7,3,3,1,9,6,3,12,9,2,3,4,9,17,-8,9,,,Selhurst Park,London
+1993/94,12,5,Coventry City,12,16,4,8,4,17,19,-2,20,8,3,4,1,8,7,1,13,8,1,4,3,9,12,-3,7,,,Highfield Road,Coventry
+1993/94,12,7,Everton,13,16,6,2,8,18,22,-4,20,8,3,1,4,9,13,-4,10,8,3,1,4,9,9,0,10,,,Goodison Park,Liverpool
+1993/94,12,25,West Ham United,14,16,5,5,6,11,16,-5,20,9,4,3,2,8,7,1,15,7,1,2,4,3,9,-6,5,,,Boleyn Ground,London
+1993/94,12,8,Ipswich Town,15,16,4,6,6,15,22,-7,18,8,2,3,3,7,11,-4,9,8,2,3,3,8,11,-3,9,,,Portman Road,Ipswich
+1993/94,12,19,Sheffield Wednesday,16,16,3,8,5,24,24,0,17,9,2,5,2,15,12,3,11,7,1,3,3,9,12,-3,6,,,Hillsborough,Sheffield
+1993/94,12,11,Manchester City,17,16,3,7,6,15,17,-2,16,7,1,4,2,9,9,0,7,9,2,3,4,6,8,-2,9,,,Maine Road,Manchester
+1993/94,12,4,Chelsea,18,16,3,5,8,11,18,-7,14,9,3,2,4,7,8,-1,11,7,0,3,4,4,10,-6,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,12,20,Southampton,19,16,4,2,10,18,26,-8,14,7,3,1,3,12,12,0,10,9,1,1,7,6,14,-8,4,,,The Dell,Southampton
+1993/94,12,18,Sheffield United,20,16,2,6,8,17,28,-11,12,7,2,3,2,10,9,1,9,9,0,3,6,7,19,-12,3,R,EN_D1,Bramall Lane,Sheffield
+1993/94,12,16,Oldham Athletic,21,16,2,5,9,10,27,-17,11,7,0,4,3,6,12,-6,4,9,2,1,6,4,15,-11,7,R,EN_D1,Boundary Park,Oldham
+1993/94,12,24,Swindon Town,22,16,1,6,9,14,35,-21,9,9,1,3,5,9,19,-10,6,7,0,3,4,5,16,-11,3,R,EN_D1,County Ground,Swindon
+1993/94,13,12,Manchester United,1,17,14,2,1,34,13,21,44,9,7,2,0,19,6,13,23,8,7,0,1,15,7,8,21,Q,EU_CL,Old Trafford,Manchester
+1993/94,13,9,Leeds United,2,17,8,6,3,29,19,10,30,8,6,1,1,18,9,9,19,9,2,5,2,11,10,1,11,Q,EU_UC,Elland Road,Leeds
+1993/94,13,1,Arsenal,3,17,8,6,3,17,9,8,30,9,5,2,2,12,7,5,17,8,3,4,1,5,2,3,13,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,13,3,Blackburn Rovers,4,17,8,5,4,22,16,6,29,9,4,3,2,10,8,2,15,8,4,2,2,12,8,4,14,,,Ewood Park,Blackburn
+1993/94,13,2,Aston Villa,5,17,8,5,4,19,15,4,29,8,4,1,3,8,7,1,13,9,4,4,1,11,8,3,16,Q,EU_UC,Villa Park,Birmingham
+1993/94,13,23,Newcastle United,6,17,8,4,5,32,17,15,28,9,6,1,2,20,6,14,19,8,2,3,3,12,11,1,9,,,St. James' Park,Newcastle
+1993/94,13,14,Norwich City,7,16,7,6,3,25,16,9,27,7,2,3,2,3,4,-1,9,9,5,3,1,22,12,10,18,,,Carrow Road,Norwich
+1993/94,13,17,Queens Park Rangers,8,17,8,3,6,29,23,6,27,8,5,2,1,17,9,8,17,9,3,1,5,12,14,-2,10,,,Loftus Road,London
+1993/94,13,10,Liverpool,9,16,8,2,6,24,16,8,26,9,6,1,2,15,7,8,19,7,2,1,4,9,9,0,7,,,Anfield,Liverpool
+1993/94,13,25,West Ham United,10,17,6,5,6,13,16,-3,23,9,4,3,2,8,7,1,15,8,2,2,4,5,9,-4,8,,,Boleyn Ground,London
+1993/94,13,21,Tottenham Hotspur,11,17,5,7,5,22,18,4,22,8,3,4,1,13,7,6,13,9,2,3,4,9,11,-2,9,,,White Hart Lane,London
+1993/94,13,22,Wimbledon,12,17,5,7,5,19,24,-5,22,8,3,4,1,10,7,3,13,9,2,3,4,9,17,-8,9,,,Selhurst Park,London
+1993/94,13,7,Everton,13,17,6,3,8,19,23,-4,21,8,3,1,4,9,13,-4,10,9,3,2,4,10,10,0,11,,,Goodison Park,Liverpool
+1993/94,13,8,Ipswich Town,14,17,5,6,6,16,22,-6,21,9,3,3,3,8,11,-3,12,8,2,3,3,8,11,-3,9,,,Portman Road,Ipswich
+1993/94,13,19,Sheffield Wednesday,15,17,4,8,5,27,25,2,20,9,2,5,2,15,12,3,11,8,2,3,3,12,13,-1,9,,,Hillsborough,Sheffield
+1993/94,13,5,Coventry City,16,17,4,8,5,17,20,-3,20,9,3,4,2,8,8,0,13,8,1,4,3,9,12,-3,7,,,Highfield Road,Coventry
+1993/94,13,11,Manchester City,17,17,3,7,7,16,20,-4,16,8,1,4,3,10,12,-2,7,9,2,3,4,6,8,-2,9,,,Maine Road,Manchester
+1993/94,13,18,Sheffield United,18,17,3,6,8,18,28,-10,15,8,3,3,2,11,9,2,12,9,0,3,6,7,19,-12,3,,,Bramall Lane,Sheffield
+1993/94,13,4,Chelsea,19,17,3,5,9,11,19,-8,14,9,3,2,4,7,8,-1,11,8,0,3,5,4,11,-7,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,13,20,Southampton,20,17,4,2,11,18,28,-10,14,8,3,1,4,12,14,-2,10,9,1,1,7,6,14,-8,4,R,EN_D1,The Dell,Southampton
+1993/94,13,16,Oldham Athletic,21,17,3,5,9,12,28,-16,14,8,1,4,3,8,13,-5,7,9,2,1,6,4,15,-11,7,R,EN_D1,Boundary Park,Oldham
+1993/94,13,24,Swindon Town,22,17,1,6,10,14,38,-24,9,9,1,3,5,9,19,-10,6,8,0,3,5,5,19,-14,3,R,EN_D1,County Ground,Swindon
+1993/94,14,12,Manchester United,1,19,15,3,1,39,15,24,48,10,7,3,0,21,8,13,24,9,8,0,1,18,7,11,24,Q,EU_CL,Old Trafford,Manchester
+1993/94,14,9,Leeds United,2,19,10,6,3,33,21,12,36,9,7,1,1,21,11,10,22,10,3,5,2,12,10,2,14,Q,EU_UC,Elland Road,Leeds
+1993/94,14,3,Blackburn Rovers,3,18,9,5,4,24,16,8,32,10,5,3,2,12,8,4,18,8,4,2,2,12,8,4,14,Q,EU_UC,Ewood Park,Blackburn
+1993/94,14,23,Newcastle United,4,18,9,4,5,34,18,16,31,9,6,1,2,20,6,14,19,9,3,3,3,14,12,2,12,,,St. James' Park,Newcastle
+1993/94,14,1,Arsenal,5,19,8,7,4,18,11,7,31,10,5,3,2,13,8,5,18,9,3,4,2,5,3,2,13,Q,EU_CWC,Highbury,London
+1993/94,14,2,Aston Villa,6,19,8,7,4,23,19,4,31,9,4,2,3,10,9,1,14,10,4,5,1,13,10,3,17,Q,EU_UC,Villa Park,Birmingham
+1993/94,14,10,Liverpool,7,18,9,2,7,28,21,7,29,10,7,1,2,18,9,9,22,8,2,1,5,10,12,-2,7,,,Anfield,Liverpool
+1993/94,14,14,Norwich City,8,17,7,7,3,27,18,9,28,7,2,3,2,3,4,-1,9,10,5,4,1,24,14,10,19,,,Carrow Road,Norwich
+1993/94,14,17,Queens Park Rangers,9,19,8,4,7,33,28,5,28,9,5,3,1,19,11,8,18,10,3,1,6,14,17,-3,10,,,Loftus Road,London
+1993/94,14,25,West Ham United,10,19,7,5,7,15,18,-3,26,10,4,3,3,8,8,0,15,9,3,2,4,7,10,-3,11,,,Boleyn Ground,London
+1993/94,14,8,Ipswich Town,11,19,6,7,6,17,22,-5,25,10,3,4,3,8,11,-3,13,9,3,3,3,9,11,-2,12,,,Portman Road,Ipswich
+1993/94,14,19,Sheffield Wednesday,12,19,5,9,5,32,28,4,24,10,3,5,2,18,13,5,14,9,2,4,3,14,15,-1,10,,,Hillsborough,Sheffield
+1993/94,14,7,Everton,13,19,7,3,9,20,24,-4,24,9,4,1,4,10,13,-3,13,10,3,2,5,10,11,-1,11,,,Goodison Park,Liverpool
+1993/94,14,21,Tottenham Hotspur,14,19,5,8,6,24,21,3,23,9,3,4,2,14,9,5,13,10,2,4,4,10,12,-2,10,,,White Hart Lane,London
+1993/94,14,5,Coventry City,15,18,5,8,5,18,20,-2,23,10,4,4,2,9,8,1,16,8,1,4,3,9,12,-3,7,,,Highfield Road,Coventry
+1993/94,14,22,Wimbledon,16,18,5,7,6,20,26,-6,22,9,3,4,2,11,9,2,13,9,2,3,4,9,17,-8,9,,,Selhurst Park,London
+1993/94,14,11,Manchester City,17,19,4,7,8,19,23,-4,19,9,2,4,3,11,12,-1,10,10,2,3,5,8,11,-3,9,,,Maine Road,Manchester
+1993/94,14,16,Oldham Athletic,18,19,4,6,9,14,29,-15,18,9,2,4,3,10,14,-4,10,10,2,2,6,4,15,-11,8,,,Boundary Park,Oldham
+1993/94,14,18,Sheffield United,19,19,3,7,9,18,31,-13,16,9,3,3,3,11,12,-1,12,10,0,4,6,7,19,-12,4,,,Bramall Lane,Sheffield
+1993/94,14,4,Chelsea,20,18,3,5,10,11,21,-10,14,9,3,2,4,7,8,-1,11,9,0,3,6,4,13,-9,3,"R,Q","EN_D1,EU_CWC",Stamford Bridge,London
+1993/94,14,20,Southampton,21,19,4,2,13,18,30,-12,14,9,3,1,5,12,15,-3,10,10,1,1,8,6,15,-9,4,R,EN_D1,The Dell,Southampton
+1993/94,14,24,Swindon Town,22,19,1,7,11,15,40,-25,10,10,1,4,5,9,19,-10,7,9,0,3,6,6,21,-15,3,R,EN_D1,County Ground,Swindon
+1993/94,15,12,Manchester United,1,20,15,4,1,40,16,24,49,10,7,3,0,21,8,13,24,10,8,1,1,19,8,11,25,Q,EU_CL,Old Trafford,Manchester
+1993/94,15,9,Leeds United,2,20,10,6,4,34,23,11,36,9,7,1,1,21,11,10,22,11,3,5,3,13,12,1,14,Q,EU_UC,Elland Road,Leeds
+1993/94,15,3,Blackburn Rovers,3,19,10,5,4,26,17,9,35,10,5,3,2,12,8,4,18,9,5,2,2,14,9,5,17,Q,EU_UC,Ewood Park,Blackburn
+1993/94,15,1,Arsenal,4,20,9,7,4,19,11,8,34,11,6,3,2,14,8,6,21,9,3,4,2,5,3,2,13,Q,EU_CWC,Highbury,London
+1993/94,15,23,Newcastle United,5,19,9,5,5,35,19,16,32,10,6,2,2,21,7,14,20,9,3,3,3,14,12,2,12,,,St. James' Park,Newcastle
+1993/94,15,14,Norwich City,6,18,8,7,3,29,19,10,31,8,3,3,2,5,5,0,12,10,5,4,1,24,14,10,19,,,Carrow Road,Norwich
+1993/94,15,17,Queens Park Rangers,7,20,9,4,7,34,28,6,31,9,5,3,1,19,11,8,18,11,4,1,6,15,17,-2,13,,,Loftus Road,London
+1993/94,15,2,Aston Villa,8,20,8,7,5,23,20,3,31,10,4,2,4,10,10,0,14,10,4,5,1,13,10,3,17,Q,EU_UC,Villa Park,Birmingham
+1993/94,15,10,Liverpool,9,19,9,3,7,30,23,7,30,11,7,2,2,20,11,9,23,8,2,1,5,10,12,-2,7,,,Anfield,Liverpool
+1993/94,15,25,West Ham United,10,20,8,5,7,18,20,-2,29,11,5,3,3,11,10,1,18,9,3,2,4,7,10,-3,11,,,Boleyn Ground,London
+1993/94,15,21,Tottenham Hotspur,11,20,6,8,6,26,21,5,26,9,3,4,2,14,9,5,13,11,3,4,4,12,12,0,13,,,White Hart Lane,London
+1993/94,15,8,Ipswich Town,12,20,6,8,6,18,23,-5,26,10,3,4,3,8,11,-3,13,10,3,4,3,10,12,-2,13,,,Portman Road,Ipswich
+1993/94,15,7,Everton,13,20,7,4,9,20,24,-4,25,9,4,1,4,10,13,-3,13,11,3,3,5,10,11,-1,12,,,Goodison Park,Liverpool
+1993/94,15,22,Wimbledon,14,19,6,7,6,21,26,-5,25,9,3,4,2,11,9,2,13,10,3,3,4,10,17,-7,12,,,Selhurst Park,London
+1993/94,15,19,Sheffield Wednesday,15,20,5,9,6,32,29,3,24,10,3,5,2,18,13,5,14,10,2,4,4,14,16,-2,10,,,Hillsborough,Sheffield
+1993/94,15,5,Coventry City,16,19,5,8,6,20,23,-3,23,10,4,4,2,9,8,1,16,9,1,4,4,11,15,-4,7,,,Highfield Road,Coventry
+1993/94,15,11,Manchester City,17,20,4,7,9,19,25,-6,19,10,2,4,4,11,14,-3,10,10,2,3,5,8,11,-3,9,,,Maine Road,Manchester
+1993/94,15,16,Oldham Athletic,18,20,4,6,10,15,31,-16,18,10,2,4,4,11,16,-5,10,10,2,2,6,4,15,-11,8,,,Boundary Park,Oldham
+1993/94,15,18,Sheffield United,19,20,3,8,9,18,31,-13,17,10,3,4,3,11,12,-1,13,10,0,4,6,7,19,-12,4,,,Bramall Lane,Sheffield
+1993/94,15,4,Chelsea,20,19,3,6,10,12,22,-10,15,10,3,3,4,8,9,-1,12,9,0,3,6,4,13,-9,3,"R,Q","EN_D1,EU_CWC",Stamford Bridge,London
+1993/94,15,20,Southampton,21,20,4,2,14,18,31,-13,14,10,3,1,6,12,16,-4,10,10,1,1,8,6,15,-9,4,R,EN_D1,The Dell,Southampton
+1993/94,15,24,Swindon Town,22,20,1,8,11,17,42,-25,11,10,1,4,5,9,19,-10,7,10,0,4,6,8,23,-15,4,R,EN_D1,County Ground,Swindon
+1993/94,16,12,Manchester United,1,21,16,4,1,43,17,26,52,11,8,3,0,24,9,15,27,10,8,1,1,19,8,11,25,Q,EU_CL,Old Trafford,Manchester
+1993/94,16,9,Leeds United,2,22,11,7,4,37,25,12,40,10,8,1,1,23,12,11,25,12,3,6,3,14,13,1,15,Q,EU_UC,Elland Road,Leeds
+1993/94,16,3,Blackburn Rovers,3,20,11,5,4,28,17,11,38,11,6,3,2,14,8,6,21,9,5,2,2,14,9,5,17,Q,EU_UC,Ewood Park,Blackburn
+1993/94,16,23,Newcastle United,4,21,10,6,5,38,20,18,36,11,6,3,2,22,8,14,21,10,4,3,3,16,12,4,15,,,St. James' Park,Newcastle
+1993/94,16,1,Arsenal,5,21,9,7,5,20,13,7,34,11,6,3,2,14,8,6,21,10,3,4,3,6,5,1,13,Q,EU_CWC,Highbury,London
+1993/94,16,14,Norwich City,6,19,8,7,4,30,21,9,31,8,3,3,2,5,5,0,12,11,5,4,2,25,16,9,19,,,Carrow Road,Norwich
+1993/94,16,10,Liverpool,7,20,9,4,7,33,26,7,31,11,7,2,2,20,11,9,23,9,2,2,5,13,15,-2,8,,,Anfield,Liverpool
+1993/94,16,17,Queens Park Rangers,8,20,9,4,7,34,28,6,31,9,5,3,1,19,11,8,18,11,4,1,6,15,17,-2,13,,,Loftus Road,London
+1993/94,16,2,Aston Villa,9,21,8,7,6,24,23,1,31,10,4,2,4,10,10,0,14,11,4,5,2,14,13,1,17,Q,EU_UC,Villa Park,Birmingham
+1993/94,16,8,Ipswich Town,10,21,7,8,6,20,24,-4,29,11,4,4,3,10,12,-2,16,10,3,4,3,10,12,-2,13,,,Portman Road,Ipswich
+1993/94,16,25,West Ham United,11,21,8,5,8,18,25,-7,29,11,5,3,3,11,10,1,18,10,3,2,5,7,15,-8,11,,,Boleyn Ground,London
+1993/94,16,22,Wimbledon,12,20,7,7,6,23,26,-3,28,10,4,4,2,13,9,4,16,10,3,3,4,10,17,-7,12,,,Selhurst Park,London
+1993/94,16,19,Sheffield Wednesday,13,21,6,9,6,37,29,8,27,11,4,5,2,23,13,10,17,10,2,4,4,14,16,-2,10,,,Hillsborough,Sheffield
+1993/94,16,21,Tottenham Hotspur,14,21,6,9,6,29,24,5,27,10,3,5,2,17,12,5,14,11,3,4,4,12,12,0,13,,,White Hart Lane,London
+1993/94,16,7,Everton,15,21,7,4,10,20,26,-6,25,10,4,1,5,10,15,-5,13,11,3,3,5,10,11,-1,12,,,Goodison Park,Liverpool
+1993/94,16,5,Coventry City,16,20,5,9,6,21,24,-3,24,11,4,5,2,10,9,1,17,9,1,4,4,11,15,-4,7,,,Highfield Road,Coventry
+1993/94,16,11,Manchester City,17,21,4,7,10,19,27,-8,19,10,2,4,4,11,14,-3,10,11,2,3,6,8,13,-5,9,,,Maine Road,Manchester
+1993/94,16,16,Oldham Athletic,18,21,4,7,10,16,32,-16,19,10,2,4,4,11,16,-5,10,11,2,3,6,5,16,-11,9,,,Boundary Park,Oldham
+1993/94,16,18,Sheffield United,19,21,3,8,10,18,33,-15,17,10,3,4,3,11,12,-1,13,11,0,4,7,7,21,-14,4,,,Bramall Lane,Sheffield
+1993/94,16,4,Chelsea,20,19,3,6,10,12,22,-10,15,10,3,3,4,8,9,-1,12,9,0,3,6,4,13,-9,3,"R,Q","EN_D1,EU_CWC",Stamford Bridge,London
+1993/94,16,20,Southampton,21,21,4,2,15,19,33,-14,14,10,3,1,6,12,16,-4,10,11,1,1,9,7,17,-10,4,R,EN_D1,The Dell,Southampton
+1993/94,16,24,Swindon Town,22,21,2,8,11,19,43,-24,14,11,2,4,5,11,20,-9,10,10,0,4,6,8,23,-15,4,R,EN_D1,County Ground,Swindon
+1993/94,17,12,Manchester United,1,23,17,5,1,49,20,29,56,12,8,4,0,25,10,15,28,11,9,1,1,24,10,14,28,Q,EU_CL,Old Trafford,Manchester
+1993/94,17,3,Blackburn Rovers,2,22,12,6,4,31,18,13,42,12,7,3,2,16,8,8,24,10,5,3,2,15,10,5,18,Q,EU_UC,Ewood Park,Blackburn
+1993/94,17,9,Leeds United,3,23,11,8,4,38,26,12,41,11,8,2,1,24,13,11,26,12,3,6,3,14,13,1,15,Q,EU_UC,Elland Road,Leeds
+1993/94,17,1,Arsenal,4,23,11,7,5,27,13,14,40,12,7,3,2,17,8,9,24,11,4,4,3,10,5,5,16,Q,EU_CWC,Highbury,London
+1993/94,17,23,Newcastle United,5,22,10,6,6,38,21,17,36,11,6,3,2,22,8,14,21,11,4,3,4,16,13,3,15,,,St. James' Park,Newcastle
+1993/94,17,17,Queens Park Rangers,6,22,10,5,7,37,29,8,35,10,6,3,1,21,11,10,21,12,4,2,6,16,18,-2,14,,,Loftus Road,London
+1993/94,17,14,Norwich City,7,21,9,7,5,34,24,10,34,9,3,3,3,6,7,-1,12,12,6,4,2,28,17,11,22,,,Carrow Road,Norwich
+1993/94,17,2,Aston Villa,8,22,9,7,6,26,24,2,34,10,4,2,4,10,10,0,14,12,5,5,2,16,14,2,20,Q,EU_UC,Villa Park,Birmingham
+1993/94,17,10,Liverpool,9,22,9,6,7,34,27,7,33,12,7,3,2,21,12,9,24,10,2,3,5,13,15,-2,9,,,Anfield,Liverpool
+1993/94,17,19,Sheffield Wednesday,10,23,7,10,6,42,32,10,31,12,4,6,2,26,16,10,18,11,3,4,4,16,16,0,13,,,Hillsborough,Sheffield
+1993/94,17,21,Tottenham Hotspur,11,23,7,9,7,33,28,5,30,11,3,5,3,18,15,3,14,12,4,4,4,15,13,2,16,,,White Hart Lane,London
+1993/94,17,8,Ipswich Town,12,22,7,9,6,21,25,-4,30,12,4,5,3,11,13,-2,17,10,3,4,3,10,12,-2,13,,,Portman Road,Ipswich
+1993/94,17,25,West Ham United,13,23,8,6,9,20,29,-9,30,12,5,3,4,12,13,-1,18,11,3,3,5,8,16,-8,12,,,Boleyn Ground,London
+1993/94,17,22,Wimbledon,14,22,7,8,7,25,29,-4,29,11,4,4,3,14,11,3,16,11,3,4,4,11,18,-7,13,,,Selhurst Park,London
+1993/94,17,5,Coventry City,15,21,6,9,6,23,25,-2,27,11,4,5,2,10,9,1,17,10,2,4,4,13,16,-3,10,,,Highfield Road,Coventry
+1993/94,17,7,Everton,16,23,7,4,12,20,30,-10,25,11,4,1,6,10,17,-7,13,12,3,3,6,10,13,-3,12,,,Goodison Park,Liverpool
+1993/94,17,11,Manchester City,17,22,4,8,10,20,28,-8,20,11,2,5,4,12,15,-3,11,11,2,3,6,8,13,-5,9,,,Maine Road,Manchester
+1993/94,17,16,Oldham Athletic,18,23,4,7,12,18,39,-21,19,11,2,4,5,13,21,-8,10,12,2,3,7,5,18,-13,9,,,Boundary Park,Oldham
+1993/94,17,4,Chelsea,19,21,4,6,11,14,25,-11,18,11,4,3,4,9,9,0,15,10,0,3,7,5,16,-11,3,Q,EU_CWC,Stamford Bridge,London
+1993/94,17,20,Southampton,20,23,5,3,15,23,35,-12,18,11,4,1,6,15,17,-2,13,12,1,2,9,8,18,-10,5,R,EN_D1,The Dell,Southampton
+1993/94,17,18,Sheffield United,21,23,3,9,11,18,36,-18,18,11,3,5,3,11,12,-1,14,12,0,4,8,7,24,-17,4,R,EN_D1,Bramall Lane,Sheffield
+1993/94,17,24,Swindon Town,22,23,2,9,12,22,50,-28,15,12,2,4,6,11,24,-13,10,11,0,5,6,11,26,-15,5,R,EN_D1,County Ground,Swindon
+1993/94,18,12,Manchester United,1,24,17,6,1,49,20,29,57,13,8,5,0,25,10,15,29,11,9,1,1,24,10,14,28,Q,EU_CL,Old Trafford,Manchester
+1993/94,18,3,Blackburn Rovers,2,23,13,6,4,32,18,14,45,12,7,3,2,16,8,8,24,11,6,3,2,16,10,6,21,Q,EU_UC,Ewood Park,Blackburn
+1993/94,18,1,Arsenal,3,24,12,7,5,30,13,17,43,12,7,3,2,17,8,9,24,12,5,4,3,13,5,8,19,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,18,9,Leeds United,4,24,11,9,4,38,26,12,42,11,8,2,1,24,13,11,26,13,3,7,3,14,13,1,16,,,Elland Road,Leeds
+1993/94,18,23,Newcastle United,5,23,11,6,6,40,21,19,39,12,7,3,2,24,8,16,24,11,4,3,4,16,13,3,15,,,St. James' Park,Newcastle
+1993/94,18,14,Norwich City,6,22,10,7,5,35,24,11,37,9,3,3,3,6,7,-1,12,13,7,4,2,29,17,12,25,,,Carrow Road,Norwich
+1993/94,18,10,Liverpool,7,23,10,6,7,36,28,8,36,12,7,3,2,21,12,9,24,11,3,3,5,15,16,-1,12,,,Anfield,Liverpool
+1993/94,18,17,Queens Park Rangers,8,23,10,5,8,38,31,7,35,11,6,3,2,22,13,9,21,12,4,2,6,16,18,-2,14,,,Loftus Road,London
+1993/94,18,19,Sheffield Wednesday,9,24,8,10,6,44,33,11,34,12,4,6,2,26,16,10,18,12,4,4,4,18,17,1,16,,,Hillsborough,Sheffield
+1993/94,18,2,Aston Villa,10,23,9,7,7,26,25,1,34,11,4,2,5,10,11,-1,14,12,5,5,2,16,14,2,20,Q,EU_UC,Villa Park,Birmingham
+1993/94,18,25,West Ham United,11,24,9,6,9,21,29,-8,33,12,5,3,4,12,13,-1,18,12,4,3,5,9,16,-7,15,,,Boleyn Ground,London
+1993/94,18,21,Tottenham Hotspur,12,24,7,9,8,34,30,4,30,12,3,5,4,19,17,2,14,12,4,4,4,15,13,2,16,,,White Hart Lane,London
+1993/94,18,5,Coventry City,13,22,7,9,6,25,26,-1,30,11,4,5,2,10,9,1,17,11,3,4,4,15,17,-2,13,,,Highfield Road,Coventry
+1993/94,18,8,Ipswich Town,14,23,7,9,7,22,27,-5,30,13,4,5,4,12,15,-3,17,10,3,4,3,10,12,-2,13,,,Portman Road,Ipswich
+1993/94,18,22,Wimbledon,15,23,7,8,8,25,32,-7,29,12,4,4,4,14,14,0,16,11,3,4,4,11,18,-7,13,,,Selhurst Park,London
+1993/94,18,7,Everton,16,24,7,4,13,20,31,-11,25,12,4,1,7,10,18,-8,13,12,3,3,6,10,13,-3,12,,,Goodison Park,Liverpool
+1993/94,18,4,Chelsea,17,22,5,6,11,17,26,-9,21,11,4,3,4,9,9,0,15,11,1,3,7,8,17,-9,6,Q,EU_CWC,Stamford Bridge,London
+1993/94,18,18,Sheffield United,18,24,4,9,11,20,37,-17,21,12,4,5,3,13,13,0,17,12,0,4,8,7,24,-17,4,,,Bramall Lane,Sheffield
+1993/94,18,11,Manchester City,19,23,4,8,11,20,30,-10,20,11,2,5,4,12,15,-3,11,12,2,3,7,8,15,-7,9,,,Maine Road,Manchester
+1993/94,18,16,Oldham Athletic,20,24,4,7,13,19,41,-22,19,11,2,4,5,13,21,-8,10,13,2,3,8,6,20,-14,9,R,EN_D1,Boundary Park,Oldham
+1993/94,18,20,Southampton,21,24,5,3,16,23,36,-13,18,12,4,1,7,15,18,-3,13,12,1,2,9,8,18,-10,5,R,EN_D1,The Dell,Southampton
+1993/94,18,24,Swindon Town,22,24,2,9,13,23,53,-30,15,13,2,4,7,12,27,-15,10,11,0,5,6,11,26,-15,5,R,EN_D1,County Ground,Swindon
+1993/94,19,12,Manchester United,1,25,17,7,1,52,23,29,58,13,8,5,0,25,10,15,29,12,9,2,1,27,13,14,29,Q,EU_CL,Old Trafford,Manchester
+1993/94,19,3,Blackburn Rovers,2,23,13,6,4,32,18,14,45,12,7,3,2,16,8,8,24,11,6,3,2,16,10,6,21,Q,EU_UC,Ewood Park,Blackburn
+1993/94,19,1,Arsenal,3,25,12,8,5,30,13,17,44,13,7,4,2,17,8,9,25,12,5,4,3,13,5,8,19,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,19,23,Newcastle United,4,24,12,6,6,42,22,20,42,12,7,3,2,24,8,16,24,12,5,3,4,18,14,4,18,,,St. James' Park,Newcastle
+1993/94,19,9,Leeds United,5,24,11,9,4,38,26,12,42,11,8,2,1,24,13,11,26,13,3,7,3,14,13,1,16,,,Elland Road,Leeds
+1993/94,19,19,Sheffield Wednesday,6,25,9,10,6,45,33,12,37,13,5,6,2,27,16,11,21,12,4,4,4,18,17,1,16,,,Hillsborough,Sheffield
+1993/94,19,14,Norwich City,7,23,10,7,6,36,26,10,37,10,3,3,4,7,9,-2,12,13,7,4,2,29,17,12,25,,,Carrow Road,Norwich
+1993/94,19,10,Liverpool,8,24,10,7,7,39,31,8,37,13,7,4,2,24,15,9,25,11,3,3,5,15,16,-1,12,,,Anfield,Liverpool
+1993/94,19,17,Queens Park Rangers,9,24,10,6,8,38,31,7,36,11,6,3,2,22,13,9,21,13,4,3,6,16,18,-2,15,,,Loftus Road,London
+1993/94,19,2,Aston Villa,10,23,9,7,7,26,25,1,34,11,4,2,5,10,11,-1,14,12,5,5,2,16,14,2,20,Q,EU_UC,Villa Park,Birmingham
+1993/94,19,25,West Ham United,11,25,9,7,9,21,29,-8,34,13,5,4,4,12,13,-1,19,12,4,3,5,9,16,-7,15,,,Boleyn Ground,London
+1993/94,19,5,Coventry City,12,23,7,10,6,26,27,-1,31,12,4,6,2,11,10,1,18,11,3,4,4,15,17,-2,13,,,Highfield Road,Coventry
+1993/94,19,21,Tottenham Hotspur,13,25,7,9,9,34,31,3,30,12,3,5,4,19,17,2,14,13,4,4,5,15,14,1,16,,,White Hart Lane,London
+1993/94,19,8,Ipswich Town,14,23,7,9,7,22,27,-5,30,13,4,5,4,12,15,-3,17,10,3,4,3,10,12,-2,13,,,Portman Road,Ipswich
+1993/94,19,22,Wimbledon,15,23,7,8,8,25,32,-7,29,12,4,4,4,14,14,0,16,11,3,4,4,11,18,-7,13,,,Selhurst Park,London
+1993/94,19,7,Everton,16,25,7,4,14,22,35,-13,25,12,4,1,7,10,18,-8,13,13,3,3,7,12,17,-5,12,,,Goodison Park,Liverpool
+1993/94,19,4,Chelsea,17,23,6,6,11,21,28,-7,24,12,5,3,4,13,11,2,18,11,1,3,7,8,17,-9,6,Q,EU_CWC,Stamford Bridge,London
+1993/94,19,18,Sheffield United,18,25,4,10,11,20,37,-17,22,12,4,5,3,13,13,0,17,13,0,5,8,7,24,-17,5,,,Bramall Lane,Sheffield
+1993/94,19,11,Manchester City,19,23,4,8,11,20,30,-10,20,11,2,5,4,12,15,-3,11,12,2,3,7,8,15,-7,9,,,Maine Road,Manchester
+1993/94,19,16,Oldham Athletic,20,24,4,7,13,19,41,-22,19,11,2,4,5,13,21,-8,10,13,2,3,8,6,20,-14,9,R,EN_D1,Boundary Park,Oldham
+1993/94,19,20,Southampton,21,24,5,3,16,23,36,-13,18,12,4,1,7,15,18,-3,13,12,1,2,9,8,18,-10,5,R,EN_D1,The Dell,Southampton
+1993/94,19,24,Swindon Town,22,25,2,10,13,24,54,-30,16,13,2,4,7,12,27,-15,10,12,0,6,6,12,27,-15,6,R,EN_D1,County Ground,Swindon
+1993/94,20,12,Manchester United,1,26,18,7,1,53,23,30,61,13,8,5,0,25,10,15,29,13,10,2,1,28,13,15,32,Q,EU_CL,Old Trafford,Manchester
+1993/94,20,3,Blackburn Rovers,2,24,14,6,4,34,19,15,48,12,7,3,2,16,8,8,24,12,7,3,2,18,11,7,24,Q,EU_UC,Ewood Park,Blackburn
+1993/94,20,23,Newcastle United,3,25,13,6,6,44,23,21,45,12,7,3,2,24,8,16,24,13,6,3,4,20,15,5,21,Q,EU_UC,St. James' Park,Newcastle
+1993/94,20,1,Arsenal,4,26,12,9,5,30,13,17,45,13,7,4,2,17,8,9,25,13,5,5,3,13,5,8,20,Q,EU_CWC,Highbury,London
+1993/94,20,9,Leeds United,5,25,11,10,4,38,26,12,43,12,8,3,1,24,13,11,27,13,3,7,3,14,13,1,16,,,Elland Road,Leeds
+1993/94,20,10,Liverpool,6,25,11,7,7,42,31,11,40,13,7,4,2,24,15,9,25,12,4,3,5,18,16,2,15,,,Anfield,Liverpool
+1993/94,20,14,Norwich City,7,24,10,8,6,37,27,10,38,11,3,4,4,8,10,-2,13,13,7,4,2,29,17,12,25,,,Carrow Road,Norwich
+1993/94,20,19,Sheffield Wednesday,8,26,9,10,7,46,35,11,37,13,5,6,2,27,16,11,21,13,4,4,5,19,19,0,16,,,Hillsborough,Sheffield
+1993/94,20,2,Aston Villa,9,24,10,7,7,29,26,3,37,12,5,2,5,13,12,1,17,12,5,5,2,16,14,2,20,Q,EU_UC,Villa Park,Birmingham
+1993/94,20,17,Queens Park Rangers,10,25,10,6,9,39,33,6,36,12,6,3,3,23,15,8,21,13,4,3,6,16,18,-2,15,,,Loftus Road,London
+1993/94,20,25,West Ham United,11,26,9,7,10,22,32,-10,34,13,5,4,4,12,13,-1,19,13,4,3,6,10,19,-9,15,,,Boleyn Ground,London
+1993/94,20,22,Wimbledon,12,24,8,8,8,27,33,-6,32,13,5,4,4,16,15,1,19,11,3,4,4,11,18,-7,13,,,Selhurst Park,London
+1993/94,20,5,Coventry City,13,24,7,10,7,26,28,-2,31,12,4,6,2,11,10,1,18,12,3,4,5,15,18,-3,13,,,Highfield Road,Coventry
+1993/94,20,8,Ipswich Town,14,24,7,10,7,22,27,-5,31,13,4,5,4,12,15,-3,17,11,3,5,3,10,12,-2,14,,,Portman Road,Ipswich
+1993/94,20,21,Tottenham Hotspur,15,26,7,9,10,34,32,2,30,13,3,5,5,19,18,1,14,13,4,4,5,15,14,1,16,,,White Hart Lane,London
+1993/94,20,7,Everton,16,26,8,4,14,28,37,-9,28,13,5,1,7,16,20,-4,16,13,3,3,7,12,17,-5,12,,,Goodison Park,Liverpool
+1993/94,20,4,Chelsea,17,24,6,7,11,22,29,-7,25,12,5,3,4,13,11,2,18,12,1,4,7,9,18,-9,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,20,18,Sheffield United,18,26,4,10,12,21,39,-18,22,13,4,5,4,14,15,-1,17,13,0,5,8,7,24,-17,5,,,Bramall Lane,Sheffield
+1993/94,20,11,Manchester City,19,24,4,9,11,20,30,-10,21,12,2,6,4,12,15,-3,12,12,2,3,7,8,15,-7,9,,,Maine Road,Manchester
+1993/94,20,20,Southampton,20,25,6,3,16,24,36,-12,21,13,5,1,7,16,18,-2,16,12,1,2,9,8,18,-10,5,R,EN_D1,The Dell,Southampton
+1993/94,20,16,Oldham Athletic,21,25,4,7,14,19,44,-25,19,12,2,4,6,13,24,-11,10,13,2,3,8,6,20,-14,9,R,EN_D1,Boundary Park,Oldham
+1993/94,20,24,Swindon Town,22,26,2,10,14,26,60,-34,16,13,2,4,7,12,27,-15,10,13,0,6,7,14,33,-19,6,R,EN_D1,County Ground,Swindon
+1993/94,21,12,Manchester United,1,27,19,7,1,54,23,31,64,14,9,5,0,26,10,16,32,13,10,2,1,28,13,15,32,Q,EU_CL,Old Trafford,Manchester
+1993/94,21,3,Blackburn Rovers,2,25,15,6,4,36,20,16,51,13,8,3,2,18,9,9,27,12,7,3,2,18,11,7,24,Q,EU_UC,Ewood Park,Blackburn
+1993/94,21,1,Arsenal,3,27,12,10,5,31,14,17,46,14,7,5,2,18,9,9,26,13,5,5,3,13,5,8,20,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,21,23,Newcastle United,4,26,13,6,7,45,25,20,45,13,7,3,3,25,10,15,24,13,6,3,4,20,15,5,21,,,St. James' Park,Newcastle
+1993/94,21,10,Liverpool,5,26,12,7,7,44,32,12,43,14,8,4,2,26,16,10,28,12,4,3,5,18,16,2,15,,,Anfield,Liverpool
+1993/94,21,9,Leeds United,6,26,11,10,5,39,28,11,43,12,8,3,1,24,13,11,27,14,3,7,4,15,15,0,16,,,Elland Road,Leeds
+1993/94,21,19,Sheffield Wednesday,7,27,10,10,7,49,36,13,40,14,6,6,2,30,17,13,24,13,4,4,5,19,19,0,16,,,Hillsborough,Sheffield
+1993/94,21,14,Norwich City,8,25,10,9,6,40,30,10,39,11,3,4,4,8,10,-2,13,14,7,5,2,32,20,12,26,,,Carrow Road,Norwich
+1993/94,21,17,Queens Park Rangers,9,26,11,6,9,40,33,7,39,12,6,3,3,23,15,8,21,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,21,2,Aston Villa,10,25,10,8,7,30,27,3,38,12,5,2,5,13,12,1,17,13,5,6,2,17,15,2,21,Q,EU_UC,Villa Park,Birmingham
+1993/94,21,25,West Ham United,11,27,9,8,10,25,35,-10,35,14,5,5,4,15,16,-1,20,13,4,3,6,10,19,-9,15,,,Boleyn Ground,London
+1993/94,21,5,Coventry City,12,26,8,10,8,27,29,-2,34,14,5,6,3,12,11,1,21,12,3,4,5,15,18,-3,13,,,Highfield Road,Coventry
+1993/94,21,22,Wimbledon,13,25,8,9,8,27,33,-6,33,13,5,4,4,16,15,1,19,12,3,5,4,11,18,-7,14,,,Selhurst Park,London
+1993/94,21,8,Ipswich Town,14,26,7,11,8,22,28,-6,32,14,4,6,4,12,15,-3,18,12,3,5,4,10,13,-3,14,,,Portman Road,Ipswich
+1993/94,21,21,Tottenham Hotspur,15,27,7,9,11,35,34,1,30,13,3,5,5,19,18,1,14,14,4,4,6,16,16,0,16,,,White Hart Lane,London
+1993/94,21,7,Everton,16,27,8,4,15,28,38,-10,28,13,5,1,7,16,20,-4,16,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,21,4,Chelsea,17,25,6,8,11,23,30,-7,26,13,5,4,4,14,12,2,19,12,1,4,7,9,18,-9,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,21,20,Southampton,18,26,7,3,16,26,37,-11,24,13,5,1,7,16,18,-2,16,13,2,2,9,10,19,-9,8,,,The Dell,Southampton
+1993/94,21,18,Sheffield United,19,27,4,10,13,22,42,-20,22,13,4,5,4,14,15,-1,17,14,0,5,9,8,27,-19,5,,,Bramall Lane,Sheffield
+1993/94,21,11,Manchester City,20,25,4,9,12,21,32,-11,21,12,2,6,4,12,15,-3,12,13,2,3,8,9,17,-8,9,R,EN_D1,Maine Road,Manchester
+1993/94,21,16,Oldham Athletic,21,26,4,8,14,20,45,-25,20,12,2,4,6,13,24,-11,10,14,2,4,8,7,21,-14,10,R,EN_D1,Boundary Park,Oldham
+1993/94,21,24,Swindon Town,22,27,3,10,14,28,61,-33,19,14,3,4,7,14,28,-14,13,13,0,6,7,14,33,-19,6,R,EN_D1,County Ground,Swindon
+1993/94,22,12,Manchester United,1,28,20,7,1,57,25,32,67,14,9,5,0,26,10,16,32,14,11,2,1,31,15,16,35,Q,EU_CL,Old Trafford,Manchester
+1993/94,22,3,Blackburn Rovers,2,26,16,6,4,39,20,19,54,14,9,3,2,21,9,12,30,12,7,3,2,18,11,7,24,Q,EU_UC,Ewood Park,Blackburn
+1993/94,22,1,Arsenal,3,27,12,10,5,31,14,17,46,14,7,5,2,18,9,9,26,13,5,5,3,13,5,8,20,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,22,23,Newcastle United,4,26,13,6,7,45,25,20,45,13,7,3,3,25,10,15,24,13,6,3,4,20,15,5,21,,,St. James' Park,Newcastle
+1993/94,22,10,Liverpool,5,27,12,8,7,46,34,12,44,14,8,4,2,26,16,10,28,13,4,4,5,20,18,2,16,,,Anfield,Liverpool
+1993/94,22,19,Sheffield Wednesday,6,28,11,10,7,52,37,15,43,14,6,6,2,30,17,13,24,14,5,4,5,22,20,2,19,,,Hillsborough,Sheffield
+1993/94,22,9,Leeds United,7,27,11,10,6,39,29,10,43,12,8,3,1,24,13,11,27,15,3,7,5,15,16,-1,16,,,Elland Road,Leeds
+1993/94,22,2,Aston Villa,8,26,11,8,7,31,27,4,41,13,6,2,5,14,12,2,20,13,5,6,2,17,15,2,21,Q,EU_UC,Villa Park,Birmingham
+1993/94,22,14,Norwich City,9,26,10,10,6,42,32,10,40,12,3,5,4,10,12,-2,14,14,7,5,2,32,20,12,26,,,Carrow Road,Norwich
+1993/94,22,17,Queens Park Rangers,10,27,11,6,10,42,36,6,39,13,6,3,4,25,18,7,21,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,22,25,West Ham United,11,27,9,8,10,25,35,-10,35,14,5,5,4,15,16,-1,20,13,4,3,6,10,19,-9,15,,,Boleyn Ground,London
+1993/94,22,5,Coventry City,12,27,8,10,9,28,32,-4,34,14,5,6,3,12,11,1,21,13,3,4,6,16,21,-5,13,,,Highfield Road,Coventry
+1993/94,22,22,Wimbledon,13,26,8,9,9,27,36,-9,33,13,5,4,4,16,15,1,19,13,3,5,5,11,21,-10,14,,,Selhurst Park,London
+1993/94,22,8,Ipswich Town,14,27,7,11,9,23,30,-7,32,14,4,6,4,12,15,-3,18,13,3,5,5,11,15,-4,14,,,Portman Road,Ipswich
+1993/94,22,7,Everton,15,28,9,4,15,32,40,-8,31,14,6,1,7,20,22,-2,19,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,22,21,Tottenham Hotspur,16,28,7,9,12,36,37,-1,30,14,3,5,6,20,21,-1,14,14,4,4,6,16,16,0,16,,,White Hart Lane,London
+1993/94,22,4,Chelsea,17,26,6,8,12,25,34,-9,26,13,5,4,4,14,12,2,19,13,1,4,8,11,22,-11,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,22,11,Manchester City,18,26,5,9,12,23,33,-10,24,13,3,6,4,14,16,-2,15,13,2,3,8,9,17,-8,9,,,Maine Road,Manchester
+1993/94,22,20,Southampton,19,27,7,3,17,27,39,-12,24,13,5,1,7,16,18,-2,16,14,2,2,10,11,21,-10,8,,,The Dell,Southampton
+1993/94,22,16,Oldham Athletic,20,27,5,8,14,22,46,-24,23,13,3,4,6,15,25,-10,13,14,2,4,8,7,21,-14,10,R,EN_D1,Boundary Park,Oldham
+1993/94,22,18,Sheffield United,21,27,4,10,13,22,42,-20,22,13,4,5,4,14,15,-1,17,14,0,5,9,8,27,-19,5,R,EN_D1,Bramall Lane,Sheffield
+1993/94,22,24,Swindon Town,22,28,4,10,14,31,62,-31,22,15,4,4,7,17,29,-12,16,13,0,6,7,14,33,-19,6,R,EN_D1,County Ground,Swindon
+1993/94,23,12,Manchester United,1,28,20,7,1,57,25,32,67,14,9,5,0,26,10,16,32,14,11,2,1,31,15,16,35,Q,EU_CL,Old Trafford,Manchester
+1993/94,23,3,Blackburn Rovers,2,27,17,6,4,41,20,21,57,14,9,3,2,21,9,12,30,13,8,3,2,20,11,9,27,Q,EU_UC,Ewood Park,Blackburn
+1993/94,23,1,Arsenal,3,28,12,11,5,32,15,17,47,14,7,5,2,18,9,9,26,14,5,6,3,14,6,8,21,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,23,23,Newcastle United,4,27,13,6,8,47,29,18,45,13,7,3,3,25,10,15,24,14,6,3,5,22,19,3,21,,,St. James' Park,Newcastle
+1993/94,23,10,Liverpool,5,28,12,8,8,48,38,10,44,14,8,4,2,26,16,10,28,14,4,4,6,22,22,0,16,,,Anfield,Liverpool
+1993/94,23,2,Aston Villa,6,27,12,8,7,36,27,9,44,14,7,2,5,19,12,7,23,13,5,6,2,17,15,2,21,Q,EU_UC,Villa Park,Birmingham
+1993/94,23,19,Sheffield Wednesday,7,28,11,10,7,52,37,15,43,14,6,6,2,30,17,13,24,14,5,4,5,22,20,2,19,,,Hillsborough,Sheffield
+1993/94,23,9,Leeds United,8,27,11,10,6,39,29,10,43,12,8,3,1,24,13,11,27,15,3,7,5,15,16,-1,16,,,Elland Road,Leeds
+1993/94,23,14,Norwich City,9,27,10,11,6,43,33,10,41,13,3,6,4,11,13,-2,15,14,7,5,2,32,20,12,26,,,Carrow Road,Norwich
+1993/94,23,17,Queens Park Rangers,10,27,11,6,10,42,36,6,39,13,6,3,4,25,18,7,21,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,23,22,Wimbledon,11,27,9,9,9,31,38,-7,36,14,6,4,4,20,17,3,22,13,3,5,5,11,21,-10,14,,,Selhurst Park,London
+1993/94,23,25,West Ham United,12,28,9,9,10,25,35,-10,36,14,5,5,4,15,16,-1,20,14,4,4,6,10,19,-9,16,,,Boleyn Ground,London
+1993/94,23,5,Coventry City,13,28,8,11,9,28,32,-4,35,14,5,6,3,12,11,1,21,14,3,5,6,16,21,-5,14,,,Highfield Road,Coventry
+1993/94,23,8,Ipswich Town,14,28,7,12,9,23,30,-7,33,14,4,6,4,12,15,-3,18,14,3,6,5,11,15,-4,15,,,Portman Road,Ipswich
+1993/94,23,7,Everton,15,29,9,5,15,32,40,-8,32,15,6,2,7,20,22,-2,20,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,23,21,Tottenham Hotspur,16,29,7,9,13,36,39,-3,30,15,3,5,7,20,23,-3,14,14,4,4,6,16,16,0,16,,,White Hart Lane,London
+1993/94,23,20,Southampton,17,28,8,3,17,31,41,-10,27,14,6,1,7,20,20,0,19,14,2,2,10,11,21,-10,8,,,The Dell,Southampton
+1993/94,23,4,Chelsea,18,27,6,8,13,26,36,-10,26,13,5,4,4,14,12,2,19,14,1,4,9,12,24,-12,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,23,16,Oldham Athletic,19,28,6,8,14,24,47,-23,26,14,4,4,6,17,26,-9,16,14,2,4,8,7,21,-14,10,,,Boundary Park,Oldham
+1993/94,23,11,Manchester City,20,27,5,10,12,23,33,-10,25,14,3,7,4,14,16,-2,16,13,2,3,8,9,17,-8,9,R,EN_D1,Maine Road,Manchester
+1993/94,23,18,Sheffield United,21,28,4,11,13,22,42,-20,23,14,4,6,4,14,15,-1,18,14,0,5,9,8,27,-19,5,R,EN_D1,Bramall Lane,Sheffield
+1993/94,23,24,Swindon Town,22,29,4,10,15,31,67,-36,22,15,4,4,7,17,29,-12,16,14,0,6,8,14,38,-24,6,R,EN_D1,County Ground,Swindon
+1993/94,24,12,Manchester United,1,28,20,7,1,57,25,32,67,14,9,5,0,26,10,16,32,14,11,2,1,31,15,16,35,Q,EU_CL,Old Trafford,Manchester
+1993/94,24,3,Blackburn Rovers,2,28,18,6,4,42,20,22,60,15,10,3,2,22,9,13,33,13,8,3,2,20,11,9,27,Q,EU_UC,Ewood Park,Blackburn
+1993/94,24,1,Arsenal,3,29,12,12,5,33,16,17,48,14,7,5,2,18,9,9,26,15,5,7,3,15,7,8,22,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,24,9,Leeds United,4,28,12,10,6,41,29,12,46,13,9,3,1,26,13,13,30,15,3,7,5,15,16,-1,16,,,Elland Road,Leeds
+1993/94,24,23,Newcastle United,5,28,13,6,9,47,30,17,45,13,7,3,3,25,10,15,24,15,6,3,6,22,20,2,21,,,St. James' Park,Newcastle
+1993/94,24,2,Aston Villa,6,27,12,8,7,36,27,9,44,14,7,2,5,19,12,7,23,13,5,6,2,17,15,2,21,Q,EU_UC,Villa Park,Birmingham
+1993/94,24,10,Liverpool,7,29,12,8,9,48,40,8,44,14,8,4,2,26,16,10,28,15,4,4,7,22,24,-2,16,,,Anfield,Liverpool
+1993/94,24,19,Sheffield Wednesday,8,28,11,10,7,52,37,15,43,14,6,6,2,30,17,13,24,14,5,4,5,22,20,2,19,,,Hillsborough,Sheffield
+1993/94,24,14,Norwich City,9,28,10,12,6,46,36,10,42,13,3,6,4,11,13,-2,15,15,7,6,2,35,23,12,27,,,Carrow Road,Norwich
+1993/94,24,17,Queens Park Rangers,10,27,11,6,10,42,36,6,39,13,6,3,4,25,18,7,21,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,24,5,Coventry City,11,29,9,11,9,32,32,0,38,15,6,6,3,16,11,5,24,14,3,5,6,16,21,-5,14,,,Highfield Road,Coventry
+1993/94,24,22,Wimbledon,12,27,9,9,9,31,38,-7,36,14,6,4,4,20,17,3,22,13,3,5,5,11,21,-10,14,,,Selhurst Park,London
+1993/94,24,25,West Ham United,13,28,9,9,10,25,35,-10,36,14,5,5,4,15,16,-1,20,14,4,4,6,10,19,-9,16,,,Boleyn Ground,London
+1993/94,24,8,Ipswich Town,14,28,7,12,9,23,30,-7,33,14,4,6,4,12,15,-3,18,14,3,6,5,11,15,-4,15,,,Portman Road,Ipswich
+1993/94,24,7,Everton,15,30,9,6,15,33,41,-8,33,16,6,3,7,21,23,-2,21,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,24,21,Tottenham Hotspur,16,29,7,9,13,36,39,-3,30,15,3,5,7,20,23,-3,14,14,4,4,6,16,16,0,16,,,White Hart Lane,London
+1993/94,24,20,Southampton,17,28,8,3,17,31,41,-10,27,14,6,1,7,20,20,0,19,14,2,2,10,11,21,-10,8,,,The Dell,Southampton
+1993/94,24,4,Chelsea,18,27,6,8,13,26,36,-10,26,13,5,4,4,14,12,2,19,14,1,4,9,12,24,-12,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,24,16,Oldham Athletic,19,28,6,8,14,24,47,-23,26,14,4,4,6,17,26,-9,16,14,2,4,8,7,21,-14,10,,,Boundary Park,Oldham
+1993/94,24,11,Manchester City,20,28,5,10,13,23,37,-14,25,14,3,7,4,14,16,-2,16,14,2,3,9,9,21,-12,9,R,EN_D1,Maine Road,Manchester
+1993/94,24,18,Sheffield United,21,28,4,11,13,22,42,-20,23,14,4,6,4,14,15,-1,18,14,0,5,9,8,27,-19,5,R,EN_D1,Bramall Lane,Sheffield
+1993/94,24,24,Swindon Town,22,30,4,11,15,34,70,-36,23,16,4,5,7,20,32,-12,17,14,0,6,8,14,38,-24,6,R,EN_D1,County Ground,Swindon
+1993/94,25,12,Manchester United,1,28,20,7,1,57,25,32,67,14,9,5,0,26,10,16,32,14,11,2,1,31,15,16,35,Q,EU_CL,Old Trafford,Manchester
+1993/94,25,3,Blackburn Rovers,2,29,18,7,4,44,22,22,61,15,10,3,2,22,9,13,33,14,8,4,2,22,13,9,28,Q,EU_UC,Ewood Park,Blackburn
+1993/94,25,23,Newcastle United,3,29,14,6,9,51,30,21,48,14,8,3,3,29,10,19,27,15,6,3,6,22,20,2,21,Q,EU_UC,St. James' Park,Newcastle
+1993/94,25,1,Arsenal,4,29,12,12,5,33,16,17,48,14,7,5,2,18,9,9,26,15,5,7,3,15,7,8,22,Q,EU_CWC,Highbury,London
+1993/94,25,9,Leeds United,5,28,12,10,6,41,29,12,46,13,9,3,1,26,13,13,30,15,3,7,5,15,16,-1,16,,,Elland Road,Leeds
+1993/94,25,2,Aston Villa,6,28,12,9,7,36,27,9,45,15,7,3,5,19,12,7,24,13,5,6,2,17,15,2,21,Q,EU_UC,Villa Park,Birmingham
+1993/94,25,10,Liverpool,7,29,12,8,9,48,40,8,44,14,8,4,2,26,16,10,28,15,4,4,7,22,24,-2,16,,,Anfield,Liverpool
+1993/94,25,19,Sheffield Wednesday,8,28,11,10,7,52,37,15,43,14,6,6,2,30,17,13,24,14,5,4,5,22,20,2,19,,,Hillsborough,Sheffield
+1993/94,25,14,Norwich City,9,29,10,13,6,48,38,10,43,14,3,7,4,13,15,-2,16,15,7,6,2,35,23,12,27,,,Carrow Road,Norwich
+1993/94,25,17,Queens Park Rangers,10,27,11,6,10,42,36,6,39,13,6,3,4,25,18,7,21,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,25,5,Coventry City,11,30,9,11,10,32,36,-4,38,15,6,6,3,16,11,5,24,15,3,5,7,16,25,-9,14,,,Highfield Road,Coventry
+1993/94,25,8,Ipswich Town,12,29,8,12,9,26,32,-6,36,15,5,6,4,15,17,-2,21,14,3,6,5,11,15,-4,15,,,Portman Road,Ipswich
+1993/94,25,22,Wimbledon,13,27,9,9,9,31,38,-7,36,14,6,4,4,20,17,3,22,13,3,5,5,11,21,-10,14,,,Selhurst Park,London
+1993/94,25,25,West Ham United,14,28,9,9,10,25,35,-10,36,14,5,5,4,15,16,-1,20,14,4,4,6,10,19,-9,16,,,Boleyn Ground,London
+1993/94,25,7,Everton,15,30,9,6,15,33,41,-8,33,16,6,3,7,21,23,-2,21,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,25,21,Tottenham Hotspur,16,29,7,9,13,36,39,-3,30,15,3,5,7,20,23,-3,14,14,4,4,6,16,16,0,16,,,White Hart Lane,London
+1993/94,25,20,Southampton,17,28,8,3,17,31,41,-10,27,14,6,1,7,20,20,0,19,14,2,2,10,11,21,-10,8,,,The Dell,Southampton
+1993/94,25,4,Chelsea,18,27,6,8,13,26,36,-10,26,13,5,4,4,14,12,2,19,14,1,4,9,12,24,-12,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,25,11,Manchester City,19,29,5,11,13,23,37,-14,26,14,3,7,4,14,16,-2,16,15,2,4,9,9,21,-12,10,,,Maine Road,Manchester
+1993/94,25,16,Oldham Athletic,20,28,6,8,14,24,47,-23,26,14,4,4,6,17,26,-9,16,14,2,4,8,7,21,-14,10,R,EN_D1,Boundary Park,Oldham
+1993/94,25,18,Sheffield United,21,29,4,11,14,24,45,-21,23,14,4,6,4,14,15,-1,18,15,0,5,10,10,30,-20,5,R,EN_D1,Bramall Lane,Sheffield
+1993/94,25,24,Swindon Town,22,30,4,11,15,34,70,-36,23,16,4,5,7,20,32,-12,17,14,0,6,8,14,38,-24,6,R,EN_D1,County Ground,Swindon
+1993/94,26,12,Manchester United,1,29,20,8,1,59,27,32,68,14,9,5,0,26,10,16,32,15,11,3,1,33,17,16,36,Q,EU_CL,Old Trafford,Manchester
+1993/94,26,3,Blackburn Rovers,2,30,18,7,5,44,23,21,61,15,10,3,2,22,9,13,33,15,8,4,3,22,14,8,28,Q,EU_UC,Ewood Park,Blackburn
+1993/94,26,1,Arsenal,3,30,13,12,5,34,16,18,51,15,8,5,2,19,9,10,29,15,5,7,3,15,7,8,22,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,26,23,Newcastle United,4,29,14,6,9,51,30,21,48,14,8,3,3,29,10,19,27,15,6,3,6,22,20,2,21,,,St. James' Park,Newcastle
+1993/94,26,9,Leeds United,5,29,12,11,6,42,30,12,47,13,9,3,1,26,13,13,30,16,3,8,5,16,17,-1,17,,,Elland Road,Leeds
+1993/94,26,10,Liverpool,6,30,13,8,9,49,40,9,47,15,9,4,2,27,16,11,31,15,4,4,7,22,24,-2,16,,,Anfield,Liverpool
+1993/94,26,2,Aston Villa,7,29,12,10,7,37,28,9,46,15,7,3,5,19,12,7,24,14,5,7,2,18,16,2,22,Q,EU_UC,Villa Park,Birmingham
+1993/94,26,19,Sheffield Wednesday,8,29,11,11,7,53,38,15,44,14,6,6,2,30,17,13,24,15,5,5,5,23,21,2,20,,,Hillsborough,Sheffield
+1993/94,26,14,Norwich City,9,30,10,14,6,49,39,10,44,15,3,8,4,14,16,-2,17,15,7,6,2,35,23,12,27,,,Carrow Road,Norwich
+1993/94,26,17,Queens Park Rangers,10,27,11,6,10,42,36,6,39,13,6,3,4,25,18,7,21,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,26,5,Coventry City,11,31,9,11,11,32,37,-5,38,15,6,6,3,16,11,5,24,16,3,5,8,16,26,-10,14,,,Highfield Road,Coventry
+1993/94,26,25,West Ham United,12,29,9,10,10,27,37,-10,37,15,5,6,4,17,18,-1,21,14,4,4,6,10,19,-9,16,,,Boleyn Ground,London
+1993/94,26,8,Ipswich Town,13,29,8,12,9,26,32,-6,36,15,5,6,4,15,17,-2,21,14,3,6,5,11,15,-4,15,,,Portman Road,Ipswich
+1993/94,26,22,Wimbledon,14,28,9,9,10,31,39,-8,36,14,6,4,4,20,17,3,22,14,3,5,6,11,22,-11,14,,,Selhurst Park,London
+1993/94,26,7,Everton,15,30,9,6,15,33,41,-8,33,16,6,3,7,21,23,-2,21,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,26,21,Tottenham Hotspur,16,31,7,10,14,40,44,-4,31,16,3,6,7,21,24,-3,15,15,4,4,7,19,20,-1,16,,,White Hart Lane,London
+1993/94,26,20,Southampton,17,29,9,3,17,32,41,-9,30,15,7,1,7,21,20,1,22,14,2,2,10,11,21,-10,8,,,The Dell,Southampton
+1993/94,26,4,Chelsea,18,28,7,8,13,30,39,-9,29,14,6,4,4,18,15,3,22,14,1,4,9,12,24,-12,7,Q,EU_CWC,Stamford Bridge,London
+1993/94,26,11,Manchester City,19,30,6,11,13,25,38,-13,29,15,4,7,4,16,17,-1,19,15,2,4,9,9,21,-12,10,,,Maine Road,Manchester
+1993/94,26,16,Oldham Athletic,20,29,6,9,14,25,48,-23,27,15,4,5,6,18,27,-9,17,14,2,4,8,7,21,-14,10,R,EN_D1,Boundary Park,Oldham
+1993/94,26,18,Sheffield United,21,29,4,11,14,24,45,-21,23,14,4,6,4,14,15,-1,18,15,0,5,10,10,30,-20,5,R,EN_D1,Bramall Lane,Sheffield
+1993/94,26,24,Swindon Town,22,31,4,11,16,35,72,-37,23,16,4,5,7,20,32,-12,17,15,0,6,9,15,40,-25,6,R,EN_D1,County Ground,Swindon
+1993/94,27,12,Manchester United,1,30,20,8,2,59,28,31,68,15,9,5,1,26,11,15,32,15,11,3,1,33,17,16,36,Q,EU_CL,Old Trafford,Manchester
+1993/94,27,3,Blackburn Rovers,2,31,19,7,5,46,23,23,64,16,11,3,2,24,9,15,36,15,8,4,3,22,14,8,28,Q,EU_UC,Ewood Park,Blackburn
+1993/94,27,1,Arsenal,3,31,14,12,5,39,17,22,54,15,8,5,2,19,9,10,29,16,6,7,3,20,8,12,25,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,27,23,Newcastle United,4,30,15,6,9,52,30,22,51,14,8,3,3,29,10,19,27,16,7,3,6,23,20,3,24,,,St. James' Park,Newcastle
+1993/94,27,2,Aston Villa,5,30,13,10,7,38,28,10,49,15,7,3,5,19,12,7,24,15,6,7,2,19,16,3,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,27,9,Leeds United,6,30,12,12,6,42,30,12,48,14,9,4,1,26,13,13,31,16,3,8,5,16,17,-1,17,,,Elland Road,Leeds
+1993/94,27,10,Liverpool,7,31,13,8,10,49,42,7,47,15,9,4,2,27,16,11,31,16,4,4,8,22,26,-4,16,,,Anfield,Liverpool
+1993/94,27,19,Sheffield Wednesday,8,30,11,11,8,53,39,14,44,15,6,6,3,30,18,12,24,15,5,5,5,23,21,2,20,,,Hillsborough,Sheffield
+1993/94,27,14,Norwich City,9,31,10,14,7,50,42,8,44,15,3,8,4,14,16,-2,17,16,7,6,3,36,26,10,27,,,Carrow Road,Norwich
+1993/94,27,17,Queens Park Rangers,10,28,11,7,10,43,37,6,40,14,6,4,4,26,19,7,22,14,5,3,6,17,18,-1,18,,,Loftus Road,London
+1993/94,27,22,Wimbledon,11,29,10,9,10,34,40,-6,39,15,7,4,4,23,18,5,25,14,3,5,6,11,22,-11,14,,,Selhurst Park,London
+1993/94,27,5,Coventry City,12,32,9,11,12,32,38,-6,38,16,6,6,4,16,12,4,24,16,3,5,8,16,26,-10,14,,,Highfield Road,Coventry
+1993/94,27,25,West Ham United,13,30,9,11,10,28,38,-10,38,15,5,6,4,17,18,-1,21,15,4,5,6,11,20,-9,17,,,Boleyn Ground,London
+1993/94,27,7,Everton,14,31,10,6,15,35,42,-7,36,17,7,3,7,23,24,-1,24,14,3,3,8,12,18,-6,12,,,Goodison Park,Liverpool
+1993/94,27,8,Ipswich Town,15,30,8,12,10,27,37,-10,36,16,5,6,5,16,22,-6,21,14,3,6,5,11,15,-4,15,,,Portman Road,Ipswich
+1993/94,27,21,Tottenham Hotspur,16,32,7,11,14,42,46,-4,32,17,3,7,7,23,26,-3,16,15,4,4,7,19,20,-1,16,,,White Hart Lane,London
+1993/94,27,4,Chelsea,17,29,8,8,13,31,39,-8,32,14,6,4,4,18,15,3,22,15,2,4,9,13,24,-11,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,27,20,Southampton,18,30,9,4,17,32,41,-9,31,15,7,1,7,21,20,1,22,15,2,3,10,11,21,-10,9,,,The Dell,Southampton
+1993/94,27,11,Manchester City,19,31,6,12,13,26,39,-13,30,15,4,7,4,16,17,-1,19,16,2,5,9,10,22,-12,11,,,Maine Road,Manchester
+1993/94,27,16,Oldham Athletic,20,30,6,9,15,26,50,-24,27,15,4,5,6,18,27,-9,17,15,2,4,9,8,23,-15,10,R,EN_D1,Boundary Park,Oldham
+1993/94,27,18,Sheffield United,21,30,4,12,14,26,47,-21,24,14,4,6,4,14,15,-1,18,16,0,6,10,12,32,-20,6,R,EN_D1,Bramall Lane,Sheffield
+1993/94,27,24,Swindon Town,22,32,4,12,16,36,73,-37,24,17,4,6,7,21,33,-12,18,15,0,6,9,15,40,-25,6,R,EN_D1,County Ground,Swindon
+1993/94,28,12,Manchester United,1,30,20,8,2,59,28,31,68,15,9,5,1,26,11,15,32,15,11,3,1,33,17,16,36,Q,EU_CL,Old Trafford,Manchester
+1993/94,28,3,Blackburn Rovers,2,31,19,7,5,46,23,23,64,16,11,3,2,24,9,15,36,15,8,4,3,22,14,8,28,Q,EU_UC,Ewood Park,Blackburn
+1993/94,28,23,Newcastle United,3,31,16,6,9,59,31,28,54,15,9,3,3,36,11,25,30,16,7,3,6,23,20,3,24,Q,EU_UC,St. James' Park,Newcastle
+1993/94,28,1,Arsenal,4,31,14,12,5,39,17,22,54,15,8,5,2,19,9,10,29,16,6,7,3,20,8,12,25,Q,EU_CWC,Highbury,London
+1993/94,28,10,Liverpool,5,32,14,8,10,51,43,8,50,16,10,4,2,29,17,12,34,16,4,4,8,22,26,-4,16,,,Anfield,Liverpool
+1993/94,28,9,Leeds United,6,31,12,13,6,44,32,12,49,14,9,4,1,26,13,13,31,17,3,9,5,18,19,-1,18,,,Elland Road,Leeds
+1993/94,28,2,Aston Villa,7,31,13,10,8,38,29,9,49,16,7,3,6,19,13,6,24,15,6,7,2,19,16,3,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,28,19,Sheffield Wednesday,8,31,11,12,8,54,40,14,45,15,6,6,3,30,18,12,24,16,5,6,5,24,22,2,21,,,Hillsborough,Sheffield
+1993/94,28,14,Norwich City,9,32,10,14,8,53,46,7,44,16,3,8,5,17,20,-3,17,16,7,6,3,36,26,10,27,,,Carrow Road,Norwich
+1993/94,28,17,Queens Park Rangers,10,29,12,7,10,47,40,7,43,14,6,4,4,26,19,7,22,15,6,3,6,21,21,0,21,,,Loftus Road,London
+1993/94,28,22,Wimbledon,11,30,11,9,10,35,40,-5,42,15,7,4,4,23,18,5,25,15,4,5,6,12,22,-10,17,,,Selhurst Park,London
+1993/94,28,8,Ipswich Town,12,31,9,12,10,28,37,-9,39,16,5,6,5,16,22,-6,21,15,4,6,5,12,15,-3,18,,,Portman Road,Ipswich
+1993/94,28,5,Coventry City,13,32,9,11,12,32,38,-6,38,16,6,6,4,16,12,4,24,16,3,5,8,16,26,-10,14,,,Highfield Road,Coventry
+1993/94,28,25,West Ham United,14,30,9,11,10,28,38,-10,38,15,5,6,4,17,18,-1,21,15,4,5,6,11,20,-9,17,,,Boleyn Ground,London
+1993/94,28,7,Everton,15,32,10,6,16,36,44,-8,36,17,7,3,7,23,24,-1,24,15,3,3,9,13,20,-7,12,,,Goodison Park,Liverpool
+1993/94,28,21,Tottenham Hotspur,16,32,7,11,14,42,46,-4,32,17,3,7,7,23,26,-3,16,15,4,4,7,19,20,-1,16,,,White Hart Lane,London
+1993/94,28,4,Chelsea,17,29,8,8,13,31,39,-8,32,14,6,4,4,18,15,3,22,15,2,4,9,13,24,-11,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,28,20,Southampton,18,31,9,5,17,33,42,-9,32,16,7,2,7,22,21,1,23,15,2,3,10,11,21,-10,9,,,The Dell,Southampton
+1993/94,28,11,Manchester City,19,32,6,12,14,26,40,-14,30,16,4,7,5,16,18,-2,19,16,2,5,9,10,22,-12,11,,,Maine Road,Manchester
+1993/94,28,16,Oldham Athletic,20,30,6,9,15,26,50,-24,27,15,4,5,6,18,27,-9,17,15,2,4,9,8,23,-15,10,R,EN_D1,Boundary Park,Oldham
+1993/94,28,18,Sheffield United,21,31,4,13,14,28,49,-21,25,15,4,7,4,16,17,-1,19,16,0,6,10,12,32,-20,6,R,EN_D1,Bramall Lane,Sheffield
+1993/94,28,24,Swindon Town,22,33,4,12,17,37,80,-43,24,17,4,6,7,21,33,-12,18,16,0,6,10,16,47,-31,6,R,EN_D1,County Ground,Swindon
+1993/94,29,12,Manchester United,1,31,21,8,2,64,28,36,71,16,10,5,1,31,11,20,35,15,11,3,1,33,17,16,36,Q,EU_CL,Old Trafford,Manchester
+1993/94,29,3,Blackburn Rovers,2,31,19,7,5,46,23,23,64,16,11,3,2,24,9,15,36,15,8,4,3,22,14,8,28,Q,EU_UC,Ewood Park,Blackburn
+1993/94,29,23,Newcastle United,3,31,16,6,9,59,31,28,54,15,9,3,3,36,11,25,30,16,7,3,6,23,20,3,24,Q,EU_UC,St. James' Park,Newcastle
+1993/94,29,1,Arsenal,4,31,14,12,5,39,17,22,54,15,8,5,2,19,9,10,29,16,6,7,3,20,8,12,25,Q,EU_CWC,Highbury,London
+1993/94,29,9,Leeds United,5,32,13,13,6,46,32,14,52,15,10,4,1,28,13,15,34,17,3,9,5,18,19,-1,18,,,Elland Road,Leeds
+1993/94,29,10,Liverpool,6,32,14,8,10,51,43,8,50,16,10,4,2,29,17,12,34,16,4,4,8,22,26,-4,16,,,Anfield,Liverpool
+1993/94,29,2,Aston Villa,7,32,13,10,9,38,31,7,49,16,7,3,6,19,13,6,24,16,6,7,3,19,18,1,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,29,19,Sheffield Wednesday,8,32,11,12,9,54,45,9,45,15,6,6,3,30,18,12,24,17,5,6,6,24,27,-3,21,,,Hillsborough,Sheffield
+1993/94,29,14,Norwich City,9,32,10,14,8,53,46,7,44,16,3,8,5,17,20,-3,17,16,7,6,3,36,26,10,27,,,Carrow Road,Norwich
+1993/94,29,17,Queens Park Rangers,10,30,12,8,10,48,41,7,44,14,6,4,4,26,19,7,22,16,6,4,6,22,22,0,22,,,Loftus Road,London
+1993/94,29,22,Wimbledon,11,31,11,9,11,35,42,-7,42,15,7,4,4,23,18,5,25,16,4,5,7,12,24,-12,17,,,Selhurst Park,London
+1993/94,29,8,Ipswich Town,12,31,9,12,10,28,37,-9,39,16,5,6,5,16,22,-6,21,15,4,6,5,12,15,-3,18,,,Portman Road,Ipswich
+1993/94,29,5,Coventry City,13,32,9,11,12,32,38,-6,38,16,6,6,4,16,12,4,24,16,3,5,8,16,26,-10,14,,,Highfield Road,Coventry
+1993/94,29,25,West Ham United,14,30,9,11,10,28,38,-10,38,15,5,6,4,17,18,-1,21,15,4,5,6,11,20,-9,17,,,Boleyn Ground,London
+1993/94,29,7,Everton,15,32,10,6,16,36,44,-8,36,17,7,3,7,23,24,-1,24,15,3,3,9,13,20,-7,12,,,Goodison Park,Liverpool
+1993/94,29,4,Chelsea,16,30,9,8,13,33,39,-6,35,15,7,4,4,20,15,5,25,15,2,4,9,13,24,-11,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,29,21,Tottenham Hotspur,17,32,7,11,14,42,46,-4,32,17,3,7,7,23,26,-3,16,15,4,4,7,19,20,-1,16,,,White Hart Lane,London
+1993/94,29,20,Southampton,18,31,9,5,17,33,42,-9,32,16,7,2,7,22,21,1,23,15,2,3,10,11,21,-10,9,,,The Dell,Southampton
+1993/94,29,11,Manchester City,19,32,6,12,14,26,40,-14,30,16,4,7,5,16,18,-2,19,16,2,5,9,10,22,-12,11,,,Maine Road,Manchester
+1993/94,29,16,Oldham Athletic,20,30,6,9,15,26,50,-24,27,15,4,5,6,18,27,-9,17,15,2,4,9,8,23,-15,10,R,EN_D1,Boundary Park,Oldham
+1993/94,29,18,Sheffield United,21,32,4,14,14,29,50,-21,26,16,4,8,4,17,18,-1,20,16,0,6,10,12,32,-20,6,R,EN_D1,Bramall Lane,Sheffield
+1993/94,29,24,Swindon Town,22,33,4,12,17,37,80,-43,24,17,4,6,7,21,33,-12,18,16,0,6,10,16,47,-31,6,R,EN_D1,County Ground,Swindon
+1993/94,30,12,Manchester United,1,33,21,10,2,68,32,36,73,16,10,5,1,31,11,20,35,17,11,5,1,37,21,16,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,30,3,Blackburn Rovers,2,32,20,7,5,48,24,24,67,16,11,3,2,24,9,15,36,16,9,4,3,24,15,9,31,Q,EU_UC,Ewood Park,Blackburn
+1993/94,30,23,Newcastle United,3,33,18,6,9,65,33,32,60,16,10,3,3,38,11,27,33,17,8,3,6,27,22,5,27,Q,EU_UC,St. James' Park,Newcastle
+1993/94,30,1,Arsenal,4,33,15,13,5,45,19,26,58,16,8,6,2,21,11,10,30,17,7,7,3,24,8,16,28,Q,EU_CWC,Highbury,London
+1993/94,30,9,Leeds United,5,33,14,13,6,47,32,15,55,16,11,4,1,29,13,16,37,17,3,9,5,18,19,-1,18,,,Elland Road,Leeds
+1993/94,30,10,Liverpool,6,33,15,8,10,53,44,9,53,17,11,4,2,31,18,13,37,16,4,4,8,22,26,-4,16,,,Anfield,Liverpool
+1993/94,30,2,Aston Villa,7,33,13,10,10,39,33,6,49,17,7,3,7,20,15,5,24,16,6,7,3,19,18,1,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,30,14,Norwich City,8,33,11,14,8,56,46,10,47,17,4,8,5,20,20,0,20,16,7,6,3,36,26,10,27,,,Carrow Road,Norwich
+1993/94,30,17,Queens Park Rangers,9,31,13,8,10,49,41,8,47,15,7,4,4,27,19,8,25,16,6,4,6,22,22,0,22,,,Loftus Road,London
+1993/94,30,19,Sheffield Wednesday,10,33,11,12,10,55,47,8,45,16,6,6,4,31,20,11,24,17,5,6,6,24,27,-3,21,,,Hillsborough,Sheffield
+1993/94,30,22,Wimbledon,11,32,11,9,12,35,43,-8,42,15,7,4,4,23,18,5,25,17,4,5,8,12,25,-13,17,,,Selhurst Park,London
+1993/94,30,8,Ipswich Town,12,33,9,13,11,29,40,-11,40,16,5,6,5,16,22,-6,21,17,4,7,6,13,18,-5,19,,,Portman Road,Ipswich
+1993/94,30,5,Coventry City,13,33,9,11,13,32,39,-7,38,16,6,6,4,16,12,4,24,17,3,5,9,16,27,-11,14,,,Highfield Road,Coventry
+1993/94,30,25,West Ham United,14,31,9,11,11,30,42,-12,38,16,5,6,5,19,22,-3,21,15,4,5,6,11,20,-9,17,,,Boleyn Ground,London
+1993/94,30,7,Everton,15,33,10,6,17,36,47,-11,36,17,7,3,7,23,24,-1,24,16,3,3,10,13,23,-10,12,,,Goodison Park,Liverpool
+1993/94,30,4,Chelsea,16,31,9,8,14,34,41,-7,35,15,7,4,4,20,15,5,25,16,2,4,10,14,26,-12,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,30,21,Tottenham Hotspur,17,33,7,12,14,43,47,-4,33,18,3,8,7,24,27,-3,17,15,4,4,7,19,20,-1,16,,,White Hart Lane,London
+1993/94,30,20,Southampton,18,32,9,5,18,33,46,-13,32,17,7,2,8,22,25,-3,23,15,2,3,10,11,21,-10,9,,,The Dell,Southampton
+1993/94,30,11,Manchester City,19,33,6,13,14,26,40,-14,31,17,4,8,5,16,18,-2,20,16,2,5,9,10,22,-12,11,,,Maine Road,Manchester
+1993/94,30,16,Oldham Athletic,20,31,7,9,15,28,51,-23,30,15,4,5,6,18,27,-9,17,16,3,4,9,10,24,-14,13,R,EN_D1,Boundary Park,Oldham
+1993/94,30,18,Sheffield United,21,33,4,15,14,29,50,-21,27,16,4,8,4,17,18,-1,20,17,0,7,10,12,32,-20,7,R,EN_D1,Bramall Lane,Sheffield
+1993/94,30,24,Swindon Town,22,34,4,13,17,39,82,-43,25,18,4,7,7,23,35,-12,19,16,0,6,10,16,47,-31,6,R,EN_D1,County Ground,Swindon
+1993/94,31,12,Manchester United,1,33,21,10,2,68,32,36,73,16,10,5,1,31,11,20,35,17,11,5,1,37,21,16,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,31,3,Blackburn Rovers,2,33,21,7,5,51,25,26,70,17,12,3,2,27,10,17,39,16,9,4,3,24,15,9,31,Q,EU_UC,Ewood Park,Blackburn
+1993/94,31,1,Arsenal,3,34,16,13,5,46,19,27,61,17,9,6,2,22,11,11,33,17,7,7,3,24,8,16,28,"Q,Q","EU_UC,EU_CWC",Highbury,London
+1993/94,31,23,Newcastle United,4,33,18,6,9,65,33,32,60,16,10,3,3,38,11,27,33,17,8,3,6,27,22,5,27,,,St. James' Park,Newcastle
+1993/94,31,9,Leeds United,5,34,14,13,7,47,33,14,55,16,11,4,1,29,13,16,37,18,3,9,6,18,20,-2,18,,,Elland Road,Leeds
+1993/94,31,10,Liverpool,6,34,15,8,11,53,45,8,53,17,11,4,2,31,18,13,37,17,4,4,9,22,27,-5,16,,,Anfield,Liverpool
+1993/94,31,17,Queens Park Rangers,7,32,14,8,10,52,42,10,50,15,7,4,4,27,19,8,25,17,7,4,6,25,23,2,25,,,Loftus Road,London
+1993/94,31,2,Aston Villa,8,33,13,10,10,39,33,6,49,17,7,3,7,20,15,5,24,16,6,7,3,19,18,1,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,31,14,Norwich City,9,34,11,14,9,57,48,9,47,17,4,8,5,20,20,0,20,17,7,6,4,37,28,9,27,,,Carrow Road,Norwich
+1993/94,31,19,Sheffield Wednesday,10,33,11,12,10,55,47,8,45,16,6,6,4,31,20,11,24,17,5,6,6,24,27,-3,21,,,Hillsborough,Sheffield
+1993/94,31,22,Wimbledon,11,33,12,9,12,36,43,-7,45,16,8,4,4,24,18,6,28,17,4,5,8,12,25,-13,17,,,Selhurst Park,London
+1993/94,31,5,Coventry City,12,34,10,11,13,34,40,-6,41,17,7,6,4,18,13,5,27,17,3,5,9,16,27,-11,14,,,Highfield Road,Coventry
+1993/94,31,8,Ipswich Town,13,34,9,13,12,30,43,-13,40,17,5,6,6,17,25,-8,21,17,4,7,6,13,18,-5,19,,,Portman Road,Ipswich
+1993/94,31,4,Chelsea,14,32,10,8,14,36,41,-5,38,16,8,4,4,22,15,7,28,16,2,4,10,14,26,-12,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,31,25,West Ham United,15,32,9,11,12,30,44,-14,38,16,5,6,5,19,22,-3,21,16,4,5,7,11,22,-11,17,,,Boleyn Ground,London
+1993/94,31,21,Tottenham Hotspur,16,34,8,12,14,44,47,-3,36,18,3,8,7,24,27,-3,17,16,5,4,7,20,20,0,19,,,White Hart Lane,London
+1993/94,31,7,Everton,17,34,10,6,18,36,48,-12,36,18,7,3,8,23,25,-2,24,16,3,3,10,13,23,-10,12,,,Goodison Park,Liverpool
+1993/94,31,20,Southampton,18,33,9,6,18,33,46,-13,33,17,7,2,8,22,25,-3,23,16,2,4,10,11,21,-10,10,,,The Dell,Southampton
+1993/94,31,11,Manchester City,19,34,6,14,14,26,40,-14,32,17,4,8,5,16,18,-2,20,17,2,6,9,10,22,-12,12,,,Maine Road,Manchester
+1993/94,31,16,Oldham Athletic,20,32,7,10,15,28,51,-23,31,16,4,6,6,18,27,-9,18,16,3,4,9,10,24,-14,13,R,EN_D1,Boundary Park,Oldham
+1993/94,31,18,Sheffield United,21,34,4,16,14,29,50,-21,28,17,4,9,4,17,18,-1,21,17,0,7,10,12,32,-20,7,R,EN_D1,Bramall Lane,Sheffield
+1993/94,31,24,Swindon Town,22,35,4,13,18,40,85,-45,25,18,4,7,7,23,35,-12,19,17,0,6,11,17,50,-33,6,R,EN_D1,County Ground,Swindon
+1993/94,32,12,Manchester United,1,34,22,10,2,69,32,37,76,17,11,5,1,32,11,21,38,17,11,5,1,37,21,16,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,32,3,Blackburn Rovers,2,34,21,7,6,52,29,23,70,17,12,3,2,27,10,17,39,17,9,4,4,25,19,6,31,Q,EU_UC,Ewood Park,Blackburn
+1993/94,32,23,Newcastle United,3,34,19,6,9,68,33,35,63,17,11,3,3,41,11,30,36,17,8,3,6,27,22,5,27,Q,EU_UC,St. James' Park,Newcastle
+1993/94,32,1,Arsenal,4,34,16,13,5,46,19,27,61,17,9,6,2,22,11,11,33,17,7,7,3,24,8,16,28,Q,EU_CWC,Highbury,London
+1993/94,32,9,Leeds United,5,34,14,13,7,47,33,14,55,16,11,4,1,29,13,16,37,18,3,9,6,18,20,-2,18,,,Elland Road,Leeds
+1993/94,32,10,Liverpool,6,35,15,8,12,53,46,7,53,17,11,4,2,31,18,13,37,18,4,4,10,22,28,-6,16,,,Anfield,Liverpool
+1993/94,32,17,Queens Park Rangers,7,32,14,8,10,52,42,10,50,15,7,4,4,27,19,8,25,17,7,4,6,25,23,2,25,,,Loftus Road,London
+1993/94,32,2,Aston Villa,8,34,13,11,10,39,33,6,50,18,7,4,7,20,15,5,25,16,6,7,3,19,18,1,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,32,19,Sheffield Wednesday,9,34,12,12,10,58,48,10,48,17,7,6,4,34,21,13,27,17,5,6,6,24,27,-3,21,,,Hillsborough,Sheffield
+1993/94,32,22,Wimbledon,10,34,13,9,12,40,44,-4,48,17,9,4,4,28,19,9,31,17,4,5,8,12,25,-13,17,,,Selhurst Park,London
+1993/94,32,14,Norwich City,11,35,11,14,10,57,51,6,47,17,4,8,5,20,20,0,20,18,7,6,5,37,31,6,27,,,Carrow Road,Norwich
+1993/94,32,5,Coventry City,12,34,10,11,13,34,40,-6,41,17,7,6,4,18,13,5,27,17,3,5,9,16,27,-11,14,,,Highfield Road,Coventry
+1993/94,32,8,Ipswich Town,13,35,9,14,12,32,45,-13,41,18,5,7,6,19,27,-8,22,17,4,7,6,13,18,-5,19,,,Portman Road,Ipswich
+1993/94,32,4,Chelsea,14,33,10,8,15,37,44,-7,38,16,8,4,4,22,15,7,28,17,2,4,11,15,29,-14,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,32,25,West Ham United,15,33,9,11,13,32,47,-15,38,16,5,6,5,19,22,-3,21,17,4,5,8,13,25,-12,17,,,Boleyn Ground,London
+1993/94,32,7,Everton,16,35,10,7,18,36,48,-12,37,18,7,3,8,23,25,-2,24,17,3,4,10,13,23,-10,13,,,Goodison Park,Liverpool
+1993/94,32,21,Tottenham Hotspur,17,34,8,12,14,44,47,-3,36,18,3,8,7,24,27,-3,17,16,5,4,7,20,20,0,19,,,White Hart Lane,London
+1993/94,32,16,Oldham Athletic,18,33,8,10,15,31,52,-21,34,16,4,6,6,18,27,-9,18,17,4,4,9,13,25,-12,16,,,Boundary Park,Oldham
+1993/94,32,11,Manchester City,19,35,6,15,14,28,42,-14,33,17,4,8,5,16,18,-2,20,18,2,7,9,12,24,-12,13,,,Maine Road,Manchester
+1993/94,32,20,Southampton,20,34,9,6,19,34,49,-15,33,18,7,2,9,23,28,-5,23,16,2,4,10,11,21,-10,10,R,EN_D1,The Dell,Southampton
+1993/94,32,18,Sheffield United,21,35,5,16,14,32,52,-20,31,18,5,9,4,20,20,0,24,17,0,7,10,12,32,-20,7,R,EN_D1,Bramall Lane,Sheffield
+1993/94,32,24,Swindon Town,22,35,4,13,18,40,85,-45,25,18,4,7,7,23,35,-12,19,17,0,6,11,17,50,-33,6,R,EN_D1,County Ground,Swindon
+1993/94,33,12,Manchester United,1,35,22,10,3,69,34,35,76,17,11,5,1,32,11,21,38,18,11,5,2,37,23,14,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,33,3,Blackburn Rovers,2,35,22,7,6,54,29,25,73,18,13,3,2,29,10,19,42,17,9,4,4,25,19,6,31,Q,EU_UC,Ewood Park,Blackburn
+1993/94,33,23,Newcastle United,3,35,19,7,9,69,34,35,64,17,11,3,3,41,11,30,36,18,8,4,6,28,23,5,28,Q,EU_UC,St. James' Park,Newcastle
+1993/94,33,1,Arsenal,4,35,16,14,5,47,20,27,62,18,9,7,2,23,12,11,34,17,7,7,3,24,8,16,28,Q,EU_CWC,Highbury,London
+1993/94,33,9,Leeds United,5,35,14,14,7,48,34,14,56,17,11,5,1,30,14,16,38,18,3,9,6,18,20,-2,18,,,Elland Road,Leeds
+1993/94,33,10,Liverpool,6,36,15,8,13,54,48,6,53,18,11,4,3,32,20,12,37,18,4,4,10,22,28,-6,16,,,Anfield,Liverpool
+1993/94,33,19,Sheffield Wednesday,7,35,13,12,10,63,49,14,51,18,8,6,4,39,22,17,30,17,5,6,6,24,27,-3,21,,,Hillsborough,Sheffield
+1993/94,33,22,Wimbledon,8,35,14,9,12,42,45,-3,51,17,9,4,4,28,19,9,31,18,5,5,8,14,26,-12,20,,,Selhurst Park,London
+1993/94,33,17,Queens Park Rangers,9,33,14,8,11,53,46,7,50,15,7,4,4,27,19,8,25,18,7,4,7,26,27,-1,25,,,Loftus Road,London
+1993/94,33,2,Aston Villa,10,35,13,11,11,39,36,3,50,18,7,4,7,20,15,5,25,17,6,7,4,19,21,-2,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,33,14,Norwich City,11,36,11,14,11,58,53,5,47,18,4,8,6,21,22,-1,20,18,7,6,5,37,31,6,27,,,Carrow Road,Norwich
+1993/94,33,4,Chelsea,12,34,11,8,15,39,44,-5,41,17,9,4,4,24,15,9,31,17,2,4,11,15,29,-14,10,Q,EU_CWC,Stamford Bridge,London
+1993/94,33,5,Coventry City,13,35,10,11,14,35,42,-7,41,18,7,6,5,19,15,4,27,17,3,5,9,16,27,-11,14,,,Highfield Road,Coventry
+1993/94,33,25,West Ham United,14,34,10,11,13,34,48,-14,41,17,6,6,5,21,23,-2,24,17,4,5,8,13,25,-12,17,,,Boleyn Ground,London
+1993/94,33,8,Ipswich Town,15,36,9,14,13,33,47,-14,41,18,5,7,6,19,27,-8,22,18,4,7,7,14,20,-6,19,,,Portman Road,Ipswich
+1993/94,33,21,Tottenham Hotspur,16,35,9,12,14,46,48,-2,39,18,3,8,7,24,27,-3,17,17,6,4,7,22,21,1,22,,,White Hart Lane,London
+1993/94,33,7,Everton,17,36,10,7,19,37,53,-16,37,18,7,3,8,23,25,-2,24,18,3,4,11,14,28,-14,13,,,Goodison Park,Liverpool
+1993/94,33,16,Oldham Athletic,18,34,9,10,15,35,53,-18,37,17,5,6,6,22,28,-6,21,17,4,4,9,13,25,-12,16,,,Boundary Park,Oldham
+1993/94,33,11,Manchester City,19,36,7,15,14,31,42,-11,36,18,5,8,5,19,18,1,23,18,2,7,9,12,24,-12,13,,,Maine Road,Manchester
+1993/94,33,18,Sheffield United,20,36,6,16,14,34,53,-19,34,18,5,9,4,20,20,0,24,18,1,7,10,14,33,-19,10,R,EN_D1,Bramall Lane,Sheffield
+1993/94,33,20,Southampton,21,35,9,6,20,34,51,-17,33,18,7,2,9,23,28,-5,23,17,2,4,11,11,23,-12,10,R,EN_D1,The Dell,Southampton
+1993/94,33,24,Swindon Town,22,36,4,14,18,41,86,-45,26,18,4,7,7,23,35,-12,19,18,0,7,11,18,51,-33,7,R,EN_D1,County Ground,Swindon
+1993/94,34,12,Manchester United,1,36,23,10,3,72,36,36,79,18,12,5,1,35,13,22,41,18,11,5,2,37,23,14,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,34,3,Blackburn Rovers,2,36,23,7,6,57,29,28,76,18,13,3,2,29,10,19,42,18,10,4,4,28,19,9,34,Q,EU_UC,Ewood Park,Blackburn
+1993/94,34,23,Newcastle United,3,36,19,8,9,69,34,35,65,18,11,4,3,41,11,30,37,18,8,4,6,28,23,5,28,Q,EU_UC,St. James' Park,Newcastle
+1993/94,34,1,Arsenal,4,36,16,15,5,48,21,27,63,18,9,7,2,23,12,11,34,18,7,8,3,25,9,16,29,Q,EU_CWC,Highbury,London
+1993/94,34,9,Leeds United,5,36,15,14,7,52,34,18,59,17,11,5,1,30,14,16,38,19,4,9,6,22,20,2,21,,,Elland Road,Leeds
+1993/94,34,19,Sheffield Wednesday,6,36,14,12,10,64,49,15,54,18,8,6,4,39,22,17,30,18,6,6,6,25,27,-2,24,,,Hillsborough,Sheffield
+1993/94,34,10,Liverpool,7,37,15,9,13,55,49,6,54,18,11,4,3,32,20,12,37,19,4,5,10,23,29,-6,17,,,Anfield,Liverpool
+1993/94,34,22,Wimbledon,8,36,14,10,12,43,46,-3,52,18,9,5,4,29,20,9,32,18,5,5,8,14,26,-12,20,,,Selhurst Park,London
+1993/94,34,2,Aston Villa,9,36,13,12,11,39,36,3,51,19,7,5,7,20,15,5,26,17,6,7,4,19,21,-2,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,34,17,Queens Park Rangers,10,34,14,8,12,53,50,3,50,16,7,4,5,27,23,4,25,18,7,4,7,26,27,-1,25,,,Loftus Road,London
+1993/94,34,14,Norwich City,11,37,11,15,11,58,53,5,48,18,4,8,6,21,22,-1,20,19,7,7,5,37,31,6,28,,,Carrow Road,Norwich
+1993/94,34,5,Coventry City,12,36,11,11,14,37,42,-5,44,18,7,6,5,19,15,4,27,18,4,5,9,18,27,-9,17,,,Highfield Road,Coventry
+1993/94,34,25,West Ham United,13,35,11,11,13,38,49,-11,44,17,6,6,5,21,23,-2,24,18,5,5,8,17,26,-9,20,,,Boleyn Ground,London
+1993/94,34,4,Chelsea,14,35,11,9,15,39,44,-5,42,17,9,4,4,24,15,9,31,18,2,5,11,15,29,-14,11,Q,EU_CWC,Stamford Bridge,London
+1993/94,34,8,Ipswich Town,15,37,9,14,14,33,49,-16,41,19,5,7,7,19,29,-10,22,18,4,7,7,14,20,-6,19,,,Portman Road,Ipswich
+1993/94,34,21,Tottenham Hotspur,16,36,9,12,15,47,52,-5,39,19,3,8,8,25,31,-6,17,17,6,4,7,22,21,1,22,,,White Hart Lane,London
+1993/94,34,11,Manchester City,17,37,8,15,14,32,42,-10,39,18,5,8,5,19,18,1,23,19,3,7,9,13,24,-11,16,,,Maine Road,Manchester
+1993/94,34,7,Everton,18,37,10,7,20,37,56,-19,37,19,7,3,9,23,28,-5,24,18,3,4,11,14,28,-14,13,,,Goodison Park,Liverpool
+1993/94,34,16,Oldham Athletic,19,35,9,10,16,37,56,-19,37,17,5,6,6,22,28,-6,21,18,4,4,10,15,28,-13,16,,,Boundary Park,Oldham
+1993/94,34,18,Sheffield United,20,37,6,17,14,35,54,-19,35,19,5,10,4,21,21,0,25,18,1,7,10,14,33,-19,10,R,EN_D1,Bramall Lane,Sheffield
+1993/94,34,20,Southampton,21,36,9,6,21,34,52,-18,33,19,7,2,10,23,29,-6,23,17,2,4,11,11,23,-12,10,R,EN_D1,The Dell,Southampton
+1993/94,34,24,Swindon Town,22,37,4,14,19,41,87,-46,26,19,4,7,8,23,36,-13,19,18,0,7,11,18,51,-33,7,R,EN_D1,County Ground,Swindon
+1993/94,35,12,Manchester United,1,36,23,10,3,72,36,36,79,18,12,5,1,35,13,22,41,18,11,5,2,37,23,14,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,35,3,Blackburn Rovers,2,37,24,7,6,58,29,29,79,19,14,3,2,30,10,20,45,18,10,4,4,28,19,9,34,Q,EU_UC,Ewood Park,Blackburn
+1993/94,35,23,Newcastle United,3,37,19,8,10,70,36,34,65,18,11,4,3,41,11,30,37,19,8,4,7,29,25,4,28,Q,EU_UC,St. James' Park,Newcastle
+1993/94,35,1,Arsenal,4,36,16,15,5,48,21,27,63,18,9,7,2,23,12,11,34,18,7,8,3,25,9,16,29,Q,EU_CWC,Highbury,London
+1993/94,35,9,Leeds United,5,36,15,14,7,52,34,18,59,17,11,5,1,30,14,16,38,19,4,9,6,22,20,2,21,,,Elland Road,Leeds
+1993/94,35,19,Sheffield Wednesday,6,37,15,12,10,67,50,17,57,19,9,6,4,42,23,19,33,18,6,6,6,25,27,-2,24,,,Hillsborough,Sheffield
+1993/94,35,10,Liverpool,7,38,16,9,13,56,49,7,57,19,12,4,3,33,20,13,40,19,4,5,10,23,29,-6,17,,,Anfield,Liverpool
+1993/94,35,22,Wimbledon,8,36,14,10,12,43,46,-3,52,18,9,5,4,29,20,9,32,18,5,5,8,14,26,-12,20,,,Selhurst Park,London
+1993/94,35,2,Aston Villa,9,37,13,12,12,39,37,2,51,19,7,5,7,20,15,5,26,18,6,7,5,19,22,-3,25,Q,EU_UC,Villa Park,Birmingham
+1993/94,35,17,Queens Park Rangers,10,36,14,9,13,55,54,1,51,17,7,5,5,28,24,4,26,19,7,4,8,27,30,-3,25,,,Loftus Road,London
+1993/94,35,14,Norwich City,11,38,11,15,12,62,58,4,48,19,4,8,7,25,27,-2,20,19,7,7,5,37,31,6,28,,,Carrow Road,Norwich
+1993/94,35,5,Coventry City,12,37,12,11,14,38,42,-4,47,19,8,6,5,20,15,5,30,18,4,5,9,18,27,-9,17,,,Highfield Road,Coventry
+1993/94,35,25,West Ham United,13,36,11,11,14,38,50,-12,44,18,6,6,6,21,24,-3,24,18,5,5,8,17,26,-9,20,,,Boleyn Ground,London
+1993/94,35,4,Chelsea,14,36,11,10,15,40,45,-5,43,17,9,4,4,24,15,9,31,19,2,6,11,16,30,-14,12,Q,EU_CWC,Stamford Bridge,London
+1993/94,35,11,Manchester City,15,38,9,15,14,34,43,-9,42,19,6,8,5,21,19,2,26,19,3,7,9,13,24,-11,16,,,Maine Road,Manchester
+1993/94,35,8,Ipswich Town,16,38,9,14,15,33,50,-17,41,19,5,7,7,19,29,-10,22,19,4,7,8,14,21,-7,19,,,Portman Road,Ipswich
+1993/94,35,7,Everton,17,38,11,7,20,38,56,-18,40,19,7,3,9,23,28,-5,24,19,4,4,11,15,28,-13,16,,,Goodison Park,Liverpool
+1993/94,35,21,Tottenham Hotspur,18,37,9,12,16,47,53,-6,39,19,3,8,8,25,31,-6,17,18,6,4,8,22,22,0,22,,,White Hart Lane,London
+1993/94,35,16,Oldham Athletic,19,35,9,10,16,37,56,-19,37,17,5,6,6,22,28,-6,21,18,4,4,10,15,28,-13,16,,,Boundary Park,Oldham
+1993/94,35,20,Southampton,20,37,10,6,21,39,56,-17,36,19,7,2,10,23,29,-6,23,18,3,4,11,16,27,-11,13,R,EN_D1,The Dell,Southampton
+1993/94,35,18,Sheffield United,21,37,6,17,14,35,54,-19,35,19,5,10,4,21,21,0,25,18,1,7,10,14,33,-19,10,R,EN_D1,Bramall Lane,Sheffield
+1993/94,35,24,Swindon Town,22,37,4,14,19,41,87,-46,26,19,4,7,8,23,36,-13,19,18,0,7,11,18,51,-33,7,R,EN_D1,County Ground,Swindon
+1993/94,36,12,Manchester United,1,37,23,10,4,72,37,35,79,18,12,5,1,35,13,22,41,19,11,5,3,37,24,13,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,36,3,Blackburn Rovers,2,38,24,7,7,59,32,27,79,19,14,3,2,30,10,20,45,19,10,4,5,29,22,7,34,Q,EU_UC,Ewood Park,Blackburn
+1993/94,36,23,Newcastle United,3,38,20,8,10,72,36,36,68,18,11,4,3,41,11,30,37,20,9,4,7,31,25,6,31,Q,EU_UC,St. James' Park,Newcastle
+1993/94,36,1,Arsenal,4,38,17,16,5,50,22,28,67,20,10,8,2,25,13,12,38,18,7,8,3,25,9,16,29,Q,EU_CWC,Highbury,London
+1993/94,36,9,Leeds United,5,37,16,14,7,54,34,20,62,18,12,5,1,32,14,18,41,19,4,9,6,22,20,2,21,,,Elland Road,Leeds
+1993/94,36,19,Sheffield Wednesday,6,38,15,13,10,68,51,17,58,19,9,6,4,42,23,19,33,19,6,7,6,26,28,-2,25,,,Hillsborough,Sheffield
+1993/94,36,10,Liverpool,7,39,16,9,14,56,51,5,57,20,12,4,4,33,22,11,40,19,4,5,10,23,29,-6,17,,,Anfield,Liverpool
+1993/94,36,22,Wimbledon,8,38,15,11,12,45,47,-2,56,19,10,5,4,30,20,10,35,19,5,6,8,15,27,-12,21,,,Selhurst Park,London
+1993/94,36,2,Aston Villa,9,38,14,12,12,41,38,3,54,19,7,5,7,20,15,5,26,19,7,7,5,21,23,-2,28,Q,EU_UC,Villa Park,Birmingham
+1993/94,36,17,Queens Park Rangers,10,37,15,9,13,57,55,2,54,18,8,5,5,30,25,5,29,19,7,4,8,27,30,-3,25,,,Loftus Road,London
+1993/94,36,14,Norwich City,11,39,11,16,12,63,59,4,49,19,4,8,7,25,27,-2,20,20,7,8,5,38,32,6,29,,,Carrow Road,Norwich
+1993/94,36,5,Coventry City,12,38,12,12,14,39,43,-4,48,20,8,7,5,21,16,5,31,18,4,5,9,18,27,-9,17,,,Highfield Road,Coventry
+1993/94,36,25,West Ham United,13,37,12,11,14,40,51,-11,47,18,6,6,6,21,24,-3,24,19,6,5,8,19,27,-8,23,,,Boleyn Ground,London
+1993/94,36,4,Chelsea,14,37,11,10,16,40,46,-6,43,17,9,4,4,24,15,9,31,20,2,6,12,16,31,-15,12,Q,EU_CWC,Stamford Bridge,London
+1993/94,36,11,Manchester City,15,39,9,16,14,35,44,-9,43,20,6,9,5,22,20,2,27,19,3,7,9,13,24,-11,16,,,Maine Road,Manchester
+1993/94,36,8,Ipswich Town,16,39,9,15,15,34,51,-17,42,20,5,8,7,20,30,-10,23,19,4,7,8,14,21,-7,19,,,Portman Road,Ipswich
+1993/94,36,7,Everton,17,39,11,7,21,39,58,-19,40,19,7,3,9,23,28,-5,24,20,4,4,12,16,30,-14,16,,,Goodison Park,Liverpool
+1993/94,36,21,Tottenham Hotspur,18,38,9,12,17,47,55,-8,39,19,3,8,8,25,31,-6,17,19,6,4,9,22,24,-2,22,,,White Hart Lane,London
+1993/94,36,20,Southampton,19,38,11,6,21,42,57,-15,39,20,8,2,10,26,30,-4,26,18,3,4,11,16,27,-11,13,,,The Dell,Southampton
+1993/94,36,16,Oldham Athletic,20,36,9,10,17,38,58,-20,37,18,5,6,7,23,30,-7,21,18,4,4,10,15,28,-13,16,R,EN_D1,Boundary Park,Oldham
+1993/94,36,18,Sheffield United,21,38,6,17,15,36,56,-20,35,20,5,10,5,22,23,-1,25,18,1,7,10,14,33,-19,10,R,EN_D1,Bramall Lane,Sheffield
+1993/94,36,24,Swindon Town,22,38,4,15,19,42,88,-46,27,19,4,7,8,23,36,-13,19,19,0,8,11,19,52,-33,8,R,EN_D1,County Ground,Swindon
+1993/94,37,12,Manchester United,1,38,24,10,4,74,37,37,82,19,13,5,1,37,13,24,44,19,11,5,3,37,24,13,38,Q,EU_CL,Old Trafford,Manchester
+1993/94,37,3,Blackburn Rovers,2,39,24,8,7,60,33,27,80,20,14,4,2,31,11,20,46,19,10,4,5,29,22,7,34,Q,EU_UC,Ewood Park,Blackburn
+1993/94,37,23,Newcastle United,3,39,21,8,10,75,38,37,71,19,12,4,3,44,13,31,40,20,9,4,7,31,25,6,31,Q,EU_UC,St. James' Park,Newcastle
+1993/94,37,1,Arsenal,4,39,18,16,5,52,23,29,70,20,10,8,2,25,13,12,38,19,8,8,3,27,10,17,32,Q,EU_CWC,Highbury,London
+1993/94,37,9,Leeds United,5,38,16,15,7,55,35,20,63,18,12,5,1,32,14,18,41,20,4,10,6,23,21,2,22,,,Elland Road,Leeds
+1993/94,37,19,Sheffield Wednesday,6,39,16,13,10,73,51,22,61,20,10,6,4,47,23,24,36,19,6,7,6,26,28,-2,25,,,Hillsborough,Sheffield
+1993/94,37,10,Liverpool,7,40,17,9,14,58,52,6,60,20,12,4,4,33,22,11,40,20,5,5,10,25,30,-5,20,,,Anfield,Liverpool
+1993/94,37,22,Wimbledon,8,39,16,11,12,49,49,0,59,19,10,5,4,30,20,10,35,20,6,6,8,19,29,-10,24,,,Selhurst Park,London
+1993/94,37,17,Queens Park Rangers,9,38,15,10,13,58,56,2,55,18,8,5,5,30,25,5,29,20,7,5,8,28,31,-3,26,,,Loftus Road,London
+1993/94,37,2,Aston Villa,10,39,14,12,13,42,40,2,54,20,7,5,8,21,17,4,26,19,7,7,5,21,23,-2,28,Q,EU_UC,Villa Park,Birmingham
+1993/94,37,14,Norwich City,11,40,11,16,13,63,60,3,49,20,4,8,8,25,28,-3,20,20,7,8,5,38,32,6,29,,,Carrow Road,Norwich
+1993/94,37,5,Coventry City,12,39,12,13,14,39,43,-4,49,20,8,7,5,21,16,5,31,19,4,6,9,18,27,-9,18,,,Highfield Road,Coventry
+1993/94,37,25,West Ham United,13,38,12,11,15,41,53,-12,47,19,6,6,7,22,26,-4,24,19,6,5,8,19,27,-8,23,,,Boleyn Ground,London
+1993/94,37,4,Chelsea,14,38,11,11,16,41,47,-6,44,18,9,5,4,25,16,9,32,20,2,6,12,16,31,-15,12,Q,EU_CWC,Stamford Bridge,London
+1993/94,37,11,Manchester City,15,40,9,16,15,35,46,-11,43,20,6,9,5,22,20,2,27,20,3,7,10,13,26,-13,16,,,Maine Road,Manchester
+1993/94,37,21,Tottenham Hotspur,16,39,10,12,17,50,55,-5,42,20,4,8,8,28,31,-3,20,19,6,4,9,22,24,-2,22,,,White Hart Lane,London
+1993/94,37,8,Ipswich Town,17,40,9,15,16,34,56,-22,42,20,5,8,7,20,30,-10,23,20,4,7,9,14,26,-12,19,,,Portman Road,Ipswich
+1993/94,37,7,Everton,18,40,11,8,21,39,58,-19,41,20,7,4,9,23,28,-5,25,20,4,4,12,16,30,-14,16,,,Goodison Park,Liverpool
+1993/94,37,20,Southampton,19,39,11,6,22,42,60,-18,39,20,8,2,10,26,30,-4,26,19,3,4,12,16,30,-14,13,,,The Dell,Southampton
+1993/94,37,18,Sheffield United,20,39,7,17,15,37,56,-19,38,20,5,10,5,22,23,-1,25,19,2,7,10,15,33,-18,13,R,EN_D1,Bramall Lane,Sheffield
+1993/94,37,16,Oldham Athletic,21,37,9,10,18,40,61,-21,37,18,5,6,7,23,30,-7,21,19,4,4,11,17,31,-14,16,R,EN_D1,Boundary Park,Oldham
+1993/94,37,24,Swindon Town,22,39,4,15,20,44,92,-48,27,20,4,7,9,25,40,-15,19,19,0,8,11,19,52,-33,8,R,EN_D1,County Ground,Swindon
+1993/94,38,12,Manchester United,1,39,25,10,4,76,37,39,85,19,13,5,1,37,13,24,44,20,12,5,3,39,24,15,41,Q,EU_CL,Old Trafford,Manchester
+1993/94,38,3,Blackburn Rovers,2,40,25,8,7,62,34,28,83,20,14,4,2,31,11,20,46,20,11,4,5,31,23,8,37,Q,EU_UC,Ewood Park,Blackburn
+1993/94,38,23,Newcastle United,3,40,22,8,10,80,39,41,74,20,13,4,3,49,14,35,43,20,9,4,7,31,25,6,31,Q,EU_UC,St. James' Park,Newcastle
+1993/94,38,1,Arsenal,4,40,18,17,5,53,24,29,71,20,10,8,2,25,13,12,38,20,8,9,3,28,11,17,33,Q,EU_CWC,Highbury,London
+1993/94,38,9,Leeds United,5,39,16,15,8,55,37,18,63,19,12,5,2,32,16,16,41,20,4,10,6,23,21,2,22,,,Elland Road,Leeds
+1993/94,38,22,Wimbledon,6,40,17,11,12,52,49,3,62,20,11,5,4,33,20,13,38,20,6,6,8,19,29,-10,24,,,Selhurst Park,London
+1993/94,38,19,Sheffield Wednesday,7,39,16,13,10,73,51,22,61,20,10,6,4,47,23,24,36,19,6,7,6,26,28,-2,25,,,Hillsborough,Sheffield
+1993/94,38,10,Liverpool,8,40,17,9,14,58,52,6,60,20,12,4,4,33,22,11,40,20,5,5,10,25,30,-5,20,,,Anfield,Liverpool
+1993/94,38,17,Queens Park Rangers,9,39,15,11,13,59,57,2,56,19,8,6,5,31,26,5,30,20,7,5,8,28,31,-3,26,,,Loftus Road,London
+1993/94,38,2,Aston Villa,10,40,14,12,14,43,45,-2,54,20,7,5,8,21,17,4,26,20,7,7,6,22,28,-6,28,Q,EU_UC,Villa Park,Birmingham
+1993/94,38,14,Norwich City,11,40,11,16,13,63,60,3,49,20,4,8,8,25,28,-3,20,20,7,8,5,38,32,6,29,,,Carrow Road,Norwich
+1993/94,38,5,Coventry City,12,39,12,13,14,39,43,-4,49,20,8,7,5,21,16,5,31,19,4,6,9,18,27,-9,18,,,Highfield Road,Coventry
+1993/94,38,4,Chelsea,13,39,12,11,16,43,47,-4,47,19,10,5,4,27,16,11,35,20,2,6,12,16,31,-15,12,Q,EU_CWC,Stamford Bridge,London
+1993/94,38,25,West Ham United,14,39,12,11,16,42,55,-13,47,20,6,6,8,23,28,-5,24,19,6,5,8,19,27,-8,23,,,Boleyn Ground,London
+1993/94,38,11,Manchester City,15,40,9,16,15,35,46,-11,43,20,6,9,5,22,20,2,27,20,3,7,10,13,26,-13,16,,,Maine Road,Manchester
+1993/94,38,21,Tottenham Hotspur,16,39,10,12,17,50,55,-5,42,20,4,8,8,28,31,-3,20,19,6,4,9,22,24,-2,22,,,White Hart Lane,London
+1993/94,38,8,Ipswich Town,17,40,9,15,16,34,56,-22,42,20,5,8,7,20,30,-10,23,20,4,7,9,14,26,-12,19,,,Portman Road,Ipswich
+1993/94,38,7,Everton,18,40,11,8,21,39,58,-19,41,20,7,4,9,23,28,-5,25,20,4,4,12,16,30,-14,16,,,Goodison Park,Liverpool
+1993/94,38,20,Southampton,19,39,11,6,22,42,60,-18,39,20,8,2,10,26,30,-4,26,19,3,4,12,16,30,-14,13,,,The Dell,Southampton
+1993/94,38,18,Sheffield United,20,39,7,17,15,37,56,-19,38,20,5,10,5,22,23,-1,25,19,2,7,10,15,33,-18,13,R,EN_D1,Bramall Lane,Sheffield
+1993/94,38,16,Oldham Athletic,21,38,9,10,19,40,64,-24,37,18,5,6,7,23,30,-7,21,20,4,4,12,17,34,-17,16,R,EN_D1,Boundary Park,Oldham
+1993/94,38,24,Swindon Town,22,40,4,15,21,44,94,-50,27,20,4,7,9,25,40,-15,19,20,0,8,12,19,54,-35,8,R,EN_D1,County Ground,Swindon

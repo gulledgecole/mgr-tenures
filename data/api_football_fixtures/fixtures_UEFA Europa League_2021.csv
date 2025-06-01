@@ -1,0 +1,178 @@
+fixture_id,home_team,home_team_id,away_team_name,away_team_id,date,time,home_winner,away_winner,home_tie,away_tie,home_goals,away_goals,league_id,league_name,league_season,round
+748141,Neftchi Baku,2270,HJK helsinki,649,2021-08-03,17:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,3rd Qualifying Round
+748137,Kairat Almaty,664,Alashkert,582,2021-08-05,14:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,3rd Qualifying Round
+748145,FK Jablonec,1122,Celtic,247,2021-08-05,15:45:00,False,True,False,False,2,4,3,UEFA Europa League,2021,3rd Qualifying Round
+748139,Lincoln Red Imps FC,667,Slovan Bratislava,656,2021-08-05,16:00:00,False,True,False,False,1,3,3,UEFA Europa League,2021,3rd Qualifying Round
+747552,Omonia Nicosia,3402,Flora Tallinn,687,2021-08-05,16:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,3rd Qualifying Round
+748133,Galatasaray,645,ST Johnstone,258,2021-08-05,18:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,3rd Qualifying Round
+748135,Mura,4197,FK Zalgiris Vilnius,586,2021-08-05,18:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,3rd Qualifying Round
+748143,Rapid Vienna,781,Anorthosis,2269,2021-08-05,18:30:00,True,False,False,False,3,0,3,UEFA Europa League,2021,3rd Qualifying Round
+747553,Flora Tallinn,687,Omonia Nicosia,3402,2021-08-10,16:00:00,False,True,False,False,2,1,3,UEFA Europa League,2021,3rd Qualifying Round
+748140,Slovan Bratislava,656,Lincoln Red Imps FC,667,2021-08-10,18:30:00,False,False,True,True,1,1,3,UEFA Europa League,2021,3rd Qualifying Round
+748138,Alashkert,582,Kairat Almaty,664,2021-08-12,15:00:00,True,False,False,False,3,2,3,UEFA Europa League,2021,3rd Qualifying Round
+748142,HJK helsinki,649,Neftchi Baku,2270,2021-08-12,16:00:00,True,False,False,False,3,0,3,UEFA Europa League,2021,3rd Qualifying Round
+748136,FK Zalgiris Vilnius,586,Mura,4197,2021-08-12,17:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,3rd Qualifying Round
+748144,Anorthosis,2269,Rapid Vienna,781,2021-08-12,17:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,3rd Qualifying Round
+748134,ST Johnstone,258,Galatasaray,645,2021-08-12,18:00:00,False,True,False,False,2,4,3,UEFA Europa League,2021,3rd Qualifying Round
+748146,Celtic,247,FK Jablonec,1122,2021-08-12,18:45:00,True,False,False,False,3,0,3,UEFA Europa League,2021,3rd Qualifying Round
+765266,FK Crvena Zvezda,598,CFR 1907 Cluj,2246,2021-08-17,19:00:00,True,False,False,False,4,0,3,UEFA Europa League,2021,Play-offs
+768784,Celtic,247,AZ Alkmaar,201,2021-08-18,18:45:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Play-offs
+768780,Randers FC,401,Galatasaray,645,2021-08-19,17:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Play-offs
+765264,Slavia Praha,560,Legia Warszawa,339,2021-08-19,17:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Play-offs
+765262,Omonia Nicosia,3402,Antwerp,740,2021-08-19,17:00:00,True,False,False,False,4,2,3,UEFA Europa League,2021,Play-offs
+768788,Mura,4197,Sturm Graz,637,2021-08-19,18:00:00,False,True,False,False,1,3,3,UEFA Europa League,2021,Play-offs
+768786,Fenerbahce,611,HJK helsinki,649,2021-08-19,18:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Play-offs
+768790,Rangers,257,Alashkert,582,2021-08-19,19:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Play-offs
+765260,Olympiakos Piraeus,553,Slovan Bratislava,656,2021-08-19,19:00:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Play-offs
+768782,Rapid Vienna,781,Zorya Luhansk,599,2021-08-19,19:00:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Play-offs
+768791,Alashkert,582,Rangers,257,2021-08-26,15:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Play-offs
+768787,HJK helsinki,649,Fenerbahce,611,2021-08-26,16:00:00,False,True,False,False,2,5,3,UEFA Europa League,2021,Play-offs
+768783,Zorya Luhansk,599,Rapid Vienna,781,2021-08-26,16:30:00,False,True,False,False,2,3,3,UEFA Europa League,2021,Play-offs
+768781,Galatasaray,645,Randers FC,401,2021-08-26,18:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Play-offs
+768785,AZ Alkmaar,201,Celtic,247,2021-08-26,18:15:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Play-offs
+765267,CFR 1907 Cluj,2246,FK Crvena Zvezda,598,2021-08-26,18:30:00,False,True,False,False,1,2,3,UEFA Europa League,2021,Play-offs
+765261,Slovan Bratislava,656,Olympiakos Piraeus,553,2021-08-26,18:45:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Play-offs
+765265,Legia Warszawa,339,Slavia Praha,560,2021-08-26,19:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Play-offs
+768789,Sturm Graz,637,Mura,4197,2021-08-26,19:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Play-offs
+765263,Antwerp,740,Omonia Nicosia,3402,2021-08-26,19:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Play-offs
+787709,Spartak Moscow,558,Legia Warszawa,339,2021-09-15,14:30:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group C - 1
+787714,Bayer Leverkusen,168,Ferencvarosi TC,651,2021-09-16,16:45:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Group G - 1
+787710,FC Midtjylland,397,Ludogorets,566,2021-09-16,16:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group F - 1
+787715,Real Betis,543,Celtic,247,2021-09-16,16:45:00,True,False,False,False,4,3,3,UEFA Europa League,2021,Group G - 1
+787713,Lokomotiv Moscow,597,Marseille,81,2021-09-16,16:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group E - 1
+787711,FK Crvena Zvezda,598,SC Braga,217,2021-09-16,16:45:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Group F - 1
+787716,Dinamo Zagreb,620,West Ham,48,2021-09-16,16:45:00,False,True,False,False,0,2,3,UEFA Europa League,2021,Group H - 1
+787712,Galatasaray,645,Lazio,487,2021-09-16,16:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group E - 1
+787717,Rapid Vienna,781,Genk,742,2021-09-16,16:45:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group H - 1
+787722,Leicester,46,Napoli,492,2021-09-16,19:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Group C - 1
+787721,Monaco,91,Sturm Graz,637,2021-09-16,19:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group B - 1
+787724,Eintracht Frankfurt,169,Fenerbahce,611,2021-09-16,19:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group D - 1
+787720,PSV Eindhoven,197,Real Sociedad,548,2021-09-16,19:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Group B - 1
+787718,Rangers,257,Lyon,80,2021-09-16,19:00:00,False,True,False,False,0,2,3,UEFA Europa League,2021,Group A - 1
+787719,Brondby,407,Sparta Praha,628,2021-09-16,19:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Group A - 1
+787723,Olympiakos Piraeus,553,Antwerp,740,2021-09-16,19:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Group D - 1
+787726,Lyon,80,Brondby,407,2021-09-30,16:45:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Group A - 2
+787729,Legia Warszawa,339,Leicester,46,2021-09-30,16:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group C - 2
+787730,Napoli,492,Spartak Moscow,558,2021-09-30,16:45:00,False,True,False,False,2,3,3,UEFA Europa League,2021,Group C - 2
+787727,Real Sociedad,548,Monaco,91,2021-09-30,16:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group B - 2
+787732,Fenerbahce,611,Olympiakos Piraeus,553,2021-09-30,16:45:00,False,True,False,False,0,3,3,UEFA Europa League,2021,Group D - 2
+787725,Sparta Praha,628,Rangers,257,2021-09-30,16:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group A - 2
+787728,Sturm Graz,637,PSV Eindhoven,197,2021-09-30,16:45:00,False,True,False,False,1,4,3,UEFA Europa League,2021,Group B - 2
+787731,Antwerp,740,Eintracht Frankfurt,169,2021-09-30,16:45:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group D - 2
+787740,West Ham,48,Rapid Vienna,781,2021-09-30,19:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group H - 2
+787736,Marseille,81,Galatasaray,645,2021-09-30,19:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Group E - 2
+787734,SC Braga,217,FC Midtjylland,397,2021-09-30,19:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Group F - 2
+787737,Celtic,247,Bayer Leverkusen,168,2021-09-30,19:00:00,False,True,False,False,0,4,3,UEFA Europa League,2021,Group G - 2
+787735,Lazio,487,Lokomotiv Moscow,597,2021-09-30,19:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group E - 2
+787733,Ludogorets,566,FK Crvena Zvezda,598,2021-09-30,19:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group F - 2
+787738,Ferencvarosi TC,651,Real Betis,543,2021-09-30,19:00:00,False,True,False,False,1,3,3,UEFA Europa League,2021,Group G - 2
+787739,Genk,742,Dinamo Zagreb,620,2021-09-30,19:00:00,False,True,False,False,0,3,3,UEFA Europa League,2021,Group H - 2
+787742,Celtic,247,Ferencvarosi TC,651,2021-10-19,14:30:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group G - 3
+787741,Spartak Moscow,558,Leicester,46,2021-10-20,14:30:00,False,True,False,False,3,4,3,UEFA Europa League,2021,Group C - 3
+787745,FC Midtjylland,397,FK Crvena Zvezda,598,2021-10-21,16:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group F - 3
+787746,Lazio,487,Marseille,81,2021-10-21,16:45:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Group E - 3
+787747,Real Betis,543,Bayer Leverkusen,168,2021-10-21,16:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group G - 3
+787744,Ludogorets,566,SC Braga,217,2021-10-21,16:45:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group F - 3
+787743,Fenerbahce,611,Antwerp,740,2021-10-21,16:45:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Group D - 3
+787748,Rapid Vienna,781,Dinamo Zagreb,620,2021-10-21,16:45:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Group H - 3
+787756,West Ham,48,Genk,742,2021-10-21,19:00:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Group H - 3
+787754,Eintracht Frankfurt,169,Olympiakos Piraeus,553,2021-10-21,19:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Group D - 3
+787751,PSV Eindhoven,197,Monaco,91,2021-10-21,19:00:00,False,True,False,False,1,2,3,UEFA Europa League,2021,Group B - 3
+787750,Rangers,257,Brondby,407,2021-10-21,19:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group A - 3
+787753,Napoli,492,Legia Warszawa,339,2021-10-21,19:00:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Group C - 3
+787755,Lokomotiv Moscow,597,Galatasaray,645,2021-10-21,19:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group E - 3
+787749,Sparta Praha,628,Lyon,80,2021-10-21,19:00:00,False,True,False,False,3,4,3,UEFA Europa League,2021,Group A - 3
+787752,Sturm Graz,637,Real Sociedad,548,2021-10-21,19:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group B - 3
+787757,Lyon,80,Sparta Praha,628,2021-11-04,17:45:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Group A - 4
+787760,Monaco,91,PSV Eindhoven,197,2021-11-04,17:45:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Group B - 4
+787761,Legia Warszawa,339,Napoli,492,2021-11-04,17:45:00,False,True,False,False,1,4,3,UEFA Europa League,2021,Group C - 4
+787758,Brondby,407,Rangers,257,2021-11-04,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group A - 4
+787759,Real Sociedad,548,Sturm Graz,637,2021-11-04,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group B - 4
+787762,Olympiakos Piraeus,553,Eintracht Frankfurt,169,2021-11-04,17:45:00,False,True,False,False,1,2,3,UEFA Europa League,2021,Group D - 4
+787763,Galatasaray,645,Lokomotiv Moscow,597,2021-11-04,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group E - 4
+787764,Genk,742,West Ham,48,2021-11-04,17:45:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Group H - 4
+787765,Leicester,46,Spartak Moscow,558,2021-11-04,20:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group C - 4
+787769,Marseille,81,Lazio,487,2021-11-04,20:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Group E - 4
+787770,Bayer Leverkusen,168,Real Betis,543,2021-11-04,20:00:00,True,False,False,False,4,0,3,UEFA Europa League,2021,Group G - 4
+787767,SC Braga,217,Ludogorets,566,2021-11-04,20:00:00,True,False,False,False,4,2,3,UEFA Europa League,2021,Group F - 4
+787768,FK Crvena Zvezda,598,FC Midtjylland,397,2021-11-04,20:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group F - 4
+787772,Dinamo Zagreb,620,Rapid Vienna,781,2021-11-04,20:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Group H - 4
+787771,Ferencvarosi TC,651,Celtic,247,2021-11-04,20:00:00,False,True,False,False,2,3,3,UEFA Europa League,2021,Group G - 4
+787766,Antwerp,740,Fenerbahce,611,2021-11-04,20:00:00,False,True,False,False,0,3,3,UEFA Europa League,2021,Group D - 4
+787773,Spartak Moscow,558,Napoli,492,2021-11-24,15:30:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Group C - 5
+787778,Bayer Leverkusen,168,Celtic,247,2021-11-25,17:45:00,True,False,False,False,3,2,3,UEFA Europa League,2021,Group G - 5
+787774,FC Midtjylland,397,SC Braga,217,2021-11-25,17:45:00,True,False,False,False,3,2,3,UEFA Europa League,2021,Group F - 5
+787779,Real Betis,543,Ferencvarosi TC,651,2021-11-25,17:45:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group G - 5
+787777,Lokomotiv Moscow,597,Lazio,487,2021-11-25,17:45:00,False,True,False,False,0,3,3,UEFA Europa League,2021,Group E - 5
+787775,FK Crvena Zvezda,598,Ludogorets,566,2021-11-25,17:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group F - 5
+787780,Dinamo Zagreb,620,Genk,742,2021-11-25,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group H - 5
+787776,Galatasaray,645,Marseille,81,2021-11-25,17:45:00,True,False,False,False,4,2,3,UEFA Europa League,2021,Group E - 5
+787781,Rapid Vienna,781,West Ham,48,2021-11-25,17:45:00,False,True,False,False,0,2,3,UEFA Europa League,2021,Group H - 5
+787786,Leicester,46,Legia Warszawa,339,2021-11-25,20:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Group C - 5
+787785,Monaco,91,Real Sociedad,548,2021-11-25,20:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Group B - 5
+787788,Eintracht Frankfurt,169,Antwerp,740,2021-11-25,20:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Group D - 5
+787784,PSV Eindhoven,197,Sturm Graz,637,2021-11-25,20:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group B - 5
+787782,Rangers,257,Sparta Praha,628,2021-11-25,20:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group A - 5
+787783,Brondby,407,Lyon,80,2021-11-25,20:00:00,False,True,False,False,1,3,3,UEFA Europa League,2021,Group A - 5
+787787,Olympiakos Piraeus,553,Fenerbahce,611,2021-11-25,20:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group D - 5
+787790,Lyon,80,Rangers,257,2021-12-09,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group A - 6
+787793,Legia Warszawa,339,Spartak Moscow,558,2021-12-09,17:45:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group C - 6
+787794,Napoli,492,Leicester,46,2021-12-09,17:45:00,True,False,False,False,3,2,3,UEFA Europa League,2021,Group C - 6
+787791,Real Sociedad,548,PSV Eindhoven,197,2021-12-09,17:45:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Group B - 6
+787796,Fenerbahce,611,Eintracht Frankfurt,169,2021-12-09,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group D - 6
+787789,Sparta Praha,628,Brondby,407,2021-12-09,17:45:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Group A - 6
+787792,Sturm Graz,637,Monaco,91,2021-12-09,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group B - 6
+787795,Antwerp,740,Olympiakos Piraeus,553,2021-12-09,17:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group D - 6
+787804,West Ham,48,Dinamo Zagreb,620,2021-12-09,20:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group H - 6
+787800,Marseille,81,Lokomotiv Moscow,597,2021-12-09,20:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group E - 6
+787798,SC Braga,217,FK Crvena Zvezda,598,2021-12-09,20:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Group F - 6
+787801,Celtic,247,Real Betis,543,2021-12-09,20:00:00,True,False,False,False,3,2,3,UEFA Europa League,2021,Group G - 6
+787799,Lazio,487,Galatasaray,645,2021-12-09,20:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Group E - 6
+787797,Ludogorets,566,FC Midtjylland,397,2021-12-09,20:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Group F - 6
+787802,Ferencvarosi TC,651,Bayer Leverkusen,168,2021-12-09,20:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Group G - 6
+787803,Genk,742,Rapid Vienna,781,2021-12-09,20:00:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Group H - 6
+816218,Borussia Dortmund,165,Rangers,257,2022-02-17,17:45:00,False,True,False,False,2,4,3,UEFA Europa League,2021,Knockout Round Play-offs
+816214,Barcelona,529,Napoli,492,2022-02-17,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Knockout Round Play-offs
+816220,Sheriff Tiraspol,568,SC Braga,217,2022-02-17,17:45:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Knockout Round Play-offs
+816216,Zenit Saint Petersburg,596,Real Betis,543,2022-02-17,17:45:00,False,True,False,False,2,3,3,UEFA Europa League,2021,Knockout Round Play-offs
+816224,RB Leipzig,173,Real Sociedad,548,2022-02-17,20:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Knockout Round Play-offs
+816228,FC Porto,212,Lazio,487,2022-02-17,20:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Knockout Round Play-offs
+816226,Atalanta,499,Olympiakos Piraeus,553,2022-02-17,20:00:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Knockout Round Play-offs
+816222,Sevilla,536,Dinamo Zagreb,620,2022-02-17,20:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Knockout Round Play-offs
+816229,Lazio,487,FC Porto,212,2022-02-24,17:45:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Knockout Round Play-offs
+816225,Real Sociedad,548,RB Leipzig,173,2022-02-24,17:45:00,False,True,False,False,1,3,3,UEFA Europa League,2021,Knockout Round Play-offs
+816227,Olympiakos Piraeus,553,Atalanta,499,2022-02-24,17:45:00,False,True,False,False,0,3,3,UEFA Europa League,2021,Knockout Round Play-offs
+816223,Dinamo Zagreb,620,Sevilla,536,2022-02-24,17:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Knockout Round Play-offs
+816221,SC Braga,217,Sheriff Tiraspol,568,2022-02-24,20:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Knockout Round Play-offs
+816219,Rangers,257,Borussia Dortmund,165,2022-02-24,20:00:00,False,False,True,True,2,2,3,UEFA Europa League,2021,Knockout Round Play-offs
+816215,Napoli,492,Barcelona,529,2022-02-24,20:00:00,False,True,False,False,2,4,3,UEFA Europa League,2021,Knockout Round Play-offs
+816217,Real Betis,543,Zenit Saint Petersburg,596,2022-02-24,20:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Knockout Round Play-offs
+844612,FC Porto,212,Lyon,80,2022-03-09,17:45:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Round of 16
+844610,Real Betis,543,Eintracht Frankfurt,169,2022-03-09,17:45:00,False,True,False,False,1,2,3,UEFA Europa League,2021,Round of 16
+844616,Sevilla,536,West Ham,48,2022-03-10,17:45:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Round of 16
+844622,SC Braga,217,Monaco,91,2022-03-10,20:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Round of 16
+844620,Rangers,257,FK Crvena Zvezda,598,2022-03-10,20:00:00,True,False,False,False,3,0,3,UEFA Europa League,2021,Round of 16
+844624,Atalanta,499,Bayer Leverkusen,168,2022-03-10,20:00:00,True,False,False,False,3,2,3,UEFA Europa League,2021,Round of 16
+844618,Barcelona,529,Galatasaray,645,2022-03-10,20:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Round of 16
+844623,Monaco,91,SC Braga,217,2022-03-17,17:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Round of 16
+844625,Bayer Leverkusen,168,Atalanta,499,2022-03-17,17:45:00,False,True,False,False,0,1,3,UEFA Europa League,2021,Round of 16
+844621,FK Crvena Zvezda,598,Rangers,257,2022-03-17,17:45:00,True,False,False,False,2,1,3,UEFA Europa League,2021,Round of 16
+844619,Galatasaray,645,Barcelona,529,2022-03-17,17:45:00,False,True,False,False,1,2,3,UEFA Europa League,2021,Round of 16
+844617,West Ham,48,Sevilla,536,2022-03-17,20:00:00,True,False,False,False,2,0,3,UEFA Europa League,2021,Round of 16
+844613,Lyon,80,FC Porto,212,2022-03-17,20:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Round of 16
+844611,Eintracht Frankfurt,169,Real Betis,543,2022-03-17,20:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Round of 16
+851336,RB Leipzig,173,Atalanta,499,2022-04-07,16:45:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Quarter-finals
+851340,West Ham,48,Lyon,80,2022-04-07,19:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Quarter-finals
+851338,Eintracht Frankfurt,169,Barcelona,529,2022-04-07,19:00:00,False,False,True,True,1,1,3,UEFA Europa League,2021,Quarter-finals
+851342,SC Braga,217,Rangers,257,2022-04-07,19:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Quarter-finals
+851337,Atalanta,499,RB Leipzig,173,2022-04-14,16:45:00,False,True,False,False,0,2,3,UEFA Europa League,2021,Quarter-finals
+851341,Lyon,80,West Ham,48,2022-04-14,19:00:00,False,True,False,False,0,3,3,UEFA Europa League,2021,Quarter-finals
+851343,Rangers,257,SC Braga,217,2022-04-14,19:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Quarter-finals
+851339,Barcelona,529,Eintracht Frankfurt,169,2022-04-14,19:00:00,False,True,False,False,2,3,3,UEFA Europa League,2021,Quarter-finals
+857616,West Ham,48,Eintracht Frankfurt,169,2022-04-28,19:00:00,False,True,False,False,1,2,3,UEFA Europa League,2021,Semi-finals
+857618,RB Leipzig,173,Rangers,257,2022-04-28,19:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Semi-finals
+857617,Eintracht Frankfurt,169,West Ham,48,2022-05-05,19:00:00,True,False,False,False,1,0,3,UEFA Europa League,2021,Semi-finals
+857619,Rangers,257,RB Leipzig,173,2022-05-05,19:00:00,True,False,False,False,3,1,3,UEFA Europa League,2021,Semi-finals
+861088,Eintracht Frankfurt,169,Rangers,257,2022-05-18,19:00:00,True,False,False,False,1,1,3,UEFA Europa League,2021,Final
+844614,RB Leipzig,173,Spartak Moscow,558,2022-03-10,17:45:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Round of 16
+844615,Spartak Moscow,558,RB Leipzig,173,2022-03-17,20:00:00,False,False,True,True,0,0,3,UEFA Europa League,2021,Round of 16

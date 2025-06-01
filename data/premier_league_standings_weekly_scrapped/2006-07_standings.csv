@@ -1,0 +1,761 @@
+season,match_week,team_id,team_name,position,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,home_played,home_won,home_drawn,home_lost,home_goals_for,home_goals_against,home_goal_difference,home_points,away_played,away_won,away_drawn,away_lost,away_goals_for,away_goals_against,away_goal_difference,away_points,annotation_types,annotation_destinations,stadium_name,stadium_city
+2006/07,1,12,Manchester United,1,1,1,0,0,5,1,4,3,1,1,0,0,5,1,4,3,0,0,0,0,0,0,0,0,Q,EU_CL,Old Trafford,Manchester
+2006/07,1,4,Chelsea,2,1,1,0,0,3,0,3,3,1,1,0,0,3,0,3,3,0,0,0,0,0,0,0,0,Q,EU_CL,Stamford Bridge,London
+2006/07,1,37,Portsmouth,3,1,1,0,0,3,0,3,3,1,1,0,0,3,0,3,3,0,0,0,0,0,0,0,0,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,1,25,West Ham United,4,1,1,0,0,3,1,2,3,1,1,0,0,3,1,2,3,0,0,0,0,0,0,0,0,Q,EU_CL,Boleyn Ground,London
+2006/07,1,27,Bolton Wanderers,5,1,1,0,0,2,0,2,3,1,1,0,0,2,0,2,3,0,0,0,0,0,0,0,0,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,1,40,Reading,6,1,1,0,0,3,2,1,3,1,1,0,0,3,2,1,3,0,0,0,0,0,0,0,0,Q,EU_UC,Madejski Stadium,Reading
+2006/07,1,7,Everton,7,1,1,0,0,2,1,1,3,1,1,0,0,2,1,1,3,0,0,0,0,0,0,0,0,Q,EU_UC,Goodison Park,Liverpool
+2006/07,1,23,Newcastle United,8,1,1,0,0,2,1,1,3,1,1,0,0,2,1,1,3,0,0,0,0,0,0,0,0,,,St. James' Park,Newcastle
+2006/07,1,1,Arsenal,9,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,,,Emirates Stadium,London
+2006/07,1,2,Aston Villa,10,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,,,Villa Park,Birmingham
+2006/07,1,10,Liverpool,11,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,,,Anfield,Liverpool
+2006/07,1,18,Sheffield United,12,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,,,Bramall Lane,Sheffield
+2006/07,1,13,Middlesbrough,13,1,0,0,1,2,3,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,3,-1,0,,,Riverside Stadium,Middlesbrough
+2006/07,1,33,Watford,14,1,0,0,1,1,2,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,-1,0,,,Vicarage Road,Watford
+2006/07,1,39,Wigan Athletic,15,1,0,0,1,1,2,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,-1,0,,,DW Stadium,Wigan
+2006/07,1,31,Charlton Athletic,16,1,0,0,1,1,3,-2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,-2,0,,,The Valley,London
+2006/07,1,21,Tottenham Hotspur,17,1,0,0,1,0,2,-2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,-2,0,,,White Hart Lane,London
+2006/07,1,3,Blackburn Rovers,18,1,0,0,1,0,3,-3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,-3,0,"R,Q","EN_CH,EU_IT",Ewood Park,Blackburn
+2006/07,1,11,Manchester City,19,1,0,0,1,0,3,-3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,-3,0,R,EN_CH,Etihad Stadium,Manchester
+2006/07,1,34,Fulham,20,1,0,0,1,1,5,-4,0,0,0,0,0,0,0,0,0,1,0,0,1,1,5,-4,0,R,EN_CH,Craven Cottage,London
+2006/07,2,12,Manchester United,1,2,2,0,0,8,1,7,6,1,1,0,0,5,1,4,3,1,1,0,0,3,0,3,3,Q,EU_CL,Old Trafford,Manchester
+2006/07,2,37,Portsmouth,2,2,1,1,0,3,0,3,4,1,1,0,0,3,0,3,3,1,0,1,0,0,0,0,1,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,2,25,West Ham United,3,2,1,1,0,4,2,2,4,1,1,0,0,3,1,2,3,1,0,1,0,1,1,0,1,Q,EU_CL,Boleyn Ground,London
+2006/07,2,27,Bolton Wanderers,4,2,1,1,0,3,1,2,4,1,1,0,0,2,0,2,3,1,0,1,0,1,1,0,1,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,2,2,Aston Villa,5,2,1,1,0,3,2,1,4,1,1,0,0,2,1,1,3,1,0,1,0,1,1,0,1,Q,EU_UC,Villa Park,Birmingham
+2006/07,2,7,Everton,6,2,1,1,0,3,2,1,4,1,1,0,0,2,1,1,3,1,0,1,0,1,1,0,1,Q,EU_UC,Goodison Park,Liverpool
+2006/07,2,4,Chelsea,7,2,1,0,1,4,2,2,3,1,1,0,0,3,0,3,3,1,0,0,1,1,2,-1,0,Q,EU_UC,Stamford Bridge,London
+2006/07,2,23,Newcastle United,8,1,1,0,0,2,1,1,3,1,1,0,0,2,1,1,3,0,0,0,0,0,0,0,0,,,St. James' Park,Newcastle
+2006/07,2,13,Middlesbrough,9,2,1,0,1,4,4,0,3,1,1,0,0,2,1,1,3,1,0,0,1,2,3,-1,0,,,Riverside Stadium,Middlesbrough
+2006/07,2,40,Reading,10,2,1,0,1,4,4,0,3,1,1,0,0,3,2,1,3,1,0,0,1,1,2,-1,0,,,Madejski Stadium,Reading
+2006/07,2,21,Tottenham Hotspur,11,2,1,0,1,2,2,0,3,1,1,0,0,2,0,2,3,1,0,0,1,0,2,-2,0,,,White Hart Lane,London
+2006/07,2,1,Arsenal,12,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,,,Emirates Stadium,London
+2006/07,2,10,Liverpool,13,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,,,Anfield,Liverpool
+2006/07,2,33,Watford,14,2,0,1,1,2,3,-1,1,1,0,1,0,1,1,0,1,1,0,0,1,1,2,-1,0,,,Vicarage Road,Watford
+2006/07,2,18,Sheffield United,15,2,0,1,1,1,3,-2,1,1,0,1,0,1,1,0,1,1,0,0,1,0,2,-2,0,,,Bramall Lane,Sheffield
+2006/07,2,3,Blackburn Rovers,16,2,0,1,1,1,4,-3,1,1,0,1,0,1,1,0,1,1,0,0,1,0,3,-3,0,Q,EU_IT,Ewood Park,Blackburn
+2006/07,2,11,Manchester City,17,2,0,1,1,0,3,-3,1,1,0,1,0,0,0,0,1,1,0,0,1,0,3,-3,0,,,Etihad Stadium,Manchester
+2006/07,2,34,Fulham,18,2,0,1,1,2,6,-4,1,1,0,1,0,1,1,0,1,1,0,0,1,1,5,-4,0,R,EN_CH,Craven Cottage,London
+2006/07,2,39,Wigan Athletic,19,1,0,0,1,1,2,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,-1,0,R,EN_CH,DW Stadium,Wigan
+2006/07,2,31,Charlton Athletic,20,2,0,0,2,1,6,-5,0,1,0,0,1,0,3,-3,0,1,0,0,1,1,3,-2,0,R,EN_CH,The Valley,London
+2006/07,3,12,Manchester United,1,3,3,0,0,10,2,8,9,1,1,0,0,5,1,4,3,2,2,0,0,5,1,4,6,Q,EU_CL,Old Trafford,Manchester
+2006/07,3,37,Portsmouth,2,3,2,1,0,7,0,7,7,1,1,0,0,3,0,3,3,2,1,1,0,4,0,4,4,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,3,2,Aston Villa,3,3,2,1,0,5,2,3,7,2,2,0,0,4,1,3,6,1,0,1,0,1,1,0,1,Q,EU_CL,Villa Park,Birmingham
+2006/07,3,7,Everton,4,3,2,1,0,5,2,3,7,1,1,0,0,2,1,1,3,2,1,1,0,3,1,2,4,Q,EU_CL,Goodison Park,Liverpool
+2006/07,3,4,Chelsea,5,3,2,0,1,6,2,4,6,1,1,0,0,3,0,3,3,2,1,0,1,3,2,1,3,Q,EU_UC,Stamford Bridge,London
+2006/07,3,25,West Ham United,6,3,1,1,1,5,4,1,4,1,1,0,0,3,1,2,3,2,0,1,1,2,3,-1,1,Q,EU_UC,Boleyn Ground,London
+2006/07,3,10,Liverpool,7,2,1,1,0,3,2,1,4,1,1,0,0,2,1,1,3,1,0,1,0,1,1,0,1,Q,EU_UC,Anfield,Liverpool
+2006/07,3,27,Bolton Wanderers,8,3,1,1,1,3,3,0,4,1,1,0,0,2,0,2,3,2,0,1,1,1,3,-2,1,,,Toughsheet Community Stadium,Bolton
+2006/07,3,11,Manchester City,9,3,1,1,1,1,3,-2,4,2,1,1,0,1,0,1,4,1,0,0,1,0,3,-3,0,,,Etihad Stadium,Manchester
+2006/07,3,34,Fulham,10,3,1,1,1,3,6,-3,4,2,1,1,0,2,1,1,4,1,0,0,1,1,5,-4,0,,,Craven Cottage,London
+2006/07,3,39,Wigan Athletic,11,2,1,0,1,2,2,0,3,1,1,0,0,1,0,1,3,1,0,0,1,1,2,-1,0,,,DW Stadium,Wigan
+2006/07,3,40,Reading,12,3,1,0,2,4,5,-1,3,1,1,0,0,3,2,1,3,2,0,0,2,1,3,-2,0,,,Madejski Stadium,Reading
+2006/07,3,23,Newcastle United,13,2,1,0,1,2,3,-1,3,1,1,0,0,2,1,1,3,1,0,0,1,0,2,-2,0,,,St. James' Park,Newcastle
+2006/07,3,21,Tottenham Hotspur,14,3,1,0,2,2,4,-2,3,2,1,0,1,2,2,0,3,1,0,0,1,0,2,-2,0,,,White Hart Lane,London
+2006/07,3,31,Charlton Athletic,15,3,1,0,2,3,6,-3,3,2,1,0,1,2,3,-1,3,1,0,0,1,1,3,-2,0,,,The Valley,London
+2006/07,3,13,Middlesbrough,16,3,1,0,2,4,8,-4,3,2,1,0,1,2,5,-3,3,1,0,0,1,2,3,-1,0,,,Riverside Stadium,Middlesbrough
+2006/07,3,1,Arsenal,17,2,0,1,1,1,2,-1,1,1,0,1,0,1,1,0,1,1,0,0,1,0,1,-1,0,,,Emirates Stadium,London
+2006/07,3,33,Watford,18,3,0,1,2,3,5,-2,1,2,0,1,1,2,3,-1,1,1,0,0,1,1,2,-1,0,R,EN_CH,Vicarage Road,Watford
+2006/07,3,18,Sheffield United,19,3,0,1,2,1,4,-3,1,1,0,1,0,1,1,0,1,2,0,0,2,0,3,-3,0,R,EN_CH,Bramall Lane,Sheffield
+2006/07,3,3,Blackburn Rovers,20,3,0,1,2,1,6,-5,1,2,0,1,1,1,3,-2,1,1,0,0,1,0,3,-3,0,"R,Q","EN_CH,EU_IT",Ewood Park,Blackburn
+2006/07,4,12,Manchester United,1,4,4,0,0,11,2,9,12,2,2,0,0,6,1,5,6,2,2,0,0,5,1,4,6,Q,EU_CL,Old Trafford,Manchester
+2006/07,4,37,Portsmouth,2,4,3,1,0,8,0,8,10,2,2,0,0,4,0,4,6,2,1,1,0,4,0,4,4,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,4,7,Everton,3,4,3,1,0,8,2,6,10,2,2,0,0,5,1,4,6,2,1,1,0,3,1,2,4,Q,EU_CL,Goodison Park,Liverpool
+2006/07,4,4,Chelsea,4,4,3,0,1,8,3,5,9,2,2,0,0,5,1,4,6,2,1,0,1,3,2,1,3,Q,EU_CL,Stamford Bridge,London
+2006/07,4,2,Aston Villa,5,4,2,2,0,6,3,3,8,2,2,0,0,4,1,3,6,2,0,2,0,2,2,0,2,Q,EU_UC,Villa Park,Birmingham
+2006/07,4,27,Bolton Wanderers,6,4,2,1,1,4,3,1,7,2,2,0,0,3,0,3,6,2,0,1,1,1,3,-2,1,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,4,34,Fulham,7,4,2,1,1,5,7,-2,7,2,1,1,0,2,1,1,4,2,1,0,1,3,6,-3,3,Q,EU_UC,Craven Cottage,London
+2006/07,4,40,Reading,8,4,2,0,2,5,5,0,6,2,2,0,0,4,2,2,6,2,0,0,2,1,3,-2,0,,,Madejski Stadium,Reading
+2006/07,4,25,West Ham United,9,4,1,2,1,6,5,1,5,2,1,1,0,4,2,2,4,2,0,1,1,2,3,-1,1,,,Boleyn Ground,London
+2006/07,4,10,Liverpool,10,3,1,1,1,3,5,-2,4,1,1,0,0,2,1,1,3,2,0,1,1,1,4,-3,1,,,Anfield,Liverpool
+2006/07,4,11,Manchester City,11,4,1,1,2,1,4,-3,4,2,1,1,0,1,0,1,4,2,0,0,2,0,4,-4,0,,,Etihad Stadium,Manchester
+2006/07,4,13,Middlesbrough,12,4,1,1,2,5,9,-4,4,2,1,0,1,2,5,-3,3,2,0,1,1,3,4,-1,1,,,Riverside Stadium,Middlesbrough
+2006/07,4,39,Wigan Athletic,13,3,1,0,2,2,3,-1,3,1,1,0,0,1,0,1,3,2,0,0,2,1,3,-2,0,,,DW Stadium,Wigan
+2006/07,4,23,Newcastle United,14,3,1,0,2,3,5,-2,3,2,1,0,1,3,3,0,3,1,0,0,1,0,2,-2,0,,,St. James' Park,Newcastle
+2006/07,4,21,Tottenham Hotspur,15,4,1,0,3,2,5,-3,3,2,1,0,1,2,2,0,3,2,0,0,2,0,3,-3,0,,,White Hart Lane,London
+2006/07,4,31,Charlton Athletic,16,4,1,0,3,4,8,-4,3,2,1,0,1,2,3,-1,3,2,0,0,2,2,5,-3,0,,,The Valley,London
+2006/07,4,1,Arsenal,17,3,0,2,1,2,3,-1,2,2,0,2,0,2,2,0,2,1,0,0,1,0,1,-1,0,,,Emirates Stadium,London
+2006/07,4,18,Sheffield United,18,4,0,2,2,1,4,-3,2,2,0,2,0,1,1,0,2,2,0,0,2,0,3,-3,0,R,EN_CH,Bramall Lane,Sheffield
+2006/07,4,3,Blackburn Rovers,19,4,0,2,2,1,6,-5,2,2,0,1,1,1,3,-2,1,2,0,1,1,0,3,-3,1,"R,Q","EN_CH,EU_IT",Ewood Park,Blackburn
+2006/07,4,33,Watford,20,4,0,1,3,3,6,-3,1,2,0,1,1,2,3,-1,1,2,0,0,2,1,3,-2,0,R,EN_CH,Vicarage Road,Watford
+2006/07,5,37,Portsmouth,1,5,4,1,0,9,0,9,13,2,2,0,0,4,0,4,6,3,2,1,0,5,0,5,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,5,12,Manchester United,2,5,4,0,1,11,3,8,12,3,2,0,1,6,2,4,6,2,2,0,0,5,1,4,6,Q,EU_CL,Old Trafford,Manchester
+2006/07,5,4,Chelsea,3,5,4,0,1,9,3,6,12,3,3,0,0,6,1,5,9,2,1,0,1,3,2,1,3,Q,EU_CL,Stamford Bridge,London
+2006/07,5,7,Everton,4,5,3,2,0,10,4,6,11,3,2,1,0,7,3,4,7,2,1,1,0,3,1,2,4,Q,EU_CL,Goodison Park,Liverpool
+2006/07,5,2,Aston Villa,5,5,2,3,0,6,3,3,9,2,2,0,0,4,1,3,6,3,0,3,0,2,2,0,3,Q,EU_UC,Villa Park,Birmingham
+2006/07,5,40,Reading,6,5,3,0,2,7,6,1,9,2,2,0,0,4,2,2,6,3,1,0,2,3,4,-1,3,Q,EU_UC,Madejski Stadium,Reading
+2006/07,5,27,Bolton Wanderers,7,5,2,2,1,4,3,1,8,3,2,1,0,3,0,3,7,2,0,1,1,1,3,-2,1,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,5,34,Fulham,8,5,2,2,1,5,7,-2,8,2,1,1,0,2,1,1,4,3,1,1,1,3,6,-3,4,,,Craven Cottage,London
+2006/07,5,10,Liverpool,9,5,2,1,2,5,6,-1,7,2,2,0,0,4,1,3,6,3,0,1,2,1,5,-4,1,,,Anfield,Liverpool
+2006/07,5,23,Newcastle United,10,5,2,0,3,5,7,-2,6,2,1,0,1,3,3,0,3,3,1,0,2,2,4,-2,3,,,St. James' Park,Newcastle
+2006/07,5,1,Arsenal,11,4,1,2,1,3,3,0,5,2,0,2,0,2,2,0,2,2,1,0,1,1,1,0,3,,,Emirates Stadium,London
+2006/07,5,25,West Ham United,12,5,1,2,2,6,7,-1,5,3,1,1,1,4,4,0,4,2,0,1,1,2,3,-1,1,,,Boleyn Ground,London
+2006/07,5,3,Blackburn Rovers,13,5,1,2,2,5,8,-3,5,3,1,1,1,5,5,0,4,2,0,1,1,0,3,-3,1,Q,EU_IT,Ewood Park,Blackburn
+2006/07,5,13,Middlesbrough,14,5,1,2,2,5,9,-4,5,2,1,0,1,2,5,-3,3,3,0,2,1,3,4,-1,2,,,Riverside Stadium,Middlesbrough
+2006/07,5,39,Wigan Athletic,15,4,1,1,2,4,5,-1,4,1,1,0,0,1,0,1,3,3,0,1,2,3,5,-2,1,,,DW Stadium,Wigan
+2006/07,5,21,Tottenham Hotspur,16,5,1,1,3,2,5,-3,4,3,1,1,1,2,2,0,4,2,0,0,2,0,3,-3,0,,,White Hart Lane,London
+2006/07,5,11,Manchester City,17,5,1,1,3,3,8,-5,4,2,1,1,0,1,0,1,4,3,0,0,3,2,8,-6,0,,,Etihad Stadium,Manchester
+2006/07,5,31,Charlton Athletic,18,5,1,0,4,4,9,-5,3,3,1,0,2,2,4,-2,3,2,0,0,2,2,5,-3,0,R,EN_CH,The Valley,London
+2006/07,5,33,Watford,19,5,0,2,3,3,6,-3,2,3,0,2,1,2,3,-1,2,2,0,0,2,1,3,-2,0,R,EN_CH,Vicarage Road,Watford
+2006/07,5,18,Sheffield United,20,5,0,2,3,2,6,-4,2,3,0,2,1,2,3,-1,2,2,0,0,2,0,3,-3,0,R,EN_CH,Bramall Lane,Sheffield
+2006/07,6,4,Chelsea,1,6,5,0,1,11,3,8,15,3,3,0,0,6,1,5,9,3,2,0,1,5,2,3,6,Q,EU_CL,Stamford Bridge,London
+2006/07,6,12,Manchester United,2,6,4,1,1,12,4,8,13,3,2,0,1,6,2,4,6,3,2,1,0,6,2,4,7,Q,EU_CL,Old Trafford,Manchester
+2006/07,6,37,Portsmouth,3,6,4,1,1,9,1,8,13,3,2,0,1,4,1,3,6,3,2,1,0,5,0,5,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,6,7,Everton,4,6,3,3,0,11,5,6,12,3,2,1,0,7,3,4,7,3,1,2,0,4,2,2,5,Q,EU_CL,Goodison Park,Liverpool
+2006/07,6,2,Aston Villa,5,6,3,3,0,8,3,5,12,3,3,0,0,6,1,5,9,3,0,3,0,2,2,0,3,Q,EU_UC,Villa Park,Birmingham
+2006/07,6,27,Bolton Wanderers,6,6,3,2,1,5,3,2,11,3,2,1,0,3,0,3,7,3,1,1,1,2,3,-1,4,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,6,10,Liverpool,7,6,3,1,2,8,6,2,10,3,3,0,0,7,1,6,9,3,0,1,2,1,5,-4,1,Q,EU_UC,Anfield,Liverpool
+2006/07,6,40,Reading,8,6,3,1,2,8,7,1,10,3,2,1,0,5,3,2,7,3,1,0,2,3,4,-1,3,,,Madejski Stadium,Reading
+2006/07,6,1,Arsenal,9,5,2,2,1,6,3,3,8,3,1,2,0,5,2,3,5,2,1,0,1,1,1,0,3,,,Emirates Stadium,London
+2006/07,6,3,Blackburn Rovers,10,6,2,2,2,6,8,-2,8,3,1,1,1,5,5,0,4,3,1,1,1,1,3,-2,4,Q,EU_IT,Ewood Park,Blackburn
+2006/07,6,34,Fulham,11,6,2,2,2,5,9,-4,8,3,1,1,1,2,3,-1,4,3,1,1,1,3,6,-3,4,,,Craven Cottage,London
+2006/07,6,23,Newcastle United,12,6,2,1,3,6,8,-2,7,3,1,1,1,4,4,0,4,3,1,0,2,2,4,-2,3,,,St. James' Park,Newcastle
+2006/07,6,11,Manchester City,13,6,2,1,3,5,8,-3,7,3,2,1,0,3,0,3,7,3,0,0,3,2,8,-6,0,,,Etihad Stadium,Manchester
+2006/07,6,39,Wigan Athletic,14,5,1,2,2,5,6,-1,5,2,1,1,0,2,1,1,4,3,0,1,2,3,5,-2,1,,,DW Stadium,Wigan
+2006/07,6,25,West Ham United,15,6,1,2,3,6,9,-3,5,3,1,1,1,4,4,0,4,3,0,1,2,2,5,-3,1,,,Boleyn Ground,London
+2006/07,6,13,Middlesbrough,16,6,1,2,3,5,10,-5,5,3,1,0,2,2,6,-4,3,3,0,2,1,3,4,-1,2,,,Riverside Stadium,Middlesbrough
+2006/07,6,21,Tottenham Hotspur,17,6,1,1,4,2,8,-6,4,3,1,1,1,2,2,0,4,3,0,0,3,0,6,-6,0,,,White Hart Lane,London
+2006/07,6,33,Watford,18,6,0,3,3,4,7,-3,3,3,0,2,1,2,3,-1,2,3,0,1,2,2,4,-2,1,R,EN_CH,Vicarage Road,Watford
+2006/07,6,31,Charlton Athletic,19,6,1,0,5,4,11,-7,3,3,1,0,2,2,4,-2,3,3,0,0,3,2,7,-5,0,R,EN_CH,The Valley,London
+2006/07,6,18,Sheffield United,20,6,0,2,4,2,9,-7,2,3,0,2,1,2,3,-1,2,3,0,0,3,0,6,-6,0,R,EN_CH,Bramall Lane,Sheffield
+2006/07,7,12,Manchester United,1,7,5,1,1,14,4,10,16,4,3,0,1,8,2,6,9,3,2,1,0,6,2,4,7,Q,EU_CL,Old Trafford,Manchester
+2006/07,7,4,Chelsea,2,7,5,1,1,12,4,8,16,4,3,1,0,7,2,5,10,3,2,0,1,5,2,3,6,Q,EU_CL,Stamford Bridge,London
+2006/07,7,27,Bolton Wanderers,3,7,4,2,1,7,3,4,14,4,3,1,0,5,0,5,10,3,1,1,1,2,3,-1,4,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,7,37,Portsmouth,4,7,4,1,2,10,3,7,13,3,2,0,1,4,1,3,6,4,2,1,1,6,2,4,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,7,7,Everton,5,7,3,4,0,12,6,6,13,4,2,2,0,8,4,4,8,3,1,2,0,4,2,2,5,Q,EU_UC,Goodison Park,Liverpool
+2006/07,7,2,Aston Villa,6,7,3,4,0,9,4,5,13,3,3,0,0,6,1,5,9,4,0,4,0,3,3,0,4,Q,EU_UC,Villa Park,Birmingham
+2006/07,7,40,Reading,7,7,4,1,2,9,7,2,13,3,2,1,0,5,3,2,7,4,2,0,2,4,4,0,6,Q,EU_UC,Madejski Stadium,Reading
+2006/07,7,1,Arsenal,8,6,3,2,1,8,4,4,11,3,1,2,0,5,2,3,5,3,2,0,1,3,2,1,6,,,Emirates Stadium,London
+2006/07,7,3,Blackburn Rovers,9,7,3,2,2,8,9,-1,11,4,2,1,1,7,6,1,7,3,1,1,1,1,3,-2,4,Q,EU_IT,Ewood Park,Blackburn
+2006/07,7,10,Liverpool,10,7,3,1,3,8,8,0,10,3,3,0,0,7,1,6,9,4,0,1,3,1,7,-6,1,,,Anfield,Liverpool
+2006/07,7,34,Fulham,11,7,2,3,2,8,12,-4,9,3,1,1,1,2,3,-1,4,4,1,2,1,6,9,-3,5,,,Craven Cottage,London
+2006/07,7,11,Manchester City,12,7,2,2,3,6,9,-3,8,3,2,1,0,3,0,3,7,4,0,1,3,3,9,-6,1,,,Etihad Stadium,Manchester
+2006/07,7,23,Newcastle United,13,7,2,1,4,6,10,-4,7,3,1,1,1,4,4,0,4,4,1,0,3,2,6,-4,3,,,St. James' Park,Newcastle
+2006/07,7,21,Tottenham Hotspur,14,7,2,1,4,4,9,-5,7,4,2,1,1,4,3,1,7,3,0,0,3,0,6,-6,0,,,White Hart Lane,London
+2006/07,7,39,Wigan Athletic,15,6,1,2,3,6,8,-2,5,2,1,1,0,2,1,1,4,4,0,1,3,4,7,-3,1,,,DW Stadium,Wigan
+2006/07,7,25,West Ham United,16,7,1,2,4,6,10,-4,5,4,1,1,2,4,5,-1,4,3,0,1,2,2,5,-3,1,,,Boleyn Ground,London
+2006/07,7,13,Middlesbrough,17,7,1,2,4,6,12,-6,5,3,1,0,2,2,6,-4,3,4,0,2,2,4,6,-2,2,,,Riverside Stadium,Middlesbrough
+2006/07,7,18,Sheffield United,18,7,1,2,4,4,10,-6,5,4,1,2,1,4,4,0,5,3,0,0,3,0,6,-6,0,R,EN_CH,Bramall Lane,Sheffield
+2006/07,7,33,Watford,19,7,0,4,3,7,10,-3,4,4,0,3,1,5,6,-1,3,3,0,1,2,2,4,-2,1,R,EN_CH,Vicarage Road,Watford
+2006/07,7,31,Charlton Athletic,20,7,1,0,6,5,13,-8,3,4,1,0,3,3,6,-3,3,3,0,0,3,2,7,-5,0,R,EN_CH,The Valley,London
+2006/07,8,12,Manchester United,1,8,6,1,1,17,5,12,19,4,3,0,1,8,2,6,9,4,3,1,0,9,3,6,10,Q,EU_CL,Old Trafford,Manchester
+2006/07,8,4,Chelsea,2,8,6,1,1,13,4,9,19,4,3,1,0,7,2,5,10,4,3,0,1,6,2,4,9,Q,EU_CL,Stamford Bridge,London
+2006/07,8,27,Bolton Wanderers,3,8,5,2,1,9,4,5,17,4,3,1,0,5,0,5,10,4,2,1,1,4,4,0,7,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,8,37,Portsmouth,4,8,5,1,2,12,3,9,16,4,3,0,1,6,1,5,9,4,2,1,1,6,2,4,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,8,1,Arsenal,5,7,4,2,1,11,4,7,14,4,2,2,0,8,2,6,8,3,2,0,1,3,2,1,6,Q,EU_UC,Emirates Stadium,London
+2006/07,8,2,Aston Villa,6,8,3,5,0,10,5,5,14,4,3,1,0,7,2,5,10,4,0,4,0,3,3,0,4,Q,EU_UC,Villa Park,Birmingham
+2006/07,8,7,Everton,7,8,3,4,1,13,8,5,13,4,2,2,0,8,4,4,8,4,1,2,1,5,4,1,5,Q,EU_UC,Goodison Park,Liverpool
+2006/07,8,40,Reading,8,8,4,1,3,9,8,1,13,4,2,1,1,5,4,1,7,4,2,0,2,4,4,0,6,,,Madejski Stadium,Reading
+2006/07,8,3,Blackburn Rovers,9,8,3,3,2,9,10,-1,12,4,2,1,1,7,6,1,7,4,1,2,1,2,4,-2,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,8,34,Fulham,10,8,3,3,2,10,13,-3,12,4,2,1,1,4,4,0,7,4,1,2,1,6,9,-3,5,,,Craven Cottage,London
+2006/07,8,10,Liverpool,11,8,3,2,3,9,9,0,11,4,3,1,0,8,2,6,10,4,0,1,3,1,7,-6,1,,,Anfield,Liverpool
+2006/07,8,11,Manchester City,12,8,2,3,3,6,9,-3,9,4,2,2,0,3,0,3,8,4,0,1,3,3,9,-6,1,,,Etihad Stadium,Manchester
+2006/07,8,13,Middlesbrough,13,8,2,2,4,8,13,-5,8,4,2,0,2,4,7,-3,6,4,0,2,2,4,6,-2,2,,,Riverside Stadium,Middlesbrough
+2006/07,8,21,Tottenham Hotspur,14,8,2,2,4,5,10,-5,8,4,2,1,1,4,3,1,7,4,0,1,3,1,7,-6,1,,,White Hart Lane,London
+2006/07,8,23,Newcastle United,15,8,2,1,5,7,12,-5,7,4,1,1,2,5,6,-1,4,4,1,0,3,2,6,-4,3,,,St. James' Park,Newcastle
+2006/07,8,18,Sheffield United,16,8,1,3,4,4,10,-6,6,4,1,2,1,4,4,0,5,4,0,1,3,0,6,-6,1,,,Bramall Lane,Sheffield
+2006/07,8,39,Wigan Athletic,17,7,1,2,4,7,11,-4,5,3,1,1,1,3,4,-1,4,4,0,1,3,4,7,-3,1,,,DW Stadium,Wigan
+2006/07,8,25,West Ham United,18,8,1,2,5,6,12,-6,5,4,1,1,2,4,5,-1,4,4,0,1,3,2,7,-5,1,R,EN_CH,Boleyn Ground,London
+2006/07,8,33,Watford,19,8,0,4,4,7,13,-6,4,4,0,3,1,5,6,-1,3,4,0,1,3,2,7,-5,1,R,EN_CH,Vicarage Road,Watford
+2006/07,8,31,Charlton Athletic,20,8,1,0,7,6,15,-9,3,4,1,0,3,3,6,-3,3,4,0,0,4,3,9,-6,0,R,EN_CH,The Valley,London
+2006/07,9,12,Manchester United,1,9,7,1,1,19,5,14,22,5,4,0,1,10,2,8,12,4,3,1,0,9,3,6,10,Q,EU_CL,Old Trafford,Manchester
+2006/07,9,4,Chelsea,2,9,7,1,1,15,5,10,22,5,4,1,0,9,3,6,13,4,3,0,1,6,2,4,9,Q,EU_CL,Stamford Bridge,London
+2006/07,9,27,Bolton Wanderers,3,9,6,2,1,10,4,6,20,4,3,1,0,5,0,5,10,5,3,1,1,5,4,1,10,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,9,1,Arsenal,4,8,5,2,1,15,4,11,17,4,2,2,0,8,2,6,8,4,3,0,1,7,2,5,9,Q,EU_CL,Emirates Stadium,London
+2006/07,9,37,Portsmouth,5,9,5,1,3,13,5,8,16,4,3,0,1,6,1,5,9,5,2,1,2,7,4,3,7,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,9,7,Everton,6,9,4,4,1,15,8,7,16,5,3,2,0,10,4,6,11,4,1,2,1,5,4,1,5,Q,EU_UC,Goodison Park,Liverpool
+2006/07,9,2,Aston Villa,7,9,3,6,0,11,6,5,15,5,3,2,0,8,3,5,11,4,0,4,0,3,3,0,4,Q,EU_UC,Villa Park,Birmingham
+2006/07,9,34,Fulham,8,9,3,4,2,11,14,-3,13,4,2,1,1,4,4,0,7,5,1,3,1,7,10,-3,6,,,Craven Cottage,London
+2006/07,9,40,Reading,9,9,4,1,4,9,12,-3,13,5,2,1,2,5,8,-3,7,4,2,0,2,4,4,0,6,,,Madejski Stadium,Reading
+2006/07,9,3,Blackburn Rovers,10,9,3,3,3,9,11,-2,12,5,2,1,2,7,7,0,7,4,1,2,1,2,4,-2,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,9,10,Liverpool,11,9,3,2,4,9,11,-2,11,4,3,1,0,8,2,6,10,5,0,1,4,1,9,-8,1,,,Anfield,Liverpool
+2006/07,9,13,Middlesbrough,12,9,3,2,4,9,13,-4,11,5,3,0,2,5,7,-2,9,4,0,2,2,4,6,-2,2,,,Riverside Stadium,Middlesbrough
+2006/07,9,21,Tottenham Hotspur,13,9,3,2,4,6,10,-4,11,5,3,1,1,5,3,2,10,4,0,1,3,1,7,-6,1,,,White Hart Lane,London
+2006/07,9,11,Manchester City,14,9,2,3,4,6,13,-7,9,4,2,2,0,3,0,3,8,5,0,1,4,3,13,-10,1,,,Etihad Stadium,Manchester
+2006/07,9,39,Wigan Athletic,15,8,2,2,4,11,11,0,8,4,2,1,1,7,4,3,7,4,0,1,3,4,7,-3,1,,,DW Stadium,Wigan
+2006/07,9,23,Newcastle United,16,9,2,1,6,7,13,-6,7,4,1,1,2,5,6,-1,4,5,1,0,4,2,7,-5,3,,,St. James' Park,Newcastle
+2006/07,9,18,Sheffield United,17,9,1,3,5,4,12,-8,6,4,1,2,1,4,4,0,5,5,0,1,4,0,8,-8,1,,,Bramall Lane,Sheffield
+2006/07,9,33,Watford,18,9,0,5,4,7,13,-6,5,4,0,3,1,5,6,-1,3,5,0,2,3,2,7,-5,2,R,EN_CH,Vicarage Road,Watford
+2006/07,9,25,West Ham United,19,9,1,2,6,6,13,-7,5,4,1,1,2,4,5,-1,4,5,0,1,4,2,8,-6,1,R,EN_CH,Boleyn Ground,London
+2006/07,9,31,Charlton Athletic,20,9,1,1,7,6,15,-9,4,5,1,1,3,3,6,-3,4,4,0,0,4,3,9,-6,0,R,EN_CH,The Valley,London
+2006/07,10,12,Manchester United,1,10,8,1,1,23,5,18,25,5,4,0,1,10,2,8,12,5,4,1,0,13,3,10,13,Q,EU_CL,Old Trafford,Manchester
+2006/07,10,4,Chelsea,2,10,8,1,1,17,5,12,25,5,4,1,0,9,3,6,13,5,4,0,1,8,2,6,12,Q,EU_CL,Stamford Bridge,London
+2006/07,10,27,Bolton Wanderers,3,10,6,2,2,10,8,2,20,5,3,1,1,5,4,1,10,5,3,1,1,5,4,1,10,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,10,37,Portsmouth,4,10,6,1,3,16,6,10,19,5,4,0,1,9,2,7,12,5,2,1,2,7,4,3,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,10,1,Arsenal,5,9,5,3,1,16,5,11,18,5,2,3,0,9,3,6,9,4,3,0,1,7,2,5,9,Q,EU_UC,Emirates Stadium,London
+2006/07,10,7,Everton,6,10,4,5,1,16,9,7,17,5,3,2,0,10,4,6,11,5,1,3,1,6,5,1,6,Q,EU_UC,Goodison Park,Liverpool
+2006/07,10,2,Aston Villa,7,10,3,6,1,12,9,3,15,5,3,2,0,8,3,5,11,5,0,4,1,4,6,-2,4,Q,EU_UC,Villa Park,Birmingham
+2006/07,10,10,Liverpool,8,10,4,2,4,12,12,0,14,5,4,1,0,11,3,8,13,5,0,1,4,1,9,-8,1,,,Anfield,Liverpool
+2006/07,10,34,Fulham,9,10,3,4,3,11,15,-4,13,5,2,1,2,4,5,-1,7,5,1,3,1,7,10,-3,6,,,Craven Cottage,London
+2006/07,10,40,Reading,10,10,4,1,5,10,15,-5,13,5,2,1,2,5,8,-3,7,5,2,0,3,5,7,-2,6,,,Madejski Stadium,Reading
+2006/07,10,3,Blackburn Rovers,11,10,3,3,4,10,13,-3,12,5,2,1,2,7,7,0,7,5,1,2,2,3,6,-3,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,10,21,Tottenham Hotspur,12,10,3,3,4,6,10,-4,12,5,3,1,1,5,3,2,10,5,0,2,3,1,7,-6,2,,,White Hart Lane,London
+2006/07,10,11,Manchester City,13,10,3,3,4,7,13,-6,12,5,3,2,0,4,0,4,11,5,0,1,4,3,13,-10,1,,,Etihad Stadium,Manchester
+2006/07,10,39,Wigan Athletic,14,9,3,2,4,12,11,1,11,4,2,1,1,7,4,3,7,5,1,1,3,5,7,-2,4,,,DW Stadium,Wigan
+2006/07,10,13,Middlesbrough,15,10,3,2,5,9,14,-5,11,5,3,0,2,5,7,-2,9,5,0,2,3,4,7,-3,2,,,Riverside Stadium,Middlesbrough
+2006/07,10,25,West Ham United,16,10,2,2,6,8,14,-6,8,5,2,1,2,6,6,0,7,5,0,1,4,2,8,-6,1,,,Boleyn Ground,London
+2006/07,10,23,Newcastle United,17,10,2,2,6,7,13,-6,8,5,1,2,2,5,6,-1,5,5,1,0,4,2,7,-5,3,,,St. James' Park,Newcastle
+2006/07,10,33,Watford,18,10,0,6,4,7,13,-6,6,5,0,4,1,5,6,-1,4,5,0,2,3,2,7,-5,2,R,EN_CH,Vicarage Road,Watford
+2006/07,10,18,Sheffield United,19,10,1,3,6,4,14,-10,6,5,1,2,2,4,6,-2,5,5,0,1,4,0,8,-8,1,R,EN_CH,Bramall Lane,Sheffield
+2006/07,10,31,Charlton Athletic,20,10,1,2,7,6,15,-9,5,5,1,1,3,3,6,-3,4,5,0,1,4,3,9,-6,1,R,EN_CH,The Valley,London
+2006/07,11,12,Manchester United,1,11,9,1,1,26,5,21,28,6,5,0,1,13,2,11,15,5,4,1,0,13,3,10,13,Q,EU_CL,Old Trafford,Manchester
+2006/07,11,4,Chelsea,2,11,8,1,2,18,7,11,25,5,4,1,0,9,3,6,13,6,4,0,2,9,4,5,12,Q,EU_CL,Stamford Bridge,London
+2006/07,11,27,Bolton Wanderers,3,11,6,2,3,10,9,1,20,6,3,1,2,5,5,0,10,5,3,1,1,5,4,1,10,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,11,37,Portsmouth,4,11,6,1,4,16,9,7,19,5,4,0,1,9,2,7,12,6,2,1,3,7,7,0,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,11,1,Arsenal,5,10,5,3,2,16,6,10,18,5,2,3,0,9,3,6,9,5,3,0,2,7,3,4,9,Q,EU_UC,Emirates Stadium,London
+2006/07,11,2,Aston Villa,6,11,4,6,1,14,9,5,18,6,4,2,0,10,3,7,14,5,0,4,1,4,6,-2,4,Q,EU_UC,Villa Park,Birmingham
+2006/07,11,7,Everton,7,11,4,5,2,16,10,6,17,5,3,2,0,10,4,6,11,6,1,3,2,6,6,0,6,Q,EU_UC,Goodison Park,Liverpool
+2006/07,11,10,Liverpool,8,11,5,2,4,14,12,2,17,6,5,1,0,13,3,10,16,5,0,1,4,1,9,-8,1,,,Anfield,Liverpool
+2006/07,11,34,Fulham,9,11,4,4,3,12,15,-3,16,6,3,1,2,5,5,0,10,5,1,3,1,7,10,-3,6,,,Craven Cottage,London
+2006/07,11,21,Tottenham Hotspur,10,11,4,3,4,8,11,-3,15,6,4,1,1,7,4,3,13,5,0,2,3,1,7,-6,2,,,White Hart Lane,London
+2006/07,11,39,Wigan Athletic,11,10,4,2,4,13,11,2,14,4,2,1,1,7,4,3,7,6,2,1,3,6,7,-1,7,,,DW Stadium,Wigan
+2006/07,11,40,Reading,12,11,4,1,6,10,17,-7,13,5,2,1,2,5,8,-3,7,6,2,0,4,5,9,-4,6,,,Madejski Stadium,Reading
+2006/07,11,3,Blackburn Rovers,13,11,3,3,5,10,15,-5,12,5,2,1,2,7,7,0,7,6,1,2,3,3,8,-5,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,11,11,Manchester City,14,11,3,3,5,7,14,-7,12,5,3,2,0,4,0,4,11,6,0,1,5,3,14,-11,1,,,Etihad Stadium,Manchester
+2006/07,11,25,West Ham United,15,11,3,2,6,9,14,-5,11,6,3,1,2,7,6,1,10,5,0,1,4,2,8,-6,1,,,Boleyn Ground,London
+2006/07,11,13,Middlesbrough,16,11,3,2,6,9,16,-7,11,5,3,0,2,5,7,-2,9,6,0,2,4,4,9,-5,2,,,Riverside Stadium,Middlesbrough
+2006/07,11,33,Watford,17,11,1,6,4,9,13,-4,9,6,1,4,1,7,6,1,7,5,0,2,3,2,7,-5,2,,,Vicarage Road,Watford
+2006/07,11,18,Sheffield United,18,11,2,3,6,5,14,-9,9,5,1,2,2,4,6,-2,5,6,1,1,4,1,8,-7,4,R,EN_CH,Bramall Lane,Sheffield
+2006/07,11,23,Newcastle United,19,11,2,2,7,7,14,-7,8,6,1,2,3,5,7,-2,5,5,1,0,4,2,7,-5,3,R,EN_CH,St. James' Park,Newcastle
+2006/07,11,31,Charlton Athletic,20,11,2,2,7,7,15,-8,8,6,2,1,3,4,6,-2,7,5,0,1,4,3,9,-6,1,R,EN_CH,The Valley,London
+2006/07,12,12,Manchester United,1,12,10,1,1,27,5,22,31,6,5,0,1,13,2,11,15,6,5,1,0,14,3,11,16,Q,EU_CL,Old Trafford,Manchester
+2006/07,12,4,Chelsea,2,12,9,1,2,22,7,15,28,6,5,1,0,13,3,10,16,6,4,0,2,9,4,5,12,Q,EU_CL,Stamford Bridge,London
+2006/07,12,1,Arsenal,3,11,6,3,2,19,6,13,21,6,3,3,0,12,3,9,12,5,3,0,2,7,3,4,9,Q,EU_CL,Emirates Stadium,London
+2006/07,12,2,Aston Villa,4,12,5,6,1,15,9,6,21,6,4,2,0,10,3,7,14,6,1,4,1,5,6,-1,7,Q,EU_CL,Villa Park,Birmingham
+2006/07,12,27,Bolton Wanderers,5,12,6,3,3,12,11,1,21,6,3,1,2,5,5,0,10,6,3,2,1,7,6,1,11,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,12,37,Portsmouth,6,12,6,2,4,17,10,7,20,6,4,1,1,10,3,7,13,6,2,1,3,7,7,0,7,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,12,7,Everton,7,12,4,5,3,16,11,5,17,6,3,2,1,10,5,5,11,6,1,3,2,6,6,0,6,Q,EU_UC,Goodison Park,Liverpool
+2006/07,12,39,Wigan Athletic,8,11,5,2,4,16,13,3,17,5,3,1,1,10,6,4,10,6,2,1,3,6,7,-1,7,,,DW Stadium,Wigan
+2006/07,12,10,Liverpool,9,12,5,2,5,14,15,-1,17,6,5,1,0,13,3,10,16,6,0,1,5,1,12,-11,1,,,Anfield,Liverpool
+2006/07,12,34,Fulham,10,12,4,5,3,13,16,-3,17,6,3,1,2,5,5,0,10,6,1,4,1,8,11,-3,7,,,Craven Cottage,London
+2006/07,12,40,Reading,11,12,5,1,6,13,18,-5,16,6,3,1,2,8,9,-1,10,6,2,0,4,5,9,-4,6,,,Madejski Stadium,Reading
+2006/07,12,21,Tottenham Hotspur,12,12,4,3,5,9,14,-5,15,6,4,1,1,7,4,3,13,6,0,2,4,2,10,-8,2,,,White Hart Lane,London
+2006/07,12,13,Middlesbrough,13,12,4,2,6,10,16,-6,14,6,4,0,2,6,7,-1,12,6,0,2,4,4,9,-5,2,,,Riverside Stadium,Middlesbrough
+2006/07,12,11,Manchester City,14,12,3,4,5,7,14,-7,13,6,3,3,0,4,0,4,12,6,0,1,5,3,14,-11,1,,,Etihad Stadium,Manchester
+2006/07,12,3,Blackburn Rovers,15,12,3,3,6,10,16,-6,12,6,2,1,3,7,8,-1,7,6,1,2,3,3,8,-5,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,12,25,West Ham United,16,12,3,2,7,9,15,-6,11,6,3,1,2,7,6,1,10,6,0,1,5,2,9,-7,1,,,Boleyn Ground,London
+2006/07,12,18,Sheffield United,17,12,2,4,6,7,16,-9,10,6,1,3,2,6,8,-2,6,6,1,1,4,1,8,-7,4,,,Bramall Lane,Sheffield
+2006/07,12,23,Newcastle United,18,12,2,3,7,7,14,-7,9,6,1,2,3,5,7,-2,5,6,1,1,4,2,7,-5,4,R,EN_CH,St. James' Park,Newcastle
+2006/07,12,33,Watford,19,12,1,6,5,9,17,-8,9,6,1,4,1,7,6,1,7,6,0,2,4,2,11,-9,2,R,EN_CH,Vicarage Road,Watford
+2006/07,12,31,Charlton Athletic,20,12,2,2,8,9,18,-9,8,6,2,1,3,4,6,-2,7,6,0,1,5,5,12,-7,1,R,EN_CH,The Valley,London
+2006/07,13,12,Manchester United,1,13,11,1,1,29,6,23,34,6,5,0,1,13,2,11,15,7,6,1,0,16,4,12,19,Q,EU_CL,Old Trafford,Manchester
+2006/07,13,4,Chelsea,2,13,10,1,2,23,7,16,31,7,6,1,0,14,3,11,19,6,4,0,2,9,4,5,12,Q,EU_CL,Stamford Bridge,London
+2006/07,13,37,Portsmouth,3,13,7,2,4,19,11,8,23,7,5,1,1,12,4,8,16,6,2,1,3,7,7,0,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,13,1,Arsenal,4,12,6,4,2,20,7,13,22,7,3,4,0,13,4,9,13,5,3,0,2,7,3,4,9,Q,EU_CL,Emirates Stadium,London
+2006/07,13,2,Aston Villa,5,13,5,7,1,15,9,6,22,6,4,2,0,10,3,7,14,7,1,5,1,5,6,-1,8,Q,EU_UC,Villa Park,Birmingham
+2006/07,13,27,Bolton Wanderers,6,13,6,3,4,12,12,0,21,6,3,1,2,5,5,0,10,7,3,2,2,7,7,0,11,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,13,7,Everton,7,13,5,5,3,17,11,6,20,7,4,2,1,11,5,6,14,6,1,3,2,6,6,0,6,Q,EU_UC,Goodison Park,Liverpool
+2006/07,13,40,Reading,8,13,6,1,6,15,18,-3,19,7,4,1,2,10,9,1,13,6,2,0,4,5,9,-4,6,,,Madejski Stadium,Reading
+2006/07,13,39,Wigan Athletic,9,12,5,3,4,16,13,3,18,6,3,2,1,10,6,4,11,6,2,1,3,6,7,-1,7,,,DW Stadium,Wigan
+2006/07,13,10,Liverpool,10,13,5,3,5,14,15,-1,18,6,5,1,0,13,3,10,16,7,0,2,5,1,12,-11,2,,,Anfield,Liverpool
+2006/07,13,34,Fulham,11,13,4,5,4,14,19,-5,17,6,3,1,2,5,5,0,10,7,1,4,2,9,14,-5,7,,,Craven Cottage,London
+2006/07,13,11,Manchester City,12,13,4,4,5,10,15,-5,16,7,4,3,0,7,1,6,15,6,0,1,5,3,14,-11,1,,,Etihad Stadium,Manchester
+2006/07,13,21,Tottenham Hotspur,13,13,4,4,5,10,15,-5,16,6,4,1,1,7,4,3,13,7,0,3,4,3,11,-8,3,,,White Hart Lane,London
+2006/07,13,13,Middlesbrough,14,13,4,3,6,10,16,-6,15,7,4,1,2,6,7,-1,13,6,0,2,4,4,9,-5,2,,,Riverside Stadium,Middlesbrough
+2006/07,13,3,Blackburn Rovers,15,13,3,4,6,11,17,-6,13,7,2,2,3,8,9,-1,8,6,1,2,3,3,8,-5,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,13,25,West Ham United,16,13,3,2,8,9,16,-7,11,6,3,1,2,7,6,1,10,7,0,1,6,2,10,-8,1,,,Boleyn Ground,London
+2006/07,13,23,Newcastle United,17,13,2,4,7,8,15,-7,10,6,1,2,3,5,7,-2,5,7,1,2,4,3,8,-5,5,,,St. James' Park,Newcastle
+2006/07,13,18,Sheffield United,18,13,2,4,7,8,18,-10,10,7,1,3,3,7,10,-3,6,6,1,1,4,1,8,-7,4,R,EN_CH,Bramall Lane,Sheffield
+2006/07,13,33,Watford,19,13,1,6,6,10,19,-9,9,6,1,4,1,7,6,1,7,7,0,2,5,3,13,-10,2,R,EN_CH,Vicarage Road,Watford
+2006/07,13,31,Charlton Athletic,20,13,2,2,9,9,20,-11,8,6,2,1,3,4,6,-2,7,7,0,1,6,5,14,-9,1,R,EN_CH,The Valley,London
+2006/07,14,12,Manchester United,1,14,11,2,1,30,7,23,35,7,5,1,1,14,3,11,16,7,6,1,0,16,4,12,19,Q,EU_CL,Old Trafford,Manchester
+2006/07,14,4,Chelsea,2,14,10,2,2,24,8,16,32,7,6,1,0,14,3,11,19,7,4,1,2,10,5,5,13,Q,EU_CL,Stamford Bridge,London
+2006/07,14,27,Bolton Wanderers,3,14,7,3,4,15,13,2,24,7,4,1,2,8,6,2,13,7,3,2,2,7,7,0,11,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,14,37,Portsmouth,4,14,7,2,5,19,12,7,23,7,5,1,1,12,4,8,16,7,2,1,4,7,8,-1,7,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,14,2,Aston Villa,5,14,5,8,1,16,10,6,23,7,4,3,0,11,4,7,15,7,1,5,1,5,6,-1,8,Q,EU_UC,Villa Park,Birmingham
+2006/07,14,1,Arsenal,6,13,6,4,3,21,10,11,22,7,3,4,0,13,4,9,13,6,3,0,3,8,6,2,9,Q,EU_UC,Emirates Stadium,London
+2006/07,14,40,Reading,7,14,7,1,6,16,18,-2,22,7,4,1,2,10,9,1,13,7,3,0,4,6,9,-3,9,Q,EU_UC,Madejski Stadium,Reading
+2006/07,14,7,Everton,8,14,5,6,3,18,12,6,21,7,4,2,1,11,5,6,14,7,1,4,2,7,7,0,7,,,Goodison Park,Liverpool
+2006/07,14,10,Liverpool,9,14,6,3,5,15,15,0,21,7,6,1,0,14,3,11,19,7,0,2,5,1,12,-11,2,,,Anfield,Liverpool
+2006/07,14,21,Tottenham Hotspur,10,14,5,4,5,13,16,-3,19,7,5,1,1,10,5,5,16,7,0,3,4,3,11,-8,3,,,White Hart Lane,London
+2006/07,14,39,Wigan Athletic,11,13,5,3,5,17,16,1,18,6,3,2,1,10,6,4,11,7,2,1,4,7,10,-3,7,,,DW Stadium,Wigan
+2006/07,14,34,Fulham,12,14,4,5,5,14,20,-6,17,7,3,1,3,5,6,-1,10,7,1,4,2,9,14,-5,7,,,Craven Cottage,London
+2006/07,14,13,Middlesbrough,13,14,4,4,6,11,17,-6,16,7,4,1,2,6,7,-1,13,7,0,3,4,5,10,-5,3,,,Riverside Stadium,Middlesbrough
+2006/07,14,11,Manchester City,14,14,4,4,6,10,16,-6,16,7,4,3,0,7,1,6,15,7,0,1,6,3,15,-12,1,,,Etihad Stadium,Manchester
+2006/07,14,25,West Ham United,15,14,4,2,8,10,16,-6,14,7,4,1,2,8,6,2,13,7,0,1,6,2,10,-8,1,,,Boleyn Ground,London
+2006/07,14,3,Blackburn Rovers,16,13,3,4,6,11,17,-6,13,7,2,2,3,8,9,-1,8,6,1,2,3,3,8,-5,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,14,23,Newcastle United,17,14,3,4,7,9,15,-6,13,7,2,2,3,6,7,-1,8,7,1,2,4,3,8,-5,5,,,St. James' Park,Newcastle
+2006/07,14,18,Sheffield United,18,14,2,4,8,8,19,-11,10,7,1,3,3,7,10,-3,6,7,1,1,5,1,9,-8,4,R,EN_CH,Bramall Lane,Sheffield
+2006/07,14,33,Watford,19,13,1,6,6,10,19,-9,9,6,1,4,1,7,6,1,7,7,0,2,5,3,13,-10,2,R,EN_CH,Vicarage Road,Watford
+2006/07,14,31,Charlton Athletic,20,14,2,3,9,10,21,-11,9,7,2,2,3,5,7,-2,8,7,0,1,6,5,14,-9,1,R,EN_CH,The Valley,London
+2006/07,15,12,Manchester United,1,15,12,2,1,33,7,26,38,8,6,1,1,17,3,14,19,7,6,1,0,16,4,12,19,Q,EU_CL,Old Trafford,Manchester
+2006/07,15,4,Chelsea,2,15,11,2,2,25,8,17,35,7,6,1,0,14,3,11,19,8,5,1,2,11,5,6,16,Q,EU_CL,Stamford Bridge,London
+2006/07,15,37,Portsmouth,3,15,7,3,5,19,12,7,24,7,5,1,1,12,4,8,16,8,2,2,4,7,8,-1,8,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,15,27,Bolton Wanderers,4,15,7,3,5,15,14,1,24,8,4,1,3,8,7,1,13,7,3,2,2,7,7,0,11,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,15,2,Aston Villa,5,15,5,8,2,17,13,4,23,8,4,3,1,12,7,5,15,7,1,5,1,5,6,-1,8,Q,EU_UC,Villa Park,Birmingham
+2006/07,15,1,Arsenal,6,14,6,4,4,22,12,10,22,7,3,4,0,13,4,9,13,7,3,0,4,9,8,1,9,Q,EU_UC,Emirates Stadium,London
+2006/07,15,10,Liverpool,7,15,6,4,5,15,15,0,22,8,6,2,0,14,3,11,20,7,0,2,5,1,12,-11,2,Q,EU_UC,Anfield,Liverpool
+2006/07,15,40,Reading,8,14,7,1,6,16,18,-2,22,7,4,1,2,10,9,1,13,7,3,0,4,6,9,-3,9,,,Madejski Stadium,Reading
+2006/07,15,7,Everton,9,15,5,6,4,18,15,3,21,7,4,2,1,11,5,6,14,8,1,4,3,7,10,-3,7,,,Goodison Park,Liverpool
+2006/07,15,34,Fulham,10,15,5,5,5,16,21,-5,20,8,4,1,3,7,7,0,13,7,1,4,2,9,14,-5,7,,,Craven Cottage,London
+2006/07,15,21,Tottenham Hotspur,11,14,5,4,5,13,16,-3,19,7,5,1,1,10,5,5,16,7,0,3,4,3,11,-8,3,,,White Hart Lane,London
+2006/07,15,11,Manchester City,12,15,5,4,6,13,17,-4,19,7,4,3,0,7,1,6,15,8,1,1,6,6,16,-10,4,,,Etihad Stadium,Manchester
+2006/07,15,39,Wigan Athletic,13,13,5,3,5,17,16,1,18,6,3,2,1,10,6,4,11,7,2,1,4,7,10,-3,7,,,DW Stadium,Wigan
+2006/07,15,13,Middlesbrough,14,14,4,4,6,11,17,-6,16,7,4,1,2,6,7,-1,13,7,0,3,4,5,10,-5,3,,,Riverside Stadium,Middlesbrough
+2006/07,15,25,West Ham United,15,14,4,2,8,10,16,-6,14,7,4,1,2,8,6,2,13,7,0,1,6,2,10,-8,1,,,Boleyn Ground,London
+2006/07,15,3,Blackburn Rovers,16,13,3,4,6,11,17,-6,13,7,2,2,3,8,9,-1,8,6,1,2,3,3,8,-5,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,15,23,Newcastle United,17,14,3,4,7,9,15,-6,13,7,2,2,3,6,7,-1,8,7,1,2,4,3,8,-5,5,,,St. James' Park,Newcastle
+2006/07,15,18,Sheffield United,18,15,3,4,8,9,19,-10,13,7,1,3,3,7,10,-3,6,8,2,1,5,2,9,-7,7,R,EN_CH,Bramall Lane,Sheffield
+2006/07,15,33,Watford,19,14,1,6,7,10,20,-10,9,7,1,4,2,7,7,0,7,7,0,2,5,3,13,-10,2,R,EN_CH,Vicarage Road,Watford
+2006/07,15,31,Charlton Athletic,20,14,2,3,9,10,21,-11,9,7,2,2,3,5,7,-2,8,7,0,1,6,5,14,-9,1,R,EN_CH,The Valley,London
+2006/07,16,12,Manchester United,1,16,13,2,1,35,8,27,41,8,6,1,1,17,3,14,19,8,7,1,0,18,5,13,22,Q,EU_CL,Old Trafford,Manchester
+2006/07,16,4,Chelsea,2,15,11,2,2,25,8,17,35,7,6,1,0,14,3,11,19,8,5,1,2,11,5,6,16,Q,EU_CL,Stamford Bridge,London
+2006/07,16,1,Arsenal,3,15,7,4,4,25,12,13,25,8,4,4,0,16,4,12,16,7,3,0,4,9,8,1,9,Q,EU_CL,Emirates Stadium,London
+2006/07,16,37,Portsmouth,4,16,7,4,5,21,14,7,25,8,5,2,1,14,6,8,17,8,2,2,4,7,8,-1,8,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,16,10,Liverpool,5,16,7,4,5,19,15,4,25,8,6,2,0,14,3,11,20,8,1,2,5,5,12,-7,5,Q,EU_UC,Anfield,Liverpool
+2006/07,16,40,Reading,6,16,8,1,7,19,21,-2,25,8,5,1,2,11,9,2,16,8,3,0,5,8,12,-4,9,Q,EU_UC,Madejski Stadium,Reading
+2006/07,16,7,Everton,7,16,6,6,4,20,15,5,24,8,5,2,1,13,5,8,17,8,1,4,3,7,10,-3,7,Q,EU_UC,Goodison Park,Liverpool
+2006/07,16,2,Aston Villa,8,16,5,9,2,19,15,4,24,8,4,3,1,12,7,5,15,8,1,6,1,7,8,-1,9,,,Villa Park,Birmingham
+2006/07,16,27,Bolton Wanderers,9,16,7,3,6,15,15,0,24,8,4,1,3,8,7,1,13,8,3,2,3,7,8,-1,11,,,Toughsheet Community Stadium,Bolton
+2006/07,16,21,Tottenham Hotspur,10,16,6,4,6,15,20,-5,22,8,6,1,1,12,6,6,19,8,0,3,5,3,14,-11,3,,,White Hart Lane,London
+2006/07,16,39,Wigan Athletic,11,15,6,3,6,19,20,-1,21,7,3,2,2,10,10,0,11,8,3,1,4,9,10,-1,10,,,DW Stadium,Wigan
+2006/07,16,11,Manchester City,12,16,5,5,6,13,17,-4,20,8,4,4,0,7,1,6,16,8,1,1,6,6,16,-10,4,,,Etihad Stadium,Manchester
+2006/07,16,34,Fulham,13,16,5,5,6,16,23,-7,20,8,4,1,3,7,7,0,13,8,1,4,3,9,16,-7,7,,,Craven Cottage,London
+2006/07,16,3,Blackburn Rovers,14,15,4,4,7,13,18,-5,16,8,3,2,3,10,9,1,11,7,1,2,4,3,9,-6,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,16,23,Newcastle United,15,15,4,4,7,12,17,-5,16,8,3,2,3,9,9,0,11,7,1,2,4,3,8,-5,5,,,St. James' Park,Newcastle
+2006/07,16,13,Middlesbrough,16,16,4,4,8,13,21,-8,16,8,4,1,3,7,9,-2,13,8,0,3,5,6,12,-6,3,,,Riverside Stadium,Middlesbrough
+2006/07,16,18,Sheffield United,17,16,4,4,8,11,20,-9,16,8,2,3,3,9,11,-2,9,8,2,1,5,2,9,-7,7,,,Bramall Lane,Sheffield
+2006/07,16,25,West Ham United,18,16,4,2,10,10,20,-10,14,8,4,1,3,8,8,0,13,8,0,1,7,2,12,-10,1,R,EN_CH,Boleyn Ground,London
+2006/07,16,31,Charlton Athletic,19,16,3,3,10,12,23,-11,12,8,3,2,3,6,7,-1,11,8,0,1,7,6,16,-10,1,R,EN_CH,The Valley,London
+2006/07,16,33,Watford,20,15,1,7,7,10,20,-10,10,7,1,4,2,7,7,0,7,8,0,3,5,3,13,-10,3,R,EN_CH,Vicarage Road,Watford
+2006/07,17,12,Manchester United,1,17,14,2,1,38,9,29,44,9,7,1,1,20,4,16,22,8,7,1,0,18,5,13,22,Q,EU_CL,Old Trafford,Manchester
+2006/07,17,4,Chelsea,2,17,12,3,2,27,9,18,39,9,7,2,0,16,4,12,23,8,5,1,2,11,5,6,16,Q,EU_CL,Stamford Bridge,London
+2006/07,17,1,Arsenal,3,17,8,5,4,27,13,14,29,8,4,4,0,16,4,12,16,9,4,1,4,11,9,2,13,Q,EU_CL,Emirates Stadium,London
+2006/07,17,37,Portsmouth,4,17,8,4,5,23,14,9,28,9,6,2,1,16,6,10,20,8,2,2,4,7,8,-1,8,Q,EU_CL,Fratton Park,Portsmouth
+2006/07,17,10,Liverpool,5,17,8,4,5,23,15,8,28,9,7,2,0,18,3,15,23,8,1,2,5,5,12,-7,5,Q,EU_UC,Anfield,Liverpool
+2006/07,17,27,Bolton Wanderers,6,17,8,3,6,19,15,4,27,9,5,1,3,12,7,5,16,8,3,2,3,7,8,-1,11,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,17,40,Reading,7,17,8,2,7,19,21,-2,26,8,5,1,2,11,9,2,16,9,3,1,5,8,12,-4,10,Q,EU_UC,Madejski Stadium,Reading
+2006/07,17,2,Aston Villa,8,17,5,10,2,21,17,4,25,8,4,3,1,12,7,5,15,9,1,7,1,9,10,-1,10,,,Villa Park,Birmingham
+2006/07,17,21,Tottenham Hotspur,9,17,7,4,6,20,21,-1,25,9,7,1,1,17,7,10,22,8,0,3,5,3,14,-11,3,,,White Hart Lane,London
+2006/07,17,7,Everton,10,17,6,6,5,20,17,3,24,8,5,2,1,13,5,8,17,9,1,4,4,7,12,-5,7,,,Goodison Park,Liverpool
+2006/07,17,39,Wigan Athletic,11,17,6,4,7,20,22,-2,22,8,3,2,3,10,11,-1,11,9,3,2,4,10,11,-1,11,,,DW Stadium,Wigan
+2006/07,17,11,Manchester City,12,17,5,5,7,14,20,-6,20,8,4,4,0,7,1,6,16,9,1,1,7,7,19,-12,4,,,Etihad Stadium,Manchester
+2006/07,17,34,Fulham,13,17,5,5,7,16,27,-11,20,8,4,1,3,7,7,0,13,9,1,4,4,9,20,-11,7,,,Craven Cottage,London
+2006/07,17,23,Newcastle United,14,17,5,4,8,15,19,-4,19,8,3,2,3,9,9,0,11,9,2,2,5,6,10,-4,8,,,St. James' Park,Newcastle
+2006/07,17,13,Middlesbrough,15,17,4,5,8,14,22,-8,17,9,4,2,3,8,10,-2,14,8,0,3,5,6,12,-6,3,,,Riverside Stadium,Middlesbrough
+2006/07,17,18,Sheffield United,16,17,4,5,8,13,22,-9,17,9,2,4,3,11,13,-2,10,8,2,1,5,2,9,-7,7,,,Bramall Lane,Sheffield
+2006/07,17,3,Blackburn Rovers,17,16,4,4,8,14,21,-7,16,9,3,2,4,11,12,-1,11,7,1,2,4,3,9,-6,5,Q,EU_IT,Ewood Park,Blackburn
+2006/07,17,25,West Ham United,18,17,4,2,11,10,24,-14,14,8,4,1,3,8,8,0,13,9,0,1,8,2,16,-14,1,R,EN_CH,Boleyn Ground,London
+2006/07,17,31,Charlton Athletic,19,17,3,3,11,13,28,-15,12,8,3,2,3,6,7,-1,11,9,0,1,8,7,21,-14,1,R,EN_CH,The Valley,London
+2006/07,17,33,Watford,20,16,1,8,7,10,20,-10,11,8,1,5,2,7,7,0,8,8,0,3,5,3,13,-10,3,R,EN_CH,Vicarage Road,Watford
+2006/07,18,12,Manchester United,1,18,14,2,2,38,10,28,44,9,7,1,1,20,4,16,22,9,7,1,1,18,6,12,22,Q,EU_CL,Old Trafford,Manchester
+2006/07,18,4,Chelsea,2,18,13,3,2,30,11,19,42,9,7,2,0,16,4,12,23,9,6,1,2,14,7,7,19,Q,EU_CL,Stamford Bridge,London
+2006/07,18,10,Liverpool,3,18,9,4,5,26,15,11,31,9,7,2,0,18,3,15,23,9,2,2,5,8,12,-4,8,Q,EU_CL,Anfield,Liverpool
+2006/07,18,1,Arsenal,4,18,8,6,4,29,15,14,30,9,4,5,0,18,6,12,17,9,4,1,4,11,9,2,13,Q,EU_CL,Emirates Stadium,London
+2006/07,18,27,Bolton Wanderers,5,18,9,3,6,20,15,5,30,9,5,1,3,12,7,5,16,9,4,2,3,8,8,0,14,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,18,37,Portsmouth,6,18,8,5,5,25,16,9,29,9,6,2,1,16,6,10,20,9,2,3,4,9,10,-1,9,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,18,21,Tottenham Hotspur,7,18,8,4,6,22,22,0,28,9,7,1,1,17,7,10,22,9,1,3,5,5,15,-10,6,Q,EU_UC,White Hart Lane,London
+2006/07,18,40,Reading,8,18,8,2,8,20,23,-3,26,9,5,1,3,12,11,1,16,9,3,1,5,8,12,-4,10,,,Madejski Stadium,Reading
+2006/07,18,2,Aston Villa,9,18,5,10,3,21,18,3,25,9,4,3,2,12,8,4,15,9,1,7,1,9,10,-1,10,,,Villa Park,Birmingham
+2006/07,18,7,Everton,10,18,6,6,6,22,20,2,24,9,5,2,2,15,8,7,17,9,1,4,4,7,12,-5,7,,,Goodison Park,Liverpool
+2006/07,18,34,Fulham,11,18,6,5,7,18,28,-10,23,9,5,1,3,9,8,1,16,9,1,4,4,9,20,-11,7,,,Craven Cottage,London
+2006/07,18,39,Wigan Athletic,12,18,6,4,8,20,23,-3,22,9,3,2,4,10,12,-2,11,9,3,2,4,10,11,-1,11,,,DW Stadium,Wigan
+2006/07,18,23,Newcastle United,13,18,6,4,8,17,20,-3,22,9,4,2,3,11,10,1,14,9,2,2,5,6,10,-4,8,,,St. James' Park,Newcastle
+2006/07,18,11,Manchester City,14,18,5,5,8,15,22,-7,20,9,4,4,1,8,3,5,16,9,1,1,7,7,19,-12,4,,,Etihad Stadium,Manchester
+2006/07,18,18,Sheffield United,15,18,5,5,8,14,22,-8,20,9,2,4,3,11,13,-2,10,9,3,1,5,3,9,-6,10,,,Bramall Lane,Sheffield
+2006/07,18,3,Blackburn Rovers,16,17,5,4,8,16,22,-6,19,9,3,2,4,11,12,-1,11,8,2,2,4,5,10,-5,8,Q,EU_IT,Ewood Park,Blackburn
+2006/07,18,13,Middlesbrough,17,18,4,5,9,15,24,-9,17,9,4,2,3,8,10,-2,14,9,0,3,6,7,14,-7,3,,,Riverside Stadium,Middlesbrough
+2006/07,18,25,West Ham United,18,18,5,2,11,11,24,-13,17,9,5,1,3,9,8,1,16,9,0,1,8,2,16,-14,1,R,EN_CH,Boleyn Ground,London
+2006/07,18,31,Charlton Athletic,19,18,3,3,12,13,31,-18,12,9,3,2,4,6,10,-4,11,9,0,1,8,7,21,-14,1,R,EN_CH,The Valley,London
+2006/07,18,33,Watford,20,17,1,8,8,11,22,-11,11,8,1,5,2,7,7,0,8,9,0,3,6,4,15,-11,3,R,EN_CH,Vicarage Road,Watford
+2006/07,19,12,Manchester United,1,19,15,2,2,41,10,31,47,9,7,1,1,20,4,16,22,10,8,1,1,21,6,15,25,Q,EU_CL,Old Trafford,Manchester
+2006/07,19,4,Chelsea,2,19,14,3,2,33,13,20,45,9,7,2,0,16,4,12,23,10,7,1,2,17,9,8,22,Q,EU_CL,Stamford Bridge,London
+2006/07,19,10,Liverpool,3,19,10,4,5,28,15,13,34,10,8,2,0,20,3,17,26,9,2,2,5,8,12,-4,8,Q,EU_CL,Anfield,Liverpool
+2006/07,19,1,Arsenal,4,19,9,6,4,35,17,18,33,10,5,5,0,24,8,16,20,9,4,1,4,11,9,2,13,Q,EU_CL,Emirates Stadium,London
+2006/07,19,27,Bolton Wanderers,5,19,10,3,6,22,15,7,33,9,5,1,3,12,7,5,16,10,5,2,3,10,8,2,17,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,19,37,Portsmouth,6,19,9,5,5,28,17,11,32,10,7,2,1,19,7,12,23,9,2,3,4,9,10,-1,9,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,19,21,Tottenham Hotspur,7,19,8,4,7,23,25,-2,28,9,7,1,1,17,7,10,22,10,1,3,6,6,18,-12,6,Q,EU_UC,White Hart Lane,London
+2006/07,19,7,Everton,8,19,7,6,6,24,20,4,27,9,5,2,2,15,8,7,17,10,2,4,4,9,12,-3,10,,,Goodison Park,Liverpool
+2006/07,19,40,Reading,9,19,8,2,9,20,25,-5,26,10,5,1,4,12,13,-1,16,9,3,1,5,8,12,-4,10,,,Madejski Stadium,Reading
+2006/07,19,2,Aston Villa,10,19,5,10,4,21,21,0,25,10,4,3,3,12,11,1,15,9,1,7,1,9,10,-1,10,,,Villa Park,Birmingham
+2006/07,19,23,Newcastle United,11,19,7,4,8,20,21,-1,25,10,5,2,3,14,11,3,17,9,2,2,5,6,10,-4,8,,,St. James' Park,Newcastle
+2006/07,19,34,Fulham,12,19,6,6,7,18,28,-10,24,10,5,2,3,9,8,1,17,9,1,4,4,9,20,-11,7,,,Craven Cottage,London
+2006/07,19,39,Wigan Athletic,13,19,6,4,9,22,26,-4,22,10,3,2,5,12,15,-3,11,9,3,2,4,10,11,-1,11,,,DW Stadium,Wigan
+2006/07,19,13,Middlesbrough,14,19,5,5,9,17,24,-7,20,10,5,2,3,10,10,0,17,9,0,3,6,7,14,-7,3,,,Riverside Stadium,Middlesbrough
+2006/07,19,11,Manchester City,15,19,5,5,9,15,24,-9,20,10,4,4,2,8,5,3,16,9,1,1,7,7,19,-12,4,,,Etihad Stadium,Manchester
+2006/07,19,18,Sheffield United,16,19,5,5,9,15,25,-10,20,9,2,4,3,11,13,-2,10,10,3,1,6,4,12,-8,10,,,Bramall Lane,Sheffield
+2006/07,19,3,Blackburn Rovers,17,18,5,4,9,18,28,-10,19,9,3,2,4,11,12,-1,11,9,2,2,5,7,16,-9,8,Q,EU_IT,Ewood Park,Blackburn
+2006/07,19,25,West Ham United,18,19,5,3,11,11,24,-13,18,9,5,1,3,9,8,1,16,10,0,2,8,2,16,-14,2,R,EN_CH,Boleyn Ground,London
+2006/07,19,31,Charlton Athletic,19,19,3,3,13,13,33,-20,12,9,3,2,4,6,10,-4,11,10,0,1,9,7,23,-16,1,R,EN_CH,The Valley,London
+2006/07,19,33,Watford,20,18,1,8,9,11,24,-13,11,8,1,5,2,7,7,0,8,10,0,3,7,4,17,-13,3,R,EN_CH,Vicarage Road,Watford
+2006/07,20,12,Manchester United,1,20,16,2,2,44,11,33,50,10,8,1,1,23,5,18,25,10,8,1,1,21,6,15,25,Q,EU_CL,Old Trafford,Manchester
+2006/07,20,4,Chelsea,2,20,14,4,2,35,15,20,46,10,7,3,0,18,6,12,24,10,7,1,2,17,9,8,22,Q,EU_CL,Stamford Bridge,London
+2006/07,20,1,Arsenal,3,20,10,6,4,37,18,19,36,10,5,5,0,24,8,16,20,10,5,1,4,13,10,3,16,Q,EU_CL,Emirates Stadium,London
+2006/07,20,27,Bolton Wanderers,4,20,11,3,6,24,16,8,36,10,6,1,3,14,8,6,19,10,5,2,3,10,8,2,17,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,20,37,Portsmouth,5,20,10,5,5,30,18,12,35,10,7,2,1,19,7,12,23,10,3,3,4,11,11,0,12,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,20,10,Liverpool,6,20,10,4,6,28,16,12,34,10,8,2,0,20,3,17,26,10,2,2,6,8,13,-5,8,Q,EU_UC,Anfield,Liverpool
+2006/07,20,21,Tottenham Hotspur,7,20,9,4,7,25,26,-1,31,10,8,1,1,19,8,11,25,10,1,3,6,6,18,-12,6,Q,EU_UC,White Hart Lane,London
+2006/07,20,7,Everton,8,20,7,7,6,24,20,4,28,10,5,3,2,15,8,7,18,10,2,4,4,9,12,-3,10,,,Goodison Park,Liverpool
+2006/07,20,40,Reading,9,20,8,3,9,22,27,-5,27,10,5,1,4,12,13,-1,16,10,3,2,5,10,14,-4,11,,,Madejski Stadium,Reading
+2006/07,20,2,Aston Villa,10,20,5,10,5,22,23,-1,25,10,4,3,3,12,11,1,15,10,1,7,2,10,12,-2,10,,,Villa Park,Birmingham
+2006/07,20,23,Newcastle United,11,20,7,4,9,21,23,-2,25,10,5,2,3,14,11,3,17,10,2,2,6,7,12,-5,8,,,St. James' Park,Newcastle
+2006/07,20,34,Fulham,12,20,6,7,7,20,30,-10,25,10,5,2,3,9,8,1,17,10,1,5,4,11,22,-11,8,,,Craven Cottage,London
+2006/07,20,11,Manchester City,13,20,6,5,9,16,24,-8,23,10,4,4,2,8,5,3,16,10,2,1,7,8,19,-11,7,,,Etihad Stadium,Manchester
+2006/07,20,39,Wigan Athletic,14,20,6,4,10,23,29,-6,22,10,3,2,5,12,15,-3,11,10,3,2,5,11,14,-3,11,,,DW Stadium,Wigan
+2006/07,20,3,Blackburn Rovers,15,19,6,4,9,19,28,-9,22,10,4,2,4,12,12,0,14,9,2,2,5,7,16,-9,8,Q,EU_IT,Ewood Park,Blackburn
+2006/07,20,13,Middlesbrough,16,20,5,6,9,17,24,-7,21,10,5,2,3,10,10,0,17,10,0,4,6,7,14,-7,4,,,Riverside Stadium,Middlesbrough
+2006/07,20,18,Sheffield United,17,20,5,5,10,15,26,-11,20,10,2,4,4,11,14,-3,10,10,3,1,6,4,12,-8,10,,,Bramall Lane,Sheffield
+2006/07,20,25,West Ham United,18,20,5,3,12,12,26,-14,18,10,5,1,4,10,10,0,16,10,0,2,8,2,16,-14,2,R,EN_CH,Boleyn Ground,London
+2006/07,20,31,Charlton Athletic,19,20,3,4,13,15,35,-20,13,10,3,3,4,8,12,-4,12,10,0,1,9,7,23,-16,1,R,EN_CH,The Valley,London
+2006/07,20,33,Watford,20,19,1,8,10,12,26,-14,11,9,1,5,3,8,9,-1,8,10,0,3,7,4,17,-13,3,R,EN_CH,Vicarage Road,Watford
+2006/07,21,12,Manchester United,1,21,17,2,2,47,13,34,53,11,9,1,1,26,7,19,28,10,8,1,1,21,6,15,25,Q,EU_CL,Old Trafford,Manchester
+2006/07,21,4,Chelsea,2,21,14,5,2,37,17,20,47,11,7,4,0,20,8,12,25,10,7,1,2,17,9,8,22,Q,EU_CL,Stamford Bridge,London
+2006/07,21,27,Bolton Wanderers,3,21,12,3,6,27,18,9,39,11,7,1,3,17,10,7,22,10,5,2,3,10,8,2,17,Q,EU_CL,Toughsheet Community Stadium,Bolton
+2006/07,21,10,Liverpool,4,21,11,4,6,29,16,13,37,10,8,2,0,20,3,17,26,11,3,2,6,9,13,-4,11,Q,EU_CL,Anfield,Liverpool
+2006/07,21,1,Arsenal,5,21,10,6,5,37,19,18,36,10,5,5,0,24,8,16,20,11,5,1,5,13,11,2,16,Q,EU_UC,Emirates Stadium,London
+2006/07,21,37,Portsmouth,6,21,10,5,6,32,21,11,35,10,7,2,1,19,7,12,23,11,3,3,5,13,14,-1,12,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,21,7,Everton,7,21,8,7,6,27,20,7,31,11,6,3,2,18,8,10,21,10,2,4,4,9,12,-3,10,Q,EU_UC,Goodison Park,Liverpool
+2006/07,21,21,Tottenham Hotspur,8,21,9,4,8,25,27,-2,31,11,8,1,2,19,9,10,25,10,1,3,6,6,18,-12,6,,,White Hart Lane,London
+2006/07,21,40,Reading,9,21,8,3,10,24,30,-6,27,10,5,1,4,12,13,-1,16,11,3,2,6,12,17,-5,11,,,Madejski Stadium,Reading
+2006/07,21,11,Manchester City,10,21,7,5,9,17,24,-7,26,10,4,4,2,8,5,3,16,11,3,1,7,9,19,-10,10,,,Etihad Stadium,Manchester
+2006/07,21,34,Fulham,11,21,6,8,7,22,32,-10,26,10,5,2,3,9,8,1,17,11,1,6,4,13,24,-11,9,,,Craven Cottage,London
+2006/07,21,2,Aston Villa,12,21,5,10,6,23,25,-2,25,10,4,3,3,12,11,1,15,11,1,7,3,11,14,-3,10,,,Villa Park,Birmingham
+2006/07,21,23,Newcastle United,13,21,7,4,10,21,26,-5,25,10,5,2,3,14,11,3,17,11,2,2,7,7,15,-8,8,,,St. James' Park,Newcastle
+2006/07,21,3,Blackburn Rovers,14,20,7,4,9,21,29,-8,25,11,5,2,4,14,13,1,17,9,2,2,5,7,16,-9,8,Q,EU_IT,Ewood Park,Blackburn
+2006/07,21,18,Sheffield United,15,21,6,5,10,16,26,-10,23,11,3,4,4,12,14,-2,13,10,3,1,6,4,12,-8,10,,,Bramall Lane,Sheffield
+2006/07,21,39,Wigan Athletic,16,20,6,4,10,23,29,-6,22,10,3,2,5,12,15,-3,11,10,3,2,5,11,14,-3,11,,,DW Stadium,Wigan
+2006/07,21,13,Middlesbrough,17,21,5,6,10,18,26,-8,21,10,5,2,3,10,10,0,17,11,0,4,7,8,16,-8,4,,,Riverside Stadium,Middlesbrough
+2006/07,21,25,West Ham United,18,21,5,3,13,12,27,-15,18,11,5,1,5,10,11,-1,16,10,0,2,8,2,16,-14,2,R,EN_CH,Boleyn Ground,London
+2006/07,21,31,Charlton Athletic,19,21,4,4,13,17,36,-19,16,11,4,3,4,10,13,-3,15,10,0,1,9,7,23,-16,1,R,EN_CH,The Valley,London
+2006/07,21,33,Watford,20,19,1,8,10,12,26,-14,11,9,1,5,3,8,9,-1,8,10,0,3,7,4,17,-13,3,R,EN_CH,Vicarage Road,Watford
+2006/07,22,12,Manchester United,1,22,17,3,2,49,15,34,54,11,9,1,1,26,7,19,28,11,8,2,1,23,8,15,26,Q,EU_CL,Old Trafford,Manchester
+2006/07,22,4,Chelsea,2,22,14,6,2,37,17,20,48,11,7,4,0,20,8,12,25,11,7,2,2,17,9,8,23,Q,EU_CL,Stamford Bridge,London
+2006/07,22,10,Liverpool,3,22,12,4,6,32,16,16,40,11,9,2,0,23,3,20,29,11,3,2,6,9,13,-4,11,Q,EU_CL,Anfield,Liverpool
+2006/07,22,1,Arsenal,4,22,11,6,5,41,19,22,39,11,6,5,0,28,8,20,23,11,5,1,5,13,11,2,16,Q,EU_CL,Emirates Stadium,London
+2006/07,22,27,Bolton Wanderers,5,22,12,3,7,27,21,6,39,11,7,1,3,17,10,7,22,11,5,2,4,10,11,-1,17,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,22,37,Portsmouth,6,22,10,6,6,33,22,11,36,11,7,3,1,20,8,12,24,11,3,3,5,13,14,-1,12,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,22,21,Tottenham Hotspur,7,22,9,5,8,26,28,-2,32,11,8,1,2,19,9,10,25,11,1,4,6,7,19,-12,7,Q,EU_UC,White Hart Lane,London
+2006/07,22,7,Everton,8,22,8,7,7,28,22,6,31,11,6,3,2,18,8,10,21,11,2,4,5,10,14,-4,10,,,Goodison Park,Liverpool
+2006/07,22,40,Reading,9,22,9,3,10,30,30,0,30,11,6,1,4,18,13,5,19,11,3,2,6,12,17,-5,11,,,Madejski Stadium,Reading
+2006/07,22,11,Manchester City,10,22,8,5,9,19,25,-6,29,11,5,4,2,10,6,4,19,11,3,1,7,9,19,-10,10,,,Etihad Stadium,Manchester
+2006/07,22,3,Blackburn Rovers,11,21,8,4,9,24,29,-5,28,11,5,2,4,14,13,1,17,10,3,2,5,10,16,-6,11,Q,EU_IT,Ewood Park,Blackburn
+2006/07,22,34,Fulham,12,22,6,9,7,22,32,-10,27,11,5,3,3,9,8,1,18,11,1,6,4,13,24,-11,9,,,Craven Cottage,London
+2006/07,22,2,Aston Villa,13,22,5,11,6,23,25,-2,26,11,4,4,3,12,11,1,16,11,1,7,3,11,14,-3,10,,,Villa Park,Birmingham
+2006/07,22,23,Newcastle United,14,22,7,5,10,23,28,-5,26,11,5,3,3,16,13,3,18,11,2,2,7,7,15,-8,8,,,St. James' Park,Newcastle
+2006/07,22,13,Middlesbrough,15,22,6,6,10,21,27,-6,24,11,6,2,3,13,11,2,20,11,0,4,7,8,16,-8,4,,,Riverside Stadium,Middlesbrough
+2006/07,22,18,Sheffield United,16,22,6,5,11,17,29,-12,23,11,3,4,4,12,14,-2,13,11,3,1,7,5,15,-10,10,,,Bramall Lane,Sheffield
+2006/07,22,39,Wigan Athletic,17,21,6,4,11,23,32,-9,22,11,3,2,6,12,18,-6,11,10,3,2,5,11,14,-3,11,,,DW Stadium,Wigan
+2006/07,22,25,West Ham United,18,22,5,3,14,12,33,-21,18,11,5,1,5,10,11,-1,16,11,0,2,9,2,22,-20,2,R,EN_CH,Boleyn Ground,London
+2006/07,22,31,Charlton Athletic,19,22,4,4,14,17,40,-23,16,11,4,3,4,10,13,-3,15,11,0,1,10,7,27,-20,1,R,EN_CH,The Valley,London
+2006/07,22,33,Watford,20,20,1,9,10,12,26,-14,12,9,1,5,3,8,9,-1,8,11,0,4,7,4,17,-13,4,R,EN_CH,Vicarage Road,Watford
+2006/07,23,12,Manchester United,1,23,18,3,2,52,16,36,57,12,10,1,1,29,8,21,31,11,8,2,1,23,8,15,26,Q,EU_CL,Old Trafford,Manchester
+2006/07,23,4,Chelsea,2,23,15,6,2,41,17,24,51,12,8,4,0,24,8,16,28,11,7,2,2,17,9,8,23,Q,EU_CL,Stamford Bridge,London
+2006/07,23,10,Liverpool,3,23,13,4,6,35,16,19,43,11,9,2,0,23,3,20,29,12,4,2,6,12,13,-1,14,Q,EU_CL,Anfield,Liverpool
+2006/07,23,1,Arsenal,4,23,12,6,5,43,19,24,42,11,6,5,0,28,8,20,23,12,6,1,5,15,11,4,19,Q,EU_CL,Emirates Stadium,London
+2006/07,23,27,Bolton Wanderers,5,23,12,4,7,27,21,6,40,12,7,2,3,17,10,7,23,11,5,2,4,10,11,-1,17,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,23,37,Portsmouth,6,23,10,7,6,34,23,11,37,11,7,3,1,20,8,12,24,12,3,4,5,14,15,-1,13,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,23,7,Everton,7,23,8,8,7,29,23,6,32,12,6,4,2,19,9,10,22,11,2,4,5,10,14,-4,10,Q,EU_UC,Goodison Park,Liverpool
+2006/07,23,21,Tottenham Hotspur,8,23,9,5,9,28,31,-3,32,12,8,1,3,21,12,9,25,11,1,4,6,7,19,-12,7,,,White Hart Lane,London
+2006/07,23,40,Reading,9,23,9,4,10,31,31,0,31,11,6,1,4,18,13,5,19,12,3,3,6,13,18,-5,12,,,Madejski Stadium,Reading
+2006/07,23,11,Manchester City,10,23,8,6,9,19,25,-6,30,11,5,4,2,10,6,4,19,12,3,2,7,9,19,-10,11,,,Etihad Stadium,Manchester
+2006/07,23,23,Newcastle United,11,23,8,5,10,26,30,-4,29,11,5,3,3,16,13,3,18,12,3,2,7,10,17,-7,11,,,St. James' Park,Newcastle
+2006/07,23,3,Blackburn Rovers,12,22,8,4,10,24,31,-7,28,12,5,2,5,14,15,-1,17,10,3,2,5,10,16,-6,11,Q,EU_IT,Ewood Park,Blackburn
+2006/07,23,34,Fulham,13,23,6,10,7,25,35,-10,28,11,5,3,3,9,8,1,18,12,1,7,4,16,27,-11,10,,,Craven Cottage,London
+2006/07,23,13,Middlesbrough,14,23,7,6,10,24,28,-4,27,11,6,2,3,13,11,2,20,12,1,4,7,11,17,-6,7,,,Riverside Stadium,Middlesbrough
+2006/07,23,2,Aston Villa,15,23,5,11,7,24,28,-4,26,11,4,4,3,12,11,1,16,12,1,7,4,12,17,-5,10,,,Villa Park,Birmingham
+2006/07,23,18,Sheffield United,16,23,6,6,11,18,30,-12,24,12,3,5,4,13,15,-2,14,11,3,1,7,5,15,-10,10,,,Bramall Lane,Sheffield
+2006/07,23,39,Wigan Athletic,17,22,6,4,12,23,36,-13,22,11,3,2,6,12,18,-6,11,11,3,2,6,11,18,-7,11,,,DW Stadium,Wigan
+2006/07,23,25,West Ham United,18,23,5,4,14,15,36,-21,19,12,5,2,5,13,14,-1,17,11,0,2,9,2,22,-20,2,R,EN_CH,Boleyn Ground,London
+2006/07,23,31,Charlton Athletic,19,23,4,4,15,18,43,-25,16,12,4,3,5,11,16,-5,15,11,0,1,10,7,27,-20,1,R,EN_CH,The Valley,London
+2006/07,23,33,Watford,20,21,1,9,11,12,29,-17,12,10,1,5,4,8,12,-4,8,11,0,4,7,4,17,-13,4,R,EN_CH,Vicarage Road,Watford
+2006/07,24,12,Manchester United,1,24,18,3,3,53,18,35,57,12,10,1,1,29,8,21,31,12,8,2,2,24,10,14,26,Q,EU_CL,Old Trafford,Manchester
+2006/07,24,4,Chelsea,2,24,15,6,3,41,19,22,51,12,8,4,0,24,8,16,28,12,7,2,3,17,11,6,23,Q,EU_CL,Stamford Bridge,London
+2006/07,24,10,Liverpool,3,24,14,4,6,37,16,21,46,12,10,2,0,25,3,22,32,12,4,2,6,12,13,-1,14,Q,EU_CL,Anfield,Liverpool
+2006/07,24,1,Arsenal,4,24,13,6,5,45,20,25,45,12,7,5,0,30,9,21,26,12,6,1,5,15,11,4,19,Q,EU_CL,Emirates Stadium,London
+2006/07,24,27,Bolton Wanderers,5,24,12,4,8,28,26,2,40,12,7,2,3,17,10,7,23,12,5,2,5,11,16,-5,17,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,24,37,Portsmouth,6,24,10,7,7,34,24,10,37,12,7,3,2,20,9,11,24,12,3,4,5,14,15,-1,13,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,24,7,Everton,7,24,9,8,7,31,23,8,35,12,6,4,2,19,9,10,22,12,3,4,5,12,14,-2,13,Q,EU_UC,Goodison Park,Liverpool
+2006/07,24,40,Reading,8,24,10,4,10,34,32,2,34,12,7,1,4,21,14,7,22,12,3,3,6,13,18,-5,12,,,Madejski Stadium,Reading
+2006/07,24,21,Tottenham Hotspur,9,24,9,6,9,29,32,-3,33,12,8,1,3,21,12,9,25,12,1,5,6,8,20,-12,8,,,White Hart Lane,London
+2006/07,24,3,Blackburn Rovers,10,24,9,4,11,28,33,-5,31,12,5,2,5,14,15,-1,17,12,4,2,6,14,18,-4,14,Q,EU_IT,Ewood Park,Blackburn
+2006/07,24,13,Middlesbrough,11,24,8,6,10,29,29,0,30,12,7,2,3,18,12,6,23,12,1,4,7,11,17,-6,7,,,Riverside Stadium,Middlesbrough
+2006/07,24,23,Newcastle United,12,24,8,6,10,28,32,-4,30,12,5,4,3,18,15,3,19,12,3,2,7,10,17,-7,11,,,St. James' Park,Newcastle
+2006/07,24,11,Manchester City,13,24,8,6,10,19,28,-9,30,12,5,4,3,10,9,1,19,12,3,2,7,9,19,-10,11,,,Etihad Stadium,Manchester
+2006/07,24,2,Aston Villa,14,24,6,11,7,26,28,-2,29,12,5,4,3,14,11,3,19,12,1,7,4,12,17,-5,10,,,Villa Park,Birmingham
+2006/07,24,34,Fulham,15,24,6,11,7,26,36,-10,29,12,5,4,3,10,9,1,19,12,1,7,4,16,27,-11,10,,,Craven Cottage,London
+2006/07,24,18,Sheffield United,16,24,6,6,12,19,33,-14,24,12,3,5,4,13,15,-2,14,12,3,1,8,6,18,-12,10,,,Bramall Lane,Sheffield
+2006/07,24,39,Wigan Athletic,17,23,6,4,13,23,38,-15,22,12,3,2,7,12,20,-8,11,11,3,2,6,11,18,-7,11,,,DW Stadium,Wigan
+2006/07,24,25,West Ham United,18,24,5,5,14,17,38,-21,20,12,5,2,5,13,14,-1,17,12,0,3,9,4,24,-20,3,R,EN_CH,Boleyn Ground,London
+2006/07,24,31,Charlton Athletic,19,24,5,4,15,19,43,-24,19,12,4,3,5,11,16,-5,15,12,1,1,10,8,27,-19,4,R,EN_CH,The Valley,London
+2006/07,24,33,Watford,20,23,2,9,12,14,32,-18,15,11,2,5,4,10,13,-3,11,12,0,4,8,4,19,-15,4,R,EN_CH,Vicarage Road,Watford
+2006/07,25,12,Manchester United,1,25,19,3,3,57,18,39,60,13,11,1,1,33,8,25,34,12,8,2,2,24,10,14,26,Q,EU_CL,Old Trafford,Manchester
+2006/07,25,4,Chelsea,2,25,16,6,3,44,19,25,54,13,9,4,0,27,8,19,31,12,7,2,3,17,11,6,23,Q,EU_CL,Stamford Bridge,London
+2006/07,25,10,Liverpool,3,25,15,4,6,39,17,22,49,12,10,2,0,25,3,22,32,13,5,2,6,14,14,0,17,Q,EU_CL,Anfield,Liverpool
+2006/07,25,1,Arsenal,4,24,13,6,5,45,20,25,45,12,7,5,0,30,9,21,26,12,6,1,5,15,11,4,19,Q,EU_CL,Emirates Stadium,London
+2006/07,25,27,Bolton Wanderers,5,25,12,5,8,29,27,2,41,13,7,3,3,18,11,7,24,12,5,2,5,11,16,-5,17,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,25,37,Portsmouth,6,25,10,8,7,34,24,10,38,13,7,4,2,20,9,11,25,12,3,4,5,14,15,-1,13,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,25,40,Reading,7,25,11,4,10,37,34,3,37,13,8,1,4,24,16,8,25,12,3,3,6,13,18,-5,12,Q,EU_UC,Madejski Stadium,Reading
+2006/07,25,7,Everton,8,24,9,8,7,31,23,8,35,12,6,4,2,19,9,10,22,12,3,4,5,12,14,-2,13,,,Goodison Park,Liverpool
+2006/07,25,23,Newcastle United,9,25,9,6,10,31,33,-2,33,13,6,4,3,21,16,5,22,12,3,2,7,10,17,-7,11,,,St. James' Park,Newcastle
+2006/07,25,21,Tottenham Hotspur,10,24,9,6,9,29,32,-3,33,12,8,1,3,21,12,9,25,12,1,5,6,8,20,-12,8,,,White Hart Lane,London
+2006/07,25,13,Middlesbrough,11,25,8,7,10,29,29,0,31,12,7,2,3,18,12,6,23,13,1,5,7,11,17,-6,8,,,Riverside Stadium,Middlesbrough
+2006/07,25,3,Blackburn Rovers,12,25,9,4,12,28,36,-8,31,12,5,2,5,14,15,-1,17,13,4,2,7,14,21,-7,14,Q,EU_IT,Ewood Park,Blackburn
+2006/07,25,11,Manchester City,13,24,8,6,10,19,28,-9,30,12,5,4,3,10,9,1,19,12,3,2,7,9,19,-10,11,,,Etihad Stadium,Manchester
+2006/07,25,2,Aston Villa,14,25,6,11,8,27,31,-4,29,12,5,4,3,14,11,3,19,13,1,7,5,13,20,-7,10,,,Villa Park,Birmingham
+2006/07,25,34,Fulham,15,25,6,11,8,26,38,-12,29,12,5,4,3,10,9,1,19,13,1,7,5,16,29,-13,10,,,Craven Cottage,London
+2006/07,25,18,Sheffield United,16,25,7,6,12,21,33,-12,27,13,4,5,4,15,15,0,17,12,3,1,8,6,18,-12,10,,,Bramall Lane,Sheffield
+2006/07,25,39,Wigan Athletic,17,24,6,4,14,25,41,-16,22,12,3,2,7,12,20,-8,11,12,3,2,7,13,21,-8,11,,,DW Stadium,Wigan
+2006/07,25,25,West Ham United,18,25,5,5,15,18,40,-22,20,13,5,2,6,14,16,-2,17,12,0,3,9,4,24,-20,3,R,EN_CH,Boleyn Ground,London
+2006/07,25,31,Charlton Athletic,19,25,5,5,15,20,44,-24,20,12,4,3,5,11,16,-5,15,13,1,2,10,9,28,-19,5,R,EN_CH,The Valley,London
+2006/07,25,33,Watford,20,24,2,9,13,14,36,-22,15,11,2,5,4,10,13,-3,11,13,0,4,9,4,23,-19,4,R,EN_CH,Vicarage Road,Watford
+2006/07,26,12,Manchester United,1,26,20,3,3,61,18,43,63,13,11,1,1,33,8,25,34,13,9,2,2,28,10,18,29,Q,EU_CL,Old Trafford,Manchester
+2006/07,26,4,Chelsea,2,26,17,6,3,45,19,26,57,13,9,4,0,27,8,19,31,13,8,2,3,18,11,7,26,Q,EU_CL,Stamford Bridge,London
+2006/07,26,10,Liverpool,3,26,15,5,6,39,17,22,50,13,10,3,0,25,3,22,33,13,5,2,6,14,14,0,17,Q,EU_CL,Anfield,Liverpool
+2006/07,26,1,Arsenal,4,25,13,7,5,46,21,25,46,12,7,5,0,30,9,21,26,13,6,2,5,16,12,4,20,Q,EU_CL,Emirates Stadium,London
+2006/07,26,27,Bolton Wanderers,5,26,13,5,8,30,27,3,44,13,7,3,3,18,11,7,24,13,6,2,5,12,16,-4,20,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,26,40,Reading,6,26,12,4,10,39,34,5,40,13,8,1,4,24,16,8,25,13,4,3,6,15,18,-3,15,Q,EU_UC,Madejski Stadium,Reading
+2006/07,26,37,Portsmouth,7,26,10,8,8,34,25,9,38,13,7,4,2,20,9,11,25,13,3,4,6,14,16,-2,13,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,26,7,Everton,8,25,9,9,7,31,23,8,36,12,6,4,2,19,9,10,22,13,3,5,5,12,14,-2,14,,,Goodison Park,Liverpool
+2006/07,26,3,Blackburn Rovers,9,26,10,4,12,30,37,-7,34,13,6,2,5,16,16,0,20,13,4,2,7,14,21,-7,14,Q,EU_IT,Ewood Park,Blackburn
+2006/07,26,23,Newcastle United,10,26,9,6,11,32,35,-3,33,13,6,4,3,21,16,5,22,13,3,2,8,11,19,-8,11,,,St. James' Park,Newcastle
+2006/07,26,21,Tottenham Hotspur,11,25,9,6,10,29,36,-7,33,13,8,1,4,21,16,5,25,12,1,5,6,8,20,-12,8,,,White Hart Lane,London
+2006/07,26,13,Middlesbrough,12,26,8,8,10,30,30,0,32,13,7,3,3,19,13,6,24,13,1,5,7,11,17,-6,8,,,Riverside Stadium,Middlesbrough
+2006/07,26,2,Aston Villa,13,26,7,11,8,28,31,-3,32,13,6,4,3,15,11,4,22,13,1,7,5,13,20,-7,10,,,Villa Park,Birmingham
+2006/07,26,34,Fulham,14,26,7,11,8,28,39,-11,32,13,6,4,3,12,10,2,22,13,1,7,5,16,29,-13,10,,,Craven Cottage,London
+2006/07,26,11,Manchester City,15,25,8,6,11,19,30,-11,30,13,5,4,4,10,11,-1,19,12,3,2,7,9,19,-10,11,,,Etihad Stadium,Manchester
+2006/07,26,18,Sheffield United,16,26,7,6,13,22,35,-13,27,13,4,5,4,15,15,0,17,13,3,1,9,7,20,-13,10,,,Bramall Lane,Sheffield
+2006/07,26,39,Wigan Athletic,17,25,7,4,14,26,41,-15,25,13,4,2,7,13,20,-7,14,12,3,2,7,13,21,-8,11,,,DW Stadium,Wigan
+2006/07,26,25,West Ham United,18,26,5,5,16,18,41,-23,20,13,5,2,6,14,16,-2,17,13,0,3,10,4,25,-21,3,R,EN_CH,Boleyn Ground,London
+2006/07,26,31,Charlton Athletic,19,26,5,5,16,20,45,-25,20,13,4,3,6,11,17,-6,15,13,1,2,10,9,28,-19,5,R,EN_CH,The Valley,London
+2006/07,26,33,Watford,20,25,2,9,14,14,37,-23,15,12,2,5,5,10,14,-4,11,13,0,4,9,4,23,-19,4,R,EN_CH,Vicarage Road,Watford
+2006/07,27,12,Manchester United,1,27,21,3,3,63,18,45,66,14,12,1,1,35,8,27,37,13,9,2,2,28,10,18,29,Q,EU_CL,Old Trafford,Manchester
+2006/07,27,4,Chelsea,2,27,18,6,3,48,19,29,60,14,10,4,0,30,8,22,34,13,8,2,3,18,11,7,26,Q,EU_CL,Stamford Bridge,London
+2006/07,27,10,Liverpool,3,27,15,5,7,40,19,21,50,13,10,3,0,25,3,22,33,14,5,2,7,15,16,-1,17,Q,EU_CL,Anfield,Liverpool
+2006/07,27,1,Arsenal,4,26,14,7,5,48,22,26,49,13,8,5,0,32,10,22,29,13,6,2,5,16,12,4,20,Q,EU_CL,Emirates Stadium,London
+2006/07,27,27,Bolton Wanderers,5,27,14,5,8,32,28,4,47,14,8,3,3,20,12,8,27,13,6,2,5,12,16,-4,20,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,27,40,Reading,6,27,13,4,10,41,34,7,43,14,9,1,4,26,16,10,28,13,4,3,6,15,18,-3,15,Q,EU_UC,Madejski Stadium,Reading
+2006/07,27,37,Portsmouth,7,27,11,8,8,36,26,10,41,14,8,4,2,22,10,12,28,13,3,4,6,14,16,-2,13,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,27,7,Everton,8,27,10,9,8,33,25,8,39,14,7,4,3,21,11,10,25,13,3,5,5,12,14,-2,14,,,Goodison Park,Liverpool
+2006/07,27,23,Newcastle United,9,27,10,6,11,34,36,-2,36,14,7,4,3,23,17,6,25,13,3,2,8,11,19,-8,11,,,St. James' Park,Newcastle
+2006/07,27,21,Tottenham Hotspur,10,27,10,6,11,32,39,-7,36,13,8,1,4,21,16,5,25,14,2,5,7,11,23,-12,11,,,White Hart Lane,London
+2006/07,27,3,Blackburn Rovers,11,27,10,4,13,30,38,-8,34,13,6,2,5,16,16,0,20,14,4,2,8,14,22,-8,14,Q,EU_IT,Ewood Park,Blackburn
+2006/07,27,13,Middlesbrough,12,27,8,8,11,30,33,-3,32,13,7,3,3,19,13,6,24,14,1,5,8,11,20,-9,8,,,Riverside Stadium,Middlesbrough
+2006/07,27,2,Aston Villa,13,27,7,11,9,28,33,-5,32,13,6,4,3,15,11,4,22,14,1,7,6,13,22,-9,10,,,Villa Park,Birmingham
+2006/07,27,34,Fulham,14,27,7,11,9,29,41,-12,32,13,6,4,3,12,10,2,22,14,1,7,6,17,31,-14,10,,,Craven Cottage,London
+2006/07,27,18,Sheffield United,15,27,8,6,13,24,36,-12,30,14,5,5,4,17,16,1,20,13,3,1,9,7,20,-13,10,,,Bramall Lane,Sheffield
+2006/07,27,11,Manchester City,16,26,8,6,12,20,32,-12,30,13,5,4,4,10,11,-1,19,13,3,2,8,10,21,-11,11,,,Etihad Stadium,Manchester
+2006/07,27,39,Wigan Athletic,17,27,7,5,15,28,44,-16,26,13,4,2,7,13,20,-7,14,14,3,3,8,15,24,-9,12,,,DW Stadium,Wigan
+2006/07,27,25,West Ham United,18,27,5,5,17,18,42,-24,20,14,5,2,7,14,17,-3,17,13,0,3,10,4,25,-21,3,R,EN_CH,Boleyn Ground,London
+2006/07,27,31,Charlton Athletic,19,27,5,5,17,20,47,-27,20,13,4,3,6,11,17,-6,15,14,1,2,11,9,30,-21,5,R,EN_CH,The Valley,London
+2006/07,27,33,Watford,20,27,3,10,14,16,38,-22,19,13,2,6,5,11,15,-4,12,14,1,4,9,5,23,-18,7,R,EN_CH,Vicarage Road,Watford
+2006/07,28,12,Manchester United,1,28,22,3,3,65,19,46,69,14,12,1,1,35,8,27,37,14,10,2,2,30,11,19,32,Q,EU_CL,Old Trafford,Manchester
+2006/07,28,4,Chelsea,2,27,18,6,3,48,19,29,60,14,10,4,0,30,8,22,34,13,8,2,3,18,11,7,26,Q,EU_CL,Stamford Bridge,London
+2006/07,28,10,Liverpool,3,28,16,5,7,44,19,25,53,14,11,3,0,29,3,26,36,14,5,2,7,15,16,-1,17,Q,EU_CL,Anfield,Liverpool
+2006/07,28,1,Arsenal,4,26,14,7,5,48,22,26,49,13,8,5,0,32,10,22,29,13,6,2,5,16,12,4,20,Q,EU_CL,Emirates Stadium,London
+2006/07,28,27,Bolton Wanderers,5,28,14,5,9,33,32,1,47,14,8,3,3,20,12,8,27,14,6,2,6,13,20,-7,20,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,28,40,Reading,6,28,13,4,11,42,36,6,43,14,9,1,4,26,16,10,28,14,4,3,7,16,20,-4,15,Q,EU_UC,Madejski Stadium,Reading
+2006/07,28,7,Everton,7,28,11,9,8,36,25,11,42,14,7,4,3,21,11,10,25,14,4,5,5,15,14,1,17,Q,EU_UC,Goodison Park,Liverpool
+2006/07,28,37,Portsmouth,8,28,11,8,9,36,29,7,41,14,8,4,2,22,10,12,28,14,3,4,7,14,19,-5,13,,,Fratton Park,Portsmouth
+2006/07,28,21,Tottenham Hotspur,9,28,11,6,11,36,40,-4,39,14,9,1,4,25,17,8,28,14,2,5,7,11,23,-12,11,,,White Hart Lane,London
+2006/07,28,3,Blackburn Rovers,10,28,11,4,13,33,38,-5,37,14,7,2,5,19,16,3,23,14,4,2,8,14,22,-8,14,Q,EU_IT,Ewood Park,Blackburn
+2006/07,28,23,Newcastle United,11,28,10,6,12,34,37,-3,36,14,7,4,3,23,17,6,25,14,3,2,9,11,20,-9,11,,,St. James' Park,Newcastle
+2006/07,28,13,Middlesbrough,12,28,9,8,11,32,34,-2,35,14,8,3,3,21,14,7,27,14,1,5,8,11,20,-9,8,,,Riverside Stadium,Middlesbrough
+2006/07,28,2,Aston Villa,13,27,7,11,9,28,33,-5,32,13,6,4,3,15,11,4,22,14,1,7,6,13,22,-9,10,,,Villa Park,Birmingham
+2006/07,28,34,Fulham,14,28,7,11,10,30,43,-13,32,14,6,4,4,13,12,1,22,14,1,7,6,17,31,-14,10,,,Craven Cottage,London
+2006/07,28,11,Manchester City,15,26,8,6,12,20,32,-12,30,13,5,4,4,10,11,-1,19,13,3,2,8,10,21,-11,11,,,Etihad Stadium,Manchester
+2006/07,28,18,Sheffield United,16,28,8,6,14,24,40,-16,30,14,5,5,4,17,16,1,20,14,3,1,10,7,24,-17,10,,,Bramall Lane,Sheffield
+2006/07,28,39,Wigan Athletic,17,28,8,5,15,29,44,-15,29,14,5,2,7,14,20,-6,17,14,3,3,8,15,24,-9,12,,,DW Stadium,Wigan
+2006/07,28,31,Charlton Athletic,18,28,6,5,17,24,47,-23,23,14,5,3,6,15,17,-2,18,14,1,2,11,9,30,-21,5,R,EN_CH,The Valley,London
+2006/07,28,25,West Ham United,19,28,5,5,18,18,46,-28,20,14,5,2,7,14,17,-3,17,14,0,3,11,4,29,-25,3,R,EN_CH,Boleyn Ground,London
+2006/07,28,33,Watford,20,28,3,10,15,16,41,-25,19,14,2,6,6,11,18,-7,12,14,1,4,9,5,23,-18,7,R,EN_CH,Vicarage Road,Watford
+2006/07,29,12,Manchester United,1,29,23,3,3,66,19,47,72,14,12,1,1,35,8,27,37,15,11,2,2,31,11,20,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,29,4,Chelsea,2,29,20,6,3,51,19,32,66,14,10,4,0,30,8,22,34,15,10,2,3,21,11,10,32,Q,EU_CL,Stamford Bridge,London
+2006/07,29,1,Arsenal,3,28,16,7,5,51,23,28,55,14,9,5,0,34,11,23,32,14,7,2,5,17,12,5,23,Q,EU_CL,Emirates Stadium,London
+2006/07,29,10,Liverpool,4,29,16,5,8,44,20,24,53,15,11,3,1,29,4,25,36,14,5,2,7,15,16,-1,17,Q,EU_CL,Anfield,Liverpool
+2006/07,29,27,Bolton Wanderers,5,29,14,5,10,34,34,0,47,15,8,3,4,21,14,7,27,14,6,2,6,13,20,-7,20,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,29,7,Everton,6,29,11,10,8,37,26,11,43,14,7,4,3,21,11,10,25,15,4,6,5,16,15,1,18,Q,EU_UC,Goodison Park,Liverpool
+2006/07,29,40,Reading,7,29,13,4,12,43,38,5,43,14,9,1,4,26,16,10,28,15,4,3,8,17,22,-5,15,Q,EU_UC,Madejski Stadium,Reading
+2006/07,29,21,Tottenham Hotspur,8,29,12,6,11,40,43,-3,42,14,9,1,4,25,17,8,28,15,3,5,7,15,26,-11,14,,,White Hart Lane,London
+2006/07,29,37,Portsmouth,9,29,11,8,10,36,31,5,41,15,8,4,3,22,12,10,28,14,3,4,7,14,19,-5,13,,,Fratton Park,Portsmouth
+2006/07,29,3,Blackburn Rovers,10,29,12,4,13,35,39,-4,40,14,7,2,5,19,16,3,23,15,5,2,8,16,23,-7,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,29,23,Newcastle United,11,29,10,7,12,34,37,-3,37,15,7,5,3,23,17,6,26,14,3,2,9,11,20,-9,11,,,St. James' Park,Newcastle
+2006/07,29,13,Middlesbrough,12,29,9,9,11,32,34,-2,36,14,8,3,3,21,14,7,27,15,1,6,8,11,20,-9,9,,,Riverside Stadium,Middlesbrough
+2006/07,29,2,Aston Villa,13,29,7,12,10,29,35,-6,33,14,6,4,4,15,12,3,22,15,1,8,6,14,23,-9,11,,,Villa Park,Birmingham
+2006/07,29,34,Fulham,14,29,7,12,10,31,44,-13,33,15,6,5,4,14,13,1,23,14,1,7,6,17,31,-14,10,,,Craven Cottage,London
+2006/07,29,39,Wigan Athletic,15,29,9,5,15,30,44,-14,32,14,5,2,7,14,20,-6,17,15,4,3,8,16,24,-8,15,,,DW Stadium,Wigan
+2006/07,29,18,Sheffield United,16,29,8,7,14,25,41,-16,31,15,5,6,4,18,17,1,21,14,3,1,10,7,24,-17,10,,,Bramall Lane,Sheffield
+2006/07,29,11,Manchester City,17,28,8,6,14,20,34,-14,30,15,5,4,6,10,13,-3,19,13,3,2,8,10,21,-11,11,,,Etihad Stadium,Manchester
+2006/07,29,31,Charlton Athletic,18,29,6,6,17,26,49,-23,24,14,5,3,6,15,17,-2,18,15,1,3,11,11,32,-21,6,R,EN_CH,The Valley,London
+2006/07,29,33,Watford,19,29,3,11,15,18,43,-25,20,15,2,7,6,13,20,-7,13,14,1,4,9,5,23,-18,7,R,EN_CH,Vicarage Road,Watford
+2006/07,29,25,West Ham United,20,29,5,5,19,21,50,-29,20,15,5,2,8,17,21,-4,17,14,0,3,11,4,29,-25,3,R,EN_CH,Boleyn Ground,London
+2006/07,30,12,Manchester United,1,30,24,3,3,70,20,50,75,15,13,1,1,39,9,30,40,15,11,2,2,31,11,20,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,30,4,Chelsea,2,30,21,6,3,54,19,35,69,15,11,4,0,33,8,25,37,15,10,2,3,21,11,10,32,Q,EU_CL,Stamford Bridge,London
+2006/07,30,1,Arsenal,3,29,16,7,6,51,24,27,55,14,9,5,0,34,11,23,32,15,7,2,6,17,13,4,23,Q,EU_CL,Emirates Stadium,London
+2006/07,30,10,Liverpool,4,30,16,6,8,44,20,24,54,15,11,3,1,29,4,25,36,15,5,3,7,15,16,-1,18,Q,EU_CL,Anfield,Liverpool
+2006/07,30,27,Bolton Wanderers,5,30,14,5,11,35,38,-3,47,15,8,3,4,21,14,7,27,15,6,2,7,14,24,-10,20,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,30,7,Everton,6,30,12,10,8,38,26,12,46,15,8,4,3,22,11,11,28,15,4,6,5,16,15,1,18,Q,EU_UC,Goodison Park,Liverpool
+2006/07,30,21,Tottenham Hotspur,7,30,13,6,11,43,44,-1,45,15,10,1,4,28,18,10,31,15,3,5,7,15,26,-11,14,Q,EU_UC,White Hart Lane,London
+2006/07,30,40,Reading,8,30,13,5,12,43,38,5,44,15,9,2,4,26,16,10,29,15,4,3,8,17,22,-5,15,,,Madejski Stadium,Reading
+2006/07,30,37,Portsmouth,9,30,11,9,10,36,31,5,42,15,8,4,3,22,12,10,28,15,3,5,7,14,19,-5,14,,,Fratton Park,Portsmouth
+2006/07,30,3,Blackburn Rovers,10,30,12,4,14,36,41,-5,40,15,7,2,6,20,18,2,23,15,5,2,8,16,23,-7,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,30,23,Newcastle United,11,30,10,7,13,34,39,-5,37,15,7,5,3,23,17,6,26,15,3,2,10,11,22,-11,11,,,St. James' Park,Newcastle
+2006/07,30,13,Middlesbrough,12,30,9,9,12,32,36,-4,36,15,8,3,4,21,16,5,27,15,1,6,8,11,20,-9,9,,,Riverside Stadium,Middlesbrough
+2006/07,30,2,Aston Villa,13,30,7,13,10,29,35,-6,34,15,6,5,4,15,12,3,23,15,1,8,6,14,23,-9,11,,,Villa Park,Birmingham
+2006/07,30,34,Fulham,14,30,7,13,10,31,44,-13,34,15,6,5,4,14,13,1,23,15,1,8,6,17,31,-14,11,,,Craven Cottage,London
+2006/07,30,11,Manchester City,15,29,9,6,14,22,34,-12,33,15,5,4,6,10,13,-3,19,14,4,2,8,12,21,-9,14,,,Etihad Stadium,Manchester
+2006/07,30,39,Wigan Athletic,16,30,9,6,15,30,44,-14,33,15,5,3,7,14,20,-6,18,15,4,3,8,16,24,-8,15,,,DW Stadium,Wigan
+2006/07,30,18,Sheffield United,17,30,8,7,15,25,44,-19,31,15,5,6,4,18,17,1,21,15,3,1,11,7,27,-20,10,,,Bramall Lane,Sheffield
+2006/07,30,31,Charlton Athletic,18,30,7,6,17,28,49,-21,27,15,6,3,6,17,17,0,21,15,1,3,11,11,32,-21,6,R,EN_CH,The Valley,London
+2006/07,30,25,West Ham United,19,30,6,5,19,23,51,-28,23,15,5,2,8,17,21,-4,17,15,1,3,11,6,30,-24,6,R,EN_CH,Boleyn Ground,London
+2006/07,30,33,Watford,20,30,3,11,16,19,46,-27,20,15,2,7,6,13,20,-7,13,15,1,4,10,6,26,-20,7,R,EN_CH,Vicarage Road,Watford
+2006/07,31,12,Manchester United,1,31,25,3,3,74,21,53,78,16,14,1,1,43,10,33,43,15,11,2,2,31,11,20,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,31,4,Chelsea,2,31,22,6,3,55,19,36,72,15,11,4,0,33,8,25,37,16,11,2,3,22,11,11,35,Q,EU_CL,Stamford Bridge,London
+2006/07,31,10,Liverpool,3,31,17,6,8,48,21,27,57,16,12,3,1,33,5,28,39,15,5,3,7,15,16,-1,18,Q,EU_CL,Anfield,Liverpool
+2006/07,31,1,Arsenal,4,30,16,7,7,52,28,24,55,14,9,5,0,34,11,23,32,16,7,2,7,18,17,1,23,Q,EU_CL,Emirates Stadium,London
+2006/07,31,27,Bolton Wanderers,5,31,15,5,11,36,38,-2,50,16,9,3,4,22,14,8,30,15,6,2,7,14,24,-10,20,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,31,21,Tottenham Hotspur,6,31,14,6,11,44,44,0,48,16,11,1,4,29,18,11,34,15,3,5,7,15,26,-11,14,Q,EU_UC,White Hart Lane,London
+2006/07,31,7,Everton,7,31,12,11,8,39,27,12,47,15,8,4,3,22,11,11,28,16,4,7,5,17,16,1,19,Q,EU_UC,Goodison Park,Liverpool
+2006/07,31,40,Reading,8,31,13,5,13,43,39,4,44,15,9,2,4,26,16,10,29,16,4,3,9,17,23,-6,15,,,Madejski Stadium,Reading
+2006/07,31,37,Portsmouth,9,31,11,10,10,37,32,5,43,15,8,4,3,22,12,10,28,16,3,6,7,15,20,-5,15,,,Fratton Park,Portsmouth
+2006/07,31,3,Blackburn Rovers,10,31,12,4,15,37,45,-8,40,15,7,2,6,20,18,2,23,16,5,2,9,17,27,-10,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,31,23,Newcastle United,11,31,10,7,14,34,40,-6,37,16,7,5,4,23,18,5,26,15,3,2,10,11,22,-11,11,,,St. James' Park,Newcastle
+2006/07,31,13,Middlesbrough,12,31,9,9,13,32,38,-6,36,15,8,3,4,21,16,5,27,16,1,6,9,11,22,-11,9,,,Riverside Stadium,Middlesbrough
+2006/07,31,11,Manchester City,13,30,10,6,14,23,34,-11,36,15,5,4,6,10,13,-3,19,15,5,2,8,13,21,-8,17,,,Etihad Stadium,Manchester
+2006/07,31,2,Aston Villa,14,31,7,14,10,30,36,-6,35,16,6,6,4,16,13,3,24,15,1,8,6,14,23,-9,11,,,Villa Park,Birmingham
+2006/07,31,34,Fulham,15,31,7,14,10,32,45,-13,35,16,6,6,4,15,14,1,24,15,1,8,6,17,31,-14,11,,,Craven Cottage,London
+2006/07,31,39,Wigan Athletic,16,31,9,6,16,30,45,-15,33,15,5,3,7,14,20,-6,18,16,4,3,9,16,25,-9,15,,,DW Stadium,Wigan
+2006/07,31,18,Sheffield United,17,31,8,7,16,25,45,-20,31,15,5,6,4,18,17,1,21,16,3,1,12,7,28,-21,10,,,Bramall Lane,Sheffield
+2006/07,31,31,Charlton Athletic,18,31,8,6,17,29,49,-20,30,16,7,3,6,18,17,1,24,15,1,3,11,11,32,-21,6,R,EN_CH,The Valley,London
+2006/07,31,25,West Ham United,19,31,7,5,19,25,51,-26,26,16,6,2,8,19,21,-2,20,15,1,3,11,6,30,-24,6,R,EN_CH,Boleyn Ground,London
+2006/07,31,33,Watford,20,31,3,11,17,19,47,-28,20,16,2,7,7,13,21,-8,13,15,1,4,10,6,26,-20,7,R,EN_CH,Vicarage Road,Watford
+2006/07,32,12,Manchester United,1,32,25,3,4,75,23,52,78,16,14,1,1,43,10,33,43,16,11,2,3,32,13,19,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,32,4,Chelsea,2,32,23,6,3,56,19,37,75,16,12,4,0,34,8,26,40,16,11,2,3,22,11,11,35,Q,EU_CL,Stamford Bridge,London
+2006/07,32,10,Liverpool,3,32,18,6,8,50,22,28,60,16,12,3,1,33,5,28,39,16,6,3,7,17,17,0,21,Q,EU_CL,Anfield,Liverpool
+2006/07,32,1,Arsenal,4,31,16,7,8,52,29,23,55,15,9,5,1,34,12,22,32,16,7,2,7,18,17,1,23,Q,EU_CL,Emirates Stadium,London
+2006/07,32,27,Bolton Wanderers,5,32,16,5,11,39,39,0,53,16,9,3,4,22,14,8,30,16,7,2,7,17,25,-8,23,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,32,7,Everton,6,32,13,11,8,43,28,15,50,16,9,4,3,26,12,14,31,16,4,7,5,17,16,1,19,Q,EU_UC,Goodison Park,Liverpool
+2006/07,32,21,Tottenham Hotspur,7,32,14,6,12,44,45,-1,48,16,11,1,4,29,18,11,34,16,3,5,8,15,27,-12,14,Q,EU_UC,White Hart Lane,London
+2006/07,32,37,Portsmouth,8,32,12,10,10,39,33,6,46,16,9,4,3,24,13,11,31,16,3,6,7,15,20,-5,15,,,Fratton Park,Portsmouth
+2006/07,32,40,Reading,9,32,13,5,14,44,41,3,44,16,9,2,5,27,18,9,29,16,4,3,9,17,23,-6,15,,,Madejski Stadium,Reading
+2006/07,32,23,Newcastle United,10,32,11,7,14,36,41,-5,40,16,7,5,4,23,18,5,26,16,4,2,10,13,23,-10,14,,,St. James' Park,Newcastle
+2006/07,32,3,Blackburn Rovers,11,32,12,4,16,38,47,-9,40,16,7,2,7,21,20,1,23,16,5,2,9,17,27,-10,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,32,13,Middlesbrough,12,32,10,9,13,36,39,-3,39,16,9,3,4,25,17,8,30,16,1,6,9,11,22,-11,9,,,Riverside Stadium,Middlesbrough
+2006/07,32,2,Aston Villa,13,32,8,14,10,32,37,-5,38,16,6,6,4,16,13,3,24,16,2,8,6,16,24,-8,14,,,Villa Park,Birmingham
+2006/07,32,11,Manchester City,14,31,10,7,14,23,34,-11,37,16,5,5,6,10,13,-3,20,15,5,2,8,13,21,-8,17,,,Etihad Stadium,Manchester
+2006/07,32,34,Fulham,15,32,7,14,11,33,49,-16,35,16,6,6,4,15,14,1,24,16,1,8,7,18,35,-17,11,,,Craven Cottage,London
+2006/07,32,39,Wigan Athletic,16,32,9,6,17,31,48,-17,33,16,5,3,8,15,23,-8,18,16,4,3,9,16,25,-9,15,,,DW Stadium,Wigan
+2006/07,32,31,Charlton Athletic,17,32,8,7,17,29,49,-20,31,16,7,3,6,18,17,1,24,16,1,4,11,11,32,-21,7,,,The Valley,London
+2006/07,32,18,Sheffield United,18,32,8,7,17,26,47,-21,31,16,5,6,5,19,19,0,21,16,3,1,12,7,28,-21,10,R,EN_CH,Bramall Lane,Sheffield
+2006/07,32,25,West Ham United,19,32,8,5,19,26,51,-25,29,16,6,2,8,19,21,-2,20,16,2,3,11,7,30,-23,9,R,EN_CH,Boleyn Ground,London
+2006/07,32,33,Watford,20,32,3,11,18,20,51,-31,20,16,2,7,7,13,21,-8,13,16,1,4,11,7,30,-23,7,R,EN_CH,Vicarage Road,Watford
+2006/07,33,12,Manchester United,1,32,25,3,4,75,23,52,78,16,14,1,1,43,10,33,43,16,11,2,3,32,13,19,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,33,4,Chelsea,2,32,23,6,3,56,19,37,75,16,12,4,0,34,8,26,40,16,11,2,3,22,11,11,35,Q,EU_CL,Stamford Bridge,London
+2006/07,33,10,Liverpool,3,32,18,6,8,50,22,28,60,16,12,3,1,33,5,28,39,16,6,3,7,17,17,0,21,Q,EU_CL,Anfield,Liverpool
+2006/07,33,1,Arsenal,4,32,16,8,8,52,29,23,56,15,9,5,1,34,12,22,32,17,7,3,7,18,17,1,24,Q,EU_CL,Emirates Stadium,London
+2006/07,33,27,Bolton Wanderers,5,33,16,6,11,40,40,0,54,17,9,4,4,23,15,8,31,16,7,2,7,17,25,-8,23,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,33,7,Everton,6,33,13,12,8,44,29,15,51,16,9,4,3,26,12,14,31,17,4,8,5,18,17,1,20,Q,EU_UC,Goodison Park,Liverpool
+2006/07,33,21,Tottenham Hotspur,7,32,14,6,12,44,45,-1,48,16,11,1,4,29,18,11,34,16,3,5,8,15,27,-12,14,Q,EU_UC,White Hart Lane,London
+2006/07,33,37,Portsmouth,8,33,12,10,11,41,37,4,46,16,9,4,3,24,13,11,31,17,3,6,8,17,24,-7,15,,,Fratton Park,Portsmouth
+2006/07,33,40,Reading,9,33,13,6,14,44,41,3,45,16,9,2,5,27,18,9,29,17,4,4,9,17,23,-6,16,,,Madejski Stadium,Reading
+2006/07,33,23,Newcastle United,10,33,11,8,14,36,41,-5,41,17,7,6,4,23,18,5,27,16,4,2,10,13,23,-10,14,,,St. James' Park,Newcastle
+2006/07,33,3,Blackburn Rovers,11,32,12,4,16,38,47,-9,40,16,7,2,7,21,20,1,23,16,5,2,9,17,27,-10,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,33,11,Manchester City,12,32,11,7,14,26,35,-9,40,16,5,5,6,10,13,-3,20,16,6,2,8,16,22,-6,20,,,Etihad Stadium,Manchester
+2006/07,33,13,Middlesbrough,13,32,10,9,13,36,39,-3,39,16,9,3,4,25,17,8,30,16,1,6,9,11,22,-11,9,,,Riverside Stadium,Middlesbrough
+2006/07,33,2,Aston Villa,14,33,8,15,10,33,38,-5,39,17,6,7,4,17,14,3,25,16,2,8,6,16,24,-8,14,,,Villa Park,Birmingham
+2006/07,33,34,Fulham,15,33,7,14,12,34,52,-18,35,17,6,6,5,16,17,-1,24,16,1,8,7,18,35,-17,11,,,Craven Cottage,London
+2006/07,33,39,Wigan Athletic,16,33,9,7,17,32,49,-17,34,16,5,3,8,15,23,-8,18,17,4,4,9,17,26,-9,16,,,DW Stadium,Wigan
+2006/07,33,31,Charlton Athletic,17,33,8,8,17,29,49,-20,32,17,7,4,6,18,17,1,25,16,1,4,11,11,32,-21,7,,,The Valley,London
+2006/07,33,18,Sheffield United,18,32,8,7,17,26,47,-21,31,16,5,6,5,19,19,0,21,16,3,1,12,7,28,-21,10,R,EN_CH,Bramall Lane,Sheffield
+2006/07,33,25,West Ham United,19,32,8,5,19,26,51,-25,29,16,6,2,8,19,21,-2,20,16,2,3,11,7,30,-23,9,R,EN_CH,Boleyn Ground,London
+2006/07,33,33,Watford,20,33,4,11,18,24,53,-29,23,17,3,7,7,17,23,-6,16,16,1,4,11,7,30,-23,7,R,EN_CH,Vicarage Road,Watford
+2006/07,34,12,Manchester United,1,32,25,3,4,75,23,52,78,16,14,1,1,43,10,33,43,16,11,2,3,32,13,19,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,34,4,Chelsea,2,32,23,6,3,56,19,37,75,16,12,4,0,34,8,26,40,16,11,2,3,22,11,11,35,Q,EU_CL,Stamford Bridge,London
+2006/07,34,10,Liverpool,3,33,18,7,8,50,22,28,61,16,12,3,1,33,5,28,39,17,6,4,7,17,17,0,22,Q,EU_CL,Anfield,Liverpool
+2006/07,34,1,Arsenal,4,33,17,8,8,54,30,24,59,16,10,5,1,36,13,23,35,17,7,3,7,18,17,1,24,Q,EU_CL,Emirates Stadium,London
+2006/07,34,7,Everton,5,34,14,12,8,46,30,16,54,17,10,4,3,28,13,15,34,17,4,8,5,18,17,1,20,Q,EU_UC,Goodison Park,Liverpool
+2006/07,34,27,Bolton Wanderers,6,34,16,6,12,41,42,-1,54,17,9,4,4,23,15,8,31,17,7,2,8,18,27,-9,23,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,34,37,Portsmouth,7,34,13,10,11,43,38,5,49,17,10,4,3,26,14,12,34,17,3,6,8,17,24,-7,15,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,34,21,Tottenham Hotspur,8,33,14,7,12,47,48,-1,49,16,11,1,4,29,18,11,34,17,3,6,8,18,30,-12,15,,,White Hart Lane,London
+2006/07,34,40,Reading,9,34,14,6,14,45,41,4,48,17,10,2,5,28,18,10,32,17,4,4,9,17,23,-6,16,,,Madejski Stadium,Reading
+2006/07,34,2,Aston Villa,10,34,9,15,10,36,39,-3,42,17,6,7,4,17,14,3,25,17,3,8,6,19,25,-6,17,,,Villa Park,Birmingham
+2006/07,34,23,Newcastle United,11,34,11,8,15,37,43,-6,41,17,7,6,4,23,18,5,27,17,4,2,11,14,25,-11,14,,,St. James' Park,Newcastle
+2006/07,34,11,Manchester City,12,33,11,8,14,26,35,-9,41,17,5,6,6,10,13,-3,21,16,6,2,8,16,22,-6,20,,,Etihad Stadium,Manchester
+2006/07,34,3,Blackburn Rovers,13,32,12,4,16,38,47,-9,40,16,7,2,7,21,20,1,23,16,5,2,9,17,27,-10,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,34,13,Middlesbrough,14,33,10,9,14,37,42,-5,39,17,9,3,5,26,20,6,30,16,1,6,9,11,22,-11,9,,,Riverside Stadium,Middlesbrough
+2006/07,34,39,Wigan Athletic,15,34,9,8,17,35,52,-17,35,17,5,4,8,18,26,-8,19,17,4,4,9,17,26,-9,16,,,DW Stadium,Wigan
+2006/07,34,34,Fulham,16,34,7,14,13,34,53,-19,35,17,6,6,5,16,17,-1,24,17,1,8,8,18,36,-18,11,,,Craven Cottage,London
+2006/07,34,18,Sheffield United,17,33,9,7,17,29,47,-18,34,17,6,6,5,22,19,3,24,16,3,1,12,7,28,-21,10,,,Bramall Lane,Sheffield
+2006/07,34,31,Charlton Athletic,18,34,8,8,18,30,51,-21,32,17,7,4,6,18,17,1,25,17,1,4,12,12,34,-22,7,R,EN_CH,The Valley,London
+2006/07,34,25,West Ham United,19,33,8,5,20,26,54,-28,29,16,6,2,8,19,21,-2,20,17,2,3,12,7,33,-26,9,R,EN_CH,Boleyn Ground,London
+2006/07,34,33,Watford,20,33,4,11,18,24,53,-29,23,17,3,7,7,17,23,-6,16,16,1,4,11,7,30,-23,7,R,EN_CH,Vicarage Road,Watford
+2006/07,35,12,Manchester United,1,33,26,3,4,77,23,54,81,17,15,1,1,45,10,35,46,16,11,2,3,32,13,19,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,35,4,Chelsea,2,33,24,6,3,60,20,40,78,16,12,4,0,34,8,26,40,17,12,2,3,26,12,14,38,Q,EU_CL,Stamford Bridge,London
+2006/07,35,10,Liverpool,3,34,19,7,8,52,22,30,64,17,13,3,1,35,5,30,42,17,6,4,7,17,17,0,22,Q,EU_CL,Anfield,Liverpool
+2006/07,35,1,Arsenal,4,34,18,8,8,57,31,26,62,17,11,5,1,39,14,25,38,17,7,3,7,18,17,1,24,Q,EU_CL,Emirates Stadium,London
+2006/07,35,7,Everton,5,34,14,12,8,46,30,16,54,17,10,4,3,28,13,15,34,17,4,8,5,18,17,1,20,Q,EU_UC,Goodison Park,Liverpool
+2006/07,35,27,Bolton Wanderers,6,34,16,6,12,41,42,-1,54,17,9,4,4,23,15,8,31,17,7,2,8,18,27,-9,23,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,35,37,Portsmouth,7,34,13,10,11,43,38,5,49,17,10,4,3,26,14,12,34,17,3,6,8,17,24,-7,15,Q,EU_UC,Fratton Park,Portsmouth
+2006/07,35,21,Tottenham Hotspur,8,33,14,7,12,47,48,-1,49,16,11,1,4,29,18,11,34,17,3,6,8,18,30,-12,15,,,White Hart Lane,London
+2006/07,35,40,Reading,9,34,14,6,14,45,41,4,48,17,10,2,5,28,18,10,32,17,4,4,9,17,23,-6,16,,,Madejski Stadium,Reading
+2006/07,35,3,Blackburn Rovers,10,33,13,4,16,41,48,-7,43,17,8,2,7,24,21,3,26,16,5,2,9,17,27,-10,17,Q,EU_IT,Ewood Park,Blackburn
+2006/07,35,2,Aston Villa,11,34,9,15,10,36,39,-3,42,17,6,7,4,17,14,3,25,17,3,8,6,19,25,-6,17,,,Villa Park,Birmingham
+2006/07,35,23,Newcastle United,12,34,11,8,15,37,43,-6,41,17,7,6,4,23,18,5,27,17,4,2,11,14,25,-11,14,,,St. James' Park,Newcastle
+2006/07,35,11,Manchester City,13,34,11,8,15,27,38,-11,41,17,5,6,6,10,13,-3,21,17,6,2,9,17,25,-8,20,,,Etihad Stadium,Manchester
+2006/07,35,13,Middlesbrough,14,34,10,9,15,37,44,-7,39,17,9,3,5,26,20,6,30,17,1,6,10,11,24,-13,9,,,Riverside Stadium,Middlesbrough
+2006/07,35,39,Wigan Athletic,15,34,9,8,17,35,52,-17,35,17,5,4,8,18,26,-8,19,17,4,4,9,17,26,-9,16,,,DW Stadium,Wigan
+2006/07,35,34,Fulham,16,34,7,14,13,34,53,-19,35,17,6,6,5,16,17,-1,24,17,1,8,8,18,36,-18,11,,,Craven Cottage,London
+2006/07,35,18,Sheffield United,17,34,9,7,18,29,49,-20,34,17,6,6,5,22,19,3,24,17,3,1,13,7,30,-23,10,,,Bramall Lane,Sheffield
+2006/07,35,31,Charlton Athletic,18,34,8,8,18,30,51,-21,32,17,7,4,6,18,17,1,25,17,1,4,12,12,34,-22,7,R,EN_CH,The Valley,London
+2006/07,35,25,West Ham United,19,34,8,5,21,27,58,-31,29,17,6,2,9,20,25,-5,20,17,2,3,12,7,33,-26,9,R,EN_CH,Boleyn Ground,London
+2006/07,35,33,Watford,20,34,4,11,19,25,56,-31,23,17,3,7,7,17,23,-6,16,17,1,4,12,8,33,-25,7,R,EN_CH,Vicarage Road,Watford
+2006/07,36,12,Manchester United,1,34,26,4,4,78,24,54,82,18,15,2,1,46,11,35,47,16,11,2,3,32,13,19,35,Q,EU_CL,Old Trafford,Manchester
+2006/07,36,4,Chelsea,2,34,24,7,3,60,20,40,79,16,12,4,0,34,8,26,40,18,12,3,3,26,12,14,39,Q,EU_CL,Stamford Bridge,London
+2006/07,36,10,Liverpool,3,35,20,7,8,54,22,32,67,18,14,3,1,37,5,32,45,17,6,4,7,17,17,0,22,Q,EU_CL,Anfield,Liverpool
+2006/07,36,1,Arsenal,4,35,18,9,8,59,33,26,63,17,11,5,1,39,14,25,38,18,7,4,7,20,19,1,25,Q,EU_CL,Emirates Stadium,London
+2006/07,36,7,Everton,5,35,14,12,9,46,31,15,54,17,10,4,3,28,13,15,34,18,4,8,6,18,18,0,20,Q,EU_UC,Goodison Park,Liverpool
+2006/07,36,27,Bolton Wanderers,6,35,16,6,13,42,45,-3,54,18,9,4,5,24,18,6,31,17,7,2,8,18,27,-9,23,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,36,40,Reading,7,35,15,6,14,48,42,6,51,17,10,2,5,28,18,10,32,18,5,4,9,20,24,-4,19,Q,EU_UC,Madejski Stadium,Reading
+2006/07,36,37,Portsmouth,8,35,13,11,11,43,38,5,50,17,10,4,3,26,14,12,34,18,3,7,8,17,24,-7,16,,,Fratton Park,Portsmouth
+2006/07,36,21,Tottenham Hotspur,9,34,14,8,12,49,50,-1,50,17,11,2,4,31,20,11,35,17,3,6,8,18,30,-12,15,,,White Hart Lane,London
+2006/07,36,3,Blackburn Rovers,10,34,13,5,16,42,49,-7,44,17,8,2,7,24,21,3,26,17,5,3,9,18,28,-10,18,Q,EU_IT,Ewood Park,Blackburn
+2006/07,36,2,Aston Villa,11,35,9,16,10,36,39,-3,43,18,6,8,4,17,14,3,26,17,3,8,6,19,25,-6,17,,,Villa Park,Birmingham
+2006/07,36,23,Newcastle United,12,35,11,9,15,37,43,-6,42,18,7,7,4,23,18,5,28,17,4,2,11,14,25,-11,14,,,St. James' Park,Newcastle
+2006/07,36,11,Manchester City,13,35,11,9,15,28,39,-11,42,17,5,6,6,10,13,-3,21,18,6,3,9,18,26,-8,21,,,Etihad Stadium,Manchester
+2006/07,36,13,Middlesbrough,14,35,10,10,15,38,45,-7,40,17,9,3,5,26,20,6,30,18,1,7,10,12,25,-13,10,,,Riverside Stadium,Middlesbrough
+2006/07,36,34,Fulham,15,35,7,15,13,35,54,-19,36,18,6,7,5,17,18,-1,25,17,1,8,8,18,36,-18,11,,,Craven Cottage,London
+2006/07,36,39,Wigan Athletic,16,35,9,8,18,35,54,-19,35,17,5,4,8,18,26,-8,19,18,4,4,10,17,28,-11,16,,,DW Stadium,Wigan
+2006/07,36,18,Sheffield United,17,35,9,8,18,30,50,-20,35,17,6,6,5,22,19,3,24,18,3,2,13,8,31,-23,11,,,Bramall Lane,Sheffield
+2006/07,36,31,Charlton Athletic,18,35,8,9,18,31,52,-21,33,18,7,5,6,19,18,1,26,17,1,4,12,12,34,-22,7,R,EN_CH,The Valley,London
+2006/07,36,25,West Ham United,19,35,9,5,21,28,58,-30,32,18,7,2,9,21,25,-4,23,17,2,3,12,7,33,-26,9,R,EN_CH,Boleyn Ground,London
+2006/07,36,33,Watford,20,35,4,12,19,26,57,-31,24,18,3,8,7,18,24,-6,17,17,1,4,12,8,33,-25,7,R,EN_CH,Vicarage Road,Watford
+2006/07,37,12,Manchester United,1,35,27,4,4,82,26,56,85,18,15,2,1,46,11,35,47,17,12,2,3,36,15,21,38,Q,EU_CL,Old Trafford,Manchester
+2006/07,37,4,Chelsea,2,35,24,8,3,62,22,40,80,17,12,5,0,36,10,26,41,18,12,3,3,26,12,14,39,Q,EU_CL,Stamford Bridge,London
+2006/07,37,10,Liverpool,3,36,20,7,9,55,24,31,67,18,14,3,1,37,5,32,45,18,6,4,8,18,19,-1,22,Q,EU_CL,Anfield,Liverpool
+2006/07,37,1,Arsenal,4,36,19,9,8,62,34,28,66,18,12,5,1,42,15,27,41,18,7,4,7,20,19,1,25,Q,EU_CL,Emirates Stadium,London
+2006/07,37,27,Bolton Wanderers,5,36,16,7,13,44,47,-3,55,18,9,4,5,24,18,6,31,18,7,3,8,20,29,-9,24,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,37,7,Everton,6,36,14,12,10,48,35,13,54,18,10,4,4,30,17,13,34,18,4,8,6,18,18,0,20,Q,EU_UC,Goodison Park,Liverpool
+2006/07,37,40,Reading,7,36,16,6,14,49,42,7,54,18,11,2,5,29,18,11,35,18,5,4,9,20,24,-4,19,Q,EU_UC,Madejski Stadium,Reading
+2006/07,37,37,Portsmouth,8,36,14,11,11,45,39,6,53,18,11,4,3,28,15,13,37,18,3,7,8,17,24,-7,16,,,Fratton Park,Portsmouth
+2006/07,37,21,Tottenham Hotspur,9,35,15,8,12,52,52,0,53,17,11,2,4,31,20,11,35,18,4,6,8,21,32,-11,18,,,White Hart Lane,London
+2006/07,37,3,Blackburn Rovers,10,35,14,5,16,46,50,-4,47,18,9,2,7,28,22,6,29,17,5,3,9,18,28,-10,18,Q,EU_IT,Ewood Park,Blackburn
+2006/07,37,2,Aston Villa,11,36,10,16,10,38,39,-1,46,18,6,8,4,17,14,3,26,18,4,8,6,21,25,-4,20,,,Villa Park,Birmingham
+2006/07,37,23,Newcastle United,12,36,11,9,16,37,44,-7,42,18,7,7,4,23,18,5,28,18,4,2,12,14,26,-12,14,,,St. James' Park,Newcastle
+2006/07,37,11,Manchester City,13,36,11,9,16,28,41,-13,42,18,5,6,7,10,15,-5,21,18,6,3,9,18,26,-8,21,,,Etihad Stadium,Manchester
+2006/07,37,13,Middlesbrough,14,36,10,10,16,40,48,-8,40,18,9,3,6,28,23,5,30,18,1,7,10,12,25,-13,10,,,Riverside Stadium,Middlesbrough
+2006/07,37,18,Sheffield United,15,36,10,8,18,31,50,-19,38,18,7,6,5,23,19,4,27,18,3,2,13,8,31,-23,11,,,Bramall Lane,Sheffield
+2006/07,37,34,Fulham,16,36,7,15,14,36,57,-21,36,18,6,7,5,17,18,-1,25,18,1,8,9,19,39,-20,11,,,Craven Cottage,London
+2006/07,37,39,Wigan Athletic,17,36,9,8,19,35,57,-22,35,18,5,4,9,18,29,-11,19,18,4,4,10,17,28,-11,16,,,DW Stadium,Wigan
+2006/07,37,25,West Ham United,18,36,10,5,21,31,58,-27,35,18,7,2,9,21,25,-4,23,18,3,3,12,10,33,-23,12,R,EN_CH,Boleyn Ground,London
+2006/07,37,31,Charlton Athletic,19,36,8,9,19,32,56,-24,33,18,7,5,6,19,18,1,26,18,1,4,13,13,38,-25,7,R,EN_CH,The Valley,London
+2006/07,37,33,Watford,20,36,4,12,20,26,58,-32,24,18,3,8,7,18,24,-6,17,18,1,4,13,8,34,-26,7,R,EN_CH,Vicarage Road,Watford
+2006/07,38,12,Manchester United,1,37,28,5,4,83,26,57,89,18,15,2,1,46,11,35,47,19,13,3,3,37,15,22,42,Q,EU_CL,Old Trafford,Manchester
+2006/07,38,4,Chelsea,2,37,24,10,3,63,23,40,82,18,12,6,0,36,10,26,42,19,12,4,3,27,13,14,40,Q,EU_CL,Stamford Bridge,London
+2006/07,38,10,Liverpool,3,37,20,7,10,55,25,30,67,18,14,3,1,37,5,32,45,19,6,4,9,18,20,-2,22,Q,EU_CL,Anfield,Liverpool
+2006/07,38,1,Arsenal,4,37,19,10,8,63,35,28,67,19,12,6,1,43,16,27,42,18,7,4,7,20,19,1,25,Q,EU_CL,Emirates Stadium,London
+2006/07,38,7,Everton,5,37,15,12,10,51,35,16,57,19,11,4,4,33,17,16,37,18,4,8,6,18,18,0,20,Q,EU_UC,Goodison Park,Liverpool
+2006/07,38,21,Tottenham Hotspur,6,37,16,9,12,55,53,2,57,18,11,3,4,32,21,11,36,19,5,6,8,23,32,-9,21,Q,EU_UC,White Hart Lane,London
+2006/07,38,27,Bolton Wanderers,7,37,16,7,14,45,50,-5,55,18,9,4,5,24,18,6,31,19,7,3,9,21,32,-11,24,Q,EU_UC,Toughsheet Community Stadium,Bolton
+2006/07,38,40,Reading,8,37,16,6,15,49,44,5,54,19,11,2,6,29,20,9,35,18,5,4,9,20,24,-4,19,,,Madejski Stadium,Reading
+2006/07,38,37,Portsmouth,9,37,14,11,12,45,42,3,53,18,11,4,3,28,15,13,37,19,3,7,9,17,27,-10,16,,,Fratton Park,Portsmouth
+2006/07,38,3,Blackburn Rovers,10,37,15,6,16,49,51,-2,51,18,9,2,7,28,22,6,29,19,6,4,9,21,29,-8,22,Q,EU_IT,Ewood Park,Blackburn
+2006/07,38,2,Aston Villa,11,37,11,16,10,41,39,2,49,19,7,8,4,20,14,6,29,18,4,8,6,21,25,-4,20,,,Villa Park,Birmingham
+2006/07,38,13,Middlesbrough,12,37,11,10,16,41,48,-7,43,18,9,3,6,28,23,5,30,19,2,7,10,13,25,-12,13,,,Riverside Stadium,Middlesbrough
+2006/07,38,23,Newcastle United,13,37,11,9,17,37,46,-9,42,19,7,7,5,23,20,3,28,18,4,2,12,14,26,-12,14,,,St. James' Park,Newcastle
+2006/07,38,11,Manchester City,14,37,11,9,17,28,42,-14,42,19,5,6,8,10,16,-6,21,18,6,3,9,18,26,-8,21,,,Etihad Stadium,Manchester
+2006/07,38,34,Fulham,15,37,8,15,14,37,57,-20,39,19,7,7,5,18,18,0,28,18,1,8,9,19,39,-20,11,,,Craven Cottage,London
+2006/07,38,18,Sheffield United,16,37,10,8,19,31,53,-22,38,18,7,6,5,23,19,4,27,19,3,2,14,8,34,-26,11,,,Bramall Lane,Sheffield
+2006/07,38,25,West Ham United,17,37,11,5,21,34,59,-25,38,19,8,2,9,24,26,-2,26,18,3,3,12,10,33,-23,12,,,Boleyn Ground,London
+2006/07,38,39,Wigan Athletic,18,37,9,8,20,35,58,-23,35,19,5,4,10,18,30,-12,19,18,4,4,10,17,28,-11,16,R,EN_CH,DW Stadium,Wigan
+2006/07,38,31,Charlton Athletic,19,37,8,9,20,32,58,-26,33,19,7,5,7,19,20,-1,26,18,1,4,13,13,38,-25,7,R,EN_CH,The Valley,London
+2006/07,38,33,Watford,20,37,5,12,20,28,58,-30,27,18,3,8,7,18,24,-6,17,19,2,4,13,10,34,-24,10,R,EN_CH,Vicarage Road,Watford

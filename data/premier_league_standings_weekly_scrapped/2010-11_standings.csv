@@ -1,0 +1,761 @@
+season,match_week,team_id,team_name,position,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,home_played,home_won,home_drawn,home_lost,home_goals_for,home_goals_against,home_goal_difference,home_points,away_played,away_won,away_drawn,away_lost,away_goals_for,away_goals_against,away_goal_difference,away_points,annotation_types,annotation_destinations,stadium_name,stadium_city
+2010/11,1,4,Chelsea,1,1,1,0,0,6,0,6,3,1,1,0,0,6,0,6,3,0,0,0,0,0,0,0,0,Q,EU_CL,Stamford Bridge,London
+2010/11,1,44,Blackpool,2,1,1,0,0,4,0,4,3,0,0,0,0,0,0,0,0,1,1,0,0,4,0,4,3,Q,EU_CL,Bloomfield Road,Blackpool
+2010/11,1,2,Aston Villa,3,1,1,0,0,3,0,3,3,1,1,0,0,3,0,3,3,0,0,0,0,0,0,0,0,Q,EU_CL,Villa Park,Birmingham
+2010/11,1,12,Manchester United,4,1,1,0,0,3,0,3,3,1,1,0,0,3,0,3,3,0,0,0,0,0,0,0,0,Q,EU_CL,Old Trafford,Manchester
+2010/11,1,38,Wolverhampton Wanderers,5,1,1,0,0,2,1,1,3,1,1,0,0,2,1,1,3,0,0,0,0,0,0,0,0,Q,EU_EL,Molineux Stadium,Wolverhampton
+2010/11,1,3,Blackburn Rovers,6,1,1,0,0,1,0,1,3,1,1,0,0,1,0,1,3,0,0,0,0,0,0,0,0,,,Ewood Park,Blackburn
+2010/11,1,35,Birmingham City,7,1,0,1,0,2,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,2,2,0,1,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,1,29,Sunderland,8,1,0,1,0,2,2,0,1,1,0,1,0,2,2,0,1,0,0,0,0,0,0,0,0,,,Stadium of Light,Sunderland
+2010/11,1,1,Arsenal,9,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,,,Emirates Stadium,London
+2010/11,1,10,Liverpool,10,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,,,Anfield,Liverpool
+2010/11,1,27,Bolton Wanderers,11,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Macron Stadium,Bolton
+2010/11,1,34,Fulham,12,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Q,EU_EL,Craven Cottage,London
+2010/11,1,11,Manchester City,13,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,,,Etihad Stadium,Manchester
+2010/11,1,21,Tottenham Hotspur,14,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,,White Hart Lane,London
+2010/11,1,42,Stoke City,15,1,0,0,1,1,2,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,-1,0,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,1,7,Everton,16,1,0,0,1,0,1,-1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,-1,0,,,Goodison Park,Liverpool
+2010/11,1,23,Newcastle United,17,1,0,0,1,0,3,-3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,-3,0,,,St. James' Park,Newcastle
+2010/11,1,25,West Ham United,18,1,0,0,1,0,3,-3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,-3,0,R,EN_CH,Boleyn Ground,London
+2010/11,1,39,Wigan Athletic,19,1,0,0,1,0,4,-4,0,1,0,0,1,0,4,-4,0,0,0,0,0,0,0,0,0,R,EN_CH,DW Stadium,Wigan
+2010/11,1,36,West Bromwich Albion,20,1,0,0,1,0,6,-6,0,0,0,0,0,0,0,0,0,1,0,0,1,0,6,-6,0,R,EN_CH,The Hawthorns,West Bromwich
+2010/11,2,4,Chelsea,1,2,2,0,0,12,0,12,6,1,1,0,0,6,0,6,3,1,1,0,0,6,0,6,3,Q,EU_CL,Stamford Bridge,London
+2010/11,2,1,Arsenal,2,2,1,1,0,7,1,6,4,1,1,0,0,6,0,6,3,1,0,1,0,1,1,0,1,Q,EU_CL,Emirates Stadium,London
+2010/11,2,12,Manchester United,3,2,1,1,0,5,2,3,4,1,1,0,0,3,0,3,3,1,0,1,0,2,2,0,1,Q,EU_CL,Old Trafford,Manchester
+2010/11,2,11,Manchester City,4,2,1,1,0,3,0,3,4,1,1,0,0,3,0,3,3,1,0,1,0,0,0,0,1,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,2,27,Bolton Wanderers,5,2,1,1,0,3,1,2,4,1,0,1,0,0,0,0,1,1,1,0,0,3,1,2,3,Q,EU_EL,Macron Stadium,Bolton
+2010/11,2,35,Birmingham City,6,2,1,1,0,4,3,1,4,1,1,0,0,2,1,1,3,1,0,1,0,2,2,0,1,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,2,38,Wolverhampton Wanderers,7,2,1,1,0,3,2,1,4,1,1,0,0,2,1,1,3,1,0,1,0,1,1,0,1,,,Molineux Stadium,Wolverhampton
+2010/11,2,21,Tottenham Hotspur,8,2,1,1,0,2,1,1,4,1,0,1,0,0,0,0,1,1,1,0,0,2,1,1,3,,,White Hart Lane,London
+2010/11,2,23,Newcastle United,9,2,1,0,1,6,3,3,3,1,1,0,0,6,0,6,3,1,0,0,1,0,3,-3,0,,,St. James' Park,Newcastle
+2010/11,2,3,Blackburn Rovers,10,2,1,0,1,2,2,0,3,1,1,0,0,1,0,1,3,1,0,0,1,1,2,-1,0,,,Ewood Park,Blackburn
+2010/11,2,44,Blackpool,11,2,1,0,1,4,6,-2,3,0,0,0,0,0,0,0,0,2,1,0,1,4,6,-2,3,,,Bloomfield Road,Blackpool
+2010/11,2,2,Aston Villa,12,2,1,0,1,3,6,-3,3,1,1,0,0,3,0,3,3,1,0,0,1,0,6,-6,0,,,Villa Park,Birmingham
+2010/11,2,36,West Bromwich Albion,13,2,1,0,1,1,6,-5,3,1,1,0,0,1,0,1,3,1,0,0,1,0,6,-6,0,,,The Hawthorns,West Bromwich
+2010/11,2,34,Fulham,14,2,0,2,0,2,2,0,2,1,0,1,0,2,2,0,1,1,0,1,0,0,0,0,1,Q,EU_EL,Craven Cottage,London
+2010/11,2,29,Sunderland,15,2,0,1,1,2,3,-1,1,1,0,1,0,2,2,0,1,1,0,0,1,0,1,-1,0,,,Stadium of Light,Sunderland
+2010/11,2,7,Everton,16,2,0,1,1,1,2,-1,1,1,0,1,0,1,1,0,1,1,0,0,1,0,1,-1,0,,,Goodison Park,Liverpool
+2010/11,2,10,Liverpool,17,2,0,1,1,1,4,-3,1,1,0,1,0,1,1,0,1,1,0,0,1,0,3,-3,0,,,Anfield,Liverpool
+2010/11,2,42,Stoke City,18,2,0,0,2,2,4,-2,0,1,0,0,1,1,2,-1,0,1,0,0,1,1,2,-1,0,"R,Q","EN_CH,EU_EL",Britannia Stadium,Stoke
+2010/11,2,25,West Ham United,19,2,0,0,2,1,6,-5,0,1,0,0,1,1,3,-2,0,1,0,0,1,0,3,-3,0,R,EN_CH,Boleyn Ground,London
+2010/11,2,39,Wigan Athletic,20,2,0,0,2,0,10,-10,0,2,0,0,2,0,10,-10,0,0,0,0,0,0,0,0,0,R,EN_CH,DW Stadium,Wigan
+2010/11,3,4,Chelsea,1,3,3,0,0,14,0,14,9,2,2,0,0,8,0,8,6,1,1,0,0,6,0,6,3,Q,EU_CL,Stamford Bridge,London
+2010/11,3,1,Arsenal,2,3,2,1,0,9,2,7,7,1,1,0,0,6,0,6,3,2,1,1,0,3,2,1,4,Q,EU_CL,Emirates Stadium,London
+2010/11,3,12,Manchester United,3,3,2,1,0,8,2,6,7,2,2,0,0,6,0,6,6,1,0,1,0,2,2,0,1,Q,EU_CL,Old Trafford,Manchester
+2010/11,3,2,Aston Villa,4,3,2,0,1,4,6,-2,6,2,2,0,0,4,0,4,6,1,0,0,1,0,6,-6,0,Q,EU_CL,Villa Park,Birmingham
+2010/11,3,27,Bolton Wanderers,5,3,1,2,0,5,3,2,5,2,0,2,0,2,2,0,2,1,1,0,0,3,1,2,3,Q,EU_EL,Macron Stadium,Bolton
+2010/11,3,35,Birmingham City,6,3,1,2,0,6,5,1,5,1,1,0,0,2,1,1,3,2,0,2,0,4,4,0,2,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,3,38,Wolverhampton Wanderers,7,3,1,2,0,4,3,1,5,2,1,1,0,3,2,1,4,1,0,1,0,1,1,0,1,,,Molineux Stadium,Wolverhampton
+2010/11,3,23,Newcastle United,8,3,1,1,1,7,4,3,4,1,1,0,0,6,0,6,3,2,0,1,1,1,4,-3,1,,,St. James' Park,Newcastle
+2010/11,3,11,Manchester City,9,3,1,1,1,3,1,2,4,1,1,0,0,3,0,3,3,2,0,1,1,0,1,-1,1,,,Etihad Stadium,Manchester
+2010/11,3,29,Sunderland,10,3,1,1,1,3,3,0,4,2,1,1,0,3,2,1,4,1,0,0,1,0,1,-1,0,,,Stadium of Light,Sunderland
+2010/11,3,21,Tottenham Hotspur,11,3,1,1,1,2,2,0,4,2,0,1,1,0,1,-1,1,1,1,0,0,2,1,1,3,,,White Hart Lane,London
+2010/11,3,44,Blackpool,12,3,1,1,1,6,8,-2,4,1,0,1,0,2,2,0,1,2,1,0,1,4,6,-2,3,,,Bloomfield Road,Blackpool
+2010/11,3,10,Liverpool,13,3,1,1,1,2,4,-2,4,2,1,1,0,2,1,1,4,1,0,0,1,0,3,-3,0,,,Anfield,Liverpool
+2010/11,3,34,Fulham,14,3,0,3,0,4,4,0,3,1,0,1,0,2,2,0,1,2,0,2,0,2,2,0,2,Q,EU_EL,Craven Cottage,London
+2010/11,3,3,Blackburn Rovers,15,3,1,0,2,3,4,-1,3,2,1,0,1,2,2,0,3,1,0,0,1,1,2,-1,0,,,Ewood Park,Blackburn
+2010/11,3,36,West Bromwich Albion,16,3,1,0,2,1,7,-6,3,1,1,0,0,1,0,1,3,2,0,0,2,0,7,-7,0,,,The Hawthorns,West Bromwich
+2010/11,3,39,Wigan Athletic,17,3,1,0,2,1,10,-9,3,2,0,0,2,0,10,-10,0,1,1,0,0,1,0,1,3,,,DW Stadium,Wigan
+2010/11,3,7,Everton,18,3,0,1,2,1,3,-2,1,1,0,1,0,1,1,0,1,2,0,0,2,0,2,-2,0,R,EN_CH,Goodison Park,Liverpool
+2010/11,3,42,Stoke City,19,3,0,0,3,2,6,-4,0,1,0,0,1,1,2,-1,0,2,0,0,2,1,4,-3,0,"R,Q","EN_CH,EU_EL",Britannia Stadium,Stoke
+2010/11,3,25,West Ham United,20,3,0,0,3,1,9,-8,0,1,0,0,1,1,3,-2,0,2,0,0,2,0,6,-6,0,R,EN_CH,Boleyn Ground,London
+2010/11,4,4,Chelsea,1,4,4,0,0,17,1,16,12,2,2,0,0,8,0,8,6,2,2,0,0,9,1,8,6,Q,EU_CL,Stamford Bridge,London
+2010/11,4,1,Arsenal,2,4,3,1,0,13,3,10,10,2,2,0,0,10,1,9,6,2,1,1,0,3,2,1,4,Q,EU_CL,Emirates Stadium,London
+2010/11,4,12,Manchester United,3,4,2,2,0,11,5,6,8,2,2,0,0,6,0,6,6,2,0,2,0,5,5,0,2,Q,EU_CL,Old Trafford,Manchester
+2010/11,4,44,Blackpool,4,4,2,1,1,8,8,0,7,1,0,1,0,2,2,0,1,3,2,0,1,6,6,0,6,Q,EU_CL,Bloomfield Road,Blackpool
+2010/11,4,35,Birmingham City,5,4,1,3,0,6,5,1,6,2,1,1,0,2,1,1,4,2,0,2,0,4,4,0,2,"Q,Q","EU_EL,EU_EL",St. Andrew's Stadium,Birmingham
+2010/11,4,34,Fulham,6,4,1,3,0,6,5,1,6,2,1,1,0,4,3,1,4,2,0,2,0,2,2,0,2,Q,EU_EL,Craven Cottage,London
+2010/11,4,2,Aston Villa,7,4,2,0,2,5,8,-3,6,2,2,0,0,4,0,4,6,2,0,0,2,1,8,-7,0,,,Villa Park,Birmingham
+2010/11,4,11,Manchester City,8,4,1,2,1,4,2,2,5,2,1,1,0,4,1,3,4,2,0,1,1,0,1,-1,1,,,Etihad Stadium,Manchester
+2010/11,4,38,Wolverhampton Wanderers,9,4,1,2,1,5,5,0,5,2,1,1,0,3,2,1,4,2,0,1,1,2,3,-1,1,,,Molineux Stadium,Wolverhampton
+2010/11,4,29,Sunderland,10,4,1,2,1,4,4,0,5,2,1,1,0,3,2,1,4,2,0,1,1,1,2,-1,1,,,Stadium of Light,Sunderland
+2010/11,4,21,Tottenham Hotspur,11,4,1,2,1,3,3,0,5,2,0,1,1,0,1,-1,1,2,1,1,0,3,2,1,4,,,White Hart Lane,London
+2010/11,4,27,Bolton Wanderers,12,4,1,2,1,6,7,-1,5,2,0,2,0,2,2,0,2,2,1,0,1,4,5,-1,3,,,Macron Stadium,Bolton
+2010/11,4,10,Liverpool,13,4,1,2,1,2,4,-2,5,2,1,1,0,2,1,1,4,2,0,1,1,0,3,-3,1,,,Anfield,Liverpool
+2010/11,4,23,Newcastle United,14,4,1,1,2,7,6,1,4,2,1,0,1,6,2,4,3,2,0,1,1,1,4,-3,1,,,St. James' Park,Newcastle
+2010/11,4,3,Blackburn Rovers,15,4,1,1,2,4,5,-1,4,2,1,0,1,2,2,0,3,2,0,1,1,2,3,-1,1,,,Ewood Park,Blackburn
+2010/11,4,36,West Bromwich Albion,16,4,1,1,2,2,8,-6,4,2,1,1,0,2,1,1,4,2,0,0,2,0,7,-7,0,,,The Hawthorns,West Bromwich
+2010/11,4,39,Wigan Athletic,17,4,1,1,2,2,11,-9,4,3,0,1,2,1,11,-10,1,1,1,0,0,1,0,1,3,,,DW Stadium,Wigan
+2010/11,4,42,Stoke City,18,4,1,0,3,4,7,-3,3,2,1,0,1,3,3,0,3,2,0,0,2,1,4,-3,0,"R,Q","EN_CH,EU_EL",Britannia Stadium,Stoke
+2010/11,4,7,Everton,19,4,0,2,2,4,6,-2,2,2,0,2,0,4,4,0,2,2,0,0,2,0,2,-2,0,R,EN_CH,Goodison Park,Liverpool
+2010/11,4,25,West Ham United,20,4,0,0,4,2,12,-10,0,2,0,0,2,2,6,-4,0,2,0,0,2,0,6,-6,0,R,EN_CH,Boleyn Ground,London
+2010/11,5,4,Chelsea,1,5,5,0,0,21,1,20,15,3,3,0,0,12,0,12,9,2,2,0,0,9,1,8,6,Q,EU_CL,Stamford Bridge,London
+2010/11,5,1,Arsenal,2,5,3,2,0,14,4,10,11,2,2,0,0,10,1,9,6,3,1,2,0,4,3,1,5,Q,EU_CL,Emirates Stadium,London
+2010/11,5,12,Manchester United,3,5,3,2,0,14,7,7,11,3,3,0,0,9,2,7,9,2,0,2,0,5,5,0,2,Q,EU_CL,Old Trafford,Manchester
+2010/11,5,11,Manchester City,4,5,2,2,1,6,2,4,8,2,1,1,0,4,1,3,4,3,1,1,1,2,1,1,4,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,5,21,Tottenham Hotspur,5,5,2,2,1,6,4,2,8,3,1,1,1,3,2,1,4,2,1,1,0,3,2,1,4,Q,EU_EL,White Hart Lane,London
+2010/11,5,23,Newcastle United,6,5,2,1,2,8,6,2,7,2,1,0,1,6,2,4,3,3,1,1,1,2,4,-2,4,,,St. James' Park,Newcastle
+2010/11,5,34,Fulham,7,5,1,4,0,7,6,1,7,2,1,1,0,4,3,1,4,3,0,3,0,3,3,0,3,Q,EU_EL,Craven Cottage,London
+2010/11,5,2,Aston Villa,8,5,2,1,2,6,9,-3,7,3,2,1,0,5,1,4,7,2,0,0,2,1,8,-7,0,,,Villa Park,Birmingham
+2010/11,5,44,Blackpool,9,5,2,1,2,8,12,-4,7,1,0,1,0,2,2,0,1,4,2,0,2,6,10,-4,6,,,Bloomfield Road,Blackpool
+2010/11,5,36,West Bromwich Albion,10,5,2,1,2,5,9,-4,7,3,2,1,0,5,2,3,7,2,0,0,2,0,7,-7,0,,,The Hawthorns,West Bromwich
+2010/11,5,29,Sunderland,11,5,1,3,1,5,5,0,6,3,1,2,0,4,3,1,5,2,0,1,1,1,2,-1,1,,,Stadium of Light,Sunderland
+2010/11,5,35,Birmingham City,12,5,1,3,1,7,8,-1,6,2,1,1,0,2,1,1,4,3,0,2,1,5,7,-2,2,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,5,27,Bolton Wanderers,13,5,1,3,1,7,8,-1,6,2,0,2,0,2,2,0,2,3,1,1,1,5,6,-1,4,,,Macron Stadium,Bolton
+2010/11,5,3,Blackburn Rovers,14,5,1,2,2,5,6,-1,5,3,1,1,1,3,3,0,4,2,0,1,1,2,3,-1,1,,,Ewood Park,Blackburn
+2010/11,5,38,Wolverhampton Wanderers,15,5,1,2,2,6,8,-2,5,2,1,1,0,3,2,1,4,3,0,1,2,3,6,-3,1,,,Molineux Stadium,Wolverhampton
+2010/11,5,10,Liverpool,16,5,1,2,2,4,7,-3,5,2,1,1,0,2,1,1,4,3,0,1,2,2,6,-4,1,,,Anfield,Liverpool
+2010/11,5,42,Stoke City,17,5,1,1,3,5,8,-3,4,3,1,1,1,4,4,0,4,2,0,0,2,1,4,-3,0,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,5,39,Wigan Athletic,18,5,1,1,3,2,13,-11,4,4,0,1,3,1,13,-12,1,1,1,0,0,1,0,1,3,R,EN_CH,DW Stadium,Wigan
+2010/11,5,7,Everton,19,5,0,2,3,4,7,-3,2,3,0,2,1,4,5,-1,2,2,0,0,2,0,2,-2,0,R,EN_CH,Goodison Park,Liverpool
+2010/11,5,25,West Ham United,20,5,0,1,4,3,13,-10,1,2,0,0,2,2,6,-4,0,3,0,1,2,1,7,-6,1,R,EN_CH,Boleyn Ground,London
+2010/11,6,4,Chelsea,1,6,5,0,1,21,2,19,15,3,3,0,0,12,0,12,9,3,2,0,1,9,2,7,6,Q,EU_CL,Stamford Bridge,London
+2010/11,6,12,Manchester United,2,6,3,3,0,16,9,7,12,3,3,0,0,9,2,7,9,3,0,3,0,7,7,0,3,Q,EU_CL,Old Trafford,Manchester
+2010/11,6,1,Arsenal,3,6,3,2,1,16,7,9,11,3,2,0,1,12,4,8,6,3,1,2,0,4,3,1,5,Q,EU_CL,Emirates Stadium,London
+2010/11,6,11,Manchester City,4,6,3,2,1,7,2,5,11,3,2,1,0,5,1,4,7,3,1,1,1,2,1,1,4,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,6,2,Aston Villa,5,6,3,1,2,8,10,-2,10,3,2,1,0,5,1,4,7,3,1,0,2,3,9,-6,3,Q,EU_EL,Villa Park,Birmingham
+2010/11,6,36,West Bromwich Albion,6,6,3,1,2,8,11,-3,10,3,2,1,0,5,2,3,7,3,1,0,2,3,9,-6,3,,,The Hawthorns,West Bromwich
+2010/11,6,34,Fulham,7,6,1,5,0,7,6,1,8,3,1,2,0,4,3,1,5,3,0,3,0,3,3,0,3,Q,EU_EL,Craven Cottage,London
+2010/11,6,21,Tottenham Hotspur,8,6,2,2,2,6,5,1,8,3,1,1,1,3,2,1,4,3,1,1,1,3,3,0,4,,,White Hart Lane,London
+2010/11,6,3,Blackburn Rovers,9,6,2,2,2,7,7,0,8,3,1,1,1,3,3,0,4,3,1,1,1,4,4,0,4,,,Ewood Park,Blackburn
+2010/11,6,23,Newcastle United,10,6,2,1,3,9,8,1,7,3,1,0,2,7,4,3,3,3,1,1,1,2,4,-2,4,,,St. James' Park,Newcastle
+2010/11,6,29,Sunderland,11,6,1,4,1,7,7,0,7,3,1,2,0,4,3,1,5,3,0,2,1,3,4,-1,2,,,Stadium of Light,Sunderland
+2010/11,6,27,Bolton Wanderers,12,6,1,4,1,9,10,-1,7,3,0,3,0,4,4,0,3,3,1,1,1,5,6,-1,4,,,Macron Stadium,Bolton
+2010/11,6,35,Birmingham City,13,6,1,4,1,7,8,-1,7,3,1,2,0,2,1,1,5,3,0,2,1,5,7,-2,2,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,6,42,Stoke City,14,6,2,1,3,7,9,-2,7,3,1,1,1,4,4,0,4,3,1,0,2,3,5,-2,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,6,44,Blackpool,15,6,2,1,3,9,14,-5,7,2,0,1,1,3,4,-1,1,4,2,0,2,6,10,-4,6,,,Bloomfield Road,Blackpool
+2010/11,6,10,Liverpool,16,6,1,3,2,6,9,-3,6,3,1,2,0,4,3,1,5,3,0,1,2,2,6,-4,1,,,Anfield,Liverpool
+2010/11,6,38,Wolverhampton Wanderers,17,6,1,2,3,7,10,-3,5,3,1,1,1,4,4,0,4,3,0,1,2,3,6,-3,1,,,Molineux Stadium,Wolverhampton
+2010/11,6,39,Wigan Athletic,18,6,1,2,3,2,13,-11,5,4,0,1,3,1,13,-12,1,2,1,1,0,1,0,1,4,R,EN_CH,DW Stadium,Wigan
+2010/11,6,25,West Ham United,19,6,1,1,4,4,13,-9,4,3,1,0,2,3,6,-3,3,3,0,1,2,1,7,-6,1,R,EN_CH,Boleyn Ground,London
+2010/11,6,7,Everton,20,6,0,3,3,4,7,-3,3,3,0,2,1,4,5,-1,2,3,0,1,2,0,2,-2,1,R,EN_CH,Goodison Park,Liverpool
+2010/11,7,4,Chelsea,1,7,6,0,1,23,2,21,18,4,4,0,0,14,0,14,12,3,2,0,1,9,2,7,6,Q,EU_CL,Stamford Bridge,London
+2010/11,7,11,Manchester City,2,7,4,2,1,9,3,6,14,4,3,1,0,7,2,5,10,3,1,1,1,2,1,1,4,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,7,12,Manchester United,3,7,3,4,0,16,9,7,13,3,3,0,0,9,2,7,9,4,0,4,0,7,7,0,4,Q,EU_CL,Old Trafford,Manchester
+2010/11,7,1,Arsenal,4,7,3,2,2,16,9,7,11,3,2,0,1,12,4,8,6,4,1,2,1,4,5,-1,5,Q,EU_CL,Emirates Stadium,London
+2010/11,7,21,Tottenham Hotspur,5,7,3,2,2,8,6,2,11,4,2,1,1,5,3,2,7,3,1,1,1,3,3,0,4,Q,EU_EL,White Hart Lane,London
+2010/11,7,36,West Bromwich Albion,6,7,3,2,2,9,12,-3,11,4,2,2,0,6,3,3,8,3,1,0,2,3,9,-6,3,,,The Hawthorns,West Bromwich
+2010/11,7,42,Stoke City,7,7,3,1,3,8,9,-1,10,4,2,1,1,5,4,1,7,3,1,0,2,3,5,-2,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,7,2,Aston Villa,8,7,3,1,3,9,12,-3,10,3,2,1,0,5,1,4,7,4,1,0,3,4,11,-7,3,,,Villa Park,Birmingham
+2010/11,7,44,Blackpool,9,7,3,1,3,11,15,-4,10,2,0,1,1,3,4,-1,1,5,3,0,2,8,11,-3,9,,,Bloomfield Road,Blackpool
+2010/11,7,34,Fulham,10,7,1,6,0,8,7,1,9,3,1,2,0,4,3,1,5,4,0,4,0,4,4,0,4,Q,EU_EL,Craven Cottage,London
+2010/11,7,29,Sunderland,11,7,1,5,1,7,7,0,8,4,1,3,0,4,3,1,6,3,0,2,1,3,4,-1,2,,,Stadium of Light,Sunderland
+2010/11,7,27,Bolton Wanderers,12,7,1,5,1,10,11,-1,8,3,0,3,0,4,4,0,3,4,1,2,1,6,7,-1,5,,,Macron Stadium,Bolton
+2010/11,7,3,Blackburn Rovers,13,7,2,2,3,7,8,-1,8,3,1,1,1,3,3,0,4,4,1,1,2,4,5,-1,4,,,Ewood Park,Blackburn
+2010/11,7,39,Wigan Athletic,14,7,2,2,3,4,13,-9,8,5,1,1,3,3,13,-10,4,2,1,1,0,1,0,1,4,,,DW Stadium,Wigan
+2010/11,7,23,Newcastle United,15,7,2,1,4,10,10,0,7,3,1,0,2,7,4,3,3,4,1,1,2,3,6,-3,4,,,St. James' Park,Newcastle
+2010/11,7,35,Birmingham City,16,7,1,4,2,7,10,-3,7,4,1,2,1,2,3,-1,5,3,0,2,1,5,7,-2,2,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,7,7,Everton,17,7,1,3,3,6,7,-1,6,3,0,2,1,4,5,-1,2,4,1,1,2,2,2,0,4,,,Goodison Park,Liverpool
+2010/11,7,10,Liverpool,18,7,1,3,3,7,11,-4,6,4,1,2,1,5,5,0,5,3,0,1,2,2,6,-4,1,R,EN_CH,Anfield,Liverpool
+2010/11,7,38,Wolverhampton Wanderers,19,7,1,2,4,7,12,-5,5,3,1,1,1,4,4,0,4,4,0,1,3,3,8,-5,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,7,25,West Ham United,20,7,1,2,4,5,14,-9,5,4,1,1,2,4,7,-3,4,3,0,1,2,1,7,-6,1,R,EN_CH,Boleyn Ground,London
+2010/11,8,4,Chelsea,1,8,6,1,1,23,2,21,19,4,4,0,0,14,0,14,12,4,2,1,1,9,2,7,7,Q,EU_CL,Stamford Bridge,London
+2010/11,8,11,Manchester City,2,8,5,2,1,12,5,7,17,4,3,1,0,7,2,5,10,4,2,1,1,5,3,2,7,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,8,1,Arsenal,3,8,4,2,2,18,10,8,14,4,3,0,1,14,5,9,9,4,1,2,1,4,5,-1,5,Q,EU_CL,Emirates Stadium,London
+2010/11,8,12,Manchester United,4,8,3,5,0,18,11,7,14,4,3,1,0,11,4,7,10,4,0,4,0,7,7,0,4,Q,EU_CL,Old Trafford,Manchester
+2010/11,8,21,Tottenham Hotspur,5,8,4,2,2,10,7,3,14,4,2,1,1,5,3,2,7,4,2,1,1,5,4,1,7,Q,EU_EL,White Hart Lane,London
+2010/11,8,36,West Bromwich Albion,6,8,3,3,2,11,14,-3,12,4,2,2,0,6,3,3,8,4,1,1,2,5,11,-6,4,,,The Hawthorns,West Bromwich
+2010/11,8,27,Bolton Wanderers,7,8,2,5,1,12,12,0,11,4,1,3,0,6,5,1,6,4,1,2,1,6,7,-1,5,,,Macron Stadium,Bolton
+2010/11,8,2,Aston Villa,8,8,3,2,3,9,12,-3,11,4,2,2,0,5,1,4,8,4,1,0,3,4,11,-7,3,,,Villa Park,Birmingham
+2010/11,8,42,Stoke City,9,8,3,1,4,9,11,-2,10,4,2,1,1,5,4,1,7,4,1,0,3,4,7,-3,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,8,44,Blackpool,10,8,3,1,4,13,18,-5,10,3,0,1,2,5,7,-2,1,5,3,0,2,8,11,-3,9,,,Bloomfield Road,Blackpool
+2010/11,8,7,Everton,11,8,2,3,3,8,7,1,9,4,1,2,1,6,5,1,5,4,1,1,2,2,2,0,4,,,Goodison Park,Liverpool
+2010/11,8,34,Fulham,12,8,1,6,1,9,9,0,9,4,1,2,1,5,5,0,5,4,0,4,0,4,4,0,4,Q,EU_EL,Craven Cottage,London
+2010/11,8,29,Sunderland,13,8,1,6,1,7,7,0,9,4,1,3,0,4,3,1,6,4,0,3,1,3,4,-1,3,,,Stadium of Light,Sunderland
+2010/11,8,3,Blackburn Rovers,14,8,2,3,3,7,8,-1,9,4,1,2,1,3,3,0,5,4,1,1,2,4,5,-1,4,,,Ewood Park,Blackburn
+2010/11,8,39,Wigan Athletic,15,8,2,3,3,6,15,-9,9,5,1,1,3,3,13,-10,4,3,1,2,0,3,2,1,5,,,DW Stadium,Wigan
+2010/11,8,23,Newcastle United,16,8,2,2,4,12,12,0,8,4,1,1,2,9,6,3,4,4,1,1,2,3,6,-3,4,,,St. James' Park,Newcastle
+2010/11,8,35,Birmingham City,17,8,1,4,3,8,12,-4,7,4,1,2,1,2,3,-1,5,4,0,2,2,6,9,-3,2,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,8,38,Wolverhampton Wanderers,18,8,1,3,4,8,13,-5,6,4,1,2,1,5,5,0,5,4,0,1,3,3,8,-5,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,8,10,Liverpool,19,8,1,3,4,7,13,-6,6,4,1,2,1,5,5,0,5,4,0,1,3,2,8,-6,1,R,EN_CH,Anfield,Liverpool
+2010/11,8,25,West Ham United,20,8,1,3,4,6,15,-9,6,4,1,1,2,4,7,-3,4,4,0,2,2,2,8,-6,2,R,EN_CH,Boleyn Ground,London
+2010/11,9,4,Chelsea,1,9,7,1,1,25,2,23,22,5,5,0,0,16,0,16,15,4,2,1,1,9,2,7,7,Q,EU_CL,Stamford Bridge,London
+2010/11,9,1,Arsenal,2,9,5,2,2,21,10,11,17,4,3,0,1,14,5,9,9,5,2,2,1,7,5,2,8,Q,EU_CL,Emirates Stadium,London
+2010/11,9,12,Manchester United,3,9,4,5,0,20,12,8,17,4,3,1,0,11,4,7,10,5,1,4,0,9,8,1,7,Q,EU_CL,Old Trafford,Manchester
+2010/11,9,11,Manchester City,4,9,5,2,2,12,8,4,17,5,3,1,1,7,5,2,10,4,2,1,1,5,3,2,7,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,9,21,Tottenham Hotspur,5,9,4,3,2,11,8,3,15,5,2,2,1,6,4,2,8,4,2,1,1,5,4,1,7,Q,EU_EL,White Hart Lane,London
+2010/11,9,36,West Bromwich Albion,6,9,4,3,2,13,15,-2,15,5,3,2,0,8,4,4,11,4,1,1,2,5,11,-6,4,,,The Hawthorns,West Bromwich
+2010/11,9,29,Sunderland,7,9,2,6,1,8,7,1,12,5,2,3,0,5,3,2,9,4,0,3,1,3,4,-1,3,,,Stadium of Light,Sunderland
+2010/11,9,27,Bolton Wanderers,8,9,2,6,1,13,13,0,12,4,1,3,0,6,5,1,6,5,1,3,1,7,8,-1,6,,,Macron Stadium,Bolton
+2010/11,9,23,Newcastle United,9,9,3,2,4,14,13,1,11,4,1,1,2,9,6,3,4,5,2,1,2,5,7,-2,7,,,St. James' Park,Newcastle
+2010/11,9,2,Aston Villa,10,9,3,2,4,9,13,-4,11,4,2,2,0,5,1,4,8,5,1,0,4,4,12,-8,3,,,Villa Park,Birmingham
+2010/11,9,7,Everton,11,9,2,4,3,9,8,1,10,4,1,2,1,6,5,1,5,5,1,2,2,3,3,0,5,,,Goodison Park,Liverpool
+2010/11,9,35,Birmingham City,12,9,2,4,3,10,12,-2,10,5,2,2,1,4,3,1,8,4,0,2,2,6,9,-3,2,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,9,42,Stoke City,13,9,3,1,5,10,13,-3,10,5,2,1,2,6,6,0,7,4,1,0,3,4,7,-3,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,9,44,Blackpool,14,9,3,1,5,13,20,-7,10,3,0,1,2,5,7,-2,1,6,3,0,3,8,13,-5,9,,,Bloomfield Road,Blackpool
+2010/11,9,39,Wigan Athletic,15,9,2,4,3,7,16,-9,10,6,1,2,3,4,14,-10,5,3,1,2,0,3,2,1,5,,,DW Stadium,Wigan
+2010/11,9,34,Fulham,16,9,1,6,2,10,11,-1,9,4,1,2,1,5,5,0,5,5,0,4,1,5,6,-1,4,Q,EU_EL,Craven Cottage,London
+2010/11,9,3,Blackburn Rovers,17,9,2,3,4,8,10,-2,9,4,1,2,1,3,3,0,5,5,1,1,3,5,7,-2,4,,,Ewood Park,Blackburn
+2010/11,9,10,Liverpool,18,9,2,3,4,9,14,-5,9,5,2,2,1,7,6,1,8,4,0,1,3,2,8,-6,1,R,EN_CH,Anfield,Liverpool
+2010/11,9,38,Wolverhampton Wanderers,19,9,1,3,5,8,15,-7,6,4,1,2,1,5,5,0,5,5,0,1,4,3,10,-7,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,9,25,West Ham United,20,9,1,3,5,7,17,-10,6,5,1,1,3,5,9,-4,4,4,0,2,2,2,8,-6,2,R,EN_CH,Boleyn Ground,London
+2010/11,10,4,Chelsea,1,10,8,1,1,27,3,24,25,5,5,0,0,16,0,16,15,5,3,1,1,11,3,8,10,Q,EU_CL,Stamford Bridge,London
+2010/11,10,1,Arsenal,2,10,6,2,2,22,10,12,20,5,4,0,1,15,5,10,12,5,2,2,1,7,5,2,8,Q,EU_CL,Emirates Stadium,London
+2010/11,10,12,Manchester United,3,10,5,5,0,22,12,10,20,5,4,1,0,13,4,9,13,5,1,4,0,9,8,1,7,Q,EU_CL,Old Trafford,Manchester
+2010/11,10,11,Manchester City,4,10,5,2,3,13,10,3,17,5,3,1,1,7,5,2,10,5,2,1,2,6,5,1,7,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,10,21,Tottenham Hotspur,5,10,4,3,3,11,10,1,15,5,2,2,1,6,4,2,8,5,2,1,2,5,6,-1,7,Q,EU_EL,White Hart Lane,London
+2010/11,10,36,West Bromwich Albion,6,10,4,3,3,14,17,-3,15,5,3,2,0,8,4,4,11,5,1,1,3,6,13,-7,4,,,The Hawthorns,West Bromwich
+2010/11,10,23,Newcastle United,7,10,4,2,4,19,14,5,14,5,2,1,2,14,7,7,7,5,2,1,2,5,7,-2,7,,,St. James' Park,Newcastle
+2010/11,10,7,Everton,8,10,3,4,3,10,8,2,13,5,2,2,1,7,5,2,8,5,1,2,2,3,3,0,5,,,Goodison Park,Liverpool
+2010/11,10,44,Blackpool,9,10,4,1,5,15,21,-6,13,4,1,1,2,7,8,-1,4,6,3,0,3,8,13,-5,9,,,Bloomfield Road,Blackpool
+2010/11,10,34,Fulham,10,10,2,6,2,12,11,1,12,5,2,2,1,7,5,2,8,5,0,4,1,5,6,-1,4,Q,EU_EL,Craven Cottage,London
+2010/11,10,27,Bolton Wanderers,11,10,2,6,2,13,14,-1,12,5,1,3,1,6,6,0,6,5,1,3,1,7,8,-1,6,,,Macron Stadium,Bolton
+2010/11,10,29,Sunderland,12,10,2,6,2,9,12,-3,12,5,2,3,0,5,3,2,9,5,0,3,2,4,9,-5,3,,,Stadium of Light,Sunderland
+2010/11,10,10,Liverpool,13,10,3,3,4,10,14,-4,12,5,2,2,1,7,6,1,8,5,1,1,3,3,8,-5,4,,,Anfield,Liverpool
+2010/11,10,2,Aston Villa,14,10,3,3,4,9,13,-4,12,5,2,3,0,5,1,4,9,5,1,0,4,4,12,-8,3,,,Villa Park,Birmingham
+2010/11,10,35,Birmingham City,15,10,2,5,3,10,12,-2,11,5,2,2,1,4,3,1,8,5,0,3,2,6,9,-3,3,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,10,42,Stoke City,16,10,3,1,6,10,14,-4,10,5,2,1,2,6,6,0,7,5,1,0,4,4,8,-4,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,10,39,Wigan Athletic,17,10,2,4,4,7,18,-11,10,6,1,2,3,4,14,-10,5,4,1,2,1,3,4,-1,5,,,DW Stadium,Wigan
+2010/11,10,3,Blackburn Rovers,18,10,2,3,5,9,12,-3,9,5,1,2,2,4,5,-1,5,5,1,1,3,5,7,-2,4,R,EN_CH,Ewood Park,Blackburn
+2010/11,10,38,Wolverhampton Wanderers,19,10,2,3,5,10,16,-6,9,5,2,2,1,7,6,1,8,5,0,1,4,3,10,-7,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,10,25,West Ham United,20,10,1,3,6,7,18,-11,6,5,1,1,3,5,9,-4,4,5,0,2,3,2,9,-7,2,R,EN_CH,Boleyn Ground,London
+2010/11,11,4,Chelsea,1,11,8,1,2,27,5,22,25,5,5,0,0,16,0,16,15,6,3,1,2,11,5,6,10,Q,EU_CL,Stamford Bridge,London
+2010/11,11,12,Manchester United,2,11,6,5,0,24,13,11,23,6,5,1,0,15,5,10,16,5,1,4,0,9,8,1,7,Q,EU_CL,Old Trafford,Manchester
+2010/11,11,1,Arsenal,3,11,6,2,3,22,11,11,20,6,4,0,2,15,6,9,12,5,2,2,1,7,5,2,8,Q,EU_CL,Emirates Stadium,London
+2010/11,11,11,Manchester City,4,11,6,2,3,15,10,5,20,5,3,1,1,7,5,2,10,6,3,1,2,8,5,3,10,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,11,23,Newcastle United,5,11,5,2,4,20,14,6,17,5,2,1,2,14,7,7,7,6,3,1,2,6,7,-1,10,Q,EU_EL,St. James' Park,Newcastle
+2010/11,11,27,Bolton Wanderers,6,11,3,6,2,17,16,1,15,6,2,3,1,10,8,2,9,5,1,3,1,7,8,-1,6,,,Macron Stadium,Bolton
+2010/11,11,21,Tottenham Hotspur,7,11,4,3,4,13,14,-1,15,5,2,2,1,6,4,2,8,6,2,1,3,7,10,-3,7,,,White Hart Lane,London
+2010/11,11,29,Sunderland,8,11,3,6,2,11,12,-1,15,6,3,3,0,7,3,4,12,5,0,3,2,4,9,-5,3,,,Stadium of Light,Sunderland
+2010/11,11,10,Liverpool,9,11,4,3,4,12,14,-2,15,6,3,2,1,9,6,3,11,5,1,1,3,3,8,-5,4,,,Anfield,Liverpool
+2010/11,11,36,West Bromwich Albion,10,11,4,3,4,14,19,-5,15,6,3,2,1,8,6,2,11,5,1,1,3,6,13,-7,4,,,The Hawthorns,West Bromwich
+2010/11,11,7,Everton,11,11,3,5,3,12,10,2,14,5,2,2,1,7,5,2,8,6,1,3,2,5,5,0,6,,,Goodison Park,Liverpool
+2010/11,11,44,Blackpool,12,11,4,2,5,17,23,-6,14,5,1,2,2,9,10,-1,5,6,3,0,3,8,13,-5,9,,,Bloomfield Road,Blackpool
+2010/11,11,34,Fulham,13,11,2,7,2,13,12,1,13,6,2,3,1,8,6,2,9,5,0,4,1,5,6,-1,4,Q,EU_EL,Craven Cottage,London
+2010/11,11,2,Aston Villa,14,11,3,4,4,10,14,-4,13,5,2,3,0,5,1,4,9,6,1,1,4,5,13,-8,4,,,Villa Park,Birmingham
+2010/11,11,35,Birmingham City,15,11,2,6,3,12,14,-2,12,6,2,3,1,6,5,1,9,5,0,3,2,6,9,-3,3,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,11,3,Blackburn Rovers,16,11,3,3,5,11,13,-2,12,6,2,2,2,6,6,0,8,5,1,1,3,5,7,-2,4,,,Ewood Park,Blackburn
+2010/11,11,42,Stoke City,17,11,3,1,7,10,16,-6,10,5,2,1,2,6,6,0,7,6,1,0,5,4,10,-6,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,11,39,Wigan Athletic,18,11,2,4,5,8,20,-12,10,6,1,2,3,4,14,-10,5,5,1,2,2,4,6,-2,5,R,EN_CH,DW Stadium,Wigan
+2010/11,11,38,Wolverhampton Wanderers,19,11,2,3,6,11,18,-7,9,5,2,2,1,7,6,1,8,6,0,1,5,4,12,-8,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,11,25,West Ham United,20,11,1,4,6,9,20,-11,7,5,1,1,3,5,9,-4,4,6,0,3,3,4,11,-7,3,R,EN_CH,Boleyn Ground,London
+2010/11,12,4,Chelsea,1,12,9,1,2,28,5,23,28,6,6,0,0,17,0,17,18,6,3,1,2,11,5,6,10,Q,EU_CL,Stamford Bridge,London
+2010/11,12,12,Manchester United,2,12,6,6,0,24,13,11,24,6,5,1,0,15,5,10,16,6,1,5,0,9,8,1,8,Q,EU_CL,Old Trafford,Manchester
+2010/11,12,1,Arsenal,3,12,7,2,3,24,11,13,23,6,4,0,2,15,6,9,12,6,3,2,1,9,5,4,11,Q,EU_CL,Emirates Stadium,London
+2010/11,12,11,Manchester City,4,12,6,3,3,15,10,5,21,6,3,2,1,7,5,2,11,6,3,1,2,8,5,3,10,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,12,23,Newcastle United,5,12,5,2,5,21,16,5,17,6,2,1,3,15,9,6,7,6,3,1,2,6,7,-1,10,Q,EU_EL,St. James' Park,Newcastle
+2010/11,12,27,Bolton Wanderers,6,12,3,7,2,18,17,1,16,6,2,3,1,10,8,2,9,6,1,4,1,8,9,-1,7,,,Macron Stadium,Bolton
+2010/11,12,21,Tottenham Hotspur,7,12,4,4,4,14,15,-1,16,6,2,3,1,7,5,2,9,6,2,1,3,7,10,-3,7,,,White Hart Lane,London
+2010/11,12,29,Sunderland,8,12,3,7,2,12,13,-1,16,6,3,3,0,7,3,4,12,6,0,4,2,5,10,-5,4,,,Stadium of Light,Sunderland
+2010/11,12,10,Liverpool,9,12,4,4,4,13,15,-2,16,6,3,2,1,9,6,3,11,6,1,2,3,4,9,-5,5,,,Anfield,Liverpool
+2010/11,12,2,Aston Villa,10,12,4,4,4,13,16,-3,16,6,3,3,0,8,3,5,12,6,1,1,4,5,13,-8,4,,,Villa Park,Birmingham
+2010/11,12,36,West Bromwich Albion,11,12,4,4,4,16,21,-5,16,6,3,2,1,8,6,2,11,6,1,2,3,8,15,-7,5,,,The Hawthorns,West Bromwich
+2010/11,12,7,Everton,12,12,3,6,3,13,11,2,15,6,2,3,1,8,6,2,9,6,1,3,2,5,5,0,6,,,Goodison Park,Liverpool
+2010/11,12,3,Blackburn Rovers,13,12,4,3,5,13,14,-1,15,6,2,2,2,6,6,0,8,6,2,1,3,7,8,-1,7,,,Ewood Park,Blackburn
+2010/11,12,44,Blackpool,14,12,4,2,6,19,26,-7,14,5,1,2,2,9,10,-1,5,7,3,0,4,10,16,-6,9,,,Bloomfield Road,Blackpool
+2010/11,12,34,Fulham,15,12,2,7,3,13,13,0,13,6,2,3,1,8,6,2,9,6,0,4,2,5,7,-2,4,Q,EU_EL,Craven Cottage,London
+2010/11,12,42,Stoke City,16,12,4,1,7,13,18,-5,13,6,3,1,2,9,8,1,10,6,1,0,5,4,10,-6,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,12,35,Birmingham City,17,12,2,6,4,14,17,-3,12,6,2,3,1,6,5,1,9,6,0,3,3,8,12,-4,3,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,12,39,Wigan Athletic,18,12,2,5,5,9,21,-12,11,7,1,3,3,5,15,-10,6,5,1,2,2,4,6,-2,5,R,EN_CH,DW Stadium,Wigan
+2010/11,12,38,Wolverhampton Wanderers,19,12,2,3,7,11,20,-9,9,6,2,2,2,7,8,-1,8,6,0,1,5,4,12,-8,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,12,25,West Ham United,20,12,1,5,6,11,22,-11,8,6,1,2,3,7,11,-4,5,6,0,3,3,4,11,-7,3,R,EN_CH,Boleyn Ground,London
+2010/11,13,4,Chelsea,1,13,9,1,3,28,8,20,28,7,6,0,1,17,3,14,18,6,3,1,2,11,5,6,10,Q,EU_CL,Stamford Bridge,London
+2010/11,13,1,Arsenal,2,13,8,2,3,26,12,14,26,6,4,0,2,15,6,9,12,7,4,2,1,11,6,5,14,Q,EU_CL,Emirates Stadium,London
+2010/11,13,12,Manchester United,3,13,6,7,0,26,15,11,25,6,5,1,0,15,5,10,16,7,1,6,0,11,10,1,9,Q,EU_CL,Old Trafford,Manchester
+2010/11,13,11,Manchester City,4,13,6,4,3,15,10,5,22,7,3,3,1,7,5,2,12,6,3,1,2,8,5,3,10,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,13,27,Bolton Wanderers,5,13,4,7,2,21,19,2,19,6,2,3,1,10,8,2,9,7,2,4,1,11,11,0,10,Q,EU_EL,Macron Stadium,Bolton
+2010/11,13,29,Sunderland,6,13,4,7,2,15,13,2,19,6,3,3,0,7,3,4,12,7,1,4,2,8,10,-2,7,,,Stadium of Light,Sunderland
+2010/11,13,21,Tottenham Hotspur,7,13,5,4,4,18,17,1,19,7,3,3,1,11,7,4,12,6,2,1,3,7,10,-3,7,,,White Hart Lane,London
+2010/11,13,23,Newcastle United,8,13,5,3,5,21,16,5,18,7,2,2,3,15,9,6,8,6,3,1,2,6,7,-1,10,,,St. James' Park,Newcastle
+2010/11,13,2,Aston Villa,9,13,4,5,4,15,18,-3,17,7,3,4,0,10,5,5,13,6,1,1,4,5,13,-8,4,,,Villa Park,Birmingham
+2010/11,13,42,Stoke City,10,13,5,1,7,15,18,-3,16,7,4,1,2,11,8,3,13,6,1,0,5,4,10,-6,3,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,13,10,Liverpool,11,13,4,4,5,13,17,-4,16,6,3,2,1,9,6,3,11,7,1,2,4,4,11,-7,5,,,Anfield,Liverpool
+2010/11,13,36,West Bromwich Albion,12,13,4,4,5,16,22,-6,16,6,3,2,1,8,6,2,11,7,1,2,4,8,16,-8,5,,,The Hawthorns,West Bromwich
+2010/11,13,7,Everton,13,13,3,6,4,14,13,1,15,7,2,3,2,9,8,1,9,6,1,3,2,5,5,0,6,,,Goodison Park,Liverpool
+2010/11,13,3,Blackburn Rovers,14,13,4,3,6,15,18,-3,15,6,2,2,2,6,6,0,8,7,2,1,4,9,12,-3,7,,,Ewood Park,Blackburn
+2010/11,13,44,Blackpool,15,13,4,3,6,19,26,-7,15,5,1,2,2,9,10,-1,5,8,3,1,4,10,16,-6,10,,,Bloomfield Road,Blackpool
+2010/11,13,34,Fulham,16,13,2,8,3,13,13,0,14,6,2,3,1,8,6,2,9,7,0,5,2,5,7,-2,5,Q,EU_EL,Craven Cottage,London
+2010/11,13,39,Wigan Athletic,17,13,3,5,5,10,21,-11,14,8,2,3,3,6,15,-9,9,5,1,2,2,4,6,-2,5,,,DW Stadium,Wigan
+2010/11,13,35,Birmingham City,18,13,2,7,4,14,17,-3,13,6,2,3,1,6,5,1,9,7,0,4,3,8,12,-4,4,"R,Q","EN_CH,EU_EL",St. Andrew's Stadium,Birmingham
+2010/11,13,38,Wolverhampton Wanderers,19,13,2,3,8,13,23,-10,9,7,2,2,3,9,11,-2,8,6,0,1,5,4,12,-8,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,13,25,West Ham United,20,13,1,6,6,11,22,-11,9,7,1,3,3,7,11,-4,6,6,0,3,3,4,11,-7,3,R,EN_CH,Boleyn Ground,London
+2010/11,14,4,Chelsea,1,14,9,1,4,28,9,19,28,7,6,0,1,17,3,14,18,7,3,1,3,11,6,5,10,Q,EU_CL,Stamford Bridge,London
+2010/11,14,12,Manchester United,2,14,7,7,0,28,15,13,28,7,6,1,0,17,5,12,19,7,1,6,0,11,10,1,9,Q,EU_CL,Old Trafford,Manchester
+2010/11,14,1,Arsenal,3,14,8,2,4,28,15,13,26,7,4,0,3,17,9,8,12,7,4,2,1,11,6,5,14,Q,EU_CL,Emirates Stadium,London
+2010/11,14,11,Manchester City,4,14,7,4,3,19,11,8,25,7,3,3,1,7,5,2,12,7,4,1,2,12,6,6,13,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,14,27,Bolton Wanderers,5,14,5,7,2,26,20,6,22,7,3,3,1,15,9,6,12,7,2,4,1,11,11,0,10,Q,EU_EL,Macron Stadium,Bolton
+2010/11,14,21,Tottenham Hotspur,6,14,6,4,4,21,19,2,22,7,3,3,1,11,7,4,12,7,3,1,3,10,12,-2,10,,,White Hart Lane,London
+2010/11,14,29,Sunderland,7,14,4,8,2,17,15,2,20,7,3,4,0,9,5,4,13,7,1,4,2,8,10,-2,7,,,Stadium of Light,Sunderland
+2010/11,14,42,Stoke City,8,14,6,1,7,18,18,0,19,7,4,1,2,11,8,3,13,7,2,0,5,7,10,-3,6,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,14,10,Liverpool,9,14,5,4,5,16,17,-1,19,7,4,2,1,12,6,6,14,7,1,2,4,4,11,-7,5,,,Anfield,Liverpool
+2010/11,14,23,Newcastle United,10,14,5,3,6,22,21,1,18,7,2,2,3,15,9,6,8,7,3,1,3,7,12,-5,10,,,St. James' Park,Newcastle
+2010/11,14,3,Blackburn Rovers,11,14,5,3,6,17,18,-1,18,7,3,2,2,8,6,2,11,7,2,1,4,9,12,-3,7,,,Ewood Park,Blackburn
+2010/11,14,44,Blackpool,12,14,5,3,6,21,27,-6,18,6,2,2,2,11,11,0,8,8,3,1,4,10,16,-6,10,,,Bloomfield Road,Blackpool
+2010/11,14,2,Aston Villa,13,14,4,5,5,15,20,-5,17,7,3,4,0,10,5,5,13,7,1,1,5,5,15,-10,4,,,Villa Park,Birmingham
+2010/11,14,7,Everton,14,14,3,7,4,16,15,1,16,7,2,3,2,9,8,1,9,7,1,4,2,7,7,0,7,,,Goodison Park,Liverpool
+2010/11,14,35,Birmingham City,15,14,3,7,4,15,17,-2,16,7,3,3,1,7,5,2,12,7,0,4,3,8,12,-4,4,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,14,36,West Bromwich Albion,16,14,4,4,6,16,25,-9,16,7,3,2,2,8,9,-1,11,7,1,2,4,8,16,-8,5,,,The Hawthorns,West Bromwich
+2010/11,14,34,Fulham,17,14,2,8,4,14,17,-3,14,7,2,3,2,9,10,-1,9,7,0,5,2,5,7,-2,5,Q,EU_EL,Craven Cottage,London
+2010/11,14,39,Wigan Athletic,18,14,3,5,6,10,23,-13,14,8,2,3,3,6,15,-9,9,6,1,2,3,4,8,-4,5,R,EN_CH,DW Stadium,Wigan
+2010/11,14,38,Wolverhampton Wanderers,19,14,2,3,9,14,25,-11,9,7,2,2,3,9,11,-2,8,7,0,1,6,5,14,-9,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,14,25,West Ham United,20,14,1,6,7,11,25,-14,9,7,1,3,3,7,11,-4,6,7,0,3,4,4,14,-10,3,R,EN_CH,Boleyn Ground,London
+2010/11,15,12,Manchester United,1,15,8,7,0,35,16,19,31,8,7,1,0,24,6,18,22,7,1,6,0,11,10,1,9,Q,EU_CL,Old Trafford,Manchester
+2010/11,15,4,Chelsea,2,15,9,2,4,29,10,19,29,7,6,0,1,17,3,14,18,8,3,2,3,12,7,5,11,Q,EU_CL,Stamford Bridge,London
+2010/11,15,1,Arsenal,3,15,9,2,4,32,17,15,29,7,4,0,3,17,9,8,12,8,5,2,1,15,8,7,17,Q,EU_CL,Emirates Stadium,London
+2010/11,15,11,Manchester City,4,15,7,5,3,20,12,8,26,7,3,3,1,7,5,2,12,8,4,2,2,13,7,6,14,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,15,21,Tottenham Hotspur,5,15,7,4,4,23,20,3,25,8,4,3,1,13,8,5,15,7,3,1,3,10,12,-2,10,Q,EU_EL,White Hart Lane,London
+2010/11,15,27,Bolton Wanderers,6,15,5,8,2,28,22,6,23,8,3,4,1,17,11,6,13,7,2,4,1,11,11,0,10,,,Macron Stadium,Bolton
+2010/11,15,29,Sunderland,7,15,4,8,3,19,18,1,20,7,3,4,0,9,5,4,13,8,1,4,3,10,13,-3,7,,,Stadium of Light,Sunderland
+2010/11,15,42,Stoke City,8,15,6,2,7,19,19,0,20,8,4,2,2,12,9,3,14,7,2,0,5,7,10,-3,6,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,15,23,Newcastle United,9,15,5,4,6,23,22,1,19,8,2,3,3,16,10,6,9,7,3,1,3,7,12,-5,10,,,St. James' Park,Newcastle
+2010/11,15,10,Liverpool,10,15,5,4,6,17,19,-2,19,7,4,2,1,12,6,6,14,8,1,2,5,5,13,-8,5,,,Anfield,Liverpool
+2010/11,15,44,Blackpool,11,15,5,4,6,23,29,-6,19,6,2,2,2,11,11,0,8,9,3,2,4,12,18,-6,11,,,Bloomfield Road,Blackpool
+2010/11,15,36,West Bromwich Albion,12,15,5,4,6,20,26,-6,19,7,3,2,2,8,9,-1,11,8,2,2,4,12,17,-5,8,,,The Hawthorns,West Bromwich
+2010/11,15,3,Blackburn Rovers,13,15,5,3,7,18,25,-7,18,7,3,2,2,8,6,2,11,8,2,1,5,10,19,-9,7,,,Ewood Park,Blackburn
+2010/11,15,35,Birmingham City,14,15,3,8,4,16,18,-2,17,7,3,3,1,7,5,2,12,8,0,5,3,9,13,-4,5,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,15,2,Aston Villa,15,15,4,5,6,17,24,-7,17,8,3,4,1,12,9,3,13,7,1,1,5,5,15,-10,4,,,Villa Park,Birmingham
+2010/11,15,7,Everton,16,15,3,7,5,17,19,-2,16,8,2,3,3,10,12,-2,9,7,1,4,2,7,7,0,7,,,Goodison Park,Liverpool
+2010/11,15,34,Fulham,17,15,2,9,4,15,18,-3,15,8,2,4,2,10,11,-1,10,7,0,5,2,5,7,-2,5,Q,EU_EL,Craven Cottage,London
+2010/11,15,39,Wigan Athletic,18,15,3,5,7,11,26,-15,14,8,2,3,3,6,15,-9,9,7,1,2,4,5,11,-6,5,R,EN_CH,DW Stadium,Wigan
+2010/11,15,38,Wolverhampton Wanderers,19,15,3,3,9,17,27,-10,12,8,3,2,3,12,13,-1,11,7,0,1,6,5,14,-9,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,15,25,West Ham United,20,15,2,6,7,14,26,-12,12,8,2,3,3,10,12,-2,9,7,0,3,4,4,14,-10,3,R,EN_CH,Boleyn Ground,London
+2010/11,16,1,Arsenal,1,16,10,2,4,34,18,16,32,8,5,0,3,19,10,9,15,8,5,2,1,15,8,7,17,Q,EU_CL,Emirates Stadium,London
+2010/11,16,12,Manchester United,2,15,8,7,0,35,16,19,31,8,7,1,0,24,6,18,22,7,1,6,0,11,10,1,9,Q,EU_CL,Old Trafford,Manchester
+2010/11,16,4,Chelsea,3,16,9,3,4,30,11,19,30,8,6,1,1,18,4,14,19,8,3,2,3,12,7,5,11,Q,EU_CL,Stamford Bridge,London
+2010/11,16,11,Manchester City,4,16,8,5,3,21,12,9,29,8,4,3,1,8,5,3,15,8,4,2,2,13,7,6,14,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,16,21,Tottenham Hotspur,5,16,7,5,4,24,21,3,26,8,4,3,1,13,8,5,15,8,3,2,3,11,13,-2,11,Q,EU_EL,White Hart Lane,London
+2010/11,16,27,Bolton Wanderers,6,16,5,8,3,28,23,5,23,8,3,4,1,17,11,6,13,8,2,4,2,11,12,-1,10,,,Macron Stadium,Bolton
+2010/11,16,29,Sunderland,7,16,5,8,3,20,18,2,23,8,4,4,0,10,5,5,16,8,1,4,3,10,13,-3,7,,,Stadium of Light,Sunderland
+2010/11,16,10,Liverpool,8,16,6,4,6,20,19,1,22,8,5,2,1,15,6,9,17,8,1,2,5,5,13,-8,5,,,Anfield,Liverpool
+2010/11,16,36,West Bromwich Albion,9,16,6,4,6,23,27,-4,22,8,4,2,2,11,10,1,14,8,2,2,4,12,17,-5,8,,,The Hawthorns,West Bromwich
+2010/11,16,42,Stoke City,10,16,6,3,7,21,21,0,21,8,4,2,2,12,9,3,14,8,2,1,5,9,12,-3,7,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,16,3,Blackburn Rovers,11,16,6,3,7,21,25,-4,21,8,4,2,2,11,6,5,14,8,2,1,5,10,19,-9,7,,,Ewood Park,Blackburn
+2010/11,16,23,Newcastle United,12,16,5,4,7,24,25,-1,19,8,2,3,3,16,10,6,9,8,3,1,4,8,15,-7,10,,,St. James' Park,Newcastle
+2010/11,16,44,Blackpool,13,15,5,4,6,23,29,-6,19,6,2,2,2,11,11,0,8,9,3,2,4,12,18,-6,11,,,Bloomfield Road,Blackpool
+2010/11,16,35,Birmingham City,14,16,3,9,4,17,19,-2,18,8,3,4,1,8,6,2,13,8,0,5,3,9,13,-4,5,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,16,7,Everton,15,16,3,8,5,18,20,-2,17,8,2,3,3,10,12,-2,9,8,1,5,2,8,8,0,8,,,Goodison Park,Liverpool
+2010/11,16,2,Aston Villa,16,16,4,5,7,17,27,-10,17,8,3,4,1,12,9,3,13,8,1,1,6,5,18,-13,4,,,Villa Park,Birmingham
+2010/11,16,34,Fulham,17,16,2,9,5,16,20,-4,15,8,2,4,2,10,11,-1,10,8,0,5,3,6,9,-3,5,Q,EU_EL,Craven Cottage,London
+2010/11,16,39,Wigan Athletic,18,16,3,6,7,13,28,-15,15,9,2,4,3,8,17,-9,10,7,1,2,4,5,11,-6,5,R,EN_CH,DW Stadium,Wigan
+2010/11,16,38,Wolverhampton Wanderers,19,16,3,3,10,17,30,-13,12,8,3,2,3,12,13,-1,11,8,0,1,7,5,17,-12,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,16,25,West Ham United,20,16,2,6,8,14,27,-13,12,8,2,3,3,10,12,-2,9,8,0,3,5,4,15,-11,3,R,EN_CH,Boleyn Ground,London
+2010/11,17,12,Manchester United,1,16,9,7,0,36,16,20,34,9,8,1,0,25,6,19,25,7,1,6,0,11,10,1,9,Q,EU_CL,Old Trafford,Manchester
+2010/11,17,1,Arsenal,2,17,10,2,5,34,19,15,32,8,5,0,3,19,10,9,15,9,5,2,2,15,9,6,17,Q,EU_CL,Emirates Stadium,London
+2010/11,17,11,Manchester City,3,18,9,5,4,25,15,10,32,9,4,3,2,9,7,2,15,9,5,2,2,16,8,8,17,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,17,4,Chelsea,4,17,9,4,4,31,12,19,31,8,6,1,1,18,4,14,19,9,3,3,3,13,8,5,12,Q,EU_CL,Stamford Bridge,London
+2010/11,17,21,Tottenham Hotspur,5,17,7,6,4,25,22,3,27,9,4,4,1,14,9,5,16,8,3,2,3,11,13,-2,11,Q,EU_EL,White Hart Lane,London
+2010/11,17,29,Sunderland,6,18,6,9,3,21,18,3,27,9,5,4,0,11,5,6,19,9,1,5,3,10,13,-3,8,,,Stadium of Light,Sunderland
+2010/11,17,27,Bolton Wanderers,7,18,6,8,4,30,25,5,26,9,4,4,1,19,12,7,16,9,2,4,3,11,13,-2,10,,,Macron Stadium,Bolton
+2010/11,17,23,Newcastle United,8,17,6,4,7,27,26,1,22,9,3,3,3,19,11,8,12,8,3,1,4,8,15,-7,10,,,St. James' Park,Newcastle
+2010/11,17,10,Liverpool,9,17,6,4,7,21,22,-1,22,8,5,2,1,15,6,9,17,9,1,2,6,6,16,-10,5,,,Anfield,Liverpool
+2010/11,17,44,Blackpool,10,16,6,4,6,24,29,-5,22,6,2,2,2,11,11,0,8,10,4,2,4,13,18,-5,14,,,Bloomfield Road,Blackpool
+2010/11,17,36,West Bromwich Albion,11,17,6,4,7,24,29,-5,22,8,4,2,2,11,10,1,14,9,2,2,5,13,19,-6,8,,,The Hawthorns,West Bromwich
+2010/11,17,3,Blackburn Rovers,12,18,6,4,8,23,28,-5,22,9,4,3,2,12,7,5,15,9,2,1,6,11,21,-10,7,,,Ewood Park,Blackburn
+2010/11,17,42,Stoke City,13,17,6,3,8,21,22,-1,21,9,4,2,3,12,10,2,14,8,2,1,5,9,12,-3,7,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,17,7,Everton,14,18,4,9,5,20,21,-1,21,9,2,4,3,10,12,-2,10,9,2,5,2,10,9,1,11,,,Goodison Park,Liverpool
+2010/11,17,2,Aston Villa,15,17,5,5,7,19,28,-9,20,9,4,4,1,14,10,4,16,8,1,1,6,5,18,-13,4,,,Villa Park,Birmingham
+2010/11,17,35,Birmingham City,16,17,3,9,5,17,20,-3,18,8,3,4,1,8,6,2,13,9,0,5,4,9,14,-5,5,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,17,34,Fulham,17,17,2,10,5,16,20,-4,16,9,2,5,2,10,11,-1,11,8,0,5,3,6,9,-3,5,Q,EU_EL,Craven Cottage,London
+2010/11,17,39,Wigan Athletic,18,17,3,7,7,13,28,-15,16,9,2,4,3,8,17,-9,10,8,1,3,4,5,11,-6,6,R,EN_CH,DW Stadium,Wigan
+2010/11,17,38,Wolverhampton Wanderers,19,17,4,3,10,18,30,-12,15,9,4,2,3,13,13,0,14,8,0,1,7,5,17,-12,1,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,17,25,West Ham United,20,18,2,7,9,16,31,-15,13,9,2,3,4,11,15,-4,9,9,0,4,5,5,16,-11,4,R,EN_CH,Boleyn Ground,London
+2010/11,18,12,Manchester United,1,18,10,8,0,39,17,22,38,10,9,1,0,27,6,21,28,8,1,7,0,12,11,1,10,Q,EU_CL,Old Trafford,Manchester
+2010/11,18,11,Manchester City,2,20,11,5,4,32,16,16,38,10,5,3,2,13,7,6,18,10,6,2,2,19,9,10,20,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,18,1,Arsenal,3,19,11,3,5,39,22,17,36,9,6,0,3,22,11,11,18,10,5,3,2,17,11,6,18,Q,EU_CL,Emirates Stadium,London
+2010/11,18,4,Chelsea,4,19,10,4,5,33,15,18,34,9,7,1,1,19,4,15,22,10,3,3,4,14,11,3,12,Q,EU_CL,Stamford Bridge,London
+2010/11,18,21,Tottenham Hotspur,5,19,9,6,4,29,23,6,33,10,5,4,1,16,9,7,19,9,4,2,3,13,14,-1,14,Q,EU_EL,White Hart Lane,London
+2010/11,18,27,Bolton Wanderers,6,20,7,8,5,32,26,6,29,10,5,4,1,21,12,9,19,10,2,4,4,11,14,-3,10,,,Macron Stadium,Bolton
+2010/11,18,29,Sunderland,7,20,6,9,5,21,22,-1,27,10,5,4,1,11,7,4,19,10,1,5,4,10,15,-5,8,,,Stadium of Light,Sunderland
+2010/11,18,44,Blackpool,8,17,7,4,6,26,29,-3,25,6,2,2,2,11,11,0,8,11,5,2,4,15,18,-3,17,,,Bloomfield Road,Blackpool
+2010/11,18,3,Blackburn Rovers,9,20,7,4,9,26,31,-5,25,10,4,3,3,12,9,3,15,10,3,1,6,14,22,-8,10,,,Ewood Park,Blackburn
+2010/11,18,42,Stoke City,10,19,7,3,9,23,24,-1,24,10,4,2,4,12,12,0,14,9,3,1,5,11,12,-1,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,18,7,Everton,11,19,4,10,5,21,22,-1,22,9,2,4,3,10,12,-2,10,10,2,6,2,11,10,1,12,,,Goodison Park,Liverpool
+2010/11,18,10,Liverpool,12,18,6,4,8,21,23,-2,22,9,5,2,2,15,7,8,17,9,1,2,6,6,16,-10,5,,,Anfield,Liverpool
+2010/11,18,23,Newcastle United,13,19,6,4,9,28,31,-3,22,10,3,3,4,20,14,6,12,9,3,1,5,8,17,-9,10,,,St. James' Park,Newcastle
+2010/11,18,36,West Bromwich Albion,14,19,6,4,9,25,34,-9,22,9,4,2,3,12,13,-1,14,10,2,2,6,13,21,-8,8,,,The Hawthorns,West Bromwich
+2010/11,18,2,Aston Villa,15,19,5,5,9,20,34,-14,20,10,4,4,2,15,12,3,16,9,1,1,7,5,22,-17,4,,,Villa Park,Birmingham
+2010/11,18,39,Wigan Athletic,16,19,4,8,7,17,31,-14,20,10,2,5,3,10,19,-9,11,9,2,3,4,7,12,-5,9,,,DW Stadium,Wigan
+2010/11,18,35,Birmingham City,17,18,3,10,5,18,21,-3,19,9,3,5,1,9,7,2,14,9,0,5,4,9,14,-5,5,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,18,34,Fulham,18,19,3,10,6,19,23,-4,19,10,2,5,3,11,14,-3,11,9,1,5,3,8,9,-1,8,"R,Q","EN_CH,EU_EL",Craven Cottage,London
+2010/11,18,38,Wolverhampton Wanderers,19,19,5,3,11,20,32,-12,18,10,4,2,4,14,15,-1,14,9,1,1,7,6,17,-11,4,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,18,25,West Ham United,20,20,3,8,9,20,33,-13,17,10,2,4,4,12,16,-4,10,10,1,4,5,8,17,-9,7,R,EN_CH,Boleyn Ground,London
+2010/11,19,12,Manchester United,1,19,11,8,0,41,18,23,41,10,9,1,0,27,6,21,28,9,2,7,0,14,12,2,13,Q,EU_CL,Old Trafford,Manchester
+2010/11,19,11,Manchester City,2,21,12,5,4,33,16,17,41,11,6,3,2,14,7,7,21,10,6,2,2,19,9,10,20,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,19,1,Arsenal,3,20,12,3,5,42,22,20,39,9,6,0,3,22,11,11,18,11,6,3,2,20,11,9,21,Q,EU_CL,Emirates Stadium,London
+2010/11,19,21,Tottenham Hotspur,4,20,10,6,4,30,23,7,36,11,6,4,1,17,9,8,22,9,4,2,3,13,14,-1,14,Q,EU_CL,White Hart Lane,London
+2010/11,19,4,Chelsea,5,20,10,5,5,36,18,18,35,10,7,2,1,22,7,15,23,10,3,3,4,14,11,3,12,Q,EU_EL,Stamford Bridge,London
+2010/11,19,29,Sunderland,6,21,7,9,5,24,22,2,30,11,6,4,1,14,7,7,22,10,1,5,4,10,15,-5,8,,,Stadium of Light,Sunderland
+2010/11,19,27,Bolton Wanderers,7,21,7,8,6,33,28,5,29,10,5,4,1,21,12,9,19,11,2,4,5,12,16,-4,10,,,Macron Stadium,Bolton
+2010/11,19,42,Stoke City,8,20,8,3,9,25,24,1,27,11,5,2,4,14,12,2,17,9,3,1,5,11,12,-1,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,19,10,Liverpool,9,19,7,4,8,23,24,-1,25,10,6,2,2,17,8,9,20,9,1,2,6,6,16,-10,5,,,Anfield,Liverpool
+2010/11,19,23,Newcastle United,10,20,7,4,9,29,31,-2,25,10,3,3,4,20,14,6,12,10,4,1,5,9,17,-8,13,,,St. James' Park,Newcastle
+2010/11,19,44,Blackpool,11,18,7,4,7,26,30,-4,25,6,2,2,2,11,11,0,8,12,5,2,5,15,19,-4,17,,,Bloomfield Road,Blackpool
+2010/11,19,3,Blackburn Rovers,12,21,7,4,10,26,34,-8,25,10,4,3,3,12,9,3,15,11,3,1,7,14,25,-11,10,,,Ewood Park,Blackburn
+2010/11,19,7,Everton,13,20,4,10,6,21,24,-3,22,9,2,4,3,10,12,-2,10,11,2,6,3,11,12,-1,12,,,Goodison Park,Liverpool
+2010/11,19,36,West Bromwich Albion,14,20,6,4,10,26,36,-10,22,10,4,2,4,13,15,-2,14,10,2,2,6,13,21,-8,8,,,The Hawthorns,West Bromwich
+2010/11,19,2,Aston Villa,15,20,5,6,9,23,37,-14,21,10,4,4,2,15,12,3,16,10,1,2,7,8,25,-17,5,,,Villa Park,Birmingham
+2010/11,19,25,West Ham United,16,21,4,8,9,22,33,-11,20,11,3,4,4,14,16,-2,13,10,1,4,5,8,17,-9,7,,,Boleyn Ground,London
+2010/11,19,39,Wigan Athletic,17,20,4,8,8,17,32,-15,20,11,2,5,4,10,20,-10,11,9,2,3,4,7,12,-5,9,,,DW Stadium,Wigan
+2010/11,19,34,Fulham,18,20,3,10,7,19,24,-5,19,10,2,5,3,11,14,-3,11,10,1,5,4,8,10,-2,8,"R,Q","EN_CH,EU_EL",Craven Cottage,London
+2010/11,19,35,Birmingham City,19,19,3,10,6,18,24,-6,19,10,3,5,2,9,10,-1,14,9,0,5,4,9,14,-5,5,"R,Q","EN_CH,EU_EL",St. Andrew's Stadium,Birmingham
+2010/11,19,38,Wolverhampton Wanderers,20,20,5,3,12,20,34,-14,18,10,4,2,4,14,15,-1,14,10,1,1,8,6,19,-13,4,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,20,12,Manchester United,1,20,12,8,0,43,19,24,44,11,10,1,0,29,7,22,31,9,2,7,0,14,12,2,13,Q,EU_CL,Old Trafford,Manchester
+2010/11,20,11,Manchester City,2,22,12,6,4,33,16,17,42,11,6,3,2,14,7,7,21,11,6,3,2,19,9,10,21,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,20,1,Arsenal,3,21,12,4,5,42,22,20,40,10,6,1,3,22,11,11,19,11,6,3,2,20,11,9,21,Q,EU_CL,Emirates Stadium,London
+2010/11,20,21,Tottenham Hotspur,4,21,10,6,5,31,25,6,36,11,6,4,1,17,9,8,22,10,4,2,4,14,16,-2,14,Q,EU_CL,White Hart Lane,London
+2010/11,20,4,Chelsea,5,21,10,5,6,36,19,17,35,10,7,2,1,22,7,15,23,11,3,3,5,14,12,2,12,Q,EU_EL,Stamford Bridge,London
+2010/11,20,29,Sunderland,6,22,8,9,5,25,22,3,33,11,6,4,1,14,7,7,22,11,2,5,4,11,15,-4,11,,,Stadium of Light,Sunderland
+2010/11,20,27,Bolton Wanderers,7,22,7,9,6,34,29,5,30,11,5,5,1,22,13,9,20,11,2,4,5,12,16,-4,10,,,Macron Stadium,Bolton
+2010/11,20,23,Newcastle United,8,21,8,4,9,34,31,3,28,11,4,3,4,25,14,11,15,10,4,1,5,9,17,-8,13,,,St. James' Park,Newcastle
+2010/11,20,44,Blackpool,9,20,8,4,8,29,33,-4,28,8,3,2,3,14,14,0,11,12,5,2,5,15,19,-4,17,,,Bloomfield Road,Blackpool
+2010/11,20,3,Blackburn Rovers,10,22,8,4,10,29,35,-6,28,11,5,3,3,15,10,5,18,11,3,1,7,14,25,-11,10,,,Ewood Park,Blackburn
+2010/11,20,42,Stoke City,11,21,8,3,10,26,26,0,27,11,5,2,4,14,12,2,17,10,3,1,6,12,14,-2,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,20,7,Everton,12,21,5,10,6,23,25,-2,25,10,3,4,3,12,13,-1,13,11,2,6,3,11,12,-1,12,,,Goodison Park,Liverpool
+2010/11,20,10,Liverpool,13,21,7,4,10,25,29,-4,25,10,6,2,2,17,8,9,20,11,1,2,8,8,21,-13,5,,,Anfield,Liverpool
+2010/11,20,34,Fulham,14,21,4,10,7,22,24,-2,22,11,3,5,3,14,14,0,14,10,1,5,4,8,10,-2,8,Q,EU_EL,Craven Cottage,London
+2010/11,20,35,Birmingham City,15,20,4,10,6,20,25,-5,22,10,3,5,2,9,10,-1,14,10,1,5,4,11,15,-4,8,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,20,36,West Bromwich Albion,16,21,6,4,11,26,39,-13,22,10,4,2,4,13,15,-2,14,11,2,2,7,13,24,-11,8,,,The Hawthorns,West Bromwich
+2010/11,20,38,Wolverhampton Wanderers,17,21,6,3,12,21,34,-13,21,11,5,2,4,15,15,0,17,10,1,1,8,6,19,-13,4,,,Molineux Stadium,Wolverhampton
+2010/11,20,2,Aston Villa,18,21,5,6,10,23,38,-15,21,11,4,4,3,15,13,2,16,10,1,2,7,8,25,-17,5,R,EN_CH,Villa Park,Birmingham
+2010/11,20,39,Wigan Athletic,19,21,4,9,8,18,33,-15,21,11,2,5,4,10,20,-10,11,10,2,4,4,8,13,-5,10,R,EN_CH,DW Stadium,Wigan
+2010/11,20,25,West Ham United,20,22,4,8,10,22,38,-16,20,11,3,4,4,14,16,-2,13,11,1,4,6,8,22,-14,7,R,EN_CH,Boleyn Ground,London
+2010/11,21,12,Manchester United,1,21,12,9,0,43,19,24,45,11,10,1,0,29,7,22,31,10,2,8,0,14,12,2,14,Q,EU_CL,Old Trafford,Manchester
+2010/11,21,11,Manchester City,2,23,13,6,4,37,19,18,45,12,7,3,2,18,10,8,24,11,6,3,2,19,9,10,21,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,21,1,Arsenal,3,22,13,4,5,45,22,23,43,10,6,1,3,22,11,11,19,12,7,3,2,23,11,12,24,Q,EU_CL,Emirates Stadium,London
+2010/11,21,4,Chelsea,4,22,11,5,6,38,19,19,38,11,8,2,1,24,7,17,26,11,3,3,5,14,12,2,12,Q,EU_CL,Stamford Bridge,London
+2010/11,21,21,Tottenham Hotspur,5,22,10,7,5,31,25,6,37,12,6,5,1,17,9,8,23,10,4,2,4,14,16,-2,14,Q,EU_EL,White Hart Lane,London
+2010/11,21,29,Sunderland,6,23,8,10,5,26,23,3,34,12,6,5,1,15,8,7,23,11,2,5,4,11,15,-4,11,,,Stadium of Light,Sunderland
+2010/11,21,27,Bolton Wanderers,7,23,7,9,7,34,31,3,30,11,5,5,1,22,13,9,20,12,2,4,6,12,18,-6,10,,,Macron Stadium,Bolton
+2010/11,21,42,Stoke City,8,22,9,3,10,28,26,2,30,12,6,2,4,16,12,4,20,10,3,1,6,12,14,-2,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,21,23,Newcastle United,9,22,8,5,9,35,32,3,29,11,4,3,4,25,14,11,15,11,4,2,5,10,18,-8,14,,,St. James' Park,Newcastle
+2010/11,21,44,Blackpool,10,21,8,4,9,31,36,-5,28,8,3,2,3,14,14,0,11,13,5,2,6,17,22,-5,17,,,Bloomfield Road,Blackpool
+2010/11,21,3,Blackburn Rovers,11,23,8,4,11,29,37,-8,28,11,5,3,3,15,10,5,18,12,3,1,8,14,27,-13,10,,,Ewood Park,Blackburn
+2010/11,21,7,Everton,12,22,5,11,6,25,27,-2,26,10,3,4,3,12,13,-1,13,12,2,7,3,13,14,-1,13,,,Goodison Park,Liverpool
+2010/11,21,10,Liverpool,13,22,7,5,10,27,31,-4,26,11,6,3,2,19,10,9,21,11,1,2,8,8,21,-13,5,,,Anfield,Liverpool
+2010/11,21,36,West Bromwich Albion,14,22,7,4,11,29,41,-12,25,11,5,2,4,16,17,-1,17,11,2,2,7,13,24,-11,8,,,The Hawthorns,West Bromwich
+2010/11,21,34,Fulham,15,22,4,11,7,23,25,-2,23,11,3,5,3,14,14,0,14,11,1,6,4,9,11,-2,9,Q,EU_EL,Craven Cottage,London
+2010/11,21,35,Birmingham City,16,21,4,11,6,21,26,-5,23,11,3,6,2,10,11,-1,15,10,1,5,4,11,15,-4,8,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,21,2,Aston Villa,17,22,5,7,10,24,39,-15,22,11,4,4,3,15,13,2,16,11,1,3,7,9,26,-17,6,,,Villa Park,Birmingham
+2010/11,21,39,Wigan Athletic,18,22,4,10,8,19,34,-15,22,12,2,6,4,11,21,-10,12,10,2,4,4,8,13,-5,10,R,EN_CH,DW Stadium,Wigan
+2010/11,21,38,Wolverhampton Wanderers,19,22,6,3,13,24,38,-14,21,11,5,2,4,15,15,0,17,11,1,1,9,9,23,-14,4,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,21,25,West Ham United,20,23,4,8,11,22,41,-19,20,12,3,4,5,14,19,-5,13,11,1,4,6,8,22,-14,7,R,EN_CH,Boleyn Ground,London
+2010/11,22,12,Manchester United,1,23,14,9,0,51,21,30,51,12,11,1,0,34,7,27,34,11,3,8,0,17,14,3,17,Q,EU_CL,Old Trafford,Manchester
+2010/11,22,1,Arsenal,2,23,14,4,5,48,22,26,46,11,7,1,3,25,11,14,22,12,7,3,2,23,11,12,24,Q,EU_CL,Emirates Stadium,London
+2010/11,22,11,Manchester City,3,24,13,6,5,37,20,17,45,12,7,3,2,18,10,8,24,12,6,3,3,19,10,9,21,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,22,4,Chelsea,4,23,12,5,6,42,19,23,41,11,8,2,1,24,7,17,26,12,4,3,5,18,12,6,15,Q,EU_CL,Stamford Bridge,London
+2010/11,22,21,Tottenham Hotspur,5,23,10,8,5,32,26,6,38,12,6,5,1,17,9,8,23,11,4,3,4,15,17,-2,15,Q,EU_EL,White Hart Lane,London
+2010/11,22,29,Sunderland,6,24,9,10,5,28,24,4,37,12,6,5,1,15,8,7,23,12,3,5,4,13,16,-3,14,,,Stadium of Light,Sunderland
+2010/11,22,10,Liverpool,7,24,9,5,10,31,31,0,32,12,7,3,2,20,10,10,24,12,2,2,8,11,21,-10,8,,,Anfield,Liverpool
+2010/11,22,3,Blackburn Rovers,8,24,9,4,11,31,37,-6,31,12,6,3,3,17,10,7,21,12,3,1,8,14,27,-13,10,,,Ewood Park,Blackburn
+2010/11,22,23,Newcastle United,9,23,8,6,9,36,33,3,30,12,4,4,4,26,15,11,16,11,4,2,5,10,18,-8,14,,,St. James' Park,Newcastle
+2010/11,22,42,Stoke City,10,23,9,3,11,28,28,0,30,12,6,2,4,16,12,4,20,11,3,1,7,12,16,-4,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,22,27,Bolton Wanderers,11,24,7,9,8,34,35,-1,30,12,5,5,2,22,17,5,20,12,2,4,6,12,18,-6,10,,,Macron Stadium,Bolton
+2010/11,22,44,Blackpool,12,23,8,4,11,34,41,-7,28,10,3,2,5,17,19,-2,11,13,5,2,6,17,22,-5,17,,,Bloomfield Road,Blackpool
+2010/11,22,2,Aston Villa,13,24,7,7,10,27,40,-13,28,12,5,4,3,16,13,3,19,12,2,3,7,11,27,-16,9,,,Villa Park,Birmingham
+2010/11,22,7,Everton,14,23,5,12,6,27,29,-2,27,11,3,5,3,14,15,-1,14,12,2,7,3,13,14,-1,13,,,Goodison Park,Liverpool
+2010/11,22,34,Fulham,15,24,5,11,8,25,26,-1,26,12,4,5,3,16,14,2,17,12,1,6,5,9,12,-3,9,Q,EU_EL,Craven Cottage,London
+2010/11,22,36,West Bromwich Albion,16,23,7,4,12,29,43,-14,25,11,5,2,4,16,17,-1,17,12,2,2,8,13,26,-13,8,,,The Hawthorns,West Bromwich
+2010/11,22,35,Birmingham City,17,22,4,11,7,21,31,-10,23,11,3,6,2,10,11,-1,15,11,1,5,5,11,20,-9,8,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,22,39,Wigan Athletic,18,24,4,10,10,20,39,-19,22,13,2,6,5,12,23,-11,12,11,2,4,5,8,16,-8,10,R,EN_CH,DW Stadium,Wigan
+2010/11,22,38,Wolverhampton Wanderers,19,23,6,3,14,24,41,-17,21,12,5,2,5,15,18,-3,17,11,1,1,9,9,23,-14,4,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,22,25,West Ham United,20,24,4,9,11,24,43,-19,21,12,3,4,5,14,19,-5,13,12,1,5,6,10,24,-14,8,R,EN_CH,Boleyn Ground,London
+2010/11,23,12,Manchester United,1,24,15,9,0,54,22,32,54,13,12,1,0,37,8,29,37,11,3,8,0,17,14,3,17,Q,EU_CL,Old Trafford,Manchester
+2010/11,23,1,Arsenal,2,24,15,4,5,50,23,27,49,12,8,1,3,27,12,15,25,12,7,3,2,23,11,12,24,Q,EU_CL,Emirates Stadium,London
+2010/11,23,11,Manchester City,3,25,13,7,5,39,22,17,46,12,7,3,2,18,10,8,24,13,6,4,3,21,12,9,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,23,4,Chelsea,4,24,13,5,6,46,21,25,44,11,8,2,1,24,7,17,26,13,5,3,5,22,14,8,18,Q,EU_CL,Stamford Bridge,London
+2010/11,23,21,Tottenham Hotspur,5,24,11,8,5,33,26,7,41,12,6,5,1,17,9,8,23,12,5,3,4,16,17,-1,18,Q,EU_EL,White Hart Lane,London
+2010/11,23,29,Sunderland,6,25,9,10,6,30,28,2,37,13,6,5,2,17,12,5,23,12,3,5,4,13,16,-3,14,,,Stadium of Light,Sunderland
+2010/11,23,10,Liverpool,7,25,10,5,10,33,31,2,35,13,8,3,2,22,10,12,27,12,2,2,8,11,21,-10,8,,,Anfield,Liverpool
+2010/11,23,27,Bolton Wanderers,8,25,8,9,8,35,35,0,33,13,6,5,2,23,17,6,23,12,2,4,6,12,18,-6,10,,,Macron Stadium,Bolton
+2010/11,23,3,Blackburn Rovers,9,25,9,4,12,31,38,-7,31,13,6,3,4,17,11,6,21,12,3,1,8,14,27,-13,10,,,Ewood Park,Blackburn
+2010/11,23,23,Newcastle United,10,24,8,6,10,36,34,2,30,12,4,4,4,26,15,11,16,12,4,2,6,10,19,-9,14,,,St. James' Park,Newcastle
+2010/11,23,42,Stoke City,11,24,9,3,12,28,30,-2,30,12,6,2,4,16,12,4,20,12,3,1,8,12,18,-6,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,23,34,Fulham,12,25,6,11,8,26,26,0,29,13,5,5,3,17,14,3,20,12,1,6,5,9,12,-3,9,Q,EU_EL,Craven Cottage,London
+2010/11,23,44,Blackpool,13,24,8,4,12,35,44,-9,28,11,3,2,6,18,22,-4,11,13,5,2,6,17,22,-5,17,,,Bloomfield Road,Blackpool
+2010/11,23,2,Aston Villa,14,25,7,7,11,28,43,-15,28,12,5,4,3,16,13,3,19,13,2,3,8,12,30,-18,9,,,Villa Park,Birmingham
+2010/11,23,7,Everton,15,24,5,12,7,28,31,-3,27,11,3,5,3,14,15,-1,14,13,2,7,4,14,16,-2,13,,,Goodison Park,Liverpool
+2010/11,23,36,West Bromwich Albion,16,24,7,5,12,31,45,-14,26,12,5,3,4,18,19,-1,18,12,2,2,8,13,26,-13,8,,,The Hawthorns,West Bromwich
+2010/11,23,35,Birmingham City,17,23,4,12,7,23,33,-10,24,12,3,7,2,12,13,-1,16,11,1,5,5,11,20,-9,8,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,23,25,West Ham United,18,25,5,9,11,27,44,-17,24,12,3,4,5,14,19,-5,13,13,2,5,6,13,25,-12,11,R,EN_CH,Boleyn Ground,London
+2010/11,23,39,Wigan Athletic,19,25,4,11,10,22,41,-19,23,13,2,6,5,12,23,-11,12,12,2,5,5,10,18,-8,11,R,EN_CH,DW Stadium,Wigan
+2010/11,23,38,Wolverhampton Wanderers,20,24,6,3,15,24,42,-18,21,12,5,2,5,15,18,-3,17,12,1,1,10,9,24,-15,4,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,24,12,Manchester United,1,25,15,9,1,55,24,31,54,13,12,1,0,37,8,29,37,12,3,8,1,18,16,2,17,Q,EU_CL,Old Trafford,Manchester
+2010/11,24,1,Arsenal,2,25,15,5,5,54,27,27,50,12,8,1,3,27,12,15,25,13,7,4,2,27,15,12,25,Q,EU_CL,Emirates Stadium,London
+2010/11,24,11,Manchester City,3,26,14,7,5,42,22,20,49,13,8,3,2,21,10,11,27,13,6,4,3,21,12,9,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,24,4,Chelsea,4,25,13,5,7,46,22,24,44,12,8,2,2,24,8,16,26,13,5,3,5,22,14,8,18,Q,EU_CL,Stamford Bridge,London
+2010/11,24,21,Tottenham Hotspur,5,25,12,8,5,35,27,8,44,13,7,5,1,19,10,9,26,12,5,3,4,16,17,-1,18,Q,EU_EL,White Hart Lane,London
+2010/11,24,10,Liverpool,6,26,11,5,10,34,31,3,38,13,8,3,2,22,10,12,27,13,3,2,8,12,21,-9,11,,,Anfield,Liverpool
+2010/11,24,29,Sunderland,7,26,9,10,7,32,31,1,37,13,6,5,2,17,12,5,23,13,3,5,5,15,19,-4,14,,,Stadium of Light,Sunderland
+2010/11,24,27,Bolton Wanderers,8,26,8,9,9,36,37,-1,33,13,6,5,2,23,17,6,23,13,2,4,7,13,20,-7,10,,,Macron Stadium,Bolton
+2010/11,24,42,Stoke City,9,25,10,3,12,31,32,-1,33,13,7,2,4,19,14,5,23,12,3,1,8,12,18,-6,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,24,23,Newcastle United,10,25,8,7,10,40,38,2,31,13,4,5,4,30,19,11,17,12,4,2,6,10,19,-9,14,,,St. James' Park,Newcastle
+2010/11,24,3,Blackburn Rovers,11,26,9,4,13,34,42,-8,31,13,6,3,4,17,11,6,21,13,3,1,9,17,31,-14,10,,,Ewood Park,Blackburn
+2010/11,24,34,Fulham,12,26,6,12,8,28,28,0,30,13,5,5,3,17,14,3,20,13,1,7,5,11,14,-3,10,Q,EU_EL,Craven Cottage,London
+2010/11,24,7,Everton,13,25,6,12,7,33,34,-1,30,12,4,5,3,19,18,1,17,13,2,7,4,14,16,-2,13,,,Goodison Park,Liverpool
+2010/11,24,2,Aston Villa,14,26,7,8,11,30,45,-15,29,13,5,5,3,18,15,3,20,13,2,3,8,12,30,-18,9,,,Villa Park,Birmingham
+2010/11,24,44,Blackpool,15,25,8,4,13,38,49,-11,28,11,3,2,6,18,22,-4,11,14,5,2,7,20,27,-7,17,,,Bloomfield Road,Blackpool
+2010/11,24,35,Birmingham City,16,24,5,12,7,24,33,-9,27,12,3,7,2,12,13,-1,16,12,2,5,5,12,20,-8,11,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,24,36,West Bromwich Albion,17,25,7,5,13,31,48,-17,26,12,5,3,4,18,19,-1,18,13,2,2,9,13,29,-16,8,,,The Hawthorns,West Bromwich
+2010/11,24,39,Wigan Athletic,18,26,5,11,10,26,44,-18,26,14,3,6,5,16,26,-10,15,12,2,5,5,10,18,-8,11,R,EN_CH,DW Stadium,Wigan
+2010/11,24,38,Wolverhampton Wanderers,19,25,7,3,15,26,43,-17,24,13,6,2,5,17,19,-2,20,12,1,1,10,9,24,-15,4,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,24,25,West Ham United,20,26,5,9,12,27,45,-18,24,13,3,4,6,14,20,-6,13,13,2,5,6,13,25,-12,11,R,EN_CH,Boleyn Ground,London
+2010/11,25,12,Manchester United,1,26,16,9,1,57,25,32,57,14,13,1,0,39,9,30,40,12,3,8,1,18,16,2,17,Q,EU_CL,Old Trafford,Manchester
+2010/11,25,1,Arsenal,2,27,17,5,5,57,27,30,56,14,10,1,3,30,12,18,31,13,7,4,2,27,15,12,25,Q,EU_CL,Emirates Stadium,London
+2010/11,25,11,Manchester City,3,27,14,7,6,43,24,19,49,13,8,3,2,21,10,11,27,14,6,4,4,22,14,8,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,25,21,Tottenham Hotspur,4,27,13,8,6,38,31,7,47,13,7,5,1,19,10,9,26,14,6,3,5,19,21,-2,21,Q,EU_CL,White Hart Lane,London
+2010/11,25,4,Chelsea,5,26,13,6,7,46,22,24,45,12,8,2,2,24,8,16,26,14,5,4,5,22,14,8,19,Q,EU_EL,Stamford Bridge,London
+2010/11,25,10,Liverpool,6,27,11,6,10,35,32,3,39,14,8,4,2,23,11,12,28,13,3,2,8,12,21,-9,11,,,Anfield,Liverpool
+2010/11,25,29,Sunderland,7,27,9,10,8,33,33,0,37,14,6,5,3,18,14,4,23,13,3,5,5,15,19,-4,14,,,Stadium of Light,Sunderland
+2010/11,25,27,Bolton Wanderers,8,27,9,9,9,38,37,1,36,14,7,5,2,25,17,8,26,13,2,4,7,13,20,-7,10,,,Macron Stadium,Bolton
+2010/11,25,23,Newcastle United,9,27,9,8,10,42,38,4,35,13,4,5,4,30,19,11,17,14,5,3,6,12,19,-7,18,,,St. James' Park,Newcastle
+2010/11,25,42,Stoke City,10,27,10,3,14,31,34,-3,33,13,7,2,4,19,14,5,23,14,3,1,10,12,20,-8,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,25,3,Blackburn Rovers,11,27,9,5,13,34,42,-8,32,14,6,4,4,17,11,6,22,13,3,1,9,17,31,-14,10,,,Ewood Park,Blackburn
+2010/11,25,44,Blackpool,12,27,9,5,13,42,51,-9,32,13,4,3,6,22,24,-2,15,14,5,2,7,20,27,-7,17,,,Bloomfield Road,Blackpool
+2010/11,25,34,Fulham,13,27,6,13,8,28,28,0,31,14,5,6,3,17,14,3,21,13,1,7,5,11,14,-3,10,Q,EU_EL,Craven Cottage,London
+2010/11,25,7,Everton,14,26,6,12,8,33,36,-3,30,12,4,5,3,19,18,1,17,14,2,7,5,14,18,-4,13,,,Goodison Park,Liverpool
+2010/11,25,35,Birmingham City,15,26,6,12,8,25,35,-10,30,14,4,7,3,13,15,-2,19,12,2,5,5,12,20,-8,11,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,25,2,Aston Villa,16,27,7,9,11,31,46,-15,30,13,5,5,3,18,15,3,20,14,2,4,8,13,31,-18,10,,,Villa Park,Birmingham
+2010/11,25,36,West Bromwich Albion,17,27,7,7,13,35,52,-17,28,14,5,5,4,22,23,-1,20,13,2,2,9,13,29,-16,8,,,The Hawthorns,West Bromwich
+2010/11,25,39,Wigan Athletic,18,27,5,12,10,27,45,-18,27,14,3,6,5,16,26,-10,15,13,2,6,5,11,19,-8,12,R,EN_CH,DW Stadium,Wigan
+2010/11,25,25,West Ham United,19,27,5,10,12,30,48,-18,25,13,3,4,6,14,20,-6,13,14,2,6,6,16,28,-12,12,R,EN_CH,Boleyn Ground,London
+2010/11,25,38,Wolverhampton Wanderers,20,27,7,4,16,27,46,-19,25,13,6,2,5,17,19,-2,20,14,1,2,11,10,27,-17,5,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,26,12,Manchester United,1,28,17,9,2,62,27,35,60,14,13,1,0,39,9,30,40,14,4,8,2,23,18,5,20,Q,EU_CL,Old Trafford,Manchester
+2010/11,26,1,Arsenal,2,27,17,5,5,57,27,30,56,14,10,1,3,30,12,18,31,13,7,4,2,27,15,12,25,Q,EU_CL,Emirates Stadium,London
+2010/11,26,11,Manchester City,3,28,14,8,6,44,25,19,50,14,8,4,2,22,11,11,28,14,6,4,4,22,14,8,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,26,4,Chelsea,4,27,14,6,7,48,23,25,48,13,9,2,2,26,9,17,29,14,5,4,5,22,14,8,19,Q,EU_CL,Stamford Bridge,London
+2010/11,26,21,Tottenham Hotspur,5,27,13,8,6,38,31,7,47,13,7,5,1,19,10,9,26,14,6,3,5,19,21,-2,21,Q,EU_EL,White Hart Lane,London
+2010/11,26,10,Liverpool,6,28,11,6,11,36,35,1,39,14,8,4,2,23,11,12,28,14,3,2,9,13,24,-11,11,,,Anfield,Liverpool
+2010/11,26,27,Bolton Wanderers,7,28,9,10,9,39,38,1,37,14,7,5,2,25,17,8,26,14,2,5,7,14,21,-7,11,,,Macron Stadium,Bolton
+2010/11,26,29,Sunderland,8,28,9,10,9,33,35,-2,37,14,6,5,3,18,14,4,23,14,3,5,6,15,21,-6,14,,,Stadium of Light,Sunderland
+2010/11,26,23,Newcastle United,9,28,9,9,10,43,39,4,36,14,4,6,4,31,20,11,18,14,5,3,6,12,19,-7,18,,,St. James' Park,Newcastle
+2010/11,26,42,Stoke City,10,28,10,4,14,32,35,-3,34,14,7,3,4,20,15,5,24,14,3,1,10,12,20,-8,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,26,7,Everton,11,27,7,12,8,35,36,-1,33,13,5,5,3,21,18,3,20,14,2,7,5,14,18,-4,13,,,Goodison Park,Liverpool
+2010/11,26,2,Aston Villa,12,28,8,9,11,35,47,-12,33,14,6,5,3,22,16,6,23,14,2,4,8,13,31,-18,10,,,Villa Park,Birmingham
+2010/11,26,34,Fulham,13,28,6,14,8,29,29,0,32,14,5,6,3,17,14,3,21,14,1,8,5,12,15,-3,11,Q,EU_EL,Craven Cottage,London
+2010/11,26,3,Blackburn Rovers,14,28,9,5,14,35,46,-11,32,14,6,4,4,17,11,6,22,14,3,1,10,18,35,-17,10,,,Ewood Park,Blackburn
+2010/11,26,44,Blackpool,15,28,9,5,14,42,55,-13,32,13,4,3,6,22,24,-2,15,15,5,2,8,20,31,-11,17,,,Bloomfield Road,Blackpool
+2010/11,26,35,Birmingham City,16,26,6,12,8,25,35,-10,30,14,4,7,3,13,15,-2,19,12,2,5,5,12,20,-8,11,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,26,36,West Bromwich Albion,17,28,7,8,13,36,53,-17,29,14,5,5,4,22,23,-1,20,14,2,3,9,14,30,-16,9,,,The Hawthorns,West Bromwich
+2010/11,26,38,Wolverhampton Wanderers,18,28,8,4,16,31,46,-15,28,14,7,2,5,21,19,2,23,14,1,2,11,10,27,-17,5,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,26,25,West Ham United,19,28,6,10,12,33,49,-16,28,14,4,4,6,17,21,-4,16,14,2,6,6,16,28,-12,12,R,EN_CH,Boleyn Ground,London
+2010/11,26,39,Wigan Athletic,20,28,5,12,11,27,49,-22,27,15,3,6,6,16,30,-14,15,13,2,6,5,11,19,-8,12,R,EN_CH,DW Stadium,Wigan
+2010/11,27,12,Manchester United,1,29,17,9,3,63,30,33,60,14,13,1,0,39,9,30,40,15,4,8,3,24,21,3,20,Q,EU_CL,Old Trafford,Manchester
+2010/11,27,1,Arsenal,2,28,17,6,5,57,27,30,57,15,10,2,3,30,12,18,32,13,7,4,2,27,15,12,25,Q,EU_CL,Emirates Stadium,London
+2010/11,27,11,Manchester City,3,29,15,8,6,45,25,20,53,15,9,4,2,23,11,12,31,14,6,4,4,22,14,8,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,27,4,Chelsea,4,28,15,6,7,51,24,27,51,13,9,2,2,26,9,17,29,15,6,4,5,25,15,10,22,Q,EU_CL,Stamford Bridge,London
+2010/11,27,21,Tottenham Hotspur,5,28,13,9,6,41,34,7,48,13,7,5,1,19,10,9,26,15,6,4,5,22,24,-2,22,Q,EU_EL,White Hart Lane,London
+2010/11,27,10,Liverpool,6,29,12,6,11,39,36,3,42,15,9,4,2,26,12,14,31,14,3,2,9,13,24,-11,11,,,Anfield,Liverpool
+2010/11,27,27,Bolton Wanderers,7,29,10,10,9,42,40,2,40,15,8,5,2,28,19,9,29,14,2,5,7,14,21,-7,11,,,Macron Stadium,Bolton
+2010/11,27,29,Sunderland,8,29,9,11,9,33,35,-2,38,14,6,5,3,18,14,4,23,15,3,6,6,15,21,-6,15,,,Stadium of Light,Sunderland
+2010/11,27,7,Everton,9,29,8,13,8,38,38,0,37,14,5,6,3,22,19,3,21,15,3,7,5,16,19,-3,16,,,Goodison Park,Liverpool
+2010/11,27,23,Newcastle United,10,29,9,9,11,44,41,3,36,15,4,6,5,32,22,10,18,14,5,3,6,12,19,-7,18,,,St. James' Park,Newcastle
+2010/11,27,34,Fulham,11,29,7,14,8,32,31,1,35,15,6,6,3,20,16,4,24,14,1,8,5,12,15,-3,11,Q,EU_EL,Craven Cottage,London
+2010/11,27,42,Stoke City,12,29,10,4,15,32,38,-6,34,14,7,3,4,20,15,5,24,15,3,1,11,12,23,-11,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,27,2,Aston Villa,13,29,8,9,12,37,50,-13,33,14,6,5,3,22,16,6,23,15,2,4,9,15,34,-19,10,,,Villa Park,Birmingham
+2010/11,27,3,Blackburn Rovers,14,29,9,5,15,37,49,-12,32,14,6,4,4,17,11,6,22,15,3,1,11,20,38,-18,10,,,Ewood Park,Blackburn
+2010/11,27,44,Blackpool,15,29,9,5,15,43,58,-15,32,14,4,3,7,23,27,-4,15,15,5,2,8,20,31,-11,17,,,Bloomfield Road,Blackpool
+2010/11,27,36,West Bromwich Albion,16,29,8,8,13,39,54,-15,32,14,5,5,4,22,23,-1,20,15,3,3,9,17,31,-14,12,,,The Hawthorns,West Bromwich
+2010/11,27,35,Birmingham City,17,28,6,13,9,27,39,-12,31,15,4,7,4,14,18,-4,19,13,2,6,5,13,21,-8,12,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,27,25,West Ham United,18,29,7,10,12,36,49,-13,31,15,5,4,6,20,21,-1,19,14,2,6,6,16,28,-12,12,R,EN_CH,Boleyn Ground,London
+2010/11,27,38,Wolverhampton Wanderers,19,29,8,5,16,34,49,-15,29,15,7,3,5,24,22,2,24,14,1,2,11,10,27,-17,5,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,27,39,Wigan Athletic,20,29,5,12,12,27,50,-23,27,15,3,6,6,16,30,-14,15,14,2,6,6,11,20,-9,12,R,EN_CH,DW Stadium,Wigan
+2010/11,28,12,Manchester United,1,30,18,9,3,64,30,34,63,15,14,1,0,40,9,31,43,15,4,8,3,24,21,3,20,Q,EU_CL,Old Trafford,Manchester
+2010/11,28,1,Arsenal,2,29,17,7,5,59,29,30,58,15,10,2,3,30,12,18,32,14,7,5,2,29,17,12,26,Q,EU_CL,Emirates Stadium,London
+2010/11,28,4,Chelsea,3,29,16,6,7,53,24,29,54,14,10,2,2,28,9,19,32,15,6,4,5,25,15,10,22,Q,EU_CL,Stamford Bridge,London
+2010/11,28,11,Manchester City,4,30,15,8,7,45,27,18,53,15,9,4,2,23,11,12,31,15,6,4,5,22,16,6,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,28,21,Tottenham Hotspur,5,29,13,10,6,41,34,7,49,14,7,6,1,19,10,9,27,15,6,4,5,22,24,-2,22,Q,EU_EL,White Hart Lane,London
+2010/11,28,10,Liverpool,6,30,13,6,11,41,36,5,45,15,9,4,2,26,12,14,31,15,4,2,9,15,24,-9,14,,,Anfield,Liverpool
+2010/11,28,27,Bolton Wanderers,7,30,10,10,10,42,41,1,40,15,8,5,2,28,19,9,29,15,2,5,8,14,22,-8,11,,,Macron Stadium,Bolton
+2010/11,28,7,Everton,8,30,9,13,8,40,39,1,40,15,6,6,3,24,20,4,24,15,3,7,5,16,19,-3,16,,,Goodison Park,Liverpool
+2010/11,28,29,Sunderland,9,30,9,11,10,33,37,-4,38,15,6,5,4,18,16,2,23,15,3,6,6,15,21,-6,15,,,Stadium of Light,Sunderland
+2010/11,28,42,Stoke City,10,30,11,4,15,36,38,-2,37,15,8,3,4,24,15,9,27,15,3,1,11,12,23,-11,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,28,23,Newcastle United,11,30,9,9,12,44,45,-1,36,15,4,6,5,32,22,10,18,15,5,3,7,12,23,-11,18,,,St. James' Park,Newcastle
+2010/11,28,34,Fulham,12,30,7,14,9,33,33,0,35,15,6,6,3,20,16,4,24,15,1,8,6,13,17,-4,11,Q,EU_EL,Craven Cottage,London
+2010/11,28,3,Blackburn Rovers,13,30,9,6,15,39,51,-12,33,15,6,5,4,19,13,6,23,15,3,1,11,20,38,-18,10,,,Ewood Park,Blackburn
+2010/11,28,2,Aston Villa,14,30,8,9,13,37,51,-14,33,15,6,5,4,22,17,5,23,15,2,4,9,15,34,-19,10,,,Villa Park,Birmingham
+2010/11,28,44,Blackpool,15,30,9,6,15,45,60,-15,33,14,4,3,7,23,27,-4,15,16,5,3,8,22,33,-11,18,,,Bloomfield Road,Blackpool
+2010/11,28,36,West Bromwich Albion,16,30,8,9,13,41,56,-15,33,15,5,6,4,24,25,-1,21,15,3,3,9,17,31,-14,12,,,The Hawthorns,West Bromwich
+2010/11,28,25,West Ham United,17,30,7,11,12,36,49,-13,32,15,5,4,6,20,21,-1,19,15,2,7,6,16,28,-12,13,,,Boleyn Ground,London
+2010/11,28,38,Wolverhampton Wanderers,18,30,9,5,16,35,49,-14,32,15,7,3,5,24,22,2,24,15,2,2,11,11,27,-16,8,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,28,35,Birmingham City,19,29,6,13,10,28,41,-13,31,15,4,7,4,14,18,-4,19,14,2,6,6,14,23,-9,12,"R,Q","EN_CH,EU_EL",St. Andrew's Stadium,Birmingham
+2010/11,28,39,Wigan Athletic,20,30,6,12,12,29,51,-22,30,16,4,6,6,18,31,-13,18,14,2,6,6,11,20,-9,12,R,EN_CH,DW Stadium,Wigan
+2010/11,29,12,Manchester United,1,31,19,9,3,68,32,36,66,15,14,1,0,40,9,31,43,16,5,8,3,28,23,5,23,Q,EU_CL,Old Trafford,Manchester
+2010/11,29,1,Arsenal,2,30,17,8,5,59,29,30,59,16,10,3,3,30,12,18,33,14,7,5,2,29,17,12,26,Q,EU_CL,Emirates Stadium,London
+2010/11,29,11,Manchester City,3,31,16,8,7,50,27,23,56,16,10,4,2,28,11,17,34,15,6,4,5,22,16,6,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,29,4,Chelsea,4,30,16,7,7,54,25,29,55,14,10,2,2,28,9,19,32,16,6,5,5,26,16,10,23,Q,EU_CL,Stamford Bridge,London
+2010/11,29,21,Tottenham Hotspur,5,30,13,11,6,41,34,7,50,14,7,6,1,19,10,9,27,16,6,5,5,22,24,-2,23,Q,EU_EL,White Hart Lane,London
+2010/11,29,10,Liverpool,6,31,13,6,12,42,38,4,45,15,9,4,2,26,12,14,31,16,4,2,10,16,26,-10,14,,,Anfield,Liverpool
+2010/11,29,7,Everton,7,31,9,14,8,42,41,1,41,16,6,7,3,26,22,4,25,15,3,7,5,16,19,-3,16,,,Goodison Park,Liverpool
+2010/11,29,27,Bolton Wanderers,8,31,10,10,11,43,43,0,40,15,8,5,2,28,19,9,29,16,2,5,9,15,24,-9,11,,,Macron Stadium,Bolton
+2010/11,29,23,Newcastle United,9,31,10,9,12,48,46,2,39,16,5,6,5,36,23,13,21,15,5,3,7,12,23,-11,18,,,St. James' Park,Newcastle
+2010/11,29,34,Fulham,10,31,8,14,9,36,33,3,38,16,7,6,3,23,16,7,27,15,1,8,6,13,17,-4,11,Q,EU_EL,Craven Cottage,London
+2010/11,29,42,Stoke City,11,31,11,5,15,37,39,-2,38,16,8,4,4,25,16,9,28,15,3,1,11,12,23,-11,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,29,29,Sunderland,12,31,9,11,11,33,42,-9,38,15,6,5,4,18,16,2,23,16,3,6,7,15,26,-11,15,,,Stadium of Light,Sunderland
+2010/11,29,36,West Bromwich Albion,13,31,9,9,13,43,57,-14,36,16,6,6,4,26,26,0,24,15,3,3,9,17,31,-14,12,,,The Hawthorns,West Bromwich
+2010/11,29,3,Blackburn Rovers,14,31,9,7,15,39,51,-12,34,15,6,5,4,19,13,6,23,16,3,2,11,20,38,-18,11,,,Ewood Park,Blackburn
+2010/11,29,35,Birmingham City,15,30,7,13,10,30,42,-12,34,16,5,7,4,16,19,-3,22,14,2,6,6,14,23,-9,12,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,29,2,Aston Villa,16,31,8,10,13,39,53,-14,34,15,6,5,4,22,17,5,23,16,2,5,9,17,36,-19,11,,,Villa Park,Birmingham
+2010/11,29,44,Blackpool,17,31,9,6,16,45,63,-18,33,14,4,3,7,23,27,-4,15,17,5,3,9,22,36,-14,18,,,Bloomfield Road,Blackpool
+2010/11,29,25,West Ham United,18,31,7,11,13,38,53,-15,32,16,5,4,7,22,25,-3,19,15,2,7,6,16,28,-12,13,R,EN_CH,Boleyn Ground,London
+2010/11,29,38,Wolverhampton Wanderers,19,31,9,5,17,36,53,-17,32,15,7,3,5,24,22,2,24,16,2,2,12,12,31,-19,8,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,29,39,Wigan Athletic,20,31,6,13,12,29,51,-22,31,17,4,7,6,18,31,-13,19,14,2,6,6,11,20,-9,12,R,EN_CH,DW Stadium,Wigan
+2010/11,30,12,Manchester United,1,32,20,9,3,70,32,38,69,16,15,1,0,42,9,33,46,16,5,8,3,28,23,5,23,Q,EU_CL,Old Trafford,Manchester
+2010/11,30,1,Arsenal,2,31,18,8,5,62,30,32,62,16,10,3,3,30,12,18,33,15,8,5,2,32,18,14,29,Q,EU_CL,Emirates Stadium,London
+2010/11,30,4,Chelsea,3,31,17,7,7,55,25,30,58,15,11,2,2,29,9,20,35,16,6,5,5,26,16,10,23,Q,EU_CL,Stamford Bridge,London
+2010/11,30,11,Manchester City,4,32,16,8,8,50,30,20,56,16,10,4,2,28,11,17,34,16,6,4,6,22,19,3,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,30,21,Tottenham Hotspur,5,31,14,11,6,44,36,8,53,15,8,6,1,22,12,10,30,16,6,5,5,22,24,-2,23,Q,EU_EL,White Hart Lane,London
+2010/11,30,10,Liverpool,6,32,14,6,12,45,38,7,48,16,10,4,2,29,12,17,34,16,4,2,10,16,26,-10,14,,,Anfield,Liverpool
+2010/11,30,7,Everton,7,32,10,14,8,45,41,4,44,16,6,7,3,26,22,4,25,16,4,7,5,19,19,0,19,,,Goodison Park,Liverpool
+2010/11,30,27,Bolton Wanderers,8,32,11,10,11,46,43,3,43,16,9,5,2,31,19,12,32,16,2,5,9,15,24,-9,11,,,Macron Stadium,Bolton
+2010/11,30,23,Newcastle United,9,32,10,9,13,48,47,1,39,16,5,6,5,36,23,13,21,16,5,3,8,12,24,-12,18,,,St. James' Park,Newcastle
+2010/11,30,36,West Bromwich Albion,10,32,10,9,13,46,59,-13,39,16,6,6,4,26,26,0,24,16,4,3,9,20,33,-13,15,,,The Hawthorns,West Bromwich
+2010/11,30,34,Fulham,11,32,8,14,10,36,35,1,38,16,7,6,3,23,16,7,27,16,1,8,7,13,19,-6,11,Q,EU_EL,Craven Cottage,London
+2010/11,30,42,Stoke City,12,32,11,5,16,39,42,-3,38,16,8,4,4,25,16,9,28,16,3,1,12,14,26,-12,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,30,29,Sunderland,13,32,9,11,12,35,45,-10,38,16,6,5,5,20,19,1,23,16,3,6,7,15,26,-11,15,,,Stadium of Light,Sunderland
+2010/11,30,2,Aston Villa,14,32,9,10,13,40,53,-13,37,16,7,5,4,23,17,6,26,16,2,5,9,17,36,-19,11,,,Villa Park,Birmingham
+2010/11,30,3,Blackburn Rovers,15,32,9,8,15,40,52,-12,35,16,6,6,4,20,14,6,24,16,3,2,11,20,38,-18,11,,,Ewood Park,Blackburn
+2010/11,30,35,Birmingham City,16,31,7,14,10,31,43,-12,35,16,5,7,4,16,19,-3,22,15,2,7,6,15,24,-9,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,30,44,Blackpool,17,32,9,6,17,46,66,-20,33,15,4,3,8,24,30,-6,15,17,5,3,9,22,36,-14,18,,,Bloomfield Road,Blackpool
+2010/11,30,25,West Ham United,18,32,7,11,14,38,56,-18,32,16,5,4,7,22,25,-3,19,16,2,7,7,16,31,-15,13,R,EN_CH,Boleyn Ground,London
+2010/11,30,38,Wolverhampton Wanderers,19,32,9,5,18,36,56,-20,32,16,7,3,6,24,25,-1,24,16,2,2,12,12,31,-19,8,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,30,39,Wigan Athletic,20,32,6,13,13,29,52,-23,31,17,4,7,6,18,31,-13,19,15,2,6,7,11,21,-10,12,R,EN_CH,DW Stadium,Wigan
+2010/11,31,12,Manchester United,1,32,20,9,3,70,32,38,69,16,15,1,0,42,9,33,46,16,5,8,3,28,23,5,23,Q,EU_CL,Old Trafford,Manchester
+2010/11,31,1,Arsenal,2,32,18,9,5,63,31,32,63,17,10,4,3,31,13,18,34,15,8,5,2,32,18,14,29,Q,EU_CL,Emirates Stadium,London
+2010/11,31,4,Chelsea,3,32,18,7,7,58,26,32,61,15,11,2,2,29,9,20,35,17,7,5,5,29,17,12,26,Q,EU_CL,Stamford Bridge,London
+2010/11,31,11,Manchester City,4,32,16,8,8,50,30,20,56,16,10,4,2,28,11,17,34,16,6,4,6,22,19,3,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,31,21,Tottenham Hotspur,5,31,14,11,6,44,36,8,53,15,8,6,1,22,12,10,30,16,6,5,5,22,24,-2,23,Q,EU_EL,White Hart Lane,London
+2010/11,31,10,Liverpool,6,33,14,7,12,46,39,7,49,16,10,4,2,29,12,17,34,17,4,3,10,17,27,-10,15,,,Anfield,Liverpool
+2010/11,31,7,Everton,7,33,11,14,8,47,41,6,47,17,7,7,3,28,22,6,28,16,4,7,5,19,19,0,19,,,Goodison Park,Liverpool
+2010/11,31,27,Bolton Wanderers,8,32,11,10,11,46,43,3,43,16,9,5,2,31,19,12,32,16,2,5,9,15,24,-9,11,,,Macron Stadium,Bolton
+2010/11,31,2,Aston Villa,9,33,10,10,13,42,54,-12,40,16,7,5,4,23,17,6,26,17,3,5,9,19,37,-18,14,,,Villa Park,Birmingham
+2010/11,31,23,Newcastle United,10,32,10,9,13,48,47,1,39,16,5,6,5,36,23,13,21,16,5,3,8,12,24,-12,18,,,St. James' Park,Newcastle
+2010/11,31,36,West Bromwich Albion,11,33,10,9,14,47,62,-15,39,17,6,6,5,27,29,-2,24,16,4,3,9,20,33,-13,15,,,The Hawthorns,West Bromwich
+2010/11,31,34,Fulham,12,32,8,14,10,36,35,1,38,16,7,6,3,23,16,7,27,16,1,8,7,13,19,-6,11,Q,EU_EL,Craven Cottage,London
+2010/11,31,42,Stoke City,13,32,11,5,16,39,42,-3,38,16,8,4,4,25,16,9,28,16,3,1,12,14,26,-12,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,31,35,Birmingham City,14,32,8,14,10,33,43,-10,38,17,6,7,4,18,19,-1,25,15,2,7,6,15,24,-9,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,31,29,Sunderland,15,33,9,11,13,35,47,-12,38,16,6,5,5,20,19,1,23,17,3,6,8,15,28,-13,15,,,Stadium of Light,Sunderland
+2010/11,31,3,Blackburn Rovers,16,33,9,8,16,40,54,-14,35,16,6,6,4,20,14,6,24,17,3,2,12,20,40,-20,11,,,Ewood Park,Blackburn
+2010/11,31,39,Wigan Athletic,17,33,7,13,13,32,53,-21,34,17,4,7,6,18,31,-13,19,16,3,6,7,14,22,-8,15,,,DW Stadium,Wigan
+2010/11,31,44,Blackpool,18,33,9,6,18,47,69,-22,33,16,4,3,9,25,33,-8,15,17,5,3,9,22,36,-14,18,R,EN_CH,Bloomfield Road,Blackpool
+2010/11,31,25,West Ham United,19,33,7,11,15,39,58,-19,32,17,5,4,8,23,27,-4,19,16,2,7,7,16,31,-15,13,R,EN_CH,Boleyn Ground,London
+2010/11,31,38,Wolverhampton Wanderers,20,32,9,5,18,36,56,-20,32,16,7,3,6,24,25,-1,24,16,2,2,12,12,31,-19,8,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,32,12,Manchester United,1,33,20,10,3,70,32,38,70,16,15,1,0,42,9,33,46,17,5,9,3,28,23,5,24,Q,EU_CL,Old Trafford,Manchester
+2010/11,32,4,Chelsea,2,33,19,7,7,61,27,34,64,16,12,2,2,32,10,22,38,17,7,5,5,29,17,12,26,Q,EU_CL,Stamford Bridge,London
+2010/11,32,1,Arsenal,3,33,18,10,5,66,34,32,64,17,10,4,3,31,13,18,34,16,8,6,2,35,21,14,30,Q,EU_CL,Emirates Stadium,London
+2010/11,32,11,Manchester City,4,32,16,8,8,50,30,20,56,16,10,4,2,28,11,17,34,16,6,4,6,22,19,3,22,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,32,21,Tottenham Hotspur,5,32,14,12,6,47,39,8,54,16,8,7,1,25,15,10,31,16,6,5,5,22,24,-2,23,Q,EU_EL,White Hart Lane,London
+2010/11,32,10,Liverpool,6,33,14,7,12,46,39,7,49,16,10,4,2,29,12,17,34,17,4,3,10,17,27,-10,15,,,Anfield,Liverpool
+2010/11,32,7,Everton,7,33,11,14,8,47,41,6,47,17,7,7,3,28,22,6,28,16,4,7,5,19,19,0,19,,,Goodison Park,Liverpool
+2010/11,32,27,Bolton Wanderers,8,32,11,10,11,46,43,3,43,16,9,5,2,31,19,12,32,16,2,5,9,15,24,-9,11,,,Macron Stadium,Bolton
+2010/11,32,23,Newcastle United,9,33,10,10,13,48,47,1,40,17,5,7,5,36,23,13,22,16,5,3,8,12,24,-12,18,,,St. James' Park,Newcastle
+2010/11,32,2,Aston Villa,10,33,10,10,13,42,54,-12,40,16,7,5,4,23,17,6,26,17,3,5,9,19,37,-18,14,,,Villa Park,Birmingham
+2010/11,32,36,West Bromwich Albion,11,33,10,9,14,47,62,-15,39,17,6,6,5,27,29,-2,24,16,4,3,9,20,33,-13,15,,,The Hawthorns,West Bromwich
+2010/11,32,34,Fulham,12,32,8,14,10,36,35,1,38,16,7,6,3,23,16,7,27,16,1,8,7,13,19,-6,11,Q,EU_EL,Craven Cottage,London
+2010/11,32,42,Stoke City,13,32,11,5,16,39,42,-3,38,16,8,4,4,25,16,9,28,16,3,1,12,14,26,-12,10,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,32,29,Sunderland,14,33,9,11,13,35,47,-12,38,16,6,5,5,20,19,1,23,17,3,6,8,15,28,-13,15,,,Stadium of Light,Sunderland
+2010/11,32,35,Birmingham City,15,33,8,14,11,34,46,-12,38,17,6,7,4,18,19,-1,25,16,2,7,7,16,27,-11,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,32,3,Blackburn Rovers,16,33,9,8,16,40,54,-14,35,16,6,6,4,20,14,6,24,17,3,2,12,20,40,-20,11,,,Ewood Park,Blackburn
+2010/11,32,39,Wigan Athletic,17,33,7,13,13,32,53,-21,34,17,4,7,6,18,31,-13,19,16,3,6,7,14,22,-8,15,,,DW Stadium,Wigan
+2010/11,32,44,Blackpool,18,33,9,6,18,47,69,-22,33,16,4,3,9,25,33,-8,15,17,5,3,9,22,36,-14,18,R,EN_CH,Bloomfield Road,Blackpool
+2010/11,32,25,West Ham United,19,33,7,11,15,39,58,-19,32,17,5,4,8,23,27,-4,19,16,2,7,7,16,31,-15,13,R,EN_CH,Boleyn Ground,London
+2010/11,32,38,Wolverhampton Wanderers,20,32,9,5,18,36,56,-20,32,16,7,3,6,24,25,-1,24,16,2,2,12,12,31,-19,8,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,33,12,Manchester United,1,34,21,10,3,71,32,39,73,17,16,1,0,43,9,34,49,17,5,9,3,28,23,5,24,Q,EU_CL,Old Trafford,Manchester
+2010/11,33,4,Chelsea,2,34,20,7,7,64,27,37,67,17,13,2,2,35,10,25,41,17,7,5,5,29,17,12,26,Q,EU_CL,Stamford Bridge,London
+2010/11,33,1,Arsenal,3,34,18,10,6,67,36,31,64,17,10,4,3,31,13,18,34,17,8,6,3,36,23,13,30,Q,EU_CL,Emirates Stadium,London
+2010/11,33,11,Manchester City,4,33,17,8,8,51,30,21,59,16,10,4,2,28,11,17,34,17,7,4,6,23,19,4,25,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,33,21,Tottenham Hotspur,5,33,14,13,6,49,41,8,55,17,8,8,1,27,17,10,32,16,6,5,5,22,24,-2,23,Q,EU_EL,White Hart Lane,London
+2010/11,33,10,Liverpool,6,34,15,7,12,51,39,12,52,17,11,4,2,34,12,22,37,17,4,3,10,17,27,-10,15,,,Anfield,Liverpool
+2010/11,33,7,Everton,7,34,11,14,9,47,42,5,47,17,7,7,3,28,22,6,28,17,4,7,6,19,20,-1,19,,,Goodison Park,Liverpool
+2010/11,33,27,Bolton Wanderers,8,34,12,10,12,48,47,1,46,17,10,5,2,33,20,13,35,17,2,5,10,15,27,-12,11,,,Macron Stadium,Bolton
+2010/11,33,34,Fulham,9,34,9,15,10,40,36,4,42,17,8,6,3,26,16,10,30,17,1,9,7,14,20,-6,12,Q,EU_EL,Craven Cottage,London
+2010/11,33,42,Stoke City,10,34,12,6,16,43,43,0,42,17,9,4,4,28,16,12,31,17,3,2,12,15,27,-12,11,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,33,23,Newcastle United,11,34,10,11,13,49,48,1,41,17,5,7,5,36,23,13,22,17,5,4,8,13,25,-12,19,,,St. James' Park,Newcastle
+2010/11,33,29,Sunderland,12,34,10,11,13,39,49,-10,41,17,7,5,5,24,21,3,26,17,3,6,8,15,28,-13,15,,,Stadium of Light,Sunderland
+2010/11,33,2,Aston Villa,13,34,10,11,13,43,55,-12,41,17,7,6,4,24,18,6,27,17,3,5,9,19,37,-18,14,,,Villa Park,Birmingham
+2010/11,33,36,West Bromwich Albion,14,34,10,10,14,49,64,-15,40,17,6,6,5,27,29,-2,24,17,4,4,9,22,35,-13,16,,,The Hawthorns,West Bromwich
+2010/11,33,35,Birmingham City,15,34,8,14,12,34,51,-17,38,17,6,7,4,18,19,-1,25,17,2,7,8,16,32,-16,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,33,3,Blackburn Rovers,16,34,9,8,17,40,55,-15,35,17,6,6,5,20,15,5,24,17,3,2,12,20,40,-20,11,,,Ewood Park,Blackburn
+2010/11,33,44,Blackpool,17,34,9,7,18,48,70,-22,34,17,4,4,9,26,34,-8,16,17,5,3,9,22,36,-14,18,,,Bloomfield Road,Blackpool
+2010/11,33,39,Wigan Athletic,18,34,7,13,14,34,57,-23,34,17,4,7,6,18,31,-13,19,17,3,6,8,16,26,-10,15,R,EN_CH,DW Stadium,Wigan
+2010/11,33,38,Wolverhampton Wanderers,19,34,9,6,19,37,60,-23,33,17,7,4,6,25,26,-1,25,17,2,2,13,12,34,-22,8,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,33,25,West Ham United,20,34,7,11,16,39,61,-22,32,17,5,4,8,23,27,-4,19,17,2,7,8,16,34,-18,13,R,EN_CH,Boleyn Ground,London
+2010/11,34,12,Manchester United,1,35,21,10,4,71,33,38,73,17,16,1,0,43,9,34,49,18,5,9,4,28,24,4,24,Q,EU_CL,Old Trafford,Manchester
+2010/11,34,4,Chelsea,2,35,21,7,7,66,28,38,70,18,14,2,2,37,11,26,44,17,7,5,5,29,17,12,26,Q,EU_CL,Stamford Bridge,London
+2010/11,34,1,Arsenal,3,35,19,10,6,68,36,32,67,18,11,4,3,32,13,19,37,17,8,6,3,36,23,13,30,Q,EU_CL,Emirates Stadium,London
+2010/11,34,11,Manchester City,4,34,18,8,8,53,31,22,62,17,11,4,2,30,12,18,37,17,7,4,6,23,19,4,25,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,34,10,Liverpool,5,35,16,7,12,54,39,15,55,18,12,4,2,37,12,25,40,17,4,3,10,17,27,-10,15,Q,EU_EL,Anfield,Liverpool
+2010/11,34,21,Tottenham Hotspur,6,34,14,13,7,50,43,7,55,17,8,8,1,27,17,10,32,17,6,5,6,23,26,-3,23,,,White Hart Lane,London
+2010/11,34,7,Everton,7,35,11,15,9,48,43,5,48,17,7,7,3,28,22,6,28,18,4,8,6,20,21,-1,20,,,Goodison Park,Liverpool
+2010/11,34,27,Bolton Wanderers,8,35,12,10,13,48,48,0,46,17,10,5,2,33,20,13,35,18,2,5,11,15,28,-13,11,,,Macron Stadium,Bolton
+2010/11,34,34,Fulham,9,35,10,15,10,43,36,7,45,17,8,6,3,26,16,10,30,18,2,9,7,17,20,-3,15,Q,EU_EL,Craven Cottage,London
+2010/11,34,42,Stoke City,10,35,12,7,16,43,43,0,43,17,9,4,4,28,16,12,31,18,3,3,12,15,27,-12,12,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,34,36,West Bromwich Albion,11,35,11,10,14,51,65,-14,43,18,7,6,5,29,30,-1,27,17,4,4,9,22,35,-13,16,,,The Hawthorns,West Bromwich
+2010/11,34,23,Newcastle United,12,35,10,11,14,49,51,-2,41,17,5,7,5,36,23,13,22,18,5,4,9,13,28,-15,19,,,St. James' Park,Newcastle
+2010/11,34,2,Aston Villa,13,35,10,11,14,44,57,-13,41,17,7,6,4,24,18,6,27,18,3,5,10,20,39,-19,14,,,Villa Park,Birmingham
+2010/11,34,29,Sunderland,14,35,10,11,14,39,52,-13,41,18,7,5,6,24,24,0,26,17,3,6,8,15,28,-13,15,,,Stadium of Light,Sunderland
+2010/11,34,35,Birmingham City,15,35,8,15,12,35,52,-17,39,18,6,8,4,19,20,-1,26,17,2,7,8,16,32,-16,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,34,3,Blackburn Rovers,16,35,10,8,17,41,55,-14,38,18,7,6,5,21,15,6,27,17,3,2,12,20,40,-20,11,,,Ewood Park,Blackburn
+2010/11,34,44,Blackpool,17,35,9,8,18,48,70,-22,35,18,4,5,9,26,34,-8,17,17,5,3,9,22,36,-14,18,,,Bloomfield Road,Blackpool
+2010/11,34,39,Wigan Athletic,18,35,7,14,14,35,58,-23,35,18,4,8,6,19,32,-13,20,17,3,6,8,16,26,-10,15,R,EN_CH,DW Stadium,Wigan
+2010/11,34,38,Wolverhampton Wanderers,19,35,9,7,19,38,61,-23,34,17,7,4,6,25,26,-1,25,18,2,3,13,13,35,-22,9,R,EN_CH,Molineux Stadium,Wolverhampton
+2010/11,34,25,West Ham United,20,35,7,11,17,40,63,-23,32,17,5,4,8,23,27,-4,19,18,2,7,9,17,36,-19,13,R,EN_CH,Boleyn Ground,London
+2010/11,35,12,Manchester United,1,36,22,10,4,73,34,39,76,18,17,1,0,45,10,35,52,18,5,9,4,28,24,4,24,Q,EU_CL,Old Trafford,Manchester
+2010/11,35,4,Chelsea,2,36,21,7,8,67,30,37,70,18,14,2,2,37,11,26,44,18,7,5,6,30,19,11,26,Q,EU_CL,Stamford Bridge,London
+2010/11,35,1,Arsenal,3,36,19,10,7,69,39,30,67,18,11,4,3,32,13,19,37,18,8,6,4,37,26,11,30,Q,EU_CL,Emirates Stadium,London
+2010/11,35,11,Manchester City,4,36,19,8,9,55,33,22,65,18,12,4,2,31,12,19,40,18,7,4,7,24,21,3,25,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,35,10,Liverpool,5,36,17,7,12,59,41,18,58,18,12,4,2,37,12,25,40,18,5,3,10,22,29,-7,18,Q,EU_EL,Anfield,Liverpool
+2010/11,35,21,Tottenham Hotspur,6,36,14,14,8,51,45,6,56,18,8,9,1,28,18,10,33,18,6,5,7,23,27,-4,23,,,White Hart Lane,London
+2010/11,35,7,Everton,7,36,12,15,9,50,44,6,51,18,8,7,3,30,23,7,31,18,4,8,6,20,21,-1,20,,,Goodison Park,Liverpool
+2010/11,35,42,Stoke City,8,36,13,7,16,46,44,2,46,18,10,4,4,31,17,14,34,18,3,3,12,15,27,-12,12,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,35,27,Bolton Wanderers,9,36,12,10,14,49,50,-1,46,18,10,5,3,34,22,12,35,18,2,5,11,15,28,-13,11,,,Macron Stadium,Bolton
+2010/11,35,34,Fulham,10,36,10,15,11,45,41,4,45,18,8,6,4,28,21,7,30,18,2,9,7,17,20,-3,15,Q,EU_EL,Craven Cottage,London
+2010/11,35,23,Newcastle United,11,36,11,11,14,51,52,-1,44,18,6,7,5,38,24,14,25,18,5,4,9,13,28,-15,19,,,St. James' Park,Newcastle
+2010/11,35,29,Sunderland,12,36,11,11,14,41,53,-12,44,18,7,5,6,24,24,0,26,18,4,6,8,17,29,-12,18,,,Stadium of Light,Sunderland
+2010/11,35,36,West Bromwich Albion,13,36,11,10,15,52,68,-16,43,18,7,6,5,29,30,-1,27,18,4,4,10,23,38,-15,16,,,The Hawthorns,West Bromwich
+2010/11,35,2,Aston Villa,14,36,10,12,14,45,58,-13,42,18,7,7,4,25,19,6,28,18,3,5,10,20,39,-19,14,,,Villa Park,Birmingham
+2010/11,35,3,Blackburn Rovers,15,36,10,9,17,42,56,-14,39,18,7,6,5,21,15,6,27,18,3,3,12,21,41,-20,12,,,Ewood Park,Blackburn
+2010/11,35,35,Birmingham City,16,36,8,15,13,36,54,-18,39,18,6,8,4,19,20,-1,26,18,2,7,9,17,34,-17,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,35,38,Wolverhampton Wanderers,17,36,10,7,19,41,62,-21,37,18,8,4,6,28,27,1,28,18,2,3,13,13,35,-22,9,,,Molineux Stadium,Wolverhampton
+2010/11,35,44,Blackpool,18,36,9,9,18,49,71,-22,36,18,4,5,9,26,34,-8,17,18,5,4,9,23,37,-14,19,R,EN_CH,Bloomfield Road,Blackpool
+2010/11,35,39,Wigan Athletic,19,36,7,15,14,36,59,-23,36,18,4,8,6,19,32,-13,20,18,3,7,8,17,27,-10,16,R,EN_CH,DW Stadium,Wigan
+2010/11,35,25,West Ham United,20,36,7,12,17,41,64,-23,33,18,5,5,8,24,28,-4,20,18,2,7,9,17,36,-19,13,R,EN_CH,Boleyn Ground,London
+2010/11,36,12,Manchester United,1,37,22,11,4,74,35,39,77,18,17,1,0,45,10,35,52,19,5,10,4,29,25,4,25,Q,EU_CL,Old Trafford,Manchester
+2010/11,36,4,Chelsea,2,37,21,8,8,69,32,37,71,19,14,3,2,39,13,26,45,18,7,5,6,30,19,11,26,Q,EU_CL,Stamford Bridge,London
+2010/11,36,11,Manchester City,3,37,20,8,9,58,33,25,68,19,13,4,2,34,12,22,43,18,7,4,7,24,21,3,25,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,36,1,Arsenal,4,37,19,10,8,70,41,29,67,19,11,4,4,33,15,18,37,18,8,6,4,37,26,11,30,Q,EU_CL,Emirates Stadium,London
+2010/11,36,21,Tottenham Hotspur,5,37,15,14,8,53,45,8,59,18,8,9,1,28,18,10,33,19,7,5,7,25,27,-2,26,Q,EU_EL,White Hart Lane,London
+2010/11,36,10,Liverpool,6,37,17,7,13,59,43,16,58,19,12,4,3,37,14,23,40,18,5,3,10,22,29,-7,18,,,Anfield,Liverpool
+2010/11,36,7,Everton,7,37,12,15,10,50,45,5,51,18,8,7,3,30,23,7,31,19,4,8,7,20,22,-2,20,,,Goodison Park,Liverpool
+2010/11,36,34,Fulham,8,37,11,15,11,47,41,6,48,18,8,6,4,28,21,7,30,19,3,9,7,19,20,-1,18,Q,EU_EL,Craven Cottage,London
+2010/11,36,42,Stoke City,9,37,13,7,17,46,47,-1,46,18,10,4,4,31,17,14,34,19,3,3,13,15,30,-15,12,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,36,27,Bolton Wanderers,10,37,12,10,15,52,54,-2,46,18,10,5,3,34,22,12,35,19,2,5,12,18,32,-14,11,,,Macron Stadium,Bolton
+2010/11,36,36,West Bromwich Albion,11,37,12,10,15,53,68,-15,46,19,8,6,5,30,30,0,30,18,4,4,10,23,38,-15,16,,,The Hawthorns,West Bromwich
+2010/11,36,23,Newcastle United,12,37,11,12,14,53,54,-1,45,18,6,7,5,38,24,14,25,19,5,5,9,15,30,-15,20,,,St. James' Park,Newcastle
+2010/11,36,2,Aston Villa,13,37,11,12,14,47,59,-12,45,18,7,7,4,25,19,6,28,19,4,5,10,22,40,-18,17,,,Villa Park,Birmingham
+2010/11,36,29,Sunderland,14,37,11,11,15,42,56,-14,44,19,7,5,7,25,27,-2,26,18,4,6,8,17,29,-12,18,,,Stadium of Light,Sunderland
+2010/11,36,3,Blackburn Rovers,15,37,10,10,17,43,57,-14,40,19,7,7,5,22,16,6,28,18,3,3,12,21,41,-20,12,,,Ewood Park,Blackburn
+2010/11,36,38,Wolverhampton Wanderers,16,37,11,7,19,44,63,-19,40,18,8,4,6,28,27,1,28,19,3,3,13,16,36,-20,12,,,Molineux Stadium,Wolverhampton
+2010/11,36,35,Birmingham City,17,37,8,15,14,36,56,-20,39,19,6,8,5,19,22,-3,26,18,2,7,9,17,34,-17,13,Q,EU_EL,St. Andrew's Stadium,Birmingham
+2010/11,36,44,Blackpool,18,37,10,9,18,53,74,-21,39,19,5,5,9,30,37,-7,20,18,5,4,9,23,37,-14,19,R,EN_CH,Bloomfield Road,Blackpool
+2010/11,36,39,Wigan Athletic,19,37,8,15,14,39,61,-22,39,19,5,8,6,22,34,-12,23,18,3,7,8,17,27,-10,16,R,EN_CH,DW Stadium,Wigan
+2010/11,36,25,West Ham United,20,37,7,12,18,43,67,-24,33,18,5,5,8,24,28,-4,20,19,2,7,10,19,39,-20,13,R,EN_CH,Boleyn Ground,London
+2010/11,37,12,Manchester United,1,38,23,11,4,78,37,41,80,19,18,1,0,49,12,37,55,19,5,10,4,29,25,4,25,Q,EU_CL,Old Trafford,Manchester
+2010/11,37,4,Chelsea,2,38,21,8,9,69,33,36,71,19,14,3,2,39,13,26,45,19,7,5,7,30,20,10,26,Q,EU_CL,Stamford Bridge,London
+2010/11,37,11,Manchester City,3,38,21,8,9,60,33,27,71,19,13,4,2,34,12,22,43,19,8,4,7,26,21,5,28,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,37,1,Arsenal,4,38,19,11,8,72,43,29,68,19,11,4,4,33,15,18,37,19,8,7,4,39,28,11,31,Q,EU_CL,Emirates Stadium,London
+2010/11,37,21,Tottenham Hotspur,5,38,16,14,8,55,46,9,62,19,9,9,1,30,19,11,36,19,7,5,7,25,27,-2,26,Q,EU_EL,White Hart Lane,London
+2010/11,37,10,Liverpool,6,38,17,7,14,59,44,15,58,19,12,4,3,37,14,23,40,19,5,3,11,22,30,-8,18,,,Anfield,Liverpool
+2010/11,37,7,Everton,7,38,13,15,10,51,45,6,54,19,9,7,3,31,23,8,34,19,4,8,7,20,22,-2,20,,,Goodison Park,Liverpool
+2010/11,37,34,Fulham,8,38,11,16,11,49,43,6,49,19,8,7,4,30,23,7,31,19,3,9,7,19,20,-1,18,Q,EU_EL,Craven Cottage,London
+2010/11,37,2,Aston Villa,9,38,12,12,14,48,59,-11,48,19,8,7,4,26,19,7,31,19,4,5,10,22,40,-18,17,,,Villa Park,Birmingham
+2010/11,37,29,Sunderland,10,38,12,11,15,45,56,-11,47,19,7,5,7,25,27,-2,26,19,5,6,8,20,29,-9,21,,,Stadium of Light,Sunderland
+2010/11,37,36,West Bromwich Albion,11,38,12,11,15,56,71,-15,47,19,8,6,5,30,30,0,30,19,4,5,10,26,41,-15,17,,,The Hawthorns,West Bromwich
+2010/11,37,23,Newcastle United,12,38,11,13,14,56,57,-1,46,19,6,8,5,41,27,14,26,19,5,5,9,15,30,-15,20,,,St. James' Park,Newcastle
+2010/11,37,42,Stoke City,13,38,13,7,18,46,48,-2,46,19,10,4,5,31,18,13,34,19,3,3,13,15,30,-15,12,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,37,27,Bolton Wanderers,14,38,12,10,16,52,56,-4,46,19,10,5,4,34,24,10,35,19,2,5,12,18,32,-14,11,,,Macron Stadium,Bolton
+2010/11,37,3,Blackburn Rovers,15,38,11,10,17,46,59,-13,43,19,7,7,5,22,16,6,28,19,4,3,12,24,43,-19,15,,,Ewood Park,Blackburn
+2010/11,37,39,Wigan Athletic,16,38,9,15,14,40,61,-21,42,19,5,8,6,22,34,-12,23,19,4,7,8,18,27,-9,19,,,DW Stadium,Wigan
+2010/11,37,38,Wolverhampton Wanderers,17,38,11,7,20,46,66,-20,40,19,8,4,7,30,30,0,28,19,3,3,13,16,36,-20,12,,,Molineux Stadium,Wolverhampton
+2010/11,37,35,Birmingham City,18,38,8,15,15,37,58,-21,39,19,6,8,5,19,22,-3,26,19,2,7,10,18,36,-18,13,"R,Q","EN_CH,EU_EL",St. Andrew's Stadium,Birmingham
+2010/11,37,44,Blackpool,19,38,10,9,19,55,78,-23,39,19,5,5,9,30,37,-7,20,19,5,4,10,25,41,-16,19,R,EN_CH,Bloomfield Road,Blackpool
+2010/11,37,25,West Ham United,20,38,7,12,19,43,70,-27,33,19,5,5,9,24,31,-7,20,19,2,7,10,19,39,-20,13,R,EN_CH,Boleyn Ground,London
+2010/11,38,12,Manchester United,1,38,23,11,4,78,37,41,80,19,18,1,0,49,12,37,55,19,5,10,4,29,25,4,25,Q,EU_CL,Old Trafford,Manchester
+2010/11,38,4,Chelsea,2,38,21,8,9,69,33,36,71,19,14,3,2,39,13,26,45,19,7,5,7,30,20,10,26,Q,EU_CL,Stamford Bridge,London
+2010/11,38,11,Manchester City,3,38,21,8,9,60,33,27,71,19,13,4,2,34,12,22,43,19,8,4,7,26,21,5,28,Q,EU_CL,Etihad Stadium,Manchester
+2010/11,38,1,Arsenal,4,38,19,11,8,72,43,29,68,19,11,4,4,33,15,18,37,19,8,7,4,39,28,11,31,Q,EU_CL,Emirates Stadium,London
+2010/11,38,21,Tottenham Hotspur,5,38,16,14,8,55,46,9,62,19,9,9,1,30,19,11,36,19,7,5,7,25,27,-2,26,Q,EU_EL,White Hart Lane,London
+2010/11,38,10,Liverpool,6,38,17,7,14,59,44,15,58,19,12,4,3,37,14,23,40,19,5,3,11,22,30,-8,18,,,Anfield,Liverpool
+2010/11,38,7,Everton,7,38,13,15,10,51,45,6,54,19,9,7,3,31,23,8,34,19,4,8,7,20,22,-2,20,,,Goodison Park,Liverpool
+2010/11,38,34,Fulham,8,38,11,16,11,49,43,6,49,19,8,7,4,30,23,7,31,19,3,9,7,19,20,-1,18,Q,EU_EL,Craven Cottage,London
+2010/11,38,2,Aston Villa,9,38,12,12,14,48,59,-11,48,19,8,7,4,26,19,7,31,19,4,5,10,22,40,-18,17,,,Villa Park,Birmingham
+2010/11,38,29,Sunderland,10,38,12,11,15,45,56,-11,47,19,7,5,7,25,27,-2,26,19,5,6,8,20,29,-9,21,,,Stadium of Light,Sunderland
+2010/11,38,36,West Bromwich Albion,11,38,12,11,15,56,71,-15,47,19,8,6,5,30,30,0,30,19,4,5,10,26,41,-15,17,,,The Hawthorns,West Bromwich
+2010/11,38,23,Newcastle United,12,38,11,13,14,56,57,-1,46,19,6,8,5,41,27,14,26,19,5,5,9,15,30,-15,20,,,St. James' Park,Newcastle
+2010/11,38,42,Stoke City,13,38,13,7,18,46,48,-2,46,19,10,4,5,31,18,13,34,19,3,3,13,15,30,-15,12,Q,EU_EL,Britannia Stadium,Stoke
+2010/11,38,27,Bolton Wanderers,14,38,12,10,16,52,56,-4,46,19,10,5,4,34,24,10,35,19,2,5,12,18,32,-14,11,,,Macron Stadium,Bolton
+2010/11,38,3,Blackburn Rovers,15,38,11,10,17,46,59,-13,43,19,7,7,5,22,16,6,28,19,4,3,12,24,43,-19,15,,,Ewood Park,Blackburn
+2010/11,38,39,Wigan Athletic,16,38,9,15,14,40,61,-21,42,19,5,8,6,22,34,-12,23,19,4,7,8,18,27,-9,19,,,DW Stadium,Wigan
+2010/11,38,38,Wolverhampton Wanderers,17,38,11,7,20,46,66,-20,40,19,8,4,7,30,30,0,28,19,3,3,13,16,36,-20,12,,,Molineux Stadium,Wolverhampton
+2010/11,38,35,Birmingham City,18,38,8,15,15,37,58,-21,39,19,6,8,5,19,22,-3,26,19,2,7,10,18,36,-18,13,"R,Q","EN_CH,EU_EL",St. Andrew's Stadium,Birmingham
+2010/11,38,44,Blackpool,19,38,10,9,19,55,78,-23,39,19,5,5,9,30,37,-7,20,19,5,4,10,25,41,-16,19,R,EN_CH,Bloomfield Road,Blackpool
+2010/11,38,25,West Ham United,20,38,7,12,19,43,70,-27,33,19,5,5,9,24,31,-7,20,19,2,7,10,19,39,-20,13,R,EN_CH,Boleyn Ground,London
